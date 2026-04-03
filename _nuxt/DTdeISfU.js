@@ -1,1 +1,0 @@
-import{a as s}from"./C3VS45c6.js";import{d as o,s as r,v as n,e as c,x as p,o as i}from"./C3YqjJ6b.js";const f=o({__name:"index",async setup(_){let e,t;const a=s[0]?.path??null;if(!a)throw r({statusCode:500,statusMessage:"No workspace documents configured"});return[e,t]=n(()=>p(a,{replace:!0})),await e,t(),(u,l)=>(i(),c("div"))}});export{f as default};
