@@ -1,4 +1,4 @@
-import{c as x,u as Tn,d as Fn,i as pe,n as O,w as Ee,f as an}from"./CvEOxtaO.js";import{d as Rn,o as In,a as Mn,T as jn,b as Bn,e as ve,u as Qn,M as Nn,v as On,I as Gn,s as Me,q as ce,U as Wn}from"./DhNhqr_i.js";const je=x("braces",[["path",{d:"M8 3H7a2 2 0 0 0-2 2v5a2 2 0 0 1-2 2 2 2 0 0 1 2 2v5c0 1.1.9 2 2 2h1",key:"ezmyqa"}],["path",{d:"M16 21h1a2 2 0 0 0 2-2v-5c0-1.1.9-2 2-2a2 2 0 0 1-2-2V5a2 2 0 0 0-2-2h-1",key:"e1hn23"}]]);const Jn=x("brain-circuit",[["path",{d:"M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z",key:"l5xja"}],["path",{d:"M9 13a4.5 4.5 0 0 0 3-4",key:"10igwf"}],["path",{d:"M6.003 5.125A3 3 0 0 0 6.401 6.5",key:"105sqy"}],["path",{d:"M3.477 10.896a4 4 0 0 1 .585-.396",key:"ql3yin"}],["path",{d:"M6 18a4 4 0 0 1-1.967-.516",key:"2e4loj"}],["path",{d:"M12 13h4",key:"1ku699"}],["path",{d:"M12 18h6a2 2 0 0 1 2 2v1",key:"105ag5"}],["path",{d:"M12 8h8",key:"1lhi5i"}],["path",{d:"M16 8V5a2 2 0 0 1 2-2",key:"u6izg6"}],["circle",{cx:"16",cy:"13",r:".5",key:"ry7gng"}],["circle",{cx:"18",cy:"3",r:".5",key:"1aiba7"}],["circle",{cx:"20",cy:"21",r:".5",key:"yhc1fs"}],["circle",{cx:"20",cy:"8",r:".5",key:"1e43v0"}]]);const Un=x("briefcase",[["path",{d:"M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16",key:"jecpp"}],["rect",{width:"20",height:"14",x:"2",y:"6",rx:"2",key:"i6l2r4"}]]);const Hn=x("bug",[["path",{d:"m8 2 1.88 1.88",key:"fmnt4t"}],["path",{d:"M14.12 3.88 16 2",key:"qol33r"}],["path",{d:"M9 7.13v-1a3.003 3.003 0 1 1 6 0v1",key:"d7y7pr"}],["path",{d:"M12 20c-3.3 0-6-2.7-6-6v-3a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v3c0 3.3-2.7 6-6 6",key:"xs1cw7"}],["path",{d:"M12 20v-9",key:"1qisl0"}],["path",{d:"M6.53 9C4.6 8.8 3 7.1 3 5",key:"32zzws"}],["path",{d:"M6 13H2",key:"82j7cp"}],["path",{d:"M3 21c0-2.1 1.7-3.9 3.8-4",key:"4p0ekp"}],["path",{d:"M20.97 5c0 2.1-1.6 3.8-3.5 4",key:"18gb23"}],["path",{d:"M22 13h-4",key:"1jl80f"}],["path",{d:"M17.2 17c2.1.1 3.8 1.9 3.8 4",key:"k3fwyw"}]]);const Kn=x("cloud",[["path",{d:"M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z",key:"p7xjir"}]]);const Vn=x("code-xml",[["path",{d:"m18 16 4-4-4-4",key:"1inbqp"}],["path",{d:"m6 8-4 4 4 4",key:"15zrgr"}],["path",{d:"m14.5 4-5 16",key:"e7oirm"}]]);const Zn=x("cog",[["path",{d:"M11 10.27 7 3.34",key:"16pf9h"}],["path",{d:"m11 13.73-4 6.93",key:"794ttg"}],["path",{d:"M12 22v-2",key:"1osdcq"}],["path",{d:"M12 2v2",key:"tus03m"}],["path",{d:"M14 12h8",key:"4f43i9"}],["path",{d:"m17 20.66-1-1.73",key:"eq3orb"}],["path",{d:"m17 3.34-1 1.73",key:"2wel8s"}],["path",{d:"M2 12h2",key:"1t8f8n"}],["path",{d:"m20.66 17-1.73-1",key:"sg0v6f"}],["path",{d:"m20.66 7-1.73 1",key:"1ow05n"}],["path",{d:"m3.34 17 1.73-1",key:"nuk764"}],["path",{d:"m3.34 7 1.73 1",key:"1ulond"}],["circle",{cx:"12",cy:"12",r:"2",key:"1c9p78"}],["circle",{cx:"12",cy:"12",r:"8",key:"46899m"}]]);const $n=x("cpu",[["path",{d:"M12 20v2",key:"1lh1kg"}],["path",{d:"M12 2v2",key:"tus03m"}],["path",{d:"M17 20v2",key:"1rnc9c"}],["path",{d:"M17 2v2",key:"11trls"}],["path",{d:"M2 12h2",key:"1t8f8n"}],["path",{d:"M2 17h2",key:"7oei6x"}],["path",{d:"M2 7h2",key:"asdhe0"}],["path",{d:"M20 12h2",key:"1q8mjw"}],["path",{d:"M20 17h2",key:"1fpfkl"}],["path",{d:"M20 7h2",key:"1o8tra"}],["path",{d:"M7 20v2",key:"4gnj0m"}],["path",{d:"M7 2v2",key:"1i4yhu"}],["rect",{x:"4",y:"4",width:"16",height:"16",rx:"2",key:"1vbyd7"}],["rect",{x:"8",y:"8",width:"8",height:"8",rx:"1",key:"z9xiuo"}]]);const Xn=x("database",[["ellipse",{cx:"12",cy:"5",rx:"9",ry:"3",key:"msslwz"}],["path",{d:"M3 5V19A9 3 0 0 0 21 19V5",key:"1wlel7"}],["path",{d:"M3 12A9 3 0 0 0 21 12",key:"mv7ke4"}]]);const Yn=x("file-json-2",[["path",{d:"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4",key:"1pf5j1"}],["path",{d:"M14 2v4a2 2 0 0 0 2 2h4",key:"tnqrlb"}],["path",{d:"M4 12a1 1 0 0 0-1 1v1a1 1 0 0 1-1 1 1 1 0 0 1 1 1v1a1 1 0 0 0 1 1",key:"fq0c9t"}],["path",{d:"M8 18a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1 1 1 0 0 1-1-1v-1a1 1 0 0 0-1-1",key:"4gibmv"}]]);const ei=x("files",[["path",{d:"M15 2a2 2 0 0 1 1.414.586l4 4A2 2 0 0 1 21 8v7a2 2 0 0 1-2 2h-8a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z",key:"1vo8kb"}],["path",{d:"M15 2v4a2 2 0 0 0 2 2h4",key:"sud9ri"}],["path",{d:"M5 7a2 2 0 0 0-2 2v11a2 2 0 0 0 2 2h8a2 2 0 0 0 1.732-1",key:"l4dndm"}]]);const ni=x("folder-code",[["path",{d:"M10 10.5 8 13l2 2.5",key:"m4t9c1"}],["path",{d:"m14 10.5 2 2.5-2 2.5",key:"14w2eb"}],["path",{d:"M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2z",key:"1u1bxd"}]]);const ii=x("gamepad-2",[["line",{x1:"6",x2:"10",y1:"11",y2:"11",key:"1gktln"}],["line",{x1:"8",x2:"8",y1:"9",y2:"13",key:"qnk9ow"}],["line",{x1:"15",x2:"15.01",y1:"12",y2:"12",key:"krot7o"}],["line",{x1:"18",x2:"18.01",y1:"10",y2:"10",key:"1lcuu1"}],["path",{d:"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z",key:"mfqc10"}]]);const ti=x("git-fork",[["circle",{cx:"12",cy:"18",r:"3",key:"1mpf1b"}],["circle",{cx:"6",cy:"6",r:"3",key:"1lh9wr"}],["circle",{cx:"18",cy:"6",r:"3",key:"1h7g24"}],["path",{d:"M18 9v2c0 .6-.4 1-1 1H7c-.6 0-1-.4-1-1V9",key:"1uq4wg"}],["path",{d:"M12 12v3",key:"158kv8"}]]);const ai=x("globe",[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20",key:"13o1zl"}],["path",{d:"M2 12h20",key:"9i4pu4"}]]);const oi=x("graduation-cap",[["path",{d:"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z",key:"j76jl0"}],["path",{d:"M22 10v6",key:"1lu8f3"}],["path",{d:"M6 12.5V16a6 3 0 0 0 12 0v-3.5",key:"1r8lef"}]]);const si=x("link-2",[["path",{d:"M9 17H7A5 5 0 0 1 7 7h2",key:"8i5ue5"}],["path",{d:"M15 7h2a5 5 0 1 1 0 10h-2",key:"1b9ql8"}],["line",{x1:"8",x2:"16",y1:"12",y2:"12",key:"1jonct"}]]);const ri=x("monitor",[["rect",{width:"20",height:"14",x:"2",y:"3",rx:"2",key:"48i651"}],["line",{x1:"8",x2:"16",y1:"21",y2:"21",key:"1svkeh"}],["line",{x1:"12",x2:"12",y1:"17",y2:"21",key:"vw1qmm"}]]);const ci=x("puzzle",[["path",{d:"M15.39 4.39a1 1 0 0 0 1.68-.474 2.5 2.5 0 1 1 3.014 3.015 1 1 0 0 0-.474 1.68l1.683 1.682a2.414 2.414 0 0 1 0 3.414L19.61 15.39a1 1 0 0 1-1.68-.474 2.5 2.5 0 1 0-3.014 3.015 1 1 0 0 1 .474 1.68l-1.683 1.682a2.414 2.414 0 0 1-3.414 0L8.61 19.61a1 1 0 0 0-1.68.474 2.5 2.5 0 1 1-3.014-3.015 1 1 0 0 0 .474-1.68l-1.683-1.682a2.414 2.414 0 0 1 0-3.414L4.39 8.61a1 1 0 0 1 1.68.474 2.5 2.5 0 1 0 3.014-3.015 1 1 0 0 1-.474-1.68l1.683-1.682a2.414 2.414 0 0 1 3.414 0z",key:"w46dr5"}]]);const ui=x("search",[["path",{d:"m21 21-4.34-4.34",key:"14j7rj"}],["circle",{cx:"11",cy:"11",r:"8",key:"4ej97u"}]]);const li=x("shield",[["path",{d:"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z",key:"oel41y"}]]);const di=x("terminal",[["path",{d:"M12 19h8",key:"baeox8"}],["path",{d:"m4 17 6-6-6-6",key:"1yngyt"}]]);const hi=x("user-round",[["circle",{cx:"12",cy:"8",r:"5",key:"1hypcn"}],["path",{d:"M20 21a8 8 0 0 0-16 0",key:"rfgkzh"}]]);const Wl=x("x",[["path",{d:"M18 6 6 18",key:"1bl5f8"}],["path",{d:"m6 6 12 12",key:"d8bk6v"}]]),mi=Rn({__name:"AppIcon",props:{name:{},size:{}},setup(e){const n=e,i={"file-json":Yn,terminal:di,settings:Zn,cpu:$n,joystick:ii,user:hi,briefcase:Un,"graduation-cap":oi,link:si,brain:Jn,database:Xn,globe:ai,shield:li,cloud:Kn,code:Vn,files:ei,search:ui,git:ti,bug:Hn,puzzle:ci,monitor:ri,folder:ni,braces:je},t=ve(()=>i[n.name]??je);return(a,o)=>(In(),Mn(jn(Bn(t)),{size:e.size??16},null,8,["size"]))}}),Jl=Object.assign(mi,{__name:"AppIcon"});function Ul(){const e=Qn(),{currentLocale:n}=Tn(),i=ve(()=>O(Me(e.path).path)),t=Fn("workspace-open-files",()=>pe(i.value)?[i.value]:[]);function a(s){const c=O(s);pe(c)&&(t.value.includes(c)||(t.value=[...t.value,c]))}Nn(()=>e.path,s=>{const c=O(Me(s).path);pe(c)&&a(c)},{immediate:!0});const o=ve(()=>{const s=Ee[i.value];return s?an(s,n.value):null});async function r(s){const c=t.value[s];if(!c)return;const u=t.value.filter((l,h)=>h!==s);if(t.value=u,c===i.value){const l=u[s-1]??u[s]??"/";await On(Gn(n.value,l))}}return{openFiles:t,currentFile:o,markFileAsOpen:a,closeFile:r}}const pi=`# Links\r
+import{c as C,u as Tn,d as Fn,i as pe,n as O,w as Ee,f as an}from"./D1vvWNY3.js";import{d as Rn,o as Mn,a as In,T as jn,b as Bn,e as ve,u as Qn,M as Nn,v as On,I as Gn,s as Ie,q as ce,U as Wn}from"./BlyuHwlb.js";const je=C("braces",[["path",{d:"M8 3H7a2 2 0 0 0-2 2v5a2 2 0 0 1-2 2 2 2 0 0 1 2 2v5c0 1.1.9 2 2 2h1",key:"ezmyqa"}],["path",{d:"M16 21h1a2 2 0 0 0 2-2v-5c0-1.1.9-2 2-2a2 2 0 0 1-2-2V5a2 2 0 0 0-2-2h-1",key:"e1hn23"}]]);const Jn=C("brain-circuit",[["path",{d:"M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z",key:"l5xja"}],["path",{d:"M9 13a4.5 4.5 0 0 0 3-4",key:"10igwf"}],["path",{d:"M6.003 5.125A3 3 0 0 0 6.401 6.5",key:"105sqy"}],["path",{d:"M3.477 10.896a4 4 0 0 1 .585-.396",key:"ql3yin"}],["path",{d:"M6 18a4 4 0 0 1-1.967-.516",key:"2e4loj"}],["path",{d:"M12 13h4",key:"1ku699"}],["path",{d:"M12 18h6a2 2 0 0 1 2 2v1",key:"105ag5"}],["path",{d:"M12 8h8",key:"1lhi5i"}],["path",{d:"M16 8V5a2 2 0 0 1 2-2",key:"u6izg6"}],["circle",{cx:"16",cy:"13",r:".5",key:"ry7gng"}],["circle",{cx:"18",cy:"3",r:".5",key:"1aiba7"}],["circle",{cx:"20",cy:"21",r:".5",key:"yhc1fs"}],["circle",{cx:"20",cy:"8",r:".5",key:"1e43v0"}]]);const Un=C("briefcase",[["path",{d:"M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16",key:"jecpp"}],["rect",{width:"20",height:"14",x:"2",y:"6",rx:"2",key:"i6l2r4"}]]);const Hn=C("bug",[["path",{d:"m8 2 1.88 1.88",key:"fmnt4t"}],["path",{d:"M14.12 3.88 16 2",key:"qol33r"}],["path",{d:"M9 7.13v-1a3.003 3.003 0 1 1 6 0v1",key:"d7y7pr"}],["path",{d:"M12 20c-3.3 0-6-2.7-6-6v-3a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v3c0 3.3-2.7 6-6 6",key:"xs1cw7"}],["path",{d:"M12 20v-9",key:"1qisl0"}],["path",{d:"M6.53 9C4.6 8.8 3 7.1 3 5",key:"32zzws"}],["path",{d:"M6 13H2",key:"82j7cp"}],["path",{d:"M3 21c0-2.1 1.7-3.9 3.8-4",key:"4p0ekp"}],["path",{d:"M20.97 5c0 2.1-1.6 3.8-3.5 4",key:"18gb23"}],["path",{d:"M22 13h-4",key:"1jl80f"}],["path",{d:"M17.2 17c2.1.1 3.8 1.9 3.8 4",key:"k3fwyw"}]]);const Kn=C("cloud",[["path",{d:"M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z",key:"p7xjir"}]]);const Vn=C("code-xml",[["path",{d:"m18 16 4-4-4-4",key:"1inbqp"}],["path",{d:"m6 8-4 4 4 4",key:"15zrgr"}],["path",{d:"m14.5 4-5 16",key:"e7oirm"}]]);const Zn=C("cog",[["path",{d:"M11 10.27 7 3.34",key:"16pf9h"}],["path",{d:"m11 13.73-4 6.93",key:"794ttg"}],["path",{d:"M12 22v-2",key:"1osdcq"}],["path",{d:"M12 2v2",key:"tus03m"}],["path",{d:"M14 12h8",key:"4f43i9"}],["path",{d:"m17 20.66-1-1.73",key:"eq3orb"}],["path",{d:"m17 3.34-1 1.73",key:"2wel8s"}],["path",{d:"M2 12h2",key:"1t8f8n"}],["path",{d:"m20.66 17-1.73-1",key:"sg0v6f"}],["path",{d:"m20.66 7-1.73 1",key:"1ow05n"}],["path",{d:"m3.34 17 1.73-1",key:"nuk764"}],["path",{d:"m3.34 7 1.73 1",key:"1ulond"}],["circle",{cx:"12",cy:"12",r:"2",key:"1c9p78"}],["circle",{cx:"12",cy:"12",r:"8",key:"46899m"}]]);const $n=C("cpu",[["path",{d:"M12 20v2",key:"1lh1kg"}],["path",{d:"M12 2v2",key:"tus03m"}],["path",{d:"M17 20v2",key:"1rnc9c"}],["path",{d:"M17 2v2",key:"11trls"}],["path",{d:"M2 12h2",key:"1t8f8n"}],["path",{d:"M2 17h2",key:"7oei6x"}],["path",{d:"M2 7h2",key:"asdhe0"}],["path",{d:"M20 12h2",key:"1q8mjw"}],["path",{d:"M20 17h2",key:"1fpfkl"}],["path",{d:"M20 7h2",key:"1o8tra"}],["path",{d:"M7 20v2",key:"4gnj0m"}],["path",{d:"M7 2v2",key:"1i4yhu"}],["rect",{x:"4",y:"4",width:"16",height:"16",rx:"2",key:"1vbyd7"}],["rect",{x:"8",y:"8",width:"8",height:"8",rx:"1",key:"z9xiuo"}]]);const Xn=C("database",[["ellipse",{cx:"12",cy:"5",rx:"9",ry:"3",key:"msslwz"}],["path",{d:"M3 5V19A9 3 0 0 0 21 19V5",key:"1wlel7"}],["path",{d:"M3 12A9 3 0 0 0 21 12",key:"mv7ke4"}]]);const Yn=C("file-json-2",[["path",{d:"M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v4",key:"1pf5j1"}],["path",{d:"M14 2v4a2 2 0 0 0 2 2h4",key:"tnqrlb"}],["path",{d:"M4 12a1 1 0 0 0-1 1v1a1 1 0 0 1-1 1 1 1 0 0 1 1 1v1a1 1 0 0 0 1 1",key:"fq0c9t"}],["path",{d:"M8 18a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1 1 1 0 0 1-1-1v-1a1 1 0 0 0-1-1",key:"4gibmv"}]]);const ei=C("files",[["path",{d:"M15 2a2 2 0 0 1 1.414.586l4 4A2 2 0 0 1 21 8v7a2 2 0 0 1-2 2h-8a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z",key:"1vo8kb"}],["path",{d:"M15 2v4a2 2 0 0 0 2 2h4",key:"sud9ri"}],["path",{d:"M5 7a2 2 0 0 0-2 2v11a2 2 0 0 0 2 2h8a2 2 0 0 0 1.732-1",key:"l4dndm"}]]);const ni=C("folder-code",[["path",{d:"M10 10.5 8 13l2 2.5",key:"m4t9c1"}],["path",{d:"m14 10.5 2 2.5-2 2.5",key:"14w2eb"}],["path",{d:"M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2z",key:"1u1bxd"}]]);const ii=C("gamepad-2",[["line",{x1:"6",x2:"10",y1:"11",y2:"11",key:"1gktln"}],["line",{x1:"8",x2:"8",y1:"9",y2:"13",key:"qnk9ow"}],["line",{x1:"15",x2:"15.01",y1:"12",y2:"12",key:"krot7o"}],["line",{x1:"18",x2:"18.01",y1:"10",y2:"10",key:"1lcuu1"}],["path",{d:"M17.32 5H6.68a4 4 0 0 0-3.978 3.59c-.006.052-.01.101-.017.152C2.604 9.416 2 14.456 2 16a3 3 0 0 0 3 3c1 0 1.5-.5 2-1l1.414-1.414A2 2 0 0 1 9.828 16h4.344a2 2 0 0 1 1.414.586L17 18c.5.5 1 1 2 1a3 3 0 0 0 3-3c0-1.545-.604-6.584-.685-7.258-.007-.05-.011-.1-.017-.151A4 4 0 0 0 17.32 5z",key:"mfqc10"}]]);const ti=C("git-fork",[["circle",{cx:"12",cy:"18",r:"3",key:"1mpf1b"}],["circle",{cx:"6",cy:"6",r:"3",key:"1lh9wr"}],["circle",{cx:"18",cy:"6",r:"3",key:"1h7g24"}],["path",{d:"M18 9v2c0 .6-.4 1-1 1H7c-.6 0-1-.4-1-1V9",key:"1uq4wg"}],["path",{d:"M12 12v3",key:"158kv8"}]]);const ai=C("github",[["path",{d:"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4",key:"tonef"}],["path",{d:"M9 18c-4.51 2-5-2-7-2",key:"9comsn"}]]);const oi=C("globe",[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20",key:"13o1zl"}],["path",{d:"M2 12h20",key:"9i4pu4"}]]);const si=C("graduation-cap",[["path",{d:"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z",key:"j76jl0"}],["path",{d:"M22 10v6",key:"1lu8f3"}],["path",{d:"M6 12.5V16a6 3 0 0 0 12 0v-3.5",key:"1r8lef"}]]);const ri=C("link-2",[["path",{d:"M9 17H7A5 5 0 0 1 7 7h2",key:"8i5ue5"}],["path",{d:"M15 7h2a5 5 0 1 1 0 10h-2",key:"1b9ql8"}],["line",{x1:"8",x2:"16",y1:"12",y2:"12",key:"1jonct"}]]);const ci=C("linkedin",[["path",{d:"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z",key:"c2jq9f"}],["rect",{width:"4",height:"12",x:"2",y:"9",key:"mk3on5"}],["circle",{cx:"4",cy:"4",r:"2",key:"bt5ra8"}]]);const ui=C("map-pinned",[["path",{d:"M18 8c0 3.613-3.869 7.429-5.393 8.795a1 1 0 0 1-1.214 0C9.87 15.429 6 11.613 6 8a6 6 0 0 1 12 0",key:"11u0oz"}],["circle",{cx:"12",cy:"8",r:"2",key:"1822b1"}],["path",{d:"M8.714 14h-3.71a1 1 0 0 0-.948.683l-2.004 6A1 1 0 0 0 3 22h18a1 1 0 0 0 .948-1.316l-2-6a1 1 0 0 0-.949-.684h-3.712",key:"q8zwxj"}]]);const li=C("message-square",[["path",{d:"M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z",key:"18887p"}]]);const di=C("monitor",[["rect",{width:"20",height:"14",x:"2",y:"3",rx:"2",key:"48i651"}],["line",{x1:"8",x2:"16",y1:"21",y2:"21",key:"1svkeh"}],["line",{x1:"12",x2:"12",y1:"17",y2:"21",key:"vw1qmm"}]]);const hi=C("puzzle",[["path",{d:"M15.39 4.39a1 1 0 0 0 1.68-.474 2.5 2.5 0 1 1 3.014 3.015 1 1 0 0 0-.474 1.68l1.683 1.682a2.414 2.414 0 0 1 0 3.414L19.61 15.39a1 1 0 0 1-1.68-.474 2.5 2.5 0 1 0-3.014 3.015 1 1 0 0 1 .474 1.68l-1.683 1.682a2.414 2.414 0 0 1-3.414 0L8.61 19.61a1 1 0 0 0-1.68.474 2.5 2.5 0 1 1-3.014-3.015 1 1 0 0 0 .474-1.68l-1.683-1.682a2.414 2.414 0 0 1 0-3.414L4.39 8.61a1 1 0 0 1 1.68.474 2.5 2.5 0 1 0 3.014-3.015 1 1 0 0 1-.474-1.68l1.683-1.682a2.414 2.414 0 0 1 3.414 0z",key:"w46dr5"}]]);const mi=C("search",[["path",{d:"m21 21-4.34-4.34",key:"14j7rj"}],["circle",{cx:"11",cy:"11",r:"8",key:"4ej97u"}]]);const pi=C("shield",[["path",{d:"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z",key:"oel41y"}]]);const bi=C("terminal",[["path",{d:"M12 19h8",key:"baeox8"}],["path",{d:"m4 17 6-6-6-6",key:"1yngyt"}]]);const gi=C("user-round",[["circle",{cx:"12",cy:"8",r:"5",key:"1hypcn"}],["path",{d:"M20 21a8 8 0 0 0-16 0",key:"rfgkzh"}]]);const Kl=C("x",[["path",{d:"M18 6 6 18",key:"1bl5f8"}],["path",{d:"m6 6 12 12",key:"d8bk6v"}]]),fi=Rn({__name:"AppIcon",props:{name:{},size:{}},setup(e){const n=e,i={"file-json":Yn,terminal:bi,settings:Zn,cpu:$n,joystick:ii,user:gi,briefcase:Un,"graduation-cap":si,link:ri,brain:Jn,database:Xn,globe:oi,shield:pi,cloud:Kn,code:Vn,"map-pinned":ui,"message-square":li,github:ai,linkedin:ci,files:ei,search:mi,git:ti,bug:Hn,puzzle:hi,monitor:di,folder:ni,braces:je},t=ve(()=>i[n.name]??je);return(a,o)=>(Mn(),In(jn(Bn(t)),{size:e.size??16},null,8,["size"]))}}),Vl=Object.assign(fi,{__name:"AppIcon"});function Zl(){const e=Qn(),{currentLocale:n}=Tn(),i=ve(()=>O(Ie(e.path).path)),t=Fn("workspace-open-files",()=>pe(i.value)?[i.value]:[]);function a(s){const c=O(s);pe(c)&&(t.value.includes(c)||(t.value=[...t.value,c]))}Nn(()=>e.path,s=>{const c=O(Ie(s).path);pe(c)&&a(c)},{immediate:!0});const o=ve(()=>{const s=Ee[i.value];return s?an(s,n.value):null});async function r(s){const c=t.value[s];if(!c)return;const u=t.value.filter((l,h)=>h!==s);if(t.value=u,c===i.value){const l=u[s-1]??u[s]??"/";await On(Gn(n.value,l))}}return{openFiles:t,currentFile:o,markFileAsOpen:a,closeFile:r}}const yi=`# Links\r
 \r
 ## Public Profiles\r
 \r
@@ -11,7 +11,7 @@ import{c as x,u as Tn,d as Fn,i as pe,n as O,w as Ee,f as an}from"./CvEOxtaO.js"
 - Cloud architecture with AWS\r
 - Data pipelines and application integration\r
 - Secure and maintainable software delivery\r
-`,bi=`# Nicolas Pereira\r
+`,Ai=`# Nicolas Pereira\r
 \r
 **Junior Software Developer**\r
   \r
@@ -24,7 +24,7 @@ Application Development Analyst with more than eight years of experience buildin
 Experienced in Python and Java for cloud-connected systems, with hands-on use of AWS to design resilient infrastructure and Git to support reliable version control and collaboration.\r
 \r
 Works comfortably across technical and business contexts, partnering with product, marketing, and sales teams to translate customer needs into practical, high-impact solutions.\r
-`,gi=`# Links
+`,qi=`# Links
 
 ## Öffentliche Profile
 
@@ -37,7 +37,7 @@ Works comfortably across technical and business contexts, partnering with produc
 - Cloud-Architektur mit AWS
 - Datenpipelines und Anwendungsintegration
 - Sichere und nachhaltige Softwarebereitstellung
-`,fi=`# Nicolas Pereira
+`,_i=`# Nicolas Pereira
 
 **Junior Software-Entwickler**
 
@@ -50,7 +50,7 @@ Anwendungsentwicklungsanalyst mit mehr als acht Jahren Erfahrung in der Erstellu
 Erfahrung mit Python und Java in cloud-verbundenen Systemen, mit praktischem Einsatz von AWS zur Entwicklung resilienter Infrastrukturen und Git für zuverlässige Versionierung und Zusammenarbeit.
 
 Sicherer Umgang in technischen und geschäftlichen Kontexten; Zusammenarbeit mit Produkt-, Marketing- und Vertriebsteams, um Kundenbedürfnisse in praktische und wirkungsvolle Lösungen umzusetzen.
-`,yi=`# Akademische Ausbildung
+`,vi=`# Akademische Ausbildung
 
 ## SATC - Associação Beneficente da Indústria Carbonífera de Santa Catarina
 
@@ -61,7 +61,7 @@ Sicherer Umgang in technischen und geschäftlichen Kontexten; Zusammenarbeit mit
 **Techniker für Industrielle Elektronik** | 2009 - 2011
 
 - Entwicklung von Zugangskontrollgeräten, Timern und Management-Systemen.
-`,Ai=`# Projekte und Links
+`,Ci=`# Projekte und Links
 
 ## Profile
 
@@ -72,7 +72,7 @@ Sicherer Umgang in technischen und geschäftlichen Kontexten; Zusammenarbeit mit
 
 - Portfolio und Code-Beispiele werden auf GitHub veröffentlicht.
 - Beruflicher Werdegang und Karriere-Updates werden auf LinkedIn gepflegt.
-`,qi=`# Karriere-Highlights
+`,xi=`# Karriere-Highlights
 
 ## Technische Stärken
 
@@ -85,7 +85,7 @@ Sicherer Umgang in technischen und geschäftlichen Kontexten; Zusammenarbeit mit
 - Partnerschaftliche Zusammenarbeit mit Produkt-, Marketing- und Vertriebsteams, um die technische Umsetzung mit den Kundenerwartungen abzustimmen.
 - Leidenschaft für die Lösung komplexer Probleme durch praktische, geschäftsorientierte Engineering-Entscheidungen.
 - Mentalität des kontinuierlichen Lernens in Bezug auf neue Tools, Plattformen und Implementierungsmuster.
-`,_i=`# Erfahrung
+`,ki=`# Erfahrung
 
 ## DSP Technology (HK) Ltd.
 
@@ -124,7 +124,7 @@ Sicherer Umgang in technischen und geschäftlichen Kontexten; Zusammenarbeit mit
 
 - Wartung von Geldautomaten und Bankautomatisierungssystemen.
 - Unterstützung von präventiven Wartungsroutinen basierend auf der Leistung.
-`,vi=`# Fortgeschrittenes SQL: Joins und Analysen
+`,Ei=`# Fortgeschrittenes SQL: Joins und Analysen
 
 Diese Seite stellt die Abschnitte des Datenbank-II-Repositorys vor, die sich mit Joins, CTEs, relationalen Operatoren und analytischen Abfragen befassen.
 
@@ -155,7 +155,7 @@ Diese Seite stellt die Abschnitte des Datenbank-II-Repositorys vor, die sich mit
 - Subqueries und CTEs
 - Window-Funktionen
 - Analytische Übungen im Bewertungsformat
-`,Ci=`# Fortgeschrittenes SQL: T-SQL und Trigger
+`,Si=`# Fortgeschrittenes SQL: T-SQL und Trigger
 
 Diese Seite hebt die T-SQL-Programmierung des Datenbank-II-Repositorys hervor.
 
@@ -185,7 +185,7 @@ Diese Seite hebt die T-SQL-Programmierung des Datenbank-II-Repositorys hervor.
 - Kontrollfluss in SQL
 - Abfrageoptimierung und Indexierung
 - Geschäftsregeln mit Triggern
-`,xi=`# Angewandte Statistik, Stichprobenerhebung und Pandas
+`,zi=`# Angewandte Statistik, Stichprobenerhebung und Pandas
 
 Dieses Thema organisiert das Repository für angewandte Statistik rund um Übungen mit Pandas und Stichprobentechniken.
 
@@ -214,7 +214,7 @@ Dieses Thema organisiert das Repository für angewandte Statistik rund um Übung
 - Methodik der Stichprobenerhebung
 - Statistische Berichte
 - In reproduzierbare Notebooks umgewandelte Unterrichtsübung
-`,ki=`# Künstliche Intelligenz, Suche und Optimierung
+`,Li=`# Künstliche Intelligenz, Suche und Optimierung
 
 Dieses Thema organisiert das KI-Repository rund um Suche, Heuristiken, Fuzzy-Logik und Optimierung.
 
@@ -244,7 +244,7 @@ Dieses Thema organisiert das KI-Repository rund um Suche, Heuristiken, Fuzzy-Log
 - Fuzzy-Systeme
 - Genetische Optimierung
 - KI-Inhalte verknüpft mit Code-Übungen und Notebooks
-`,Ei=`# Übungen in C++
+`,Di=`# Übungen in C++
 
 Diese Seite fasst das C++-Repository von Nicolas Pereira zusammen, das von der Terminaleingabe bis zur objektorientierten Programmierung reicht.
 
@@ -276,7 +276,7 @@ Diese Seite fasst das C++-Repository von Nicolas Pereira zusammen, das von der T
 - Funktionen und Datenstrukturen
 - OOP, Vererbung und Konstruktoren
 - Problemlösung in kompiliertem Code
-`,Si=`# Cloud-Computing
+`,wi=`# Cloud-Computing
 
 Das Cloud-Computing-Repository fasst akademische Aktivitäten zusammen, die sich auf die grundlegenden Themen konzentrieren, die moderne Infrastruktur und verteilte Systeme stützen.
 
@@ -295,7 +295,7 @@ Das Cloud-Computing-Repository fasst akademische Aktivitäten zusammen, die sich
 - Kernkonzepte der Infrastruktur
 - Grundlagen der verteilten Speicherung
 - Cloud-Einführung und Bereitstellungsmodelle
-`,zi=`# Grundlagen des Cloud-Computing
+`,Pi=`# Grundlagen des Cloud-Computing
 
 Dieses Thema fasst die Cloud-Computing-Inhalte von Nicolas Pereira und deren systemorientierte Basis zusammen.
 
@@ -316,7 +316,7 @@ Dieses Thema fasst die Cloud-Computing-Inhalte von Nicolas Pereira und deren sys
 - Datenspeicherung und Dateisysteme
 - Erste Kontakte mit verteilten Systemen
 - Konzeptionelle Basis für zukünftige Cloud-Arbeiten
-`,Li=`# Grundlagen der Informatik
+`,Ti=`# Grundlagen der Informatik
 
 Diese Repository-Gruppe konzentriert sich auf Kernübungen der Informatik, insbesondere Datenstrukturen, klassische Organisationsmuster und algorithmisches Denken.
 
@@ -338,7 +338,7 @@ Diese Repository-Gruppe konzentriert sich auf Kernübungen der Informatik, insbe
 - Grundlagen von Datenstrukturen und Algorithmen
 - Problemzerlegung und strukturierte Praxis
 - In Code implementierte klassische Bausteine der Informatik
-`,Di=`# Analyse von Steuerungssystemen
+`,Fi=`# Analyse von Steuerungssystemen
 
 Dieses Thema fasst das Repository für Steuerungssysteme von Nicolas Pereira und die damit verbundene Arbeit am Reglerentwurf zusammen.
 
@@ -363,7 +363,7 @@ Dieses Thema fasst das Repository für Steuerungssysteme von Nicolas Pereira und
 - Klassische Steuerungsanalyse
 - Numerisches Experimentieren in Notebooks
 - Reglerentwurf mit praktischen Beispielen
-`,wi=`# Cybersicherheits-Prinzipien
+`,Ri=`# Cybersicherheits-Prinzipien
 
 Dieses Thema hebt das Cybersicherheits-Repository hervor, das sich den Grundlagen der Sicherheit, Bedrohungen und Social Engineering widmet.
 
@@ -385,7 +385,7 @@ Dieses Thema hebt das Cybersicherheits-Repository hervor, das sich den Grundlage
 - Risiko- und Schwachstellenanalyse
 - Einführende Kenntnisse in Kryptografie und Zugang
 - Benutzerbewusstsein und Phishing
-`,Pi=`# Datenwissenschaft und Künstliche Intelligenz
+`,Mi=`# Datenwissenschaft und Künstliche Intelligenz
 
 Diese Repositories bündeln die akademische Ausbildung und die praktischen Studien von Nicolas Pereira in Statistik, Datenwissenschaft, maschinellem Lernen und künstlicher Intelligenz. Die ursprüngliche Liste wurde für die Veröffentlichung übersichtlicher gestaltet.
 
@@ -417,7 +417,7 @@ Diese Repositories bündeln die akademische Ausbildung und die praktischen Studi
 - Erkundung von Datensätzen mit Notebooks
 - Grundlagen des überwachten und unüberwachten Lernens
 - Suchtechniken, Optimierung und heuristische KI
-`,Ti=`# Notebooks für Datenwissenschaft
+`,Ii=`# Notebooks für Datenwissenschaft
 
 Diese Seite befasst sich mit den Inhalten zur Datenwissenschaft von Nicolas Pereira, mit Schwerpunkt auf Notebooks, Statistik und explorativer Analyse.
 
@@ -447,7 +447,7 @@ Diese Seite befasst sich mit den Inhalten zur Datenwissenschaft von Nicolas Pere
 - Statistisches Denken
 - Workflow mit Notebooks
 - Angewandte Übungen zu Regression und Wetterdaten
-`,Fi=`# Datenstrukturen: Listen und Stapel
+`,ji=`# Datenstrukturen: Listen und Stapel
 
 Diese Seite befasst sich mit Übungen zu Listen und Stapeln (Stacks) aus dem Datenstruktur-Repository von Nicolas Pereira.
 
@@ -474,7 +474,7 @@ Diese Seite befasst sich mit Übungen zu Listen und Stapeln (Stacks) aus dem Dat
 - Operationen wie Einfügen, Suchen, Entfernen und Drucken
 - Angewandte Beispiele in Python
 - Erste Ansätze des Denkens in Datenstrukturen
-`,Ri=`# Datenstrukturen: Bäume, Wörterbücher und Suche
+`,Bi=`# Datenstrukturen: Bäume, Wörterbücher und Suche
 
 Diese Seite bündelt die fortgeschritteneren Inhalte zu Datenstrukturen, mit Schwerpunkt auf Bäumen, Wörterbüchern, Sortierung und Suche.
 
@@ -502,7 +502,7 @@ Diese Seite bündelt die fortgeschritteneren Inhalte zu Datenstrukturen, mit Sch
 - Sortierlogik
 - Baumstrukturen
 - Grundlagen der Graphensuche
-`,Ii=`# Datenbanken
+`,Qi=`# Datenbanken
 
 Das Datenbank-Portfolio konzentriert sich auf die Praxis mit SQL und T-SQL und reicht von Kernabfragen bis hin zu Indexierung, Joins, Stored Procedures und Übungen auf Basis von Triggern.
 
@@ -524,7 +524,7 @@ Das Datenbank-Portfolio konzentriert sich auf die Praxis mit SQL und T-SQL und r
 - Leistungsoptimierung durch Indexierung
 - Prozedurales SQL mit Stored Procedures
 - Logik mit Triggern und Automatisierung in der Datenbank
-`,Mi=`# Klassische Projekte in Delphi
+`,Ni=`# Klassische Projekte in Delphi
 
 Dieses Thema bewahrt die älteren Arbeiten von Nicolas Pereira in Delphi und Desktop-Übungen auf Basis von Pascal.
 
@@ -546,7 +546,7 @@ Dieses Thema bewahrt die älteren Arbeiten von Nicolas Pereira in Delphi und Des
 - Zeigt eine sehr frühe Phase auf dem Programmierweg von Nicolas Pereira.
 - Bewahrt Experimente mit Desktop-Anwendungen vor dem aktuellen Web- und Cloud-Stack.
 - Verleiht dem Portfolio historischen Kontext.
-`,ji=`# Eingebettete Betriebssysteme mit ESP32 und Arduino
+`,Oi=`# Eingebettete Betriebssysteme mit ESP32 und Arduino
 
 Diese Seite fasst die Inhalte zu eingebetteten Betriebssystemen unter Verwendung von ESP32- und Arduino-Boards zusammen.
 
@@ -569,7 +569,7 @@ Diese Seite fasst die Inhalte zu eingebetteten Betriebssystemen unter Verwendung
 - Konzepte der Aufgabenplanung (Scheduling) mit FreeRTOS
 - Arbeit mit Timing und Interrupts auf Low-Level-Ebene
 - Entwicklung von einfachen Labors hin zu Mustern für konkurrente Firmware
-`,Bi=`# Projekte mit 8-Bit PIC
+`,Gi=`# Projekte mit 8-Bit PIC
 
 Dieses Thema hebt die Arbeit mit Microchip PIC hervor, die auf praktische Übungen zur eingebetteten Steuerung und Automatisierung ausgerichtet ist.
 
@@ -592,7 +592,7 @@ Dieses Thema hebt die Arbeit mit Microchip PIC hervor, die auf praktische Übung
 - Digitale Steuerlogik und Timing
 - Geräteorientierte Problemlösung
 - Dienstprogramme und Experimente mit Fokus auf Hardware
-`,Qi=`# Eingebettete Systeme und Hardware
+`,Wi=`# Eingebettete Systeme und Hardware
 
 Diese Sammlung bündelt die Repositories, die die Arbeit von Nicolas Pereira mit Mikrocontrollern, eingebetteter Software, Steuerungssystemen und IoT-Grundlagen am besten repräsentieren. Das ursprüngliche Material mischte Notizen auf Portugiesisch mit teilweise unvollständigen Links; diese Version konsolidiert die öffentlichen GitHub-Referenzen in einer besser organisierten Übersicht.
 
@@ -625,7 +625,7 @@ Diese Sammlung bündelt die Repositories, die die Arbeit von Nicolas Pereira mit
 - Eingebettete Betriebssysteme und Aufgabenplanung
 - Sensorintegration und IoT-Datenveröffentlichung
 - Mathematische Modellierung und Reglerentwurf
-`,Ni=`# Grundlagen des Front-End
+`,Ji=`# Grundlagen des Front-End
 
 Dieses Thema vereint Front-End-Inhalte in HTML, CSS, JavaScript, React und Routing.
 
@@ -652,7 +652,7 @@ Dieses Thema vereint Front-End-Inhalte in HTML, CSS, JavaScript, React und Routi
 - Schrittweise Entwicklung hin zu React
 - Clientseitige Formulare und Routing
 - Front-End-Praxis in Unterricht und Projekten
-`,Oi=`# Internet of Things Labore
+`,Ui=`# Internet of Things Labore
 
 Dieser Ordner bündelt IoT-Übungen mit ESP8266, ESP32, Arduino, Sensoren und Abläufen zur Cloud-Veröffentlichung.
 
@@ -675,7 +675,7 @@ Dieser Ordner bündelt IoT-Übungen mit ESP8266, ESP32, Arduino, Sensoren und Ab
 - Wi-Fi-Konnektivität auf eingebetteter Hardware
 - Veröffentlichung von Telemetriedaten auf ThingSpeak
 - Erste Integration mit APIs für vernetzte Geräte
-`,Gi=`# Java Backend und Spring Boot
+`,Hi=`# Java Backend und Spring Boot
 
 Diese Seite organisiert das Java-Backend-Repository rund um REST-APIs, DTOs, Controller und Service-Muster.
 
@@ -699,7 +699,7 @@ Diese Seite organisiert das Java-Backend-Repository rund um REST-APIs, DTOs, Con
 - REST-Endpoints mit Spring Boot
 - DTOs, Services und Mappings
 - Projektorientierte Backend-Praxis
-`,Wi=`# Maschinelles Lernen Pipeline-Übungen
+`,Ki=`# Maschinelles Lernen Pipeline-Übungen
 
 Diese Seite fasst die Inhalte zum maschinellen Lernen von Nicolas Pereira zusammen, von der Vorverarbeitung bis zur Bereitstellung.
 
@@ -728,7 +728,7 @@ Diese Seite fasst die Inhalte zum maschinellen Lernen von Nicolas Pereira zusamm
 - Klassifizierung, Regression und Clustering
 - Bewertungs- und Validierungsabläufe
 - Angewandte Projekte im Zusammenhang mit dem Kursfortschritt
-`,Ji=`# Android und Kotlin
+`,Vi=`# Android und Kotlin
 
 Diese Seite befasst sich mit dem Android-Teil des Materials zur mobilen Entwicklung.
 
@@ -761,7 +761,7 @@ Diese Seite befasst sich mit dem Android-Teil des Materials zur mobilen Entwickl
 - Navigation und Persistenz
 - Compose und Übungen auf Aktivitätsebene
 - Kleine praktische Apps in Android Studio
-`,Ui=`# Apps in React Native
+`,Zi=`# Apps in React Native
 
 Diese Seite fasst den React-Native-Teil des Materials zur mobilen Entwicklung zusammen.
 
@@ -791,7 +791,7 @@ Diese Seite fasst den React-Native-Teil des Materials zur mobilen Entwicklung zu
 - Basis-Navigation und HTTP-Anfragen
 - Kleine funktionsorientierte Apps
 - Praktische Experimente zur mobilen Benutzeroberfläche
-`,Hi=`# Netzwerksicherheit und defensive Themen
+`,$i=`# Netzwerksicherheit und defensive Themen
 
 Dieses Thema fasst das Repository zur Netzwerksicherheit und dessen Fortschritt durch gängige Themen des Fachbereichs zusammen.
 
@@ -821,7 +821,7 @@ Dieses Thema fasst das Repository zur Netzwerksicherheit und dessen Fortschritt 
 - Zugangskontrolle und Hardening
 - Überwachung und Fernzugriff
 - Durch Labore eingeführte Sicherheitskonzepte
-`,Ki=`# Netzwerke und Sicherheit
+`,Xi=`# Netzwerke und Sicherheit
 
 Dieser Abschnitt fasst die Repositories zum Thema Netzwerksicherheit und Cybersicherheit zusammen, übersichtlich strukturiert für die Veröffentlichung.
 
@@ -845,7 +845,7 @@ Dieser Abschnitt fasst die Repositories zum Thema Netzwerksicherheit und Cybersi
 - Netzwerkschutz und Zugangskontrolle
 - Bewusstsein für Risiken, Bedrohungen und Schwachstellen
 - Einführungskonzepte zur Verteidigung in der Sicherheit
-`,Vi=`# Programmiersprachen
+`,Yi=`# Programmiersprachen
 
 Dieser Abschnitt hebt Arbeiten in Repositories hervor, die auf die Sprachpraxis ausgerichtet sind, mit einem starken Schwerpunkt auf Python-Grundlagen und praktischen Programmierübungen.
 
@@ -868,7 +868,7 @@ Dieser Abschnitt hebt Arbeiten in Repositories hervor, die auf die Sprachpraxis 
 - Einführende Programmierung in Python
 - Problemlösung mit kleinen Übungen
 - Praktische Festigung der grundlegenden Syntax und Logik
-`,Zi=`# Python-Grundlagen: Basis und Module
+`,et=`# Python-Grundlagen: Basis und Module
 
 Diese Seite befasst sich mit den ersten Python-Übungen, mit Schwerpunkt auf Arithmetik, Modulen und Textmanipulation.
 
@@ -897,7 +897,7 @@ Diese Seite befasst sich mit den ersten Python-Übungen, mit Schwerpunkt auf Ari
 - Nutzung der Standardbibliothek
 - String-Manipulation
 - Entwicklung durch Herausforderungen für Anfänger
-`,$i=`# Python-Grundlagen: Kontrollfluss und Schleifen
+`,nt=`# Python-Grundlagen: Kontrollfluss und Schleifen
 
 Diese Seite hebt den Teil des Kontrollflusses aus dem Python-Repository hervor.
 
@@ -926,7 +926,7 @@ Diese Seite hebt den Teil des Kontrollflusses aus dem Python-Repository hervor.
 - Wiederholung und Iteration
 - Kleine Konsolen-Herausforderungen
 - Problemlösung mit Python
-`,Xi=`# Grundlagen von SQL
+`,it=`# Grundlagen von SQL
 
 Dieses Thema bündelt die Datenbank-I-Inhalte von Nicolas Pereira zu Schemadefinition, Datenmanipulation und Abfragen.
 
@@ -954,7 +954,7 @@ Dieses Thema bündelt die Datenbank-I-Inhalte von Nicolas Pereira zu Schemadefin
 - CRUD-orientierte Übungen
 - Relationale Abfragen
 - Erste Schritte in Datenbanken
-`,Yi=`# Web- und Mobile-Entwicklung
+`,tt=`# Web- und Mobile-Entwicklung
 
 Diese Repositories zeigen die Arbeit von Nicolas Pereira in den Bereichen Front-End-Grundlagen, Android-Entwicklung und hybride mobile Anwendungen mit React Native.
 
@@ -980,7 +980,7 @@ Diese Repositories zeigen die Arbeit von Nicolas Pereira in den Bereichen Front-
 - Praxis mit Komponenten und Routing in React
 - Native Android-Entwicklung mit Kotlin
 - Übungen zu hybriden Anwendungen mit React Native
-`,et=`# Academic Training\r
+`,at=`# Academic Training\r
 \r
 ## SATC - Charitable Association of the Coal Industry of Santa Catarina\r
 \r
@@ -991,7 +991,7 @@ Diese Repositories zeigen die Arbeit von Nicolas Pereira in den Bereichen Front-
 **Industrial Electronics Technician** | 2009 - 2011\r
 \r
 - Developed access control devices, timers, and management systems.\r
-`,nt=`# Projects & Links\r
+`,ot=`# Projects & Links\r
 \r
 ## Profiles\r
 \r
@@ -1002,7 +1002,7 @@ Diese Repositories zeigen die Arbeit von Nicolas Pereira in den Bereichen Front-
 \r
 - Portfolio and code samples are published through GitHub.\r
 - Professional background and career updates are maintained on LinkedIn.\r
-`,it=`# Enlaces
+`,st=`# Enlaces
 
 ## Perfiles Publicos
 
@@ -1015,7 +1015,7 @@ Diese Repositories zeigen die Arbeit von Nicolas Pereira in den Bereichen Front-
 - Arquitectura cloud con AWS
 - Pipelines de datos e integracion de aplicaciones
 - Entrega de software segura y mantenible
-`,tt=`# Nicolas Pereira
+`,rt=`# Nicolas Pereira
 
 **Desarrollador de Software Junior**
 
@@ -1028,7 +1028,7 @@ Analista de Desarrollo de Aplicaciones con mas de ocho anos de experiencia crean
 Experiencia con Python y Java para sistemas conectados a la nube, con uso practico de AWS para disenar infraestructura resiliente y de Git para control de versiones y colaboracion confiable.
 
 Se mueve con comodidad entre contextos tecnicos y de negocio, colaborando con equipos de producto, marketing y ventas para convertir necesidades de clientes en soluciones practicas y de alto impacto.
-`,at=`# Formacion Academica
+`,ct=`# Formacion Academica
 
 ## SATC - Asociacion Benefica de la Industria del Carbon de Santa Catarina
 
@@ -1039,7 +1039,7 @@ Se mueve con comodidad entre contextos tecnicos y de negocio, colaborando con eq
 **Tecnico en Electronica Industrial** | 2009 - 2011
 
 - Desarrollo dispositivos de control de acceso, temporizadores y sistemas de gestion.
-`,ot=`# Proyectos y Enlaces
+`,ut=`# Proyectos y Enlaces
 
 ## Perfiles
 
@@ -1050,7 +1050,7 @@ Se mueve con comodidad entre contextos tecnicos y de negocio, colaborando con eq
 
 - El portafolio y las muestras de codigo se publican a traves de GitHub.
 - La trayectoria profesional y las actualizaciones de carrera se mantienen en LinkedIn.
-`,st=`# Logros Profesionales
+`,lt=`# Logros Profesionales
 
 ## Fortalezas Tecnicas
 
@@ -1063,7 +1063,7 @@ Se mueve con comodidad entre contextos tecnicos y de negocio, colaborando con eq
 - Colabora de cerca con producto, marketing y ventas para alinear la entrega tecnica con las expectativas del cliente.
 - Disfruta resolver problemas complejos mediante decisiones de ingenieria practicas y orientadas al negocio.
 - Aporta una mentalidad de aprendizaje continuo a nuevas herramientas, plataformas y patrones de implementacion.
-`,rt=`# Experiencia
+`,dt=`# Experiencia
 
 ## DSP Technology (HK) Ltd.
 
@@ -1102,7 +1102,7 @@ Se mueve con comodidad entre contextos tecnicos y de negocio, colaborando con eq
 
 - Realizo mantenimiento de cajeros automaticos y sistemas de automatizacion bancaria.
 - Dio soporte a rutinas de mantenimiento preventivo basadas en rendimiento.
-`,ct=`# SQL Avanzado: Joins y Analítica
+`,ht=`# SQL Avanzado: Joins y Analítica
 
 Esta página cubre las secciones del repositorio Database II centradas en joins, CTE, operadores relacionales y consultas analíticas.
 
@@ -1133,7 +1133,7 @@ Esta página cubre las secciones del repositorio Database II centradas en joins,
 - Subqueries y CTE
 - Window functions
 - Ejercicios SQL analíticos y de evaluación
-`,ut=`# SQL Avanzado: T-SQL y Triggers
+`,mt=`# SQL Avanzado: T-SQL y Triggers
 
 Esta página se centra en el lado de programación T-SQL del repositorio Database II.
 
@@ -1163,7 +1163,7 @@ Esta página se centra en el lado de programación T-SQL del repositorio Databas
 - Control de flujo en SQL
 - Optimización de consultas e indexación
 - Reglas de negocio basadas en triggers
-`,lt=`# Estadística Aplicada, Muestreo y Pandas
+`,pt=`# Estadística Aplicada, Muestreo y Pandas
 
 Este tema organiza el repositorio de estadística aplicada alrededor de ejercicios con pandas y técnicas de muestreo.
 
@@ -1192,7 +1192,7 @@ Este tema organiza el repositorio de estadística aplicada alrededor de ejercici
 - Metodología de muestreo
 - Reportes estadísticos
 - Ejercicios de aula convertidos en notebooks reproducibles
-`,dt=`# Inteligencia Artificial: Búsqueda y Optimización
+`,bt=`# Inteligencia Artificial: Búsqueda y Optimización
 
 Este tema organiza el repositorio de IA alrededor de búsqueda, heurísticas, lógica difusa y optimización.
 
@@ -1222,7 +1222,7 @@ Este tema organiza el repositorio de IA alrededor de búsqueda, heurísticas, l�
 - Sistemas difusos
 - Optimización genética
 - Trabajo académico de IA vinculado a ejercicios de código y notebooks
-`,ht=`# Ejercicios de C++
+`,gt=`# Ejercicios de C++
 
 Esta página resume el repositorio de C++ de Nicolas Pereira, que avanza desde la entrada por consola hasta la programación orientada a objetos.
 
@@ -1254,7 +1254,7 @@ Esta página resume el repositorio de C++ de Nicolas Pereira, que avanza desde l
 - Funciones y estructuras de datos
 - Diseño orientado a objetos
 - Progresión desde ejercicios básicos hasta abstracciones más avanzadas
-`,mt=`# Computación en la Nube
+`,ft=`# Computación en la Nube
 
 El repositorio de computación en la nube reúne actividades académicas centradas en los temas fundamentales que sostienen la infraestructura moderna y los sistemas distribuidos.
 
@@ -1273,7 +1273,7 @@ El repositorio de computación en la nube reúne actividades académicas centrad
 - Conceptos centrales de infraestructura
 - Fundamentos de almacenamiento distribuido
 - Adopción de nube y modelos de despliegue
-`,pt=`# Fundamentos de Computación en la Nube
+`,yt=`# Fundamentos de Computación en la Nube
 
 Esta página organiza el repositorio de cloud computing alrededor de infraestructura, sistemas operativos y archivos distribuidos.
 
@@ -1294,7 +1294,7 @@ Esta página organiza el repositorio de cloud computing alrededor de infraestruc
 - Modelos de almacenamiento y sistemas de archivos
 - Fundamentos de archivos distribuidos
 - Comparación entre despliegues locales y en la nube
-`,bt=`# Fundamentos de Ciencias de la Computación
+`,At=`# Fundamentos de Ciencias de la Computación
 
 Este grupo de repositorios se centra en ejercicios clave de ciencias de la computación, especialmente estructuras de datos, patrones clásicos de organización y pensamiento algorítmico.
 
@@ -1316,7 +1316,7 @@ Este grupo de repositorios se centra en ejercicios clave de ciencias de la compu
 - Fundamentos de estructuras de datos y algoritmos
 - Descomposición de problemas y práctica estructurada
 - Bloques clásicos de ciencias de la computación implementados en código
-`,gt=`# Análisis de Sistemas de Control
+`,qt=`# Análisis de Sistemas de Control
 
 Este tema resume el repositorio de sistemas de control de Nicolas Pereira y el trabajo relacionado con diseño de controladores.
 
@@ -1341,7 +1341,7 @@ Este tema resume el repositorio de sistemas de control de Nicolas Pereira y el t
 - Análisis clásico de control
 - Experimentación numérica con notebooks
 - Diseño de controladores con ejemplos prácticos
-`,ft=`# Principios de Ciberseguridad
+`,_t=`# Principios de Ciberseguridad
 
 Este tema destaca el repositorio de ciberseguridad dedicado a fundamentos de seguridad, amenazas e ingeniería social.
 
@@ -1363,7 +1363,7 @@ Este tema destaca el repositorio de ciberseguridad dedicado a fundamentos de seg
 - Marco de riesgo y vulnerabilidad
 - Conceptos introductorios de criptografía y acceso
 - Concienciación de usuario y temas de phishing
-`,yt=`# Ciencia de Datos e Inteligencia Artificial
+`,vt=`# Ciencia de Datos e Inteligencia Artificial
 
 Estos repositorios reúnen la formación académica y los estudios prácticos de Nicolas Pereira en estadística, ciencia de datos, machine learning e inteligencia artificial. La lista original fue traducida y reorganizada en un resumen más preparado para publicación.
 
@@ -1395,7 +1395,7 @@ Estos repositorios reúnen la formación académica y los estudios prácticos de
 - Exploración de datasets con notebooks
 - Fundamentos de aprendizaje supervisado y no supervisado
 - Técnicas de búsqueda, optimización e IA heurística
-`,At=`# Notebooks de Ciencia de Datos
+`,Ct=`# Notebooks de Ciencia de Datos
 
 Esta página cubre el trabajo académico de ciencia de datos de Nicolas Pereira, desarrollado alrededor de notebooks, estadística y análisis exploratorio.
 
@@ -1425,7 +1425,7 @@ Esta página cubre el trabajo académico de ciencia de datos de Nicolas Pereira,
 - Razonamiento estadístico
 - Flujo de trabajo basado en notebooks
 - Ejercicios aplicados de regresión y datos climáticos
-`,qt=`# Estructuras de Datos: Listas y Pilas
+`,xt=`# Estructuras de Datos: Listas y Pilas
 
 Esta página cubre los ejercicios orientados a listas y pilas del repositorio de estructuras de datos de Nicolas Pereira.
 
@@ -1452,7 +1452,7 @@ Esta página cubre los ejercicios orientados a listas y pilas del repositorio de
 - Operaciones de insertar, buscar, eliminar e imprimir
 - Ejemplos aplicados en Python
 - Razonamiento inicial sobre estructuras de datos
-`,_t=`# Estructuras de Datos: Árboles, Diccionarios y Búsqueda
+`,kt=`# Estructuras de Datos: Árboles, Diccionarios y Búsqueda
 
 Esta página reúne el trabajo posterior de estructuras de datos centrado en árboles, diccionarios, ordenamiento y búsqueda.
 
@@ -1480,7 +1480,7 @@ Esta página reúne el trabajo posterior de estructuras de datos centrado en ár
 - Lógica de ordenamiento
 - Estructuras de árboles
 - Fundamentos de búsqueda en grafos
-`,vt=`# Bases de Datos
+`,Et=`# Bases de Datos
 
 El portafolio de bases de datos se centra en la práctica con SQL y T-SQL, desde consultas fundamentales hasta indexación, joins, stored procedures y ejercicios basados en triggers.
 
@@ -1502,7 +1502,7 @@ El portafolio de bases de datos se centra en la práctica con SQL y T-SQL, desde
 - Ajuste de rendimiento mediante indexación
 - SQL procedural con stored procedures
 - Lógica con triggers y automatización en base de datos
-`,Ct=`# Proyectos Clásicos en Delphi
+`,St=`# Proyectos Clásicos en Delphi
 
 Este tema conserva el trabajo más antiguo de Nicolas Pereira en Delphi y ejercicios de escritorio basados en Pascal.
 
@@ -1524,7 +1524,7 @@ Este tema conserva el trabajo más antiguo de Nicolas Pereira en Delphi y ejerci
 - Muestra una etapa mucho más temprana de la trayectoria de programación de Nicolas Pereira
 - Conserva experimentación en aplicaciones de escritorio antes del stack actual de web y nube
 - Añade profundidad histórica al portafolio
-`,xt=`# Sistemas Operativos Embebidos en ESP32 y Arduino
+`,zt=`# Sistemas Operativos Embebidos en ESP32 y Arduino
 
 Esta página agrupa el trabajo académico de sistemas operativos embebidos de Nicolas Pereira usando placas ESP32 y Arduino.
 
@@ -1547,7 +1547,7 @@ Esta página agrupa el trabajo académico de sistemas operativos embebidos de Ni
 - Conceptos de planificación de tareas con FreeRTOS
 - Trabajo de bajo nivel con temporización e interrupciones
 - Progresión desde laboratorios simples hasta patrones de firmware concurrente
-`,kt=`# Proyectos PIC de MCU de 8 bits
+`,Lt=`# Proyectos PIC de MCU de 8 bits
 
 Este tema destaca el trabajo de Nicolas Pereira con Microchip PIC enfocado en ejercicios prácticos de control embebido y automatización.
 
@@ -1570,7 +1570,7 @@ Este tema destaca el trabajo de Nicolas Pereira con Microchip PIC enfocado en ej
 - Lógica de control digital y temporización
 - Resolución de problemas orientada a dispositivos
 - Utilidades y experimentos pequeños orientados a hardware
-`,Et=`# Sistemas Embebidos y Hardware
+`,Dt=`# Sistemas Embebidos y Hardware
 
 Esta colección agrupa los repositorios que mejor representan el trabajo de Nicolas Pereira en microcontroladores, software embebido, sistemas de control y fundamentos de IoT. El material original mezclaba notas en portugués y enlaces parciales; esta versión consolida las referencias públicas de GitHub en una visión general más clara.
 
@@ -1603,7 +1603,7 @@ Esta colección agrupa los repositorios que mejor representan el trabajo de Nico
 - Sistemas operativos embebidos y planificación de tareas
 - Integración de sensores y publicación de datos IoT
 - Modelado matemático y diseño de controladores
-`,St=`# Fundamentos de Front-End
+`,wt=`# Fundamentos de Front-End
 
 Este tema agrupa el trabajo académico de front-end de Nicolas Pereira en HTML, CSS, JavaScript, React y routing.
 
@@ -1630,7 +1630,7 @@ Este tema agrupa el trabajo académico de front-end de Nicolas Pereira en HTML, 
 - Transición progresiva hacia React
 - Formularios y routing del lado del cliente
 - Práctica de front-end orientada a clases y proyectos
-`,zt=`# Laboratorios de Internet de las Cosas
+`,Pt=`# Laboratorios de Internet de las Cosas
 
 Esta carpeta reúne ejercicios de IoT usando ESP8266, ESP32, Arduino, sensores y flujos de publicación en la nube.
 
@@ -1653,7 +1653,7 @@ Esta carpeta reúne ejercicios de IoT usando ESP8266, ESP32, Arduino, sensores y
 - Conectividad Wi-Fi en hardware embebido
 - Publicación de telemetría en ThingSpeak
 - Integración introductoria de APIs para dispositivos conectados
-`,Lt=`# Backend Java y Spring Boot
+`,Tt=`# Backend Java y Spring Boot
 
 Esta página agrupa el repositorio backend en Java alrededor de APIs REST, DTOs, controladores y patrones de servicio.
 
@@ -1677,7 +1677,7 @@ Esta página agrupa el repositorio backend en Java alrededor de APIs REST, DTOs,
 - Endpoints REST con Spring Boot
 - DTOs, servicios y capas de mapeo
 - Práctica backend orientada a proyectos
-`,Dt=`# Ejercicios de Pipeline de Machine Learning
+`,Ft=`# Ejercicios de Pipeline de Machine Learning
 
 Esta página reúne el trabajo académico de machine learning de Nicolas Pereira desde el preprocesamiento hasta el despliegue.
 
@@ -1706,7 +1706,7 @@ Esta página reúne el trabajo académico de machine learning de Nicolas Pereira
 - Clasificación, regresión y clustering
 - Flujos de evaluación y validación
 - Proyectos aplicados ligados al progreso del curso
-`,wt=`# Trabajo Académico de Android y Kotlin
+`,Rt=`# Trabajo Académico de Android y Kotlin
 
 Esta página cubre la mitad enfocada en Android del material de desarrollo móvil de Nicolas Pereira.
 
@@ -1739,7 +1739,7 @@ Esta página cubre la mitad enfocada en Android del material de desarrollo móvi
 - Navegación y persistencia
 - Compose y ejercicios a nivel de activity
 - Pequeñas aplicaciones prácticas en Android Studio
-`,Pt=`# Aplicaciones con React Native
+`,Mt=`# Aplicaciones con React Native
 
 Esta página reúne la sección de React Native del material de desarrollo móvil.
 
@@ -1769,7 +1769,7 @@ Esta página reúne la sección de React Native del material de desarrollo móvi
 - Navegación básica y solicitudes
 - Pequeñas implementaciones de React Native orientadas a funciones
 - Experimentos prácticos de interfaz móvil
-`,Tt=`# Seguridad de Redes y Temas Defensivos
+`,It=`# Seguridad de Redes y Temas Defensivos
 
 Este tema resume el repositorio de seguridad de redes y su progresión por temas habituales de seguridad.
 
@@ -1799,7 +1799,7 @@ Este tema resume el repositorio de seguridad de redes y su progresión por temas
 - Control de acceso y hardening
 - Monitoreo y acceso remoto
 - Conceptos de seguridad introducidos mediante laboratorios de clase
-`,Ft=`# Redes y Seguridad
+`,jt=`# Redes y Seguridad
 
 Esta sección reúne los repositorios relacionados con seguridad de redes y ciberseguridad, traducidos al español y reducidos a las referencias públicas más claras.
 
@@ -1823,7 +1823,7 @@ Esta sección reúne los repositorios relacionados con seguridad de redes y cibe
 - Protección de redes y control de acceso
 - Conciencia sobre riesgo, amenazas y vulnerabilidades
 - Conceptos introductorios de seguridad defensiva
-`,Rt=`# Lenguajes de Programación
+`,Bt=`# Lenguajes de Programación
 
 Esta sección destaca el trabajo en repositorios centrados en la práctica de lenguajes, con fuerte énfasis en fundamentos de Python y ejercicios prácticos de programación.
 
@@ -1846,7 +1846,7 @@ Esta sección destaca el trabajo en repositorios centrados en la práctica de le
 - Programación introductoria en Python
 - Resolución de problemas mediante pequeños ejercicios
 - Refuerzo práctico de sintaxis y lógica fundamentales
-`,It=`# Fundamentos de Python: Bases y Módulos
+`,Qt=`# Fundamentos de Python: Bases y Módulos
 
 Esta página cubre los primeros ejercicios de Python enfocados en aritmética, módulos y manejo de texto.
 
@@ -1875,7 +1875,7 @@ Esta página cubre los primeros ejercicios de Python enfocados en aritmética, m
 - Uso de la biblioteca estándar
 - Manejo de cadenas
 - Progresión de desafíos para principiantes
-`,Mt=`# Fundamentos de Python: Control de Flujo y Bucles
+`,Nt=`# Fundamentos de Python: Control de Flujo y Bucles
 
 Esta página se centra en la parte del repositorio de Python dedicada al control de flujo.
 
@@ -1904,7 +1904,7 @@ Esta página se centra en la parte del repositorio de Python dedicada al control
 - Repetición e iteración
 - Pequeños desafíos de consola
 - Resolución de problemas básica con Python
-`,jt=`# Fundamentos de SQL
+`,Ot=`# Fundamentos de SQL
 
 Este tema reúne el trabajo de Database I de Nicolas Pereira en definición de esquemas, manipulación de datos y consultas.
 
@@ -1932,7 +1932,7 @@ Este tema reúne el trabajo de Database I de Nicolas Pereira en definición de e
 - Ejercicios orientados a CRUD
 - Consultas relacionales
 - Primeros pasos en trabajo académico de bases de datos
-`,Bt=`# Desarrollo Web y Móvil
+`,Gt=`# Desarrollo Web y Móvil
 
 Estos repositorios muestran el trabajo de Nicolas Pereira en fundamentos de front-end, desarrollo Android y aplicaciones móviles híbridas con React Native.
 
@@ -1958,7 +1958,7 @@ Estos repositorios muestran el trabajo de Nicolas Pereira en fundamentos de fron
 - Práctica con componentes y routing en React
 - Desarrollo Android nativo con Kotlin
 - Ejercicios de aplicaciones híbridas con React Native
-`,Qt=`# Career Highlights\r
+`,Wt=`# Career Highlights\r
 \r
 ## Technical Strengths\r
 \r
@@ -1971,7 +1971,7 @@ Estos repositorios muestran el trabajo de Nicolas Pereira en fundamentos de fron
 - Partners closely with product, marketing, and sales teams to align technical delivery with customer expectations.\r
 - Enjoys solving complex problems through practical, business-aware engineering decisions.\r
 - Brings a continuous-learning mindset to new tools, platforms, and implementation patterns.\r
-`,Nt=`# Experience\r
+`,Jt=`# Experience\r
 \r
 ## DSP Technology (HK) Ltd.\r
 \r
@@ -2010,7 +2010,7 @@ Estos repositorios muestran el trabajo de Nicolas Pereira en fundamentos de fron
 \r
 - Performed maintenance for automated teller machines (ATMs) and banking automation systems.\r
 - Supported Performance-Based Preventative Maintenance (PDPM) routines.\r
-`,Ot=`# Liens
+`,Ut=`# Liens
 
 ## Profils Publics
 
@@ -2023,7 +2023,7 @@ Estos repositorios muestran el trabajo de Nicolas Pereira en fundamentos de fron
 - Architecture cloud avec AWS
 - Pipelines de donnees et integration applicative
 - Livraison logicielle securisee et maintenable
-`,Gt=`# Nicolas Pereira
+`,Ht=`# Nicolas Pereira
 
 **Developpeur Logiciel Junior**
 
@@ -2036,7 +2036,7 @@ Analyste en developpement d'applications avec plus de huit ans d'experience dans
 Experience en Python et Java pour des systemes connectes au cloud, avec une pratique concrete d'AWS pour concevoir une infrastructure resiliente et de Git pour assurer un controle de version et une collaboration fiables.
 
 Travaille a l'aise entre contextes techniques et metier, en partenariat avec les equipes produit, marketing et commerciales pour transformer les besoins clients en solutions pratiques a fort impact.
-`,Wt=`# Formation Academique
+`,Kt=`# Formation Academique
 
 ## SATC - Association Caritative de l'Industrie du Charbon de Santa Catarina
 
@@ -2047,7 +2047,7 @@ Travaille a l'aise entre contextes techniques et metier, en partenariat avec les
 **Technicien en Electronique Industrielle** | 2009 - 2011
 
 - A developpe des dispositifs de controle d'acces, des temporisateurs et des systemes de gestion.
-`,Jt=`# Projets et Liens
+`,Vt=`# Projets et Liens
 
 ## Profils
 
@@ -2058,7 +2058,7 @@ Travaille a l'aise entre contextes techniques et metier, en partenariat avec les
 
 - Le portfolio et les exemples de code sont publies via GitHub.
 - Le parcours professionnel et les mises a jour de carriere sont maintenus sur LinkedIn.
-`,Ut=`# Temps Forts de Carriere
+`,Zt=`# Temps Forts de Carriere
 
 ## Forces Techniques
 
@@ -2071,7 +2071,7 @@ Travaille a l'aise entre contextes techniques et metier, en partenariat avec les
 - Collabore etroitement avec les equipes produit, marketing et commerciales pour aligner la livraison technique sur les attentes clients.
 - Aime resoudre des problemes complexes par des decisions d'ingenierie pratiques et conscientes des enjeux metier.
 - Apporte un etat d'esprit d'apprentissage continu aux nouveaux outils, plateformes et schemas d'implementation.
-`,Ht=`# Experience
+`,$t=`# Experience
 
 ## DSP Technology (HK) Ltd.
 
@@ -2110,7 +2110,7 @@ Travaille a l'aise entre contextes techniques et metier, en partenariat avec les
 
 - A realise la maintenance de distributeurs automatiques et de systemes d'automatisation bancaire.
 - A soutenu des routines de maintenance preventive basees sur la performance.
-`,Kt=`# SQL Avancé : Jointures et Analytique
+`,Xt=`# SQL Avancé : Jointures et Analytique
 
 Cette page couvre les sections du dépôt Database II centrées sur les jointures, les CTE, les opérateurs relationnels et les requêtes analytiques.
 
@@ -2141,7 +2141,7 @@ Cette page couvre les sections du dépôt Database II centrées sur les jointure
 - Subqueries et CTE
 - Window functions
 - Exercices SQL analytiques et de type évaluation
-`,Vt=`# SQL Avancé : T-SQL et Triggers
+`,Yt=`# SQL Avancé : T-SQL et Triggers
 
 Cette page se concentre sur la partie programmation T-SQL du dépôt Database II.
 
@@ -2171,7 +2171,7 @@ Cette page se concentre sur la partie programmation T-SQL du dépôt Database II
 - Contrôle de flux en SQL
 - Optimisation de requêtes et indexation
 - Règles métier basées sur les triggers
-`,Zt=`# Statistiques Appliquées, Échantillonnage et Pandas
+`,ea=`# Statistiques Appliquées, Échantillonnage et Pandas
 
 Ce sujet organise le dépôt de statistiques appliquées autour d’exercices pandas et de techniques d’échantillonnage.
 
@@ -2200,7 +2200,7 @@ Ce sujet organise le dépôt de statistiques appliquées autour d’exercices pa
 - Méthodologie d’échantillonnage
 - Reporting statistique
 - Exercices de cours transformés en notebooks reproductibles
-`,$t=`# Intelligence Artificielle : Recherche et Optimisation
+`,na=`# Intelligence Artificielle : Recherche et Optimisation
 
 Ce sujet organise le dépôt d’IA autour de la recherche, des heuristiques, de la logique floue et de l’optimisation.
 
@@ -2230,7 +2230,7 @@ Ce sujet organise le dépôt d’IA autour de la recherche, des heuristiques, de
 - Systèmes flous
 - Optimisation génétique
 - Travail académique d’IA lié à des exercices de code et des notebooks
-`,Xt=`# Exercices en C++
+`,ia=`# Exercices en C++
 
 Cette page résume le dépôt C++ de Nicolas Pereira, qui progresse de la saisie console vers la programmation orientée objet.
 
@@ -2262,7 +2262,7 @@ Cette page résume le dépôt C++ de Nicolas Pereira, qui progresse de la saisie
 - Fonctions et structures de données
 - Conception orientée objet
 - Progression des exercices de base vers des abstractions plus avancées
-`,Yt=`# Informatique en Nuage
+`,ta=`# Informatique en Nuage
 
 Le dépôt sur le cloud computing rassemble des travaux de cours centrés sur les sujets fondamentaux qui soutiennent l’infrastructure moderne et les systèmes distribués.
 
@@ -2281,7 +2281,7 @@ Le dépôt sur le cloud computing rassemble des travaux de cours centrés sur le
 - Concepts clés d’infrastructure
 - Fondamentaux du stockage distribué
 - Adoption du cloud et modèles de déploiement
-`,ea=`# Fondations du Cloud Computing
+`,aa=`# Fondations du Cloud Computing
 
 Cette page organise le dépôt cloud computing autour de l’infrastructure, des systèmes d’exploitation et des fichiers distribués.
 
@@ -2302,7 +2302,7 @@ Cette page organise le dépôt cloud computing autour de l’infrastructure, des
 - Modèles de stockage et systèmes de fichiers
 - Fondamentaux des fichiers distribués
 - Comparaison entre déploiements locaux et cloud
-`,na=`# Fondements de l’Informatique
+`,oa=`# Fondements de l’Informatique
 
 Ce groupe de dépôts se concentre sur les exercices fondamentaux d’informatique, en particulier les structures de données, les schémas classiques d’organisation et la pensée algorithmique.
 
@@ -2324,7 +2324,7 @@ Ce groupe de dépôts se concentre sur les exercices fondamentaux d’informatiq
 - Fondamentaux des structures de données et des algorithmes
 - Décomposition de problèmes et pratique structurée
 - Briques classiques de l’informatique implémentées en code
-`,ia=`# Analyse des Systèmes de Contrôle
+`,sa=`# Analyse des Systèmes de Contrôle
 
 Ce sujet résume le dépôt de systèmes de contrôle de Nicolas Pereira et le travail lié à la conception de contrôleurs.
 
@@ -2349,7 +2349,7 @@ Ce sujet résume le dépôt de systèmes de contrôle de Nicolas Pereira et le t
 - Analyse classique du contrôle
 - Expérimentation numérique avec notebooks
 - Conception de contrôleurs à l’aide d’exemples pratiques
-`,ta=`# Principes de Cybersécurité
+`,ra=`# Principes de Cybersécurité
 
 Ce sujet met en avant le dépôt de cybersécurité dédié aux bases de la sécurité, aux menaces et à l’ingénierie sociale.
 
@@ -2371,7 +2371,7 @@ Ce sujet met en avant le dépôt de cybersécurité dédié aux bases de la séc
 - Cadre du risque et de la vulnérabilité
 - Concepts introductifs de cryptographie et d’accès
 - Sensibilisation utilisateur et sujets de phishing
-`,aa=`# Science des Données et Intelligence Artificielle
+`,ca=`# Science des Données et Intelligence Artificielle
 
 Ces dépôts regroupent les travaux académiques et les études pratiques de Nicolas Pereira en statistique, science des données, machine learning et intelligence artificielle. La liste source a été traduite et normalisée en un résumé plus prêt pour publication.
 
@@ -2403,7 +2403,7 @@ Ces dépôts regroupent les travaux académiques et les études pratiques de Nic
 - Exploration de jeux de données avec notebooks
 - Fondamentaux de l’apprentissage supervisé et non supervisé
 - Techniques de recherche, d’optimisation et d’IA heuristique
-`,oa=`# Notebooks de Science des Données
+`,ua=`# Notebooks de Science des Données
 
 Cette page couvre le travail académique de science des données de Nicolas Pereira construit autour de notebooks, de statistiques et d’analyse exploratoire.
 
@@ -2433,7 +2433,7 @@ Cette page couvre le travail académique de science des données de Nicolas Pere
 - Raisonnement statistique
 - Flux de travail basé sur des notebooks
 - Exercices appliqués de régression et de données climatiques
-`,sa=`# Structures de Données : Listes et Piles
+`,la=`# Structures de Données : Listes et Piles
 
 Cette page couvre les exercices orientés listes et piles du dépôt de structures de données de Nicolas Pereira.
 
@@ -2460,7 +2460,7 @@ Cette page couvre les exercices orientés listes et piles du dépôt de structur
 - Opérations d’insertion, de recherche, de suppression et d’affichage
 - Exemples appliqués en Python
 - Raisonnement initial sur les structures de données
-`,ra=`# Structures de Données : Arbres, Dictionnaires et Recherche
+`,da=`# Structures de Données : Arbres, Dictionnaires et Recherche
 
 Cette page rassemble le travail ultérieur en structures de données centré sur les arbres, les dictionnaires, le tri et la recherche.
 
@@ -2488,7 +2488,7 @@ Cette page rassemble le travail ultérieur en structures de données centré sur
 - Logique de tri
 - Structures d’arbres
 - Fondamentaux de recherche sur graphe
-`,ca=`# Bases de Données
+`,ha=`# Bases de Données
 
 Le portfolio bases de données se concentre sur la pratique SQL et T-SQL, depuis les requêtes fondamentales jusqu’à l’indexation, les jointures, les stored procedures et les exercices basés sur des triggers.
 
@@ -2510,7 +2510,7 @@ Le portfolio bases de données se concentre sur la pratique SQL et T-SQL, depuis
 - Optimisation des performances par indexation
 - SQL procédural avec stored procedures
 - Logique de triggers et automatisation en base
-`,ua=`# Projets Delphi Classiques
+`,ma=`# Projets Delphi Classiques
 
 Ce sujet préserve l’ancien travail de Nicolas Pereira en Delphi et les exercices bureautiques basés sur Pascal.
 
@@ -2532,7 +2532,7 @@ Ce sujet préserve l’ancien travail de Nicolas Pereira en Delphi et les exerci
 - Montre une étape bien plus ancienne du parcours de programmation de Nicolas Pereira
 - Préserve une phase d’expérimentation sur applications desktop avant la stack web et cloud actuelle
 - Ajoute une profondeur historique au portfolio
-`,la=`# Systèmes d’Exploitation Embarqués sur ESP32 et Arduino
+`,pa=`# Systèmes d’Exploitation Embarqués sur ESP32 et Arduino
 
 Cette page regroupe le travail académique de Nicolas Pereira sur les systèmes d’exploitation embarqués utilisant des cartes ESP32 et Arduino.
 
@@ -2555,7 +2555,7 @@ Cette page regroupe le travail académique de Nicolas Pereira sur les systèmes 
 - Concepts d’ordonnancement de tâches avec FreeRTOS
 - Travail bas niveau sur la temporisation et les interruptions
 - Progression depuis des laboratoires simples vers des schémas de firmware concurrents
-`,da=`# Projets PIC sur MCU 8 bits
+`,ba=`# Projets PIC sur MCU 8 bits
 
 Ce sujet met en avant le travail de Nicolas Pereira sur les Microchip PIC centré sur des exercices pratiques de contrôle embarqué et d’automatisation.
 
@@ -2578,7 +2578,7 @@ Ce sujet met en avant le travail de Nicolas Pereira sur les Microchip PIC centr�
 - Logique de contrôle numérique et temporisation
 - Résolution de problèmes orientée dispositifs
 - Petits utilitaires et expérimentations orientés matériel
-`,ha=`# Systèmes Embarqués et Matériel
+`,ga=`# Systèmes Embarqués et Matériel
 
 Cette collection regroupe les dépôts qui représentent le mieux le travail de Nicolas Pereira sur les microcontrôleurs, le logiciel embarqué, les systèmes de contrôle et les bases de l’IoT. La source d’origine mélangeait des notes en portugais et des liens partiels ; cette version consolide les références publiques GitHub dans un aperçu plus clair.
 
@@ -2611,7 +2611,7 @@ Cette collection regroupe les dépôts qui représentent le mieux le travail de 
 - Systèmes d’exploitation embarqués et ordonnancement de tâches
 - Intégration de capteurs et publication de données IoT
 - Modélisation mathématique et conception de contrôleurs
-`,ma=`# Fondamentaux du Front-End
+`,fa=`# Fondamentaux du Front-End
 
 Ce sujet regroupe le travail académique front-end de Nicolas Pereira autour de HTML, CSS, JavaScript, React et du routing.
 
@@ -2638,7 +2638,7 @@ Ce sujet regroupe le travail académique front-end de Nicolas Pereira autour de 
 - Passage progressif vers React
 - Formulaires et routing côté client
 - Pratique front-end orientée cours et projets
-`,pa=`# Laboratoires d’Internet des Objets
+`,ya=`# Laboratoires d’Internet des Objets
 
 Ce dossier rassemble des exercices IoT utilisant ESP8266, ESP32, Arduino, capteurs et flux de publication cloud.
 
@@ -2661,7 +2661,7 @@ Ce dossier rassemble des exercices IoT utilisant ESP8266, ESP32, Arduino, capteu
 - Connectivité Wi-Fi sur matériel embarqué
 - Publication de télémétrie vers ThingSpeak
 - Intégration d’API introductive pour appareils connectés
-`,ba=`# Backend Java et Spring Boot
+`,Aa=`# Backend Java et Spring Boot
 
 Cette page regroupe le dépôt backend Java autour des API REST, DTO, contrôleurs et schémas de services.
 
@@ -2685,7 +2685,7 @@ Cette page regroupe le dépôt backend Java autour des API REST, DTO, contrôleu
 - Endpoints REST avec Spring Boot
 - DTO, services et couches de mapping
 - Pratique backend orientée projet
-`,ga=`# Exercices de Pipeline de Machine Learning
+`,qa=`# Exercices de Pipeline de Machine Learning
 
 Cette page rassemble le travail académique de machine learning de Nicolas Pereira, du prétraitement jusqu’au déploiement.
 
@@ -2714,7 +2714,7 @@ Cette page rassemble le travail académique de machine learning de Nicolas Perei
 - Classification, régression et clustering
 - Flux d’évaluation et de validation
 - Projets appliqués liés à la progression du cours
-`,fa=`# Cours Android et Kotlin
+`,_a=`# Cours Android et Kotlin
 
 Cette page couvre la moitié Android du contenu de développement mobile de Nicolas Pereira.
 
@@ -2747,7 +2747,7 @@ Cette page couvre la moitié Android du contenu de développement mobile de Nico
 - Navigation et persistance
 - Compose et exercices au niveau activity
 - Petites applications pratiques sous Android Studio
-`,ya=`# Applications React Native
+`,va=`# Applications React Native
 
 Cette page couvre la section React Native du contenu de développement mobile.
 
@@ -2777,7 +2777,7 @@ Cette page couvre la section React Native du contenu de développement mobile.
 - Navigation de base et requêtes
 - Petits projets React Native orientés fonctionnalités
 - Expériences pratiques d’interface mobile
-`,Aa=`# Sécurité Réseau et Sujets Défensifs
+`,Ca=`# Sécurité Réseau et Sujets Défensifs
 
 Ce sujet résume le dépôt network-security et sa progression à travers des thèmes courants de sécurité.
 
@@ -2807,7 +2807,7 @@ Ce sujet résume le dépôt network-security et sa progression à travers des th
 - Contrôle d’accès et hardening
 - Supervision et accès distant
 - Concepts de sécurité introduits via des laboratoires de cours
-`,qa=`# Réseaux et Sécurité
+`,xa=`# Réseaux et Sécurité
 
 Cette section rassemble les dépôts liés à la sécurité réseau et à la cybersécurité, traduits en français et réduits aux références publiques les plus claires.
 
@@ -2831,7 +2831,7 @@ Cette section rassemble les dépôts liés à la sécurité réseau et à la cyb
 - Protection réseau et contrôle d’accès
 - Sensibilisation aux risques, menaces et vulnérabilités
 - Concepts introductifs de sécurité défensive
-`,_a=`# Langages de Programmation
+`,ka=`# Langages de Programmation
 
 Cette section met en avant le travail sur des dépôts centrés sur la pratique des langages, avec un fort accent sur les bases de Python et les exercices pratiques de programmation.
 
@@ -2854,7 +2854,7 @@ Cette section met en avant le travail sur des dépôts centrés sur la pratique 
 - Programmation Python introductive
 - Résolution de problèmes via de petits exercices
 - Renforcement pratique de la syntaxe et de la logique fondamentales
-`,va=`# Fondations de Python : Bases et Modules
+`,Ea=`# Fondations de Python : Bases et Modules
 
 Cette page couvre les premiers exercices Python axés sur l’arithmétique, les modules et la manipulation de texte.
 
@@ -2883,7 +2883,7 @@ Cette page couvre les premiers exercices Python axés sur l’arithmétique, les
 - Utilisation de la bibliothèque standard
 - Manipulation de chaînes
 - Progression de défis pour débutants
-`,Ca=`# Fondations de Python : Contrôle de Flux et Boucles
+`,Sa=`# Fondations de Python : Contrôle de Flux et Boucles
 
 Cette page se concentre sur la partie du dépôt Python dédiée au contrôle de flux.
 
@@ -2912,7 +2912,7 @@ Cette page se concentre sur la partie du dépôt Python dédiée au contrôle de
 - Répétition et itération
 - Petits défis console
 - Résolution de problèmes fondamentale avec Python
-`,xa=`# Fondamentaux de SQL
+`,za=`# Fondamentaux de SQL
 
 Ce sujet rassemble le travail Database I de Nicolas Pereira autour de la définition de schémas, de la manipulation de données et des requêtes.
 
@@ -2940,7 +2940,7 @@ Ce sujet rassemble le travail Database I de Nicolas Pereira autour de la défini
 - Exercices orientés CRUD
 - Requêtes relationnelles
 - Premières étapes du travail académique en bases de données
-`,ka=`# Développement Web et Mobile
+`,La=`# Développement Web et Mobile
 
 Ces dépôts montrent le travail de Nicolas Pereira sur les bases du front-end, le développement Android et les applications mobiles hybrides avec React Native.
 
@@ -2966,7 +2966,7 @@ Ces dépôts montrent le travail de Nicolas Pereira sur les bases du front-end, 
 - Pratique des composants et du routing avec React
 - Développement Android natif avec Kotlin
 - Exercices d’applications hybrides avec React Native
-`,Ea=`# Link
+`,Da=`# Link
 
 ## Profili Pubblici
 
@@ -2979,7 +2979,7 @@ Ces dépôts montrent le travail de Nicolas Pereira sur les bases du front-end, 
 - Architettura cloud con AWS
 - Pipeline di dati e integrazione di applicazioni
 - Consegna di software sicura e sostenibile
-`,Sa=`# Nicolas Pereira
+`,wa=`# Nicolas Pereira
 
 **Junior Software Developer**
 
@@ -2992,7 +2992,7 @@ Analista di Sviluppo Applicativo con oltre otto anni di esperienza nella creazio
 Esperienza con Python e Java in sistemi connessi al cloud, con uso pratico di AWS per progettare infrastrutture resilienti e di Git per sostenere un versionamento e una collaborazione affidabili.
 
 Si muove con disinvoltura tra contesti tecnici e di business, lavorando con i team di prodotto, marketing e vendite per trasformare le necessità dei clienti in soluzioni pratiche e di alto impatto.
-`,za=`# Formazione Accademica
+`,Pa=`# Formazione Accademica
 
 ## SATC - Associação Beneficente da Indústria Carbonífera de Santa Catarina
 
@@ -3003,7 +3003,7 @@ Si muove con disinvoltura tra contesti tecnici e di business, lavorando con i te
 **Tecnico in Elettronica Industriale** | 2009 - 2011
 
 - Sviluppo di dispositivi di controllo accessi, timer e sistemi di gestione.
-`,La=`# Progetti e Link
+`,Ta=`# Progetti e Link
 
 ## Profili
 
@@ -3014,7 +3014,7 @@ Si muove con disinvoltura tra contesti tecnici e di business, lavorando con i te
 
 - Il portfolio e gli esempi di codice sono pubblicati su GitHub.
 - La storia professionale e gli aggiornamenti di carriera sono mantenuti su LinkedIn.
-`,Da=`# Highlight della Carriera
+`,Fa=`# Highlight della Carriera
 
 ## Forze Tecniche
 
@@ -3027,7 +3027,7 @@ Si muove con disinvoltura tra contesti tecnici e di business, lavorando con i te
 - Collabora con prodotto, marketing e vendite per allineare la consegna tecnica con le aspettative del cliente.
 - Apprezza la risoluzione di problemi complessi attraverso decisioni di ingegneria pratiche e connesse al business.
 - Porta una mentalità di apprendimento continuo verso nuovi strumenti, piattaforme e pattern di implementazione.
-`,wa=`# Esperienza
+`,Ra=`# Esperienza
 
 ## DSP Technology (HK) Ltd.
 
@@ -3066,7 +3066,7 @@ Si muove con disinvoltura tra contesti tecnici e di business, lavorando con i te
 
 - Manutenzione di sportelli automatici (ATM) e sistemi di automazione bancaria.
 - Supporto alle routine di manutenzione preventiva basata sulle prestazioni.
-`,Pa=`# SQL Avanzato: Join e Analisi
+`,Ma=`# SQL Avanzato: Join e Analisi
 
 Questa pagina presenta le sezioni della repository di Basi di Dati II incentrate su join, CTE, operatori relazionali e query analitiche.
 
@@ -3097,7 +3097,7 @@ Questa pagina presenta le sezioni della repository di Basi di Dati II incentrate
 - Subquery e CTE
 - Window functions
 - Esercizi analitici e in formato di valutazione
-`,Ta=`# SQL Avanzato: T-SQL e Trigger
+`,Ia=`# SQL Avanzato: T-SQL e Trigger
 
 Questa pagina evidenzia il lato della programmazione T-SQL della repository di Basi di Dati II.
 
@@ -3127,7 +3127,7 @@ Questa pagina evidenzia il lato della programmazione T-SQL della repository di B
 - Controllo di flusso in SQL
 - Ottimizzazione delle query e indicizzazione
 - Regole di business con i trigger
-`,Fa=`# Statistica Applicata, Campionamento e Pandas
+`,ja=`# Statistica Applicata, Campionamento e Pandas
 
 Questo argomento organizza la repository di statistica applicata attorno a esercizi con pandas e tecniche di campionamento.
 
@@ -3156,7 +3156,7 @@ Questo argomento organizza la repository di statistica applicata attorno a eserc
 - Metodologia di campionamento
 - Relazioni statistiche
 - Esercizi in aula convertiti in notebook riproducibili
-`,Ra=`# Intelligenza Artificiale, Ricerca e Ottimizzazione
+`,Ba=`# Intelligenza Artificiale, Ricerca e Ottimizzazione
 
 Questo argomento organizza la repository di IA attorno ai temi di ricerca, euristiche, logica fuzzy e ottimizzazione.
 
@@ -3186,7 +3186,7 @@ Questo argomento organizza la repository di IA attorno ai temi di ricerca, euris
 - Sistemi fuzzy
 - Ottimizzazione genetica
 - Contenuti di IA legati a esercizi di codice e notebook
-`,Ia=`# Esercizi in C++
+`,Qa=`# Esercizi in C++
 
 Questa pagina riassume la repository di C++ di Nicolas Pereira, che spazia dall'input tramite terminale fino alla programmazione orientata agli oggetti.
 
@@ -3218,7 +3218,7 @@ Questa pagina riassume la repository di C++ di Nicolas Pereira, che spazia dall'
 - Funzioni e strutture dati
 - POO, ereditarietà e costruttori
 - Risoluzione di problemi in codice compilato
-`,Ma=`# Cloud Computing
+`,Na=`# Cloud Computing
 
 La repository di cloud computing raccoglie attività accademiche focalizzate sui temi fondamentali che sostengono l'infrastruttura moderna e i sistemi distribuiti.
 
@@ -3237,7 +3237,7 @@ La repository di cloud computing raccoglie attività accademiche focalizzate sui
 - Concetti centrali di infrastruttura
 - Fondamenti di archiviazione distribuita
 - Adozione del cloud e modelli di distribuzione
-`,ja=`# Fondamenti di Cloud Computing
+`,Oa=`# Fondamenti di Cloud Computing
 
 Questo argomento riassume i contenuti di cloud computing di Nicolas Pereira e le loro basi orientate ai sistemi.
 
@@ -3258,7 +3258,7 @@ Questo argomento riassume i contenuti di cloud computing di Nicolas Pereira e le
 - Archiviazione e file system
 - Primi contatti con i sistemi distribuiti
 - Base concettuale per lavori futuri in ambito cloud
-`,Ba=`# Fondamenti di Informatica
+`,Ga=`# Fondamenti di Informatica
 
 Questo gruppo di repository si concentra sugli esercizi cardine dell'informatica, specialmente strutture dati, pattern classici di organizzazione e pensiero algoritmico.
 
@@ -3280,7 +3280,7 @@ Questo gruppo di repository si concentra sugli esercizi cardine dell'informatica
 - Fondamenti di strutture dati e algoritmi
 - Decomposizione di problemi e pratica strutturata
 - Blocchi classici dell'informatica implementati in codice
-`,Qa=`# Analisi dei Sistemi di Controllo
+`,Wa=`# Analisi dei Sistemi di Controllo
 
 Questo argomento riassume la repository dei sistemi di controllo di Nicolas Pereira e il lavoro relativo alla progettazione di controllori.
 
@@ -3305,7 +3305,7 @@ Questo argomento riassume la repository dei sistemi di controllo di Nicolas Pere
 - Analisi classica del controllo
 - Sperimentazione numerica nei notebook
 - Progettazione di controllori con esempi pratici
-`,Na=`# Principi di Cibersicurezza
+`,Ja=`# Principi di Cibersicurezza
 
 Questo argomento mette in evidenza la repository di cibersicurezza dedicata ai fondamenti della sicurezza, alle minacce e all'ingegneria sociale.
 
@@ -3327,7 +3327,7 @@ Questo argomento mette in evidenza la repository di cibersicurezza dedicata ai f
 - Inquadramento di rischio e vulnerabilità
 - Nozioni introduttive di crittografia e accesso
 - Consapevolezza degli utenti e phishing
-`,Oa=`# Data Science e Intelligenza Artificiale
+`,Ua=`# Data Science e Intelligenza Artificiale
 
 Questi repository raccolgono la formazione accademica e gli studi pratici di Nicolas Pereira in statistica, data science, machine learning e intelligenza artificiale. L'elenco originale è stato riorganizzato in un riepilogo più chiaro per la pubblicazione.
 
@@ -3359,7 +3359,7 @@ Questi repository raccolgono la formazione accademica e gli studi pratici di Nic
 - Esplorazione di dataset con i notebook
 - Fondamenti di apprendimento supervisionato e non supervisionato
 - Tecniche di ricerca, ottimizzazione e IA euristica
-`,Ga=`# Notebook di Data Science
+`,Ha=`# Notebook di Data Science
 
 Questa pagina copre i contenuti di data science di Nicolas Pereira con un focus su notebook, statistica e analisi esplorativa.
 
@@ -3389,7 +3389,7 @@ Questa pagina copre i contenuti di data science di Nicolas Pereira con un focus 
 - Ragionamento statistico
 - Flusso di lavoro con i notebook
 - Esercizi applicati con regressione e dati climatici
-`,Wa=`# Strutture Dati: Liste e Pile
+`,Ka=`# Strutture Dati: Liste e Pile
 
 Questa pagina copre gli esercizi focalizzati su liste e pile della repository di strutture dati di Nicolas Pereira.
 
@@ -3416,7 +3416,7 @@ Questa pagina copre gli esercizi focalizzati su liste e pile della repository di
 - Operazioni di inserimento, ricerca, rimozione e stampa
 - Esempi applicati in Python
 - Primi ragionamenti con le strutture dati
-`,Ja=`# Strutture Dati: Alberi, Dizionari e Ricerca
+`,Va=`# Strutture Dati: Alberi, Dizionari e Ricerca
 
 Questa pagina raccoglie la parte più avanzata del contenuto sulle strutture dati, incentrata su alberi, dizionari, ordinamento e ricerca.
 
@@ -3444,7 +3444,7 @@ Questa pagina raccoglie la parte più avanzata del contenuto sulle strutture dat
 - Logica di ordinamento
 - Strutture ad albero
 - Fondamenti della ricerca nei grafi
-`,Ua=`# Database
+`,Za=`# Database
 
 Il portfolio di database è focalizzato sulla pratica con SQL e T-SQL, spaziando dalle query fondamentali fino a indicizzazione, join, stored procedure ed esercizi basati su trigger.
 
@@ -3466,7 +3466,7 @@ Il portfolio di database è focalizzato sulla pratica con SQL e T-SQL, spaziando
 - Ottimizzazione delle prestazioni tramite indicizzazione
 - SQL procedurale con stored procedure
 - Logica con trigger e automazione nel database
-`,Ha=`# Progetti Classici in Delphi
+`,$a=`# Progetti Classici in Delphi
 
 Questo argomento preserva i lavori più datati di Nicolas Pereira in Delphi ed esercizi desktop basati su Pascal.
 
@@ -3488,7 +3488,7 @@ Questo argomento preserva i lavori più datati di Nicolas Pereira in Delphi ed e
 - Mostra una fase molto precedente del percorso di programmazione di Nicolas Pereira.
 - Preserva esperimenti con applicazioni desktop precedenti all'attuale stack web e cloud.
 - Aggiunge contesto storico al portfolio.
-`,Ka=`# Sistemi Operativi Embedded con ESP32 e Arduino
+`,Xa=`# Sistemi Operativi Embedded con ESP32 e Arduino
 
 Questa pagina raccoglie i contenuti sui sistemi operativi embedded utilizzando schede ESP32 e Arduino.
 
@@ -3511,7 +3511,7 @@ Questa pagina raccoglie i contenuti sui sistemi operativi embedded utilizzando s
 - Concetti di scheduling con FreeRTOS
 - Lavoro di timing e interrupt a basso livello
 - Evoluzione da laboratori semplici verso pattern di firmware concorrente
-`,Va=`# Progetti con PIC a 8 bit
+`,Ya=`# Progetti con PIC a 8 bit
 
 Questo argomento mette in evidenza il lavoro con Microchip PIC orientato a esercizi pratici di controllo embedded e automazione.
 
@@ -3534,7 +3534,7 @@ Questo argomento mette in evidenza il lavoro con Microchip PIC orientato a eserc
 - Logica di controllo digitale e timing
 - Risoluzione di problemi orientata ai dispositivi
 - Utility ed esperimenti con focus sull'hardware
-`,Za=`# Sistemi Embedded e Hardware
+`,eo=`# Sistemi Embedded e Hardware
 
 Questa collezione riunisce le repository che meglio rappresentano il lavoro di Nicolas Pereira con microcontrollori, software embedded, sistemi di controllo e fondamenti di IoT. Il materiale originale conteneva annotazioni in portoghese e link parziali; questa versione consolida i riferimenti pubblici di GitHub in una panoramica più organizzata.
 
@@ -3567,7 +3567,7 @@ Questa collezione riunisce le repository che meglio rappresentano il lavoro di N
 - Sistemi operativi embedded e scheduling dei task
 - Integrazione di sensori e pubblicazione dati in ambito IoT
 - Modellazione matematica e progettazione di controllori
-`,$a=`# Fondamenti di Front-End
+`,no=`# Fondamenti di Front-End
 
 Questo argomento raccoglie i contenuti di front-end in HTML, CSS, JavaScript, React e routing.
 
@@ -3594,7 +3594,7 @@ Questo argomento raccoglie i contenuti di front-end in HTML, CSS, JavaScript, Re
 - Evoluzione graduale verso React
 - Form e routing lato client
 - Pratica di front-end in aula e nei progetti
-`,Xa=`# Laboratori di Internet of Things
+`,io=`# Laboratori di Internet of Things
 
 Questa cartella raccoglie esercizi di IoT con ESP8266, ESP32, Arduino, sensori e flussi di pubblicazione in cloud.
 
@@ -3617,7 +3617,7 @@ Questa cartella raccoglie esercizi di IoT con ESP8266, ESP32, Arduino, sensori e
 - Connettività Wi-Fi su hardware embedded
 - Pubblicazione di telemetria su ThingSpeak
 - Integrazione iniziale con API per dispositivi connessi
-`,Ya=`# Back-End Java e Spring Boot
+`,to=`# Back-End Java e Spring Boot
 
 Questa pagina organizza la repository Java di back-end basata su API REST, DTO, controller e pattern di servizio.
 
@@ -3641,7 +3641,7 @@ Questa pagina organizza la repository Java di back-end basata su API REST, DTO, 
 - Endpoint REST con Spring Boot
 - DTO, servizi e mappature
 - Pratica di back-end orientata ai progetti
-`,eo=`# Esercizi di Pipeline di Machine Learning
+`,ao=`# Esercizi di Pipeline di Machine Learning
 
 Questa pagina raccoglie i contenuti di machine learning di Nicolas Pereira, dalla pre-elaborazione fino alla distribuzione (deploy).
 
@@ -3670,7 +3670,7 @@ Questa pagina raccoglie i contenuti di machine learning di Nicolas Pereira, dall
 - Classificazione, regressione e clustering
 - Flussi di valutazione e validazione
 - Progetti applicati legati alla progressione del corso
-`,no=`# Android e Kotlin
+`,oo=`# Android e Kotlin
 
 Questa pagina copre la parte Android del materiale di sviluppo mobile.
 
@@ -3703,7 +3703,7 @@ Questa pagina copre la parte Android del materiale di sviluppo mobile.
 - Navigazione e persistenza
 - Compose ed esercizi a livello di activity
 - Piccole app pratiche in Android Studio
-`,io=`# Applicazioni in React Native
+`,so=`# Applicazioni in React Native
 
 Questa pagina raccoglie la parte di React Native del materiale di sviluppo mobile.
 
@@ -3733,7 +3733,7 @@ Questa pagina raccoglie la parte di React Native del materiale di sviluppo mobil
 - Navigazione di base e richieste
 - Piccole app orientate alle funzionalità
 - Esperimenti pratici di interfaccia mobile
-`,to=`# Sicurezza di Rete e Temi Difensivi
+`,ro=`# Sicurezza di Rete e Temi Difensivi
 
 Questo argomento riassume la repository di sicurezza delle reti e la sua progressione attraverso i temi comuni del settore.
 
@@ -3763,7 +3763,7 @@ Questo argomento riassume la repository di sicurezza delle reti e la sua progres
 - Controllo degli accessi e hardening
 - Monitoraggio e accesso remoto
 - Concetti di sicurezza introdotti tramite laboratori
-`,ao=`# Reti e Sicurezza
+`,co=`# Reti e Sicurezza
 
 Questa sezione raccoglie le repository relative alla sicurezza delle reti e alla cibersicurezza, organizzate in una visione pubblica più chiara.
 
@@ -3787,7 +3787,7 @@ Questa sezione raccoglie le repository relative alla sicurezza delle reti e alla
 - Protezione delle reti e controllo degli accessi
 - Consapevolezza su rischi, minacce e vulnerabilità
 - Concetti introduttivi di difesa nella sicurezza
-`,oo=`# Linguaggi di Programmazione
+`,uo=`# Linguaggi di Programmazione
 
 Questa sezione mette in risalto i lavori nelle repository orientate alla pratica dei linguaggi, con una forte enfasi sui fondamenti di Python ed esercizi pratici di programmazione.
 
@@ -3810,7 +3810,7 @@ Questa sezione mette in risalto i lavori nelle repository orientate alla pratica
 - Programmazione introduttiva in Python
 - Risoluzione di problemi con piccoli esercizi
 - Rinforzo pratico di sintassi e logica fondamentali
-`,so=`# Fondamenti di Python: Basi e Moduli
+`,lo=`# Fondamenti di Python: Basi e Moduli
 
 Questa pagina copre gli esercizi iniziali di Python, con un focus su aritmetica, moduli e manipolazione del testo.
 
@@ -3839,7 +3839,7 @@ Questa pagina copre gli esercizi iniziali di Python, con un focus su aritmetica,
 - Uso della libreria standard
 - Manipolazione di stringhe
 - Evoluzione tramite sfide per principianti
-`,ro=`# Fondamenti di Python: Controllo di Flusso e Cicli
+`,ho=`# Fondamenti di Python: Controllo di Flusso e Cicli
 
 Questa pagina mette in risalto la parte di controllo di flusso della repository di Python.
 
@@ -3868,7 +3868,7 @@ Questa pagina mette in risalto la parte di controllo di flusso della repository 
 - Ripetizione e iterazione
 - Piccole sfide da console
 - Risoluzione di problemi con Python
-`,co=`# Fondamenti di SQL
+`,mo=`# Fondamenti di SQL
 
 Questo argomento raccoglie i contenuti di Basi di Dati I di Nicolas Pereira relativi a definizione dello schema, manipolazione dei dati e query.
 
@@ -3896,7 +3896,7 @@ Questo argomento raccoglie i contenuti di Basi di Dati I di Nicolas Pereira rela
 - Esercizi orientati al CRUD
 - Query relazionali
 - Primi passi nelle basi di dati
-`,uo=`# Sviluppo Web e Mobile
+`,po=`# Sviluppo Web e Mobile
 
 Queste repository mostrano il lavoro di Nicolas Pereira con i fondamenti del front-end, lo sviluppo Android e le applicazioni mobili ibride con React Native.
 
@@ -3922,7 +3922,7 @@ Queste repository mostrano il lavoro di Nicolas Pereira con i fondamenti del fro
 - Pratica con componenti e routing in React
 - Sviluppo Android nativo con Kotlin
 - Esercizi di applicazioni ibride con React Native
-`,lo=`# Linki
+`,bo=`# Linki
 
 ## Profile Publiczne
 
@@ -3935,7 +3935,7 @@ Queste repository mostrano il lavoro di Nicolas Pereira con i fondamenti del fro
 - Architektura chmurowa z AWS
 - Potoki danych i integracja aplikacji
 - Bezpieczne i zrównoważone dostarczanie oprogramowania
-`,ho=`# Nicolas Pereira
+`,go=`# Nicolas Pereira
 
 **Junior Software Developer**
 
@@ -3948,7 +3948,7 @@ Analityk Rozwoju Aplikacji z ponad ośmioletnim doświadczeniem w tworzeniu wyda
 Doświadczenie z Pythonem i Javą w systemach połączonych z chmurą, z praktycznym wykorzystaniem AWS do projektowania odpornej infrastruktury oraz Gita do utrzymywania niezawodnego wersjonowania i współpracy.
 
 Swobodnie porusza się między kontekstami technicznymi i biznesowymi, współpracując z zespołami produktowymi, marketingowymi i sprzedażowymi w celu przekształcenia potrzeb klientów w praktyczne rozwiązania o wysokim wpływie.
-`,mo=`# Wykształcenie Akademickie
+`,fo=`# Wykształcenie Akademickie
 
 ## SATC - Associação Beneficente da Indústria Carbonífera de Santa Catarina
 
@@ -3959,7 +3959,7 @@ Swobodnie porusza się między kontekstami technicznymi i biznesowymi, współpr
 **Technik Elektroniki Przemysłowej** | 2009 - 2011
 
 - Opracowanie urządzeń kontroli dostępu, timerów i systemów zarządzania.
-`,po=`# Projekty i Linki
+`,yo=`# Projekty i Linki
 
 ## Profile
 
@@ -3970,7 +3970,7 @@ Swobodnie porusza się między kontekstami technicznymi i biznesowymi, współpr
 
 - Portfolio i przykłady kodu są publikowane na GitHubie.
 - Historia zawodowa i aktualizacje kariery są utrzymywane na LinkedInie.
-`,bo=`# Kluczowe Osiągnięcia
+`,Ao=`# Kluczowe Osiągnięcia
 
 ## Atuty Techniczne
 
@@ -3983,7 +3983,7 @@ Swobodnie porusza się między kontekstami technicznymi i biznesowymi, współpr
 - Współpraca z działami produktu, marketingu i sprzedaży w celu dostosowania dostarczanych rozwiązań technicznych do oczekiwań klientów.
 - Zamiłowanie do rozwiązywania złożonych problemów poprzez praktyczne decyzje inżynieryjne powiązane z celami biznesowymi.
 - Nastawienie na ciągłe uczenie się nowych narzędzi, platform i wzorców implementacji.
-`,go=`# Doświadczenie
+`,qo=`# Doświadczenie
 
 ## DSP Technology (HK) Ltd.
 
@@ -4022,7 +4022,7 @@ Swobodnie porusza się między kontekstami technicznymi i biznesowymi, współpr
 
 - Konserwacja bankomatów i systemów automatyki bankowej.
 - Wsparcie rutynowych przeglądów profilaktycznych opartych na wydajności.
-`,fo=`# Zaawansowany SQL: Joiny i Analizy
+`,_o=`# Zaawansowany SQL: Joiny i Analizy
 
 Ta strona przedstawia sekcje repozytorium Bazy Danych II poświęcone złączeniom (joins), wyrażeniom CTE, operatorom relacyjnym i zapytaniom analitycznym.
 
@@ -4053,7 +4053,7 @@ Ta strona przedstawia sekcje repozytorium Bazy Danych II poświęcone złączeni
 - Podzapytania i wyrażenia CTE
 - Funkcje okna (Window functions)
 - Ćwiczenia analityczne i testowe
-`,yo=`# Zaawansowany SQL: T-SQL i Triggery
+`,vo=`# Zaawansowany SQL: T-SQL i Triggery
 
 Ta strona wyróżnia programistyczną stronę T-SQL w repozytorium Bazy Danych II.
 
@@ -4083,7 +4083,7 @@ Ta strona wyróżnia programistyczną stronę T-SQL w repozytorium Bazy Danych I
 - Kontrola przepływu w SQL
 - Optymalizacja zapytań i indeksowanie
 - Reguły biznesowe realizowane za pomocą triggerów
-`,Ao=`# Statystyka Stosowana, Próbkowanie i Pandas
+`,Co=`# Statystyka Stosowana, Próbkowanie i Pandas
 
 Ten temat porządkuje repozytorium statystyki stosowanej wokół ćwiczeń z biblioteką pandas i technikami próbkowania.
 
@@ -4112,7 +4112,7 @@ Ten temat porządkuje repozytorium statystyki stosowanej wokół ćwiczeń z bib
 - Metodologia próbkowania
 - Raporty statystyczne
 - Ćwiczenia z zajęć przekonwertowane na odtwarzalne notebooki
-`,qo=`# Sztuczna Inteligencja, Wyszukiwanie i Optymalizacja
+`,xo=`# Sztuczna Inteligencja, Wyszukiwanie i Optymalizacja
 
 Ten temat porządkuje repozytorium SI wokół wyszukiwania, heurystyk, logiki rozmytej i optymalizacji.
 
@@ -4142,7 +4142,7 @@ Ten temat porządkuje repozytorium SI wokół wyszukiwania, heurystyk, logiki ro
 - Systemy rozmyte
 - Optymalizacja genetyczna
 - Treści SI powiązane z ćwiczeniami z kodu i notebookami
-`,_o=`# Ćwiczenia w C++
+`,ko=`# Ćwiczenia w C++
 
 Ta strona podsumowuje repozytorium C++ Nicolasa Pereiry, które obejmuje materiał od wprowadzania danych przez terminal po programowanie zorientowane obiektowo.
 
@@ -4174,7 +4174,7 @@ Ta strona podsumowuje repozytorium C++ Nicolasa Pereiry, które obejmuje materia
 - Funkcje i struktury danych
 - POO, dziedziczenie i konstruktory
 - Rozwiązywanie problemów w kodzie kompilowanym
-`,vo=`# Przetwarzanie w Chmurze
+`,Eo=`# Przetwarzanie w Chmurze
 
 Repozytorium przetwarzania w chmurze gromadzi aktywności akademickie skupione na kluczowych tematach wspierających nowoczesną infrastrukturę i systemy rozproszone.
 
@@ -4193,7 +4193,7 @@ Repozytorium przetwarzania w chmurze gromadzi aktywności akademickie skupione n
 - Kluczowe koncepcje infrastruktury
 - Podstawy rozproszonego przechowywania danych
 - Adaptacja chmury i modele wdrażania
-`,Co=`# Podstawy Przetwarzania w Chmurze
+`,So=`# Podstawy Przetwarzania w Chmurze
 
 Ten temat podsumowuje treści Nicolasa Pereiry dotyczące przetwarzania w chmurze oraz ich podstawy zorientowane na systemy.
 
@@ -4214,7 +4214,7 @@ Ten temat podsumowuje treści Nicolasa Pereiry dotyczące przetwarzania w chmurz
 - Przechowywanie i systemy plików
 - Pierwsze kontakty z systemami rozproszonymi
 - Baza koncepcyjna dla przyszłych prac w chmurze
-`,xo=`# Podstawy Informatyki
+`,zo=`# Podstawy Informatyki
 
 Ta grupa repozytoriów koncentruje się na kluczowych ćwiczeniach z zakresu informatyki, zwłaszcza na strukturach danych, klasycznych wzorcach organizacji i myśleniu algorytmicznym.
 
@@ -4236,7 +4236,7 @@ Ta grupa repozytoriów koncentruje się na kluczowych ćwiczeniach z zakresu inf
 - Podstawy struktur danych i algorytmów
 - Dekompozycja problemów i ustrukturyzowana praktyka
 - Klasyczne komponenty informatyki zaimplementowane w kodzie
-`,ko=`# Analiza Systemów Sterowania
+`,Lo=`# Analiza Systemów Sterowania
 
 Ten temat podsumowuje repozytorium systemów sterowania Nicolasa Pereiry oraz prace związane z projektowaniem kontrolerów.
 
@@ -4261,7 +4261,7 @@ Ten temat podsumowuje repozytorium systemów sterowania Nicolasa Pereiry oraz pr
 - Klasyczna analiza sterowania
 - Eksperymenty numeryczne w notebookach
 - Projektowanie kontrolerów z praktycznymi przykładami
-`,Eo=`# Zasady Cyberbezpieczeństwa
+`,Do=`# Zasady Cyberbezpieczeństwa
 
 Ten temat wyróżnia repozytorium cyberbezpieczeństwa poświęcone podstawom bezpieczeństwa, zagrożeniom i inżynierii społecznej.
 
@@ -4283,7 +4283,7 @@ Ten temat wyróżnia repozytorium cyberbezpieczeństwa poświęcone podstawom be
 - Ramy ryzyka i podatności
 - Wprowadzające pojęcia z kryptografii i dostępu
 - Świadomość użytkowników i phishing
-`,So=`# Nauka o Danych i Sztuczna Inteligencja
+`,wo=`# Nauka o Danych i Sztuczna Inteligencja
 
 Te repozytoria gromadzą wykształcenie akademickie i studia praktyczne Nicolasa Pereiry w zakresie statystyki, nauki o danych, uczenia maszynowego i sztucznej inteligencji. Oryginalna lista została uporządkowana w bardziej przejrzyste podsumowanie do publikacji.
 
@@ -4315,7 +4315,7 @@ Te repozytoria gromadzą wykształcenie akademickie i studia praktyczne Nicolasa
 - Eksploracja zbiorów danych za pomocą notebooków
 - Podstawy uczenia nadzorowanego i nienadzorowanego
 - Techniki wyszukiwania, optymalizacja i heurystyczna SI
-`,zo=`# Notebooki do Nauki o Danych (Data Science)
+`,Po=`# Notebooki do Nauki o Danych (Data Science)
 
 Ta strona obejmuje treści Nicolasa Pereiry dotyczące nauki o danych, ze szczególnym uwzględnieniem notebooków, statystyki i analizy eksploracyjnej.
 
@@ -4345,7 +4345,7 @@ Ta strona obejmuje treści Nicolasa Pereiry dotyczące nauki o danych, ze szczeg
 - Rozumowanie statystyczne
 - Przepływ pracy z notebookami
 - Ćwiczenia praktyczne z regresją i danymi klimatycznymi
-`,Lo=`# Struktury Danych: Listy i Stosy
+`,To=`# Struktury Danych: Listy i Stosy
 
 Ta strona obejmuje ćwiczenia skoncentrowane na listach i stosach z repozytorium struktur danych Nicolasa Pereiry.
 
@@ -4372,7 +4372,7 @@ Ta strona obejmuje ćwiczenia skoncentrowane na listach i stosach z repozytorium
 - Operacje: wstawianie, wyszukiwanie, usuwanie i wyświetlanie
 - Przykłady zastosowane w Pythonie
 - Pierwsze kroki w logicznym myśleniu o strukturach danych
-`,Do=`# Struktury Danych: Drzewa, Słowniki i Wyszukiwanie
+`,Fo=`# Struktury Danych: Drzewa, Słowniki i Wyszukiwanie
 
 Ta strona gromadzi bardziej zaawansowaną część treści o strukturach danych, skupioną na drzewach, słownikach, sortowaniu i wyszukiwaniu.
 
@@ -4400,7 +4400,7 @@ Ta strona gromadzi bardziej zaawansowaną część treści o strukturach danych,
 - Logika sortowania
 - Struktury drzewiaste
 - Podstawy wyszukiwania w grafach
-`,wo=`# Bazy Danych
+`,Ro=`# Bazy Danych
 
 Portfolio baz danych skupia się na praktyce z SQL i T-SQL, od podstawowych zapytań po indeksowanie, złączenia (joins), procedury składowane i ćwiczenia oparte na wyzwalaczach (triggers).
 
@@ -4422,7 +4422,7 @@ Portfolio baz danych skupia się na praktyce z SQL i T-SQL, od podstawowych zapy
 - Optymalizacja wydajności poprzez indeksowanie
 - SQL proceduralny z procedurami składowanymi
 - Logika z wyzwalaczami i automatyzacja w bazie danych
-`,Po=`# Klasyczne Projekty w Delphi
+`,Mo=`# Klasyczne Projekty w Delphi
 
 Ten temat zachowuje starsze prace Nicolasa Pereiry w środowisku Delphi oraz ćwiczenia na systemy desktopowe oparte na Pascalu.
 
@@ -4444,7 +4444,7 @@ Ten temat zachowuje starsze prace Nicolasa Pereiry w środowisku Delphi oraz ćw
 - Pokazuje wczesny etap ścieżki programistycznej Nicolasa Pereiry.
 - Zachowuje eksperymenty z aplikacjami desktopowymi sprzed ery obecnego stosu technologii webowych i chmurowych.
 - Dodaje kontekst historyczny do portfolio.
-`,To=`# Systemy Operacyjne Embedded z ESP32 i Arduino
+`,Io=`# Systemy Operacyjne Embedded z ESP32 i Arduino
 
 Ta strona gromadzi treści dotyczące systemów operacyjnych embedded z wykorzystaniem modułów ESP32 i Arduino.
 
@@ -4467,7 +4467,7 @@ Ta strona gromadzi treści dotyczące systemów operacyjnych embedded z wykorzys
 - Koncepcje szeregowania zadań (scheduling) we FreeRTOS
 - Praca z czasem i przerwaniami na niskim poziomie
 - Ewolucja od prostych laboratoriów do wzorców wielozadaniowego oprogramowania układowego (firmware)
-`,Fo=`# Projekty z PIC 8-bit
+`,jo=`# Projekty z PIC 8-bit
 
 Ten temat podkreśla pracę z mikrokontrolerami Microchip PIC zorientowaną na praktyczne ćwiczenia z zakresu sterowania wbudowanego i automatyki.
 
@@ -4490,7 +4490,7 @@ Ten temat podkreśla pracę z mikrokontrolerami Microchip PIC zorientowaną na p
 - Logika sterowania cyfrowego i odmierzanie czasu
 - Rozwiązywanie problemów zorientowane na urządzenia
 - Narzędzia i eksperymenty skupione na warstwie sprzętowej
-`,Ro=`# Systemy Wbudowane i Sprzęt
+`,Bo=`# Systemy Wbudowane i Sprzęt
 
 Ta kolekcja gromadzi repozytoria, które najlepiej reprezentują pracę Nicolasa Pereiry z mikrokontrolerami, oprogramowaniem wbudowanym (embedded), systemami sterowania i podstawami IoT. Materiał źródłowy zawierał notatki w języku portugalskim i niepełne linki; ta wersja konsoliduje publiczne odniesienia z GitHub w bardziej uporządkowany przegląd.
 
@@ -4523,7 +4523,7 @@ Ta kolekcja gromadzi repozytoria, które najlepiej reprezentują pracę Nicolasa
 - Systemy operacyjne embedded i szeregowanie zadań (scheduling)
 - Integracja czujników i publikacja danych w IoT
 - Modelowanie matematyczne i projektowanie kontrolerów
-`,Io=`# Podstawy Front-Endu
+`,Qo=`# Podstawy Front-Endu
 
 Ten temat gromadzi treści z zakresu front-endu w HTML, CSS, JavaScript, React oraz routingu.
 
@@ -4550,7 +4550,7 @@ Ten temat gromadzi treści z zakresu front-endu w HTML, CSS, JavaScript, React o
 - Stopniowa ewolucja w stronę React
 - Formularze i routing po stronie klienta
 - Praktyka front-endowa podczas zajęć i w projektach
-`,Mo=`# Laboratoria Internetu Rzeczy (IoT)
+`,No=`# Laboratoria Internetu Rzeczy (IoT)
 
 Ten folder gromadzi ćwiczenia z zakresu IoT z wykorzystaniem modułów ESP8266, ESP32, Arduino, czujników oraz przepływów publikacji danych w chmurze.
 
@@ -4573,7 +4573,7 @@ Ten folder gromadzi ćwiczenia z zakresu IoT z wykorzystaniem modułów ESP8266,
 - Łączność Wi-Fi w systemach wbudowanych
 - Publikacja telemetrii w serwisie ThingSpeak
 - Wstępna integracja z API dla urządzeń połączonych
-`,jo=`# Back-End Java i Spring Boot
+`,Oo=`# Back-End Java i Spring Boot
 
 Ta strona porządkuje repozytorium back-endowe Java wokół API REST, obiektów DTO, kontrolerów i wzorców serwisowych.
 
@@ -4597,7 +4597,7 @@ Ta strona porządkuje repozytorium back-endowe Java wokół API REST, obiektów 
 - Endpointy REST z użyciem Spring Boot
 - DTO, serwisy i mapowania
 - Praktyka back-endowa zorientowana na projekty
-`,Bo=`# Ćwiczenia z Potoku Uczenia Maszynowego (Machine Learning Pipeline)
+`,Go=`# Ćwiczenia z Potoku Uczenia Maszynowego (Machine Learning Pipeline)
 
 Ta strona gromadzi treści Nicolasa Pereiry dotyczące uczenia maszynowego, od wstępnego przetwarzania po wdrożenie.
 
@@ -4626,7 +4626,7 @@ Ta strona gromadzi treści Nicolasa Pereiry dotyczące uczenia maszynowego, od w
 - Klasyfikacja, regresja i klastrowanie
 - Przepływy oceny i walidacji
 - Projekty praktyczne powiązane z postępem kursu
-`,Qo=`# Android i Kotlin
+`,Wo=`# Android i Kotlin
 
 Ta strona obejmuje część Androidową materiałów dotyczących rozwoju aplikacji mobilnych.
 
@@ -4659,7 +4659,7 @@ Ta strona obejmuje część Androidową materiałów dotyczących rozwoju aplika
 - Nawigacja i persystencja
 - Compose i ćwiczenia na poziomie Activity
 - Małe, praktyczne aplikacje w Android Studio
-`,No=`# Aplikacje w React Native
+`,Jo=`# Aplikacje w React Native
 
 Ta strona gromadzi część dotyczącą React Native z materiałów o rozwoju aplikacji mobilnych.
 
@@ -4689,7 +4689,7 @@ Ta strona gromadzi część dotyczącą React Native z materiałów o rozwoju ap
 - Podstawowa nawigacja i zapytania
 - Małe aplikacje zorientowane na funkcjonalności
 - Praktyczne eksperymenty z interfejsem mobilnym
-`,Oo=`# Bezpieczeństwo Sieci i Tematy Defensywne
+`,Uo=`# Bezpieczeństwo Sieci i Tematy Defensywne
 
 Ten temat podsumowuje repozytorium bezpieczeństwa sieci oraz jego postęp poprzez powszechne zagadnienia w tej dziedzinie.
 
@@ -4719,7 +4719,7 @@ Ten temat podsumowuje repozytorium bezpieczeństwa sieci oraz jego postęp poprz
 - Kontrola dostępu i hardening
 - Monitorowanie i dostęp zdalny
 - Pojęcia bezpieczeństwa wprowadzane poprzez laboratoria
-`,Go=`# Sieci i Bezpieczeństwo
+`,Ho=`# Sieci i Bezpieczeństwo
 
 Ta sekcja gromadzi repozytoria związane z bezpieczeństwem sieci i cyberbezpieczeństwem, zorganizowane w przejrzysty, publiczny przegląd.
 
@@ -4743,7 +4743,7 @@ Ta sekcja gromadzi repozytoria związane z bezpieczeństwem sieci i cyberbezpiec
 - Ochrona sieci i kontrola dostępu
 - Świadomość ryzyka, zagrożeń i podatności
 - Wprowadzające pojęcia obrony w bezpieczeństwie
-`,Wo=`# Języki Programowania
+`,Ko=`# Języki Programowania
 
 Ta sekcja wyróżnia prace w repozytoriach poświęconych praktyce języków, z silnym naciskiem na podstawy Python oraz praktyczne ćwiczenia programistyczne.
 
@@ -4766,7 +4766,7 @@ Ta sekcja wyróżnia prace w repozytoriach poświęconych praktyce języków, z 
 - Programowanie wprowadzające w Python
 - Rozwiązywanie problemów poprzez małe ćwiczenia
 - Praktyczne utrwalanie podstawowej składni i logiki
-`,Jo=`# Podstawy Python: Podstawy i Moduły
+`,Vo=`# Podstawy Python: Podstawy i Moduły
 
 Ta strona obejmuje początkowe ćwiczenia z języka Python, ze szczególnym uwzględnieniem arytmetyki, modułów i manipulacji tekstem.
 
@@ -4795,7 +4795,7 @@ Ta strona obejmuje początkowe ćwiczenia z języka Python, ze szczególnym uwzg
 - Wykorzystanie biblioteki standardowej
 - Manipulacja ciągami znaków
 - Rozwój poprzez wyzwania dla początkujących
-`,Uo=`# Podstawy Python: Kontrola Przepływu i Pętle
+`,Zo=`# Podstawy Python: Kontrola Przepływu i Pętle
 
 Ta strona wyróżnia część dotyczącą kontroli przepływu w repozytorium Python.
 
@@ -4824,7 +4824,7 @@ Ta strona wyróżnia część dotyczącą kontroli przepływu w repozytorium Pyt
 - Pętle i iteracja
 - Małe wyzwania w konsoli
 - Rozwiązywanie problemów z użyciem Python
-`,Ho=`# Podstawy SQL
+`,$o=`# Podstawy SQL
 
 Ten temat gromadzi treści z zakresu Bazy Danych I Nicolasa Pereiry dotyczące definiowania schematów, manipulacji danymi i zapytań.
 
@@ -4852,7 +4852,7 @@ Ten temat gromadzi treści z zakresu Bazy Danych I Nicolasa Pereiry dotyczące d
 - Ćwiczenia zorientowane na operacje CRUD
 - Zapytania relacyjne
 - Pierwsze kroki w bazach danych
-`,Ko=`# Rozwój Web i Mobile
+`,Xo=`# Rozwój Web i Mobile
 
 Te repozytoria pokazują prace Nicolasa Pereiry w zakresie podstaw front-endu, rozwoju aplikacji na system Android oraz hybrydowych aplikacji mobilnych w React Native.
 
@@ -4878,7 +4878,7 @@ Te repozytoria pokazują prace Nicolasa Pereiry w zakresie podstaw front-endu, r
 - Praktyka z komponentami i routingiem w React
 - Natywny rozwój na Androida z użyciem Kotlin
 - Ćwiczenia z hybrydowych aplikacji w React Native
-`,Vo=`# Links
+`,Yo=`# Links
 
 ## Perfis Públicos
 
@@ -4891,7 +4891,7 @@ Te repozytoria pokazują prace Nicolasa Pereiry w zakresie podstaw front-endu, r
 - Arquitetura em nuvem com AWS
 - Pipelines de dados e integracao de aplicacoes
 - Entrega de software segura e sustentável
-`,Zo=`# Nicolas Pereira
+`,es=`# Nicolas Pereira
 
 **Desenvolvedor de Software Júnior**
 
@@ -4904,7 +4904,7 @@ Analista de Desenvolvimento de Aplicações com mais de oito anos de experiênci
 Experiência com Python e Java em sistemas conectados à nuvem, com uso prático da AWS para projetar infraestrutura resiliente e do Git para sustentar versionamento e colaboração confiáveis.
 
 Atua com conforto entre contextos técnicos e de negócio, trabalhando com equipes de produto, marketing e vendas para transformar necessidades de clientes em soluções práticas e de alto impacto.
-`,$o=`# Formação Acadêmica
+`,ns=`# Formação Acadêmica
 
 ## SATC - Associação Beneficente da Indústria Carbonífera de Santa Catarina
 
@@ -4915,7 +4915,7 @@ Atua com conforto entre contextos técnicos e de negócio, trabalhando com equip
 **Técnico em Eletrônica Industrial** | 2009 - 2011
 
 - Desenvolveu dispositivos de controle de acesso, temporizadores e sistemas de gestão.
-`,Xo=`# Projetos e Links
+`,is=`# Projetos e Links
 
 ## Perfis
 
@@ -4926,7 +4926,7 @@ Atua com conforto entre contextos técnicos e de negócio, trabalhando com equip
 
 - Portfólio e amostras de código são publicados pelo GitHub.
 - Histórico profissional e atualizações de carreira são mantidos no LinkedIn.
-`,Yo=`# Destaques da Carreira
+`,ts=`# Destaques da Carreira
 
 ## Forças Técnicas
 
@@ -4939,7 +4939,7 @@ Atua com conforto entre contextos técnicos e de negócio, trabalhando com equip
 - Atua em parceria com produto, marketing e vendas para alinhar a entrega técnica com as expectativas do cliente.
 - Gosta de resolver problemas complexos por meio de decisões de engenharia práticas e conectadas ao negócio.
 - Leva uma mentalidade de aprendizado contínuo para novas ferramentas, plataformas e padrões de implementação.
-`,es=`# Experiência
+`,as=`# Experiência
 
 ## DSP Technology (HK) Ltd.
 
@@ -4978,7 +4978,7 @@ Atua com conforto entre contextos técnicos e de negócio, trabalhando com equip
 
 - Realizou manutenção de caixas eletrônicos e sistemas de automação bancária.
 - Deu suporte a rotinas de manutenção preventiva baseada em desempenho.
-`,ns=`# SQL Avançado: Joins e Análises
+`,os=`# SQL Avançado: Joins e Análises
 
 Esta página apresenta as seções do repositório de Banco de Dados II voltadas a joins, CTEs, operadores relacionais e consultas analíticas.
 
@@ -5009,7 +5009,7 @@ Esta página apresenta as seções do repositório de Banco de Dados II voltadas
 - Subqueries e CTEs
 - Window functions
 - Exercícios analíticos e em formato de avaliação
-`,is=`# SQL Avançado: T-SQL e Triggers
+`,ss=`# SQL Avançado: T-SQL e Triggers
 
 Esta página destaca o lado de programação T-SQL do repositório de Banco de Dados II.
 
@@ -5039,7 +5039,7 @@ Esta página destaca o lado de programação T-SQL do repositório de Banco de D
 - Controle de fluxo em SQL
 - Otimização de consultas e indexação
 - Regras de negócio com triggers
-`,ts=`# Estatística Aplicada, Amostragem e Pandas
+`,rs=`# Estatística Aplicada, Amostragem e Pandas
 
 Este tópico organiza o repositório de estatística aplicada em torno de exercícios com pandas e técnicas de amostragem.
 
@@ -5068,7 +5068,7 @@ Este tópico organiza o repositório de estatística aplicada em torno de exerc�
 - Metodologia de amostragem
 - Relatórios estatísticos
 - Exercícios de sala convertidos em notebooks reproduzíveis
-`,as=`# Inteligência Artificial, Busca e Otimização
+`,cs=`# Inteligência Artificial, Busca e Otimização
 
 Este tópico organiza o repositório de IA em torno de busca, heurísticas, lógica fuzzy e otimização.
 
@@ -5098,7 +5098,7 @@ Este tópico organiza o repositório de IA em torno de busca, heurísticas, lóg
 - Sistemas fuzzy
 - Otimização genética
 - Conteúdo de IA ligado a exercícios de código e notebooks
-`,os=`# Exercícios em C++
+`,us=`# Exercícios em C++
 
 Esta página resume o repositório de C++ de Nicolas Pereira, que avança de entrada via terminal até programação orientada a objetos.
 
@@ -5130,7 +5130,7 @@ Esta página resume o repositório de C++ de Nicolas Pereira, que avança de ent
 - Funções e estruturas de dados
 - POO, herança e construtores
 - Resolução de problemas em código compilado
-`,ss=`# Computação em Nuvem
+`,ls=`# Computação em Nuvem
 
 O repositório de computação em nuvem reúne atividades acadêmicas focadas nos tópicos fundamentais que sustentam a infraestrutura moderna e os sistemas distribuídos.
 
@@ -5149,7 +5149,7 @@ O repositório de computação em nuvem reúne atividades acadêmicas focadas no
 - Conceitos centrais de infraestrutura
 - Fundamentos de armazenamento distribuído
 - Adoção de nuvem e modelos de implantação
-`,rs=`# Fundamentos de Computação em Nuvem
+`,ds=`# Fundamentos de Computação em Nuvem
 
 Este tópico resume o conteúdo de computação em nuvem de Nicolas Pereira e sua base orientada a sistemas.
 
@@ -5170,7 +5170,7 @@ Este tópico resume o conteúdo de computação em nuvem de Nicolas Pereira e su
 - Armazenamento e sistemas de arquivos
 - Primeiros contatos com sistemas distribuídos
 - Base conceitual para trabalhos futuros em cloud
-`,cs=`# Fundamentos da Ciência da Computação
+`,hs=`# Fundamentos da Ciência da Computação
 
 Este grupo de repositórios concentra exercícios centrais de ciência da computação, especialmente estruturas de dados, padrões clássicos de organização e pensamento algorítmico.
 
@@ -5192,7 +5192,7 @@ Este grupo de repositórios concentra exercícios centrais de ciência da comput
 - Fundamentos de estruturas de dados e algoritmos
 - Decomposição de problemas e prática estruturada
 - Blocos clássicos da ciência da computação implementados em código
-`,us=`# Análise de Sistemas de Controle
+`,ms=`# Análise de Sistemas de Controle
 
 Este tópico resume o repositório de sistemas de controle de Nicolas Pereira e o trabalho relacionado a projeto de controladores.
 
@@ -5217,7 +5217,7 @@ Este tópico resume o repositório de sistemas de controle de Nicolas Pereira e 
 - Análise clássica de controle
 - Experimentação numérica em notebooks
 - Projeto de controladores com exemplos práticos
-`,ls=`# Princípios de Cibersegurança
+`,ps=`# Princípios de Cibersegurança
 
 Este tópico destaca o repositório de cibersegurança dedicado a fundamentos de segurança, ameaças e engenharia social.
 
@@ -5239,7 +5239,7 @@ Este tópico destaca o repositório de cibersegurança dedicado a fundamentos de
 - Enquadramento de risco e vulnerabilidade
 - Noções introdutórias de criptografia e acesso
 - Conscientização de usuários e phishing
-`,ds=`# Ciência de Dados e Inteligência Artificial
+`,bs=`# Ciência de Dados e Inteligência Artificial
 
 Estes repositórios reúnem a formação acadêmica e os estudos práticos de Nicolas Pereira em estatística, ciência de dados, machine learning e inteligência artificial. A lista de origem foi reorganizada em um resumo mais claro para publicação.
 
@@ -5271,7 +5271,7 @@ Estes repositórios reúnem a formação acadêmica e os estudos práticos de Ni
 - Exploração de datasets com notebooks
 - Fundamentos de aprendizado supervisionado e não supervisionado
 - Técnicas de busca, otimização e IA heurística
-`,hs=`# Notebooks de Ciência de Dados
+`,gs=`# Notebooks de Ciência de Dados
 
 Esta página cobre o conteúdo de ciência de dados de Nicolas Pereira com foco em notebooks, estatística e análise exploratória.
 
@@ -5301,7 +5301,7 @@ Esta página cobre o conteúdo de ciência de dados de Nicolas Pereira com foco 
 - Raciocínio estatístico
 - Fluxo de trabalho com notebooks
 - Exercícios aplicados com regressão e dados climáticos
-`,ms=`# Estruturas de Dados: Listas e Pilhas
+`,fs=`# Estruturas de Dados: Listas e Pilhas
 
 Esta página cobre os exercícios focados em listas e pilhas do repositório de estruturas de dados de Nicolas Pereira.
 
@@ -5328,7 +5328,7 @@ Esta página cobre os exercícios focados em listas e pilhas do repositório de 
 - Operações de inserir, buscar, remover e imprimir
 - Exemplos aplicados em Python
 - Primeiros raciocínios com estruturas de dados
-`,ps=`# Estruturas de Dados: Árvores, Dicionários e Busca
+`,ys=`# Estruturas de Dados: Árvores, Dicionários e Busca
 
 Esta página reúne a parte mais avançada do conteúdo de estruturas de dados, centrada em árvores, dicionários, ordenação e busca.
 
@@ -5356,7 +5356,7 @@ Esta página reúne a parte mais avançada do conteúdo de estruturas de dados, 
 - Lógica de ordenação
 - Estruturas em árvore
 - Fundamentos de busca em grafos
-`,bs=`# Bancos de Dados
+`,As=`# Bancos de Dados
 
 O portfólio de bancos de dados é focado em prática com SQL e T-SQL, indo de consultas centrais até indexação, joins, stored procedures e exercícios baseados em triggers.
 
@@ -5378,7 +5378,7 @@ O portfólio de bancos de dados é focado em prática com SQL e T-SQL, indo de c
 - Ajuste de desempenho por indexação
 - SQL procedural com stored procedures
 - Lógica com triggers e automação no banco
-`,gs=`# Projetos Clássicos em Delphi
+`,qs=`# Projetos Clássicos em Delphi
 
 Este tópico preserva os trabalhos mais antigos de Nicolas Pereira em Delphi e exercícios desktop baseados em Pascal.
 
@@ -5400,7 +5400,7 @@ Este tópico preserva os trabalhos mais antigos de Nicolas Pereira em Delphi e e
 - Mostra uma fase bem anterior da trajetória de programação de Nicolas Pereira
 - Preserva experimentos com aplicações desktop antes da atual stack web e cloud
 - Acrescenta contexto histórico ao portfólio
-`,fs=`# Sistemas Operacionais Embarcados com ESP32 e Arduino
+`,_s=`# Sistemas Operacionais Embarcados com ESP32 e Arduino
 
 Esta página reúne o conteúdo de sistemas operacionais embarcados usando placas ESP32 e Arduino.
 
@@ -5423,7 +5423,7 @@ Esta página reúne o conteúdo de sistemas operacionais embarcados usando placa
 - Conceitos de agendamento com FreeRTOS
 - Trabalho de temporização e interrupções em baixo nível
 - Evolução de laboratórios simples para padrões concorrentes de firmware
-`,ys=`# Projetos com PIC de 8 bits
+`,vs=`# Projetos com PIC de 8 bits
 
 Este tópico destaca o trabalho com Microchip PIC voltado a exercícios práticos de controle embarcado e automação.
 
@@ -5446,7 +5446,7 @@ Este tópico destaca o trabalho com Microchip PIC voltado a exercícios prático
 - Lógica de controle digital e temporização
 - Resolução de problemas orientada a dispositivos
 - Utilitários e experimentos com foco em hardware
-`,As=`# Sistemas Embarcados e Hardware
+`,Cs=`# Sistemas Embarcados e Hardware
 
 Esta coleção reúne os repositórios que melhor representam o trabalho de Nicolas Pereira com microcontroladores, software embarcado, sistemas de controle e fundamentos de IoT. O material de origem misturava anotações em português e links parciais; esta versão consolida as referências públicas do GitHub em uma visão geral mais organizada.
 
@@ -5479,7 +5479,7 @@ Esta coleção reúne os repositórios que melhor representam o trabalho de Nico
 - Sistemas operacionais embarcados e escalonamento de tarefas
 - Integração de sensores e publicação de dados em IoT
 - Modelagem matemática e projeto de controladores
-`,qs=`# Fundamentos de Front-End
+`,xs=`# Fundamentos de Front-End
 
 Este tópico reúne o conteúdo de front-end em HTML, CSS, JavaScript, React e roteamento.
 
@@ -5506,7 +5506,7 @@ Este tópico reúne o conteúdo de front-end em HTML, CSS, JavaScript, React e r
 - Evolução gradual para React
 - Formulários e roteamento no cliente
 - Prática de front-end em aulas e projetos
-`,_s=`# Laboratórios de Internet das Coisas
+`,ks=`# Laboratórios de Internet das Coisas
 
 Esta pasta reúne exercícios de IoT com ESP8266, ESP32, Arduino, sensores e fluxos de publicação em nuvem.
 
@@ -5529,7 +5529,7 @@ Esta pasta reúne exercícios de IoT com ESP8266, ESP32, Arduino, sensores e flu
 - Conectividade Wi-Fi em hardware embarcado
 - Publicação de telemetria no ThingSpeak
 - Integração inicial com APIs para dispositivos conectados
-`,vs=`# Back-End Java e Spring Boot
+`,Es=`# Back-End Java e Spring Boot
 
 Esta página organiza o repositório Java de back-end em torno de APIs REST, DTOs, controllers e padrões de serviço.
 
@@ -5553,7 +5553,7 @@ Esta página organiza o repositório Java de back-end em torno de APIs REST, DTO
 - Endpoints REST com Spring Boot
 - DTOs, serviços e mapeamentos
 - Prática de back-end orientada a projeto
-`,Cs=`# Exercícios de Pipeline de Machine Learning
+`,Ss=`# Exercícios de Pipeline de Machine Learning
 
 Esta página reúne o conteúdo de machine learning de Nicolas Pereira, do pré-processamento até a implantação.
 
@@ -5582,7 +5582,7 @@ Esta página reúne o conteúdo de machine learning de Nicolas Pereira, do pré-
 - Classificação, regressão e clustering
 - Fluxos de avaliação e validação
 - Projetos aplicados ligados à progressão do curso
-`,xs=`# Android e Kotlin
+`,zs=`# Android e Kotlin
 
 Esta página cobre a parte Android do material de desenvolvimento mobile.
 
@@ -5615,7 +5615,7 @@ Esta página cobre a parte Android do material de desenvolvimento mobile.
 - Navegação e persistência
 - Compose e exercícios em nível de activity
 - Pequenos apps práticos no Android Studio
-`,ks=`# Aplicativos em React Native
+`,Ls=`# Aplicativos em React Native
 
 Esta página reúne a parte de React Native do material de desenvolvimento mobile.
 
@@ -5645,7 +5645,7 @@ Esta página reúne a parte de React Native do material de desenvolvimento mobil
 - Navegação básica e requisições
 - Pequenos apps orientados a funcionalidades
 - Experimentos práticos de interface mobile
-`,Es=`# Segurança de Redes e Tópicos Defensivos
+`,Ds=`# Segurança de Redes e Tópicos Defensivos
 
 Este tópico resume o repositório de segurança de redes e sua progressão por temas comuns da área.
 
@@ -5675,7 +5675,7 @@ Este tópico resume o repositório de segurança de redes e sua progressão por 
 - Controle de acesso e hardening
 - Monitoramento e acesso remoto
 - Conceitos de segurança introduzidos por meio de laboratórios
-`,Ss=`# Redes e Segurança
+`,ws=`# Redes e Segurança
 
 Esta seção reúne os repositórios relacionados a segurança de redes e cibersegurança, organizados em uma visão pública mais clara.
 
@@ -5699,7 +5699,7 @@ Esta seção reúne os repositórios relacionados a segurança de redes e cibers
 - Proteção de redes e controle de acesso
 - Consciência sobre riscos, ameaças e vulnerabilidades
 - Conceitos introdutórios de defesa em segurança
-`,zs=`# Linguagens de Programação
+`,Ps=`# Linguagens de Programação
 
 Esta seção destaca trabalhos em repositórios voltados à prática de linguagem, com forte ênfase em fundamentos de Python e exercícios práticos de programação.
 
@@ -5722,7 +5722,7 @@ Esta seção destaca trabalhos em repositórios voltados à prática de linguage
 - Programação introdutória em Python
 - Resolução de problemas com pequenos exercícios
 - Reforço prático de sintaxe e lógica fundamentais
-`,Ls=`# Fundamentos de Python: Básico e Módulos
+`,Ts=`# Fundamentos de Python: Básico e Módulos
 
 Esta página cobre os exercícios iniciais de Python, com foco em aritmética, módulos e manipulação de texto.
 
@@ -5751,7 +5751,7 @@ Esta página cobre os exercícios iniciais de Python, com foco em aritmética, m
 - Uso da biblioteca padrão
 - Manipulação de strings
 - Evolução por desafios para iniciantes
-`,Ds=`# Fundamentos de Python: Controle de Fluxo e Laços
+`,Fs=`# Fundamentos de Python: Controle de Fluxo e Laços
 
 Esta página destaca a parte de controle de fluxo do repositório de Python.
 
@@ -5780,7 +5780,7 @@ Esta página destaca a parte de controle de fluxo do repositório de Python.
 - Repetição e iteração
 - Pequenos desafios de console
 - Resolução de problemas com Python
-`,ws=`# Fundamentos de SQL
+`,Rs=`# Fundamentos de SQL
 
 Este tópico reúne o conteúdo de Banco de Dados I de Nicolas Pereira em definição de esquema, manipulação de dados e consultas.
 
@@ -5808,7 +5808,7 @@ Este tópico reúne o conteúdo de Banco de Dados I de Nicolas Pereira em defini
 - Exercícios orientados a CRUD
 - Consultas relacionais
 - Primeiros passos em banco de dados
-`,Ps=`# Desenvolvimento Web e Mobile
+`,Ms=`# Desenvolvimento Web e Mobile
 
 Estes repositórios mostram o trabalho de Nicolas Pereira com fundamentos de front-end, desenvolvimento Android e aplicações móveis híbridas com React Native.
 
@@ -5834,7 +5834,7 @@ Estes repositórios mostram o trabalho de Nicolas Pereira com fundamentos de fro
 - Prática com componentes e roteamento em React
 - Desenvolvimento Android nativo com Kotlin
 - Exercícios de aplicações híbridas com React Native
-`,Ts=`# Advanced SQL: Joins and Analytics\r
+`,Is=`# Advanced SQL: Joins and Analytics\r
 \r
 This page covers the Database II repository sections focused on joins, CTEs, relational operators, and analytical queries.\r
 \r
@@ -5865,7 +5865,7 @@ This page covers the Database II repository sections focused on joins, CTEs, rel
 - Subqueries and CTEs\r
 - Window functions\r
 - Analytical and evaluation-style SQL exercises\r
-`,Fs=`# Advanced SQL: T-SQL and Triggers\r
+`,js=`# Advanced SQL: T-SQL and Triggers\r
 \r
 This page focuses on the T-SQL programming side of the Database II repository.\r
 \r
@@ -5895,7 +5895,7 @@ This page focuses on the T-SQL programming side of the Database II repository.\r
 - Flow control in SQL\r
 - Query optimization and indexing\r
 - Trigger-based business rules\r
-`,Rs=`# Applied Statistics, Sampling, and Pandas\r
+`,Bs=`# Applied Statistics, Sampling, and Pandas\r
 \r
 This topic organizes the applied-statistics repository around pandas exercises and sampling techniques.\r
 \r
@@ -5924,7 +5924,7 @@ This topic organizes the applied-statistics repository around pandas exercises a
 - Sampling methodology\r
 - Statistical reporting\r
 - Classroom exercises translated into reproducible notebooks\r
-`,Is=`# Artificial Intelligence Search and Optimization\r
+`,Qs=`# Artificial Intelligence Search and Optimization\r
 \r
 This topic organizes the AI repository around search, heuristics, fuzzy logic, and optimization.\r
 \r
@@ -5954,7 +5954,7 @@ This topic organizes the AI repository around search, heuristics, fuzzy logic, a
 - Fuzzy systems\r
 - Genetic optimization\r
 - AI coursework tied to coding exercises and notebooks\r
-`,Ms=`# C++ Exercises\r
+`,Ns=`# C++ Exercises\r
 \r
 This page summarizes Nicolas Pereira's C++ repository, which moves from console input to object-oriented programming.\r
 \r
@@ -5986,7 +5986,7 @@ This page summarizes Nicolas Pereira's C++ repository, which moves from console 
 - Functions and data structures\r
 - OOP, inheritance, and constructors\r
 - Classroom problem solving in compiled code\r
-`,js=`# Cloud Computing\r
+`,Os=`# Cloud Computing\r
 \r
 The cloud-computing repository captures coursework focused on the foundational topics that support modern infrastructure and distributed systems.\r
 \r
@@ -6005,7 +6005,7 @@ The cloud-computing repository captures coursework focused on the foundational t
 - Core infrastructure concepts\r
 - Distributed storage fundamentals\r
 - Cloud adoption and deployment models\r
-`,Bs=`# Cloud Computing Foundations\r
+`,Gs=`# Cloud Computing Foundations\r
 \r
 This topic summarizes Nicolas Pereira's cloud-computing coursework and its systems-oriented foundation.\r
 \r
@@ -6026,7 +6026,7 @@ This topic summarizes Nicolas Pereira's cloud-computing coursework and its syste
 - Storage and file systems\r
 - Distributed systems entry points\r
 - Conceptual grounding for later cloud work\r
-`,Qs=`# Computer Science Fundamentals\r
+`,Ws=`# Computer Science Fundamentals\r
 \r
 This repository group focuses on core computer-science exercises, especially data structures, classic organization patterns, and algorithmic thinking.\r
 \r
@@ -6048,7 +6048,7 @@ This repository group focuses on core computer-science exercises, especially dat
 - Data structures and algorithm fundamentals\r
 - Problem decomposition and structured practice\r
 - Classic computer-science building blocks implemented in code\r
-`,Ns=`# Control Systems Analysis\r
+`,Js=`# Control Systems Analysis\r
 \r
 This topic summarizes Nicolas Pereira's control-systems repository and related controller design work.\r
 \r
@@ -6073,7 +6073,7 @@ This topic summarizes Nicolas Pereira's control-systems repository and related c
 - Classical control analysis\r
 - Numerical experimentation in notebooks\r
 - Controller design with practical examples\r
-`,Os=`# Cybersecurity Principles\r
+`,Us=`# Cybersecurity Principles\r
 \r
 This topic highlights the cybersecurity repository dedicated to security basics, threats, and social engineering.\r
 \r
@@ -6095,7 +6095,7 @@ This topic highlights the cybersecurity repository dedicated to security basics,
 - Risk and vulnerability framing\r
 - Introductory crypto and access concepts\r
 - User-awareness and phishing topics\r
-`,Gs=`# Data Science & Artificial Intelligence\r
+`,Hs=`# Data Science & Artificial Intelligence\r
 \r
 These repositories collect Nicolas Pereira's coursework and practical studies across statistics, data science, machine learning, and artificial intelligence. The source list has been translated and normalized into a more publication-ready summary.\r
 \r
@@ -6127,7 +6127,7 @@ These repositories collect Nicolas Pereira's coursework and practical studies ac
 - Dataset exploration with notebooks\r
 - Supervised and unsupervised learning fundamentals\r
 - Search, optimization, and heuristic AI techniques\r
-`,Ws=`# Data Science Notebooks\r
+`,Ks=`# Data Science Notebooks\r
 \r
 This page covers Nicolas Pereira's data-science coursework built around notebooks, statistics, and exploratory analysis.\r
 \r
@@ -6157,7 +6157,7 @@ This page covers Nicolas Pereira's data-science coursework built around notebook
 - Statistical reasoning\r
 - Notebook-based workflow\r
 - Applied regression and climate-data exercises\r
-`,Js=`# Data Structures: Lists and Stacks\r
+`,Vs=`# Data Structures: Lists and Stacks\r
 \r
 This page covers the list-oriented and stack-oriented exercises from Nicolas Pereira's data-structures repository.\r
 \r
@@ -6184,7 +6184,7 @@ This page covers the list-oriented and stack-oriented exercises from Nicolas Per
 - Insert, search, remove, and print operations\r
 - Applied examples in Python\r
 - Early data-structure reasoning\r
-`,Us=`# Data Structures: Trees, Dictionaries, and Search\r
+`,Zs=`# Data Structures: Trees, Dictionaries, and Search\r
 \r
 This page captures the later data-structures work centered on trees, dictionaries, sorting, and search.\r
 \r
@@ -6212,7 +6212,7 @@ This page captures the later data-structures work centered on trees, dictionarie
 - Sorting logic\r
 - Tree structures\r
 - Graph-search fundamentals\r
-`,Hs=`# Databases\r
+`,$s=`# Databases\r
 \r
 The database portfolio focuses on SQL and T-SQL practice, from core query work to indexing, joins, stored procedures, and trigger-based exercises.\r
 \r
@@ -6234,7 +6234,7 @@ The database portfolio focuses on SQL and T-SQL practice, from core query work t
 - Performance tuning through indexing\r
 - Procedural SQL with stored procedures\r
 - Trigger logic and database automation\r
-`,Ks=`# Delphi Classic Projects\r
+`,Xs=`# Delphi Classic Projects\r
 \r
 This topic preserves Nicolas Pereira's older Delphi work and Pascal-based desktop exercises.\r
 \r
@@ -6256,7 +6256,7 @@ This topic preserves Nicolas Pereira's older Delphi work and Pascal-based deskto
 - Shows a much earlier stage of Nicolas Pereira's programming history\r
 - Preserves desktop-application experimentation before the current web and cloud stack\r
 - Adds historical breadth to the portfolio\r
-`,Vs=`# Embedded Operating Systems on ESP32 and Arduino\r
+`,Ys=`# Embedded Operating Systems on ESP32 and Arduino\r
 \r
 This page groups Nicolas Pereira's embedded operating systems coursework using ESP32 and Arduino boards.\r
 \r
@@ -6279,7 +6279,7 @@ This page groups Nicolas Pereira's embedded operating systems coursework using E
 - Task scheduling concepts with FreeRTOS\r
 - Low-level timing and interrupt work\r
 - Progression from simple labs to concurrent firmware patterns\r
-`,Zs=`# 8-bit MCU PIC Projects\r
+`,er=`# 8-bit MCU PIC Projects\r
 \r
 This topic highlights Nicolas Pereira's Microchip PIC work focused on practical embedded control and automation exercises.\r
 \r
@@ -6302,7 +6302,7 @@ This topic highlights Nicolas Pereira's Microchip PIC work focused on practical 
 - Digital control logic and timing\r
 - Device-oriented problem solving\r
 - Small hardware-oriented utilities and experiments\r
-`,$s=`# Embedded Systems & Hardware\r
+`,nr=`# Embedded Systems & Hardware\r
 \r
 This collection groups the repositories that best represent Nicolas Pereira's work across microcontrollers, embedded software, control systems, and IoT fundamentals. The original source material mixed Portuguese notes and partial links; this version consolidates the public GitHub references into a cleaner English overview.\r
 \r
@@ -6335,7 +6335,7 @@ This collection groups the repositories that best represent Nicolas Pereira's wo
 - Embedded operating systems and task scheduling\r
 - Sensor integration and IoT data publishing\r
 - Mathematical modeling and controller design\r
-`,Xs=`# Front-End Fundamentals\r
+`,ir=`# Front-End Fundamentals\r
 \r
 This topic groups Nicolas Pereira's front-end coursework across HTML, CSS, JavaScript, React, and routing.\r
 \r
@@ -6362,7 +6362,7 @@ This topic groups Nicolas Pereira's front-end coursework across HTML, CSS, JavaS
 - Progressive move into React\r
 - Forms and client-side routing\r
 - Class and project-oriented front-end practice\r
-`,Ys=`# Internet of Things Labs\r
+`,tr=`# Internet of Things Labs\r
 \r
 This folder captures IoT exercises using ESP8266, ESP32, Arduino, sensors, and cloud publishing workflows.\r
 \r
@@ -6385,7 +6385,7 @@ This folder captures IoT exercises using ESP8266, ESP32, Arduino, sensors, and c
 - Wi-Fi connectivity on embedded hardware\r
 - ThingSpeak telemetry publishing\r
 - Introductory API integration for connected devices\r
-`,er=`# Java Backend and Spring Boot\r
+`,ar=`# Java Backend and Spring Boot\r
 \r
 This page groups the backend Java repository around REST APIs, DTOs, controllers, and service patterns.\r
 \r
@@ -6409,7 +6409,7 @@ This page groups the backend Java repository around REST APIs, DTOs, controllers
 - REST endpoints with Spring Boot\r
 - DTOs, services, and mapping layers\r
 - Project-based backend practice\r
-`,nr=`# Machine Learning Pipeline Exercises\r
+`,or=`# Machine Learning Pipeline Exercises\r
 \r
 This page gathers Nicolas Pereira's machine-learning coursework from preprocessing through deployment.\r
 \r
@@ -6438,7 +6438,7 @@ This page gathers Nicolas Pereira's machine-learning coursework from preprocessi
 - Classification, regression, and clustering\r
 - Evaluation and validation workflows\r
 - Applied projects tied to course progression\r
-`,ir=`# Android and Kotlin Coursework\r
+`,sr=`# Android and Kotlin Coursework\r
 \r
 This page covers the Android-focused half of Nicolas Pereira's mobile-development material.\r
 \r
@@ -6471,7 +6471,7 @@ This page covers the Android-focused half of Nicolas Pereira's mobile-developmen
 - Navigation and persistence\r
 - Compose and activity-level exercises\r
 - Small practical Android Studio apps\r
-`,tr=`# React Native Apps\r
+`,rr=`# React Native Apps\r
 \r
 This page captures the React Native section of the mobile-development material.\r
 \r
@@ -6501,7 +6501,7 @@ This page captures the React Native section of the mobile-development material.\
 - Basic app navigation and requests\r
 - Small feature-oriented React Native builds\r
 - Practical mobile UI experiments\r
-`,ar=`# Network Security and Defensive Topics\r
+`,cr=`# Network Security and Defensive Topics\r
 \r
 This topic summarizes the network-security repository and its progression across common security topics.\r
 \r
@@ -6531,7 +6531,7 @@ This topic summarizes the network-security repository and its progression across
 - Access control and hardening\r
 - Monitoring and remote access\r
 - Security concepts introduced through class labs\r
-`,or=`# Networks & Security\r
+`,ur=`# Networks & Security\r
 \r
 This section brings together the repositories related to network security and cybersecurity coursework, translated into English and reduced to the clearest public references.\r
 \r
@@ -6555,7 +6555,7 @@ This section brings together the repositories related to network security and cy
 - Network protection and access control\r
 - Risk, threat, and vulnerability awareness\r
 - Introductory defensive security concepts\r
-`,sr=`# Programming Languages\r
+`,lr=`# Programming Languages\r
 \r
 This section highlights repository work centered on language practice, with a strong emphasis on Python fundamentals and hands-on coding exercises.\r
 \r
@@ -6578,7 +6578,7 @@ This section highlights repository work centered on language practice, with a st
 - Introductory Python programming\r
 - Problem-solving through small exercises\r
 - Practical reinforcement of core syntax and logic\r
-`,rr=`# Python Foundations: Basics and Modules\r
+`,dr=`# Python Foundations: Basics and Modules\r
 \r
 This page covers the early Python exercises focused on arithmetic, modules, and text handling.\r
 \r
@@ -6607,7 +6607,7 @@ This page covers the early Python exercises focused on arithmetic, modules, and 
 - Standard-library usage\r
 - String handling\r
 - Beginner challenge progression\r
-`,cr=`# Python Foundations: Control Flow and Loops\r
+`,hr=`# Python Foundations: Control Flow and Loops\r
 \r
 This page focuses on the control-flow portion of the Python repository.\r
 \r
@@ -6636,7 +6636,7 @@ This page focuses on the control-flow portion of the Python repository.\r
 - Repetition and iteration\r
 - Small console challenges\r
 - Foundational problem-solving with Python\r
-`,ur=`# SQL Fundamentals\r
+`,mr=`# SQL Fundamentals\r
 \r
 This topic collects Nicolas Pereira's Database I work across schema definition, data manipulation, and querying.\r
 \r
@@ -6664,7 +6664,7 @@ This topic collects Nicolas Pereira's Database I work across schema definition, 
 - CRUD-oriented exercises\r
 - Relational querying\r
 - First-step database coursework\r
-`,lr=`# Web & Mobile Development\r
+`,pr=`# Web & Mobile Development\r
 \r
 These repositories show Nicolas Pereira's work across front-end fundamentals, Android development, and hybrid mobile applications with React Native.\r
 \r
@@ -6690,7 +6690,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - React-based component and routing practice\r
 - Native Android development with Kotlin\r
 - Hybrid mobile application exercises with React Native\r
-`,dr=`# 链接
+`,br=`# 链接
 
 ## 公开个人资料
 
@@ -6703,7 +6703,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 基于 AWS 的云架构
 - 数据流水线和应用集成
 - 安全且可持续的软件交付
-`,hr=`# Nicolas Pereira
+`,gr=`# Nicolas Pereira
 
 **初级软件开发工程师**
 
@@ -6716,7 +6716,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 拥有在云连接系统中使用 Python 和 Java 的经验，并实际应用 AWS 设计弹性基础设施，利用 Git 维持可靠的版本控制和协作。
 
 能自如应对技术和业务环境，与产品、营销和销售团队协作，将客户需求转化为切实且高影响力的解决方案。
-`,mr=`# 教育背景
+`,fr=`# 教育背景
 
 ## SATC - 圣卡塔琳娜州煤炭工业慈善协会
 
@@ -6727,7 +6727,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 **工业电子技术员** | 2009 - 2011
 
 - 开发了门禁控制设备、定时器和管理系统。
-`,pr=`# 项目和链接
+`,yr=`# 项目和链接
 
 ## 个人资料
 
@@ -6738,7 +6738,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 
 - 作品集和代码示例在 GitHub 上发布。
 - 职业履历和职业动态在 LinkedIn 上更新。
-`,br=`# 职业亮点
+`,Ar=`# 职业亮点
 
 ## 技术实力
 
@@ -6751,7 +6751,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 与产品、营销和销售团队合伙，使技术交付与客户预期保持一致。
 - 乐于通过切实且与业务相关的工程决策来解决复杂问题。
 - 对新工具、平台和实现模式保持持续学习的心态。
-`,gr=`# 经验
+`,qr=`# 经验
 
 ## DSP Technology (HK) Ltd.
 
@@ -6790,7 +6790,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 
 - 维护自动取款机和银行自动化系统。
 - 支持基于绩效的预防性维护流程。
-`,fr=`# 高级 SQL：连接与分析
+`,_r=`# 高级 SQL：连接与分析
 
 本页面介绍了数据库 II 存储库中有关连接 (Join)、CTE、关系运算符和分析查询的部分。
 
@@ -6821,7 +6821,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 子查询与 CTE
 - 窗口函数
 - 评估形式的分析练习
-`,yr=`# 高级 SQL：T-SQL 与 触发器
+`,vr=`# 高级 SQL：T-SQL 与 触发器
 
 本页面侧重展示数据库 II 存储库中的 T-SQL 编程部分。
 
@@ -6851,7 +6851,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - SQL 流程控制
 - 查询优化与索引
 - 基于触发器的业务规则
-`,Ar=`# 应用统计学、抽样与 Pandas
+`,Cr=`# 应用统计学、抽样与 Pandas
 
 本主题围绕使用 Pandas 和抽样技术的练习，整理了应用统计学存储库。
 
@@ -6880,7 +6880,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 抽样方法论
 - 统计报告
 - 将课堂练习转化为可重复的笔记本
-`,qr=`# 人工智能、搜索与优化
+`,xr=`# 人工智能、搜索与优化
 
 本主题围绕搜索、启发式、模糊逻辑和优化整理了人工智能存储库。
 
@@ -6910,7 +6910,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 模糊系统
 - 遗传优化
 - 与代码练习和笔记本相关的人工智能内容
-`,_r=`# C++ 练习
+`,kr=`# C++ 练习
 
 本页面总结了 Nicolas Pereira 的 C++ 存储库，内容从终端输入到面向对象编程逐步进阶。
 
@@ -6942,7 +6942,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 函数和数据结构
 - 面向对象编程 (POO)、继承和构造函数
 - 编译型代码中的问题解决
-`,vr=`# 云计算
+`,Er=`# 云计算
 
 云计算存储库汇集了专注于支撑现代基础设施和分布式系统的核心主题的学术活动。
 
@@ -6961,7 +6961,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 基础设施核心概念
 - 分布式存储基础
 - 云应用和部署模式
-`,Cr=`# 云计算基础
+`,Sr=`# 云计算基础
 
 本主题总结了 Nicolas Pereira 的云计算内容及其以系统为导向的基础。
 
@@ -6982,7 +6982,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 存储和文件系统
 - 初步接触分布式系统
 - 未来云工作的功能性基础
-`,xr=`# 计算机科学基础
+`,zr=`# 计算机科学基础
 
 这组存储库集中了计算机科学的核心练习，特别是数据结构、经典组织模式和算法思维。
 
@@ -7004,7 +7004,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 数据结构与算法基础
 - 问题分解与结构化实践
 - 计算机科学中以代码实现的经典构建块
-`,kr=`# 控制系统分析
+`,Lr=`# 控制系统分析
 
 本主题总结了 Nicolas Pereira 的控制系统存储库以及与控制器设计相关的工作。
 
@@ -7029,7 +7029,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 经典控制分析
 - 笔记本中的数值实验
 - 结合实际案例的控制器设计
-`,Er=`# 网络安全原则
+`,Dr=`# 网络安全原则
 
 本主题重点展示致力于安全基础、威胁和工程社交的网络安全存储库。
 
@@ -7051,7 +7051,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 风险与漏洞框架
 - 加密与访问的入门知识
 - 用户意识与钓鱼防范
-`,Sr=`# 数据科学与人工智能
+`,wr=`# 数据科学与人工智能
 
 这些存储库汇集了 Nicolas Pereira 在统计学、数据科学、机器学习和人工智能方面的学术背景和实践研究。原始列表已重新整理为更清晰的发布版本。
 
@@ -7083,7 +7083,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 使用笔记本探索数据集
 - 监督学习和无监督学习基础
 - 搜索技术、优化和启发式 AI
-`,zr=`# 数据科学笔记本
+`,Pr=`# 数据科学笔记本
 
 本页面涵盖了 Nicolas Pereira 的数据科学内容，重点关注笔记本、统计学和探索性分析。
 
@@ -7113,7 +7113,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 统计思维
 - 笔记本工作流
 - 回归和气候数据的应用练习
-`,Lr=`# 数据结构：列表与栈
+`,Tr=`# 数据结构：列表与栈
 
 本页面涵盖了 Nicolas Pereira 数据结构存储库中侧重于列表和栈的练习。
 
@@ -7140,7 +7140,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 插入、查找、删除和打印操作
 - Python 应用示例
 - 数据结构的初步逻辑思考
-`,Dr=`# 数据结构：树、字典与搜索
+`,Fr=`# 数据结构：树、字典与搜索
 
 本页面汇集了数据结构内容中较高级的部分，主要围绕树、字典、排序和搜索展开。
 
@@ -7168,7 +7168,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 排序逻辑
 - 树形结构
 - 图搜索基础
-`,wr=`# 数据库
+`,Rr=`# 数据库
 
 数据库作品集专注于 SQL 和 T-SQL 的实践，涵盖了从核心查询到索引、连接 (Joins)、存储过程以及基于触发器 (Triggers) 的练习。
 
@@ -7190,7 +7190,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 通过索引进行性能优化
 - 使用存储过程的过程化 SQL
 - 带有触发器和数据库自动化的逻辑
-`,Pr=`# Delphi 经典项目
+`,Mr=`# Delphi 经典项目
 
 本主题保留了 Nicolas Pereira 早期使用 Delphi 编写的作品以及基于 Pascal 的桌面端练习。
 
@@ -7212,7 +7212,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 展示了 Nicolas Pereira 编程轨迹的早期阶段
 - 在转向当前的 Web 和云技术栈之前，保留了桌面端应用的实验过程
 - 为作品集增添了历史背景
-`,Tr=`# 嵌入式操作系统：ESP32 与 Arduino
+`,Ir=`# 嵌入式操作系统：ESP32 与 Arduino
 
 本页面汇集了使用 ESP32 和 Arduino 开发板的嵌入式操作系统内容。
 
@@ -7235,7 +7235,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 使用 FreeRTOS 进行任务调度
 - 底层定时与中断工作
 - 从基础实验室到并发固件模式的演进
-`,Fr=`# 8 位 PIC 项目
+`,jr=`# 8 位 PIC 项目
 
 本主题重点展示使用 Microchip PIC 进行嵌入式控制与自动化实践练习的工作。
 
@@ -7258,7 +7258,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 数字控制逻辑与定时
 - 面向设备的问题解决
 - 侧重于硬件的实用程序和实验
-`,Rr=`# 嵌入式系统与硬件
+`,Br=`# 嵌入式系统与硬件
 
 本合集汇集了最能代表 Nicolas Pereira 在微控制器、嵌入式软件、控制系统和物联网基础方面工作的存储库。原始材料混杂了葡萄牙语注释和部分链接；本版本将 GitHub 公开引用整合为更清晰的概览。
 
@@ -7291,7 +7291,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 嵌入式操作系统与任务调度
 - 传感器集成与物联网数据发布
 - 数学建模与控制器设计
-`,Ir=`# 前端基础
+`,Qr=`# 前端基础
 
 本主题汇集了关于 HTML、CSS、JavaScript、React 和路由的前端内容。
 
@@ -7318,7 +7318,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 逐步演进至 React
 - 客户端表单与路由
 - 课堂及项目中的前端实践
-`,Mr=`# 物联网实验室
+`,Nr=`# 物联网实验室
 
 本文件夹汇集了使用 ESP8266、ESP32、Arduino、传感器及云发布流程进行的物联网练习。
 
@@ -7341,7 +7341,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 嵌入式硬件的 Wi-Fi 连接
 - 在 ThingSpeak 上发布遥测数据
 - 连接设备的初始 API 集成
-`,jr=`# Java 后端与 Spring Boot
+`,Or=`# Java 后端与 Spring Boot
 
 本页面围绕 REST API、DTO、控制器和工作模式整理了 Java 后端存储库。
 
@@ -7365,7 +7365,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 使用 Spring Boot 构建 REST 端点
 - DTO、服务和映射
 - 面向项目的后端实践
-`,Br=`# 机器学习流水线练习
+`,Gr=`# 机器学习流水线练习
 
 本页面汇集了 Nicolas Pereira 的机器学习内容，从预处理到部署。
 
@@ -7394,7 +7394,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 分类、回归和聚类
 - 评估和验证流程
 - 与课程进展相关的应用项目
-`,Qr=`# Android 与 Kotlin
+`,Wr=`# Android 与 Kotlin
 
 本页面涵盖了移动开发材料中的 Android 部分。
 
@@ -7427,7 +7427,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 导航与持久化
 - Compose 及 Activity 级别的练习
 - Android Studio 中的小型实用 App
-`,Nr=`# React Native 应用
+`,Jr=`# React Native 应用
 
 本页面汇集了移动开发材料中的 React Native 部分。
 
@@ -7457,7 +7457,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 基础导航与请求处理
 - 以功能为导向的小型 App
 - 移动端界面的实践练习
-`,Or=`# 网络安全与防御主题
+`,Ur=`# 网络安全与防御主题
 
 本主题总结了网络安全存储库及其在行业常见主题中的进展。
 
@@ -7487,7 +7487,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 访问控制与加固
 - 监控与远程访问
 - 通过实验室引入的安全概念
-`,Gr=`# 网络与安全
+`,Hr=`# 网络与安全
 
 本节汇集了与网络安全和网络安全相关的存储库，以更清晰的公开视角呈现。
 
@@ -7511,7 +7511,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 网络保护与访问控制
 - 风险、威胁与漏洞意识
 - 防御性安全的入门概念
-`,Wr=`# 编程语言
+`,Kr=`# 编程语言
 
 本节重点展示侧重于语言实践的存储库作品，特别强调 Python 基础和实际编程练习。
 
@@ -7534,7 +7534,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - Python 入门编程
 - 通过小型练习解决问题
 - 基础语法与逻辑的实际强化
-`,Jr=`# Python 基础：基础与模块
+`,Vr=`# Python 基础：基础与模块
 
 本页面涵盖了 Python 的初步练习，重点关注算术、模块和文本操作。
 
@@ -7563,7 +7563,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 标准库的使用
 - 字符串操作
 - 通过初学者挑战进阶
-`,Ur=`# Python 基础：流程控制与循环
+`,Zr=`# Python 基础：流程控制与循环
 
 本页面由 Python 存储库中的流程控制部分组成。
 
@@ -7592,7 +7592,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 重复与迭代
 - 终端小挑战
 - 使用 Python 解决问题
-`,Hr=`# SQL 基础
+`,$r=`# SQL 基础
 
 本主题汇集了 Nicolas Pereira 在数据库 I 中关于架构定义、数据操作和查询的内容。
 
@@ -7620,7 +7620,7 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - 以 CRUD 为导向的练习
 - 关系查询
 - 数据库探索的第一步
-`,Kr=`# Web 与 移动开发
+`,Xr=`# Web 与 移动开发
 
 这些存储库展示了 Nicolas Pereira 在前端基础、Android 开发以及使用 React Native 开发混合移动应用方面的工作。
 
@@ -7646,8 +7646,8 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 - React 中组件与路由的实践
 - 使用 Kotlin 的原生 Android 开发
 - React Native 混合应用练习
-`,Be={};function Vr(e){let n=Be[e];if(n)return n;n=Be[e]=[];for(let i=0;i<128;i++){const t=String.fromCharCode(i);n.push(t)}for(let i=0;i<e.length;i++){const t=e.charCodeAt(i);n[t]="%"+("0"+t.toString(16).toUpperCase()).slice(-2)}return n}function U(e,n){typeof n!="string"&&(n=U.defaultChars);const i=Vr(n);return e.replace(/(%[a-f0-9]{2})+/gi,function(t){let a="";for(let o=0,r=t.length;o<r;o+=3){const s=parseInt(t.slice(o+1,o+3),16);if(s<128){a+=i[s];continue}if((s&224)===192&&o+3<r){const c=parseInt(t.slice(o+4,o+6),16);if((c&192)===128){const u=s<<6&1984|c&63;u<128?a+="��":a+=String.fromCharCode(u),o+=3;continue}}if((s&240)===224&&o+6<r){const c=parseInt(t.slice(o+4,o+6),16),u=parseInt(t.slice(o+7,o+9),16);if((c&192)===128&&(u&192)===128){const l=s<<12&61440|c<<6&4032|u&63;l<2048||l>=55296&&l<=57343?a+="���":a+=String.fromCharCode(l),o+=6;continue}}if((s&248)===240&&o+9<r){const c=parseInt(t.slice(o+4,o+6),16),u=parseInt(t.slice(o+7,o+9),16),l=parseInt(t.slice(o+10,o+12),16);if((c&192)===128&&(u&192)===128&&(l&192)===128){let h=s<<18&1835008|c<<12&258048|u<<6&4032|l&63;h<65536||h>1114111?a+="����":(h-=65536,a+=String.fromCharCode(55296+(h>>10),56320+(h&1023))),o+=9;continue}}a+="�"}return a})}U.defaultChars=";/?:@&=+$,#";U.componentChars="";const Qe={};function Zr(e){let n=Qe[e];if(n)return n;n=Qe[e]=[];for(let i=0;i<128;i++){const t=String.fromCharCode(i);/^[0-9a-z]$/i.test(t)?n.push(t):n.push("%"+("0"+i.toString(16).toUpperCase()).slice(-2))}for(let i=0;i<e.length;i++)n[e.charCodeAt(i)]=e[i];return n}function ee(e,n,i){typeof n!="string"&&(i=n,n=ee.defaultChars),typeof i>"u"&&(i=!0);const t=Zr(n);let a="";for(let o=0,r=e.length;o<r;o++){const s=e.charCodeAt(o);if(i&&s===37&&o+2<r&&/^[0-9a-f]{2}$/i.test(e.slice(o+1,o+3))){a+=e.slice(o,o+3),o+=2;continue}if(s<128){a+=t[s];continue}if(s>=55296&&s<=57343){if(s>=55296&&s<=56319&&o+1<r){const c=e.charCodeAt(o+1);if(c>=56320&&c<=57343){a+=encodeURIComponent(e[o]+e[o+1]),o++;continue}}a+="%EF%BF%BD";continue}a+=encodeURIComponent(e[o])}return a}ee.defaultChars=";/?:@&=+$,-_.!~*'()#";ee.componentChars="-_.!~*'()";function Se(e){let n="";return n+=e.protocol||"",n+=e.slashes?"//":"",n+=e.auth?e.auth+"@":"",e.hostname&&e.hostname.indexOf(":")!==-1?n+="["+e.hostname+"]":n+=e.hostname||"",n+=e.port?":"+e.port:"",n+=e.pathname||"",n+=e.search||"",n+=e.hash||"",n}function oe(){this.protocol=null,this.slashes=null,this.auth=null,this.port=null,this.hostname=null,this.hash=null,this.search=null,this.pathname=null}const $r=/^([a-z0-9.+-]+:)/i,Xr=/:[0-9]*$/,Yr=/^(\/\/?(?!\/)[^\?\s]*)(\?[^\s]*)?$/,ec=["<",">",'"',"`"," ","\r",`
-`,"	"],nc=["{","}","|","\\","^","`"].concat(ec),ic=["'"].concat(nc),Ne=["%","/","?",";","#"].concat(ic),Oe=["/","?","#"],tc=255,Ge=/^[+a-z0-9A-Z_-]{0,63}$/,ac=/^([+a-z0-9A-Z_-]{0,63})(.*)$/,We={javascript:!0,"javascript:":!0},Je={http:!0,https:!0,ftp:!0,gopher:!0,file:!0,"http:":!0,"https:":!0,"ftp:":!0,"gopher:":!0,"file:":!0};function ze(e,n){if(e&&e instanceof oe)return e;const i=new oe;return i.parse(e,n),i}oe.prototype.parse=function(e,n){let i,t,a,o=e;if(o=o.trim(),!n&&e.split("#").length===1){const u=Yr.exec(o);if(u)return this.pathname=u[1],u[2]&&(this.search=u[2]),this}let r=$r.exec(o);if(r&&(r=r[0],i=r.toLowerCase(),this.protocol=r,o=o.substr(r.length)),(n||r||o.match(/^\/\/[^@\/]+@[^@\/]+/))&&(a=o.substr(0,2)==="//",a&&!(r&&We[r])&&(o=o.substr(2),this.slashes=!0)),!We[r]&&(a||r&&!Je[r])){let u=-1;for(let d=0;d<Oe.length;d++)t=o.indexOf(Oe[d]),t!==-1&&(u===-1||t<u)&&(u=t);let l,h;u===-1?h=o.lastIndexOf("@"):h=o.lastIndexOf("@",u),h!==-1&&(l=o.slice(0,h),o=o.slice(h+1),this.auth=l),u=-1;for(let d=0;d<Ne.length;d++)t=o.indexOf(Ne[d]),t!==-1&&(u===-1||t<u)&&(u=t);u===-1&&(u=o.length),o[u-1]===":"&&u--;const p=o.slice(0,u);o=o.slice(u),this.parseHost(p),this.hostname=this.hostname||"";const m=this.hostname[0]==="["&&this.hostname[this.hostname.length-1]==="]";if(!m){const d=this.hostname.split(/\./);for(let A=0,q=d.length;A<q;A++){const v=d[A];if(v&&!v.match(Ge)){let b="";for(let f=0,g=v.length;f<g;f++)v.charCodeAt(f)>127?b+="x":b+=v[f];if(!b.match(Ge)){const f=d.slice(0,A),g=d.slice(A+1),y=v.match(ac);y&&(f.push(y[1]),g.unshift(y[2])),g.length&&(o=g.join(".")+o),this.hostname=f.join(".");break}}}}this.hostname.length>tc&&(this.hostname=""),m&&(this.hostname=this.hostname.substr(1,this.hostname.length-2))}const s=o.indexOf("#");s!==-1&&(this.hash=o.substr(s),o=o.slice(0,s));const c=o.indexOf("?");return c!==-1&&(this.search=o.substr(c),o=o.slice(0,c)),o&&(this.pathname=o),Je[i]&&this.hostname&&!this.pathname&&(this.pathname=""),this};oe.prototype.parseHost=function(e){let n=Xr.exec(e);n&&(n=n[0],n!==":"&&(this.port=n.substr(1)),e=e.substr(0,e.length-n.length)),e&&(this.hostname=e)};const oc=Object.freeze(Object.defineProperty({__proto__:null,decode:U,encode:ee,format:Se,parse:ze},Symbol.toStringTag,{value:"Module"})),on=/[\0-\uD7FF\uE000-\uFFFF]|[\uD800-\uDBFF][\uDC00-\uDFFF]|[\uD800-\uDBFF](?![\uDC00-\uDFFF])|(?:[^\uD800-\uDBFF]|^)[\uDC00-\uDFFF]/,sn=/[\0-\x1F\x7F-\x9F]/,sc=/[\xAD\u0600-\u0605\u061C\u06DD\u070F\u0890\u0891\u08E2\u180E\u200B-\u200F\u202A-\u202E\u2060-\u2064\u2066-\u206F\uFEFF\uFFF9-\uFFFB]|\uD804[\uDCBD\uDCCD]|\uD80D[\uDC30-\uDC3F]|\uD82F[\uDCA0-\uDCA3]|\uD834[\uDD73-\uDD7A]|\uDB40[\uDC01\uDC20-\uDC7F]/,Le=/[!-#%-\*,-\/:;\?@\[-\]_\{\}\xA1\xA7\xAB\xB6\xB7\xBB\xBF\u037E\u0387\u055A-\u055F\u0589\u058A\u05BE\u05C0\u05C3\u05C6\u05F3\u05F4\u0609\u060A\u060C\u060D\u061B\u061D-\u061F\u066A-\u066D\u06D4\u0700-\u070D\u07F7-\u07F9\u0830-\u083E\u085E\u0964\u0965\u0970\u09FD\u0A76\u0AF0\u0C77\u0C84\u0DF4\u0E4F\u0E5A\u0E5B\u0F04-\u0F12\u0F14\u0F3A-\u0F3D\u0F85\u0FD0-\u0FD4\u0FD9\u0FDA\u104A-\u104F\u10FB\u1360-\u1368\u1400\u166E\u169B\u169C\u16EB-\u16ED\u1735\u1736\u17D4-\u17D6\u17D8-\u17DA\u1800-\u180A\u1944\u1945\u1A1E\u1A1F\u1AA0-\u1AA6\u1AA8-\u1AAD\u1B5A-\u1B60\u1B7D\u1B7E\u1BFC-\u1BFF\u1C3B-\u1C3F\u1C7E\u1C7F\u1CC0-\u1CC7\u1CD3\u2010-\u2027\u2030-\u2043\u2045-\u2051\u2053-\u205E\u207D\u207E\u208D\u208E\u2308-\u230B\u2329\u232A\u2768-\u2775\u27C5\u27C6\u27E6-\u27EF\u2983-\u2998\u29D8-\u29DB\u29FC\u29FD\u2CF9-\u2CFC\u2CFE\u2CFF\u2D70\u2E00-\u2E2E\u2E30-\u2E4F\u2E52-\u2E5D\u3001-\u3003\u3008-\u3011\u3014-\u301F\u3030\u303D\u30A0\u30FB\uA4FE\uA4FF\uA60D-\uA60F\uA673\uA67E\uA6F2-\uA6F7\uA874-\uA877\uA8CE\uA8CF\uA8F8-\uA8FA\uA8FC\uA92E\uA92F\uA95F\uA9C1-\uA9CD\uA9DE\uA9DF\uAA5C-\uAA5F\uAADE\uAADF\uAAF0\uAAF1\uABEB\uFD3E\uFD3F\uFE10-\uFE19\uFE30-\uFE52\uFE54-\uFE61\uFE63\uFE68\uFE6A\uFE6B\uFF01-\uFF03\uFF05-\uFF0A\uFF0C-\uFF0F\uFF1A\uFF1B\uFF1F\uFF20\uFF3B-\uFF3D\uFF3F\uFF5B\uFF5D\uFF5F-\uFF65]|\uD800[\uDD00-\uDD02\uDF9F\uDFD0]|\uD801\uDD6F|\uD802[\uDC57\uDD1F\uDD3F\uDE50-\uDE58\uDE7F\uDEF0-\uDEF6\uDF39-\uDF3F\uDF99-\uDF9C]|\uD803[\uDEAD\uDF55-\uDF59\uDF86-\uDF89]|\uD804[\uDC47-\uDC4D\uDCBB\uDCBC\uDCBE-\uDCC1\uDD40-\uDD43\uDD74\uDD75\uDDC5-\uDDC8\uDDCD\uDDDB\uDDDD-\uDDDF\uDE38-\uDE3D\uDEA9]|\uD805[\uDC4B-\uDC4F\uDC5A\uDC5B\uDC5D\uDCC6\uDDC1-\uDDD7\uDE41-\uDE43\uDE60-\uDE6C\uDEB9\uDF3C-\uDF3E]|\uD806[\uDC3B\uDD44-\uDD46\uDDE2\uDE3F-\uDE46\uDE9A-\uDE9C\uDE9E-\uDEA2\uDF00-\uDF09]|\uD807[\uDC41-\uDC45\uDC70\uDC71\uDEF7\uDEF8\uDF43-\uDF4F\uDFFF]|\uD809[\uDC70-\uDC74]|\uD80B[\uDFF1\uDFF2]|\uD81A[\uDE6E\uDE6F\uDEF5\uDF37-\uDF3B\uDF44]|\uD81B[\uDE97-\uDE9A\uDFE2]|\uD82F\uDC9F|\uD836[\uDE87-\uDE8B]|\uD83A[\uDD5E\uDD5F]/,rn=/[\$\+<->\^`\|~\xA2-\xA6\xA8\xA9\xAC\xAE-\xB1\xB4\xB8\xD7\xF7\u02C2-\u02C5\u02D2-\u02DF\u02E5-\u02EB\u02ED\u02EF-\u02FF\u0375\u0384\u0385\u03F6\u0482\u058D-\u058F\u0606-\u0608\u060B\u060E\u060F\u06DE\u06E9\u06FD\u06FE\u07F6\u07FE\u07FF\u0888\u09F2\u09F3\u09FA\u09FB\u0AF1\u0B70\u0BF3-\u0BFA\u0C7F\u0D4F\u0D79\u0E3F\u0F01-\u0F03\u0F13\u0F15-\u0F17\u0F1A-\u0F1F\u0F34\u0F36\u0F38\u0FBE-\u0FC5\u0FC7-\u0FCC\u0FCE\u0FCF\u0FD5-\u0FD8\u109E\u109F\u1390-\u1399\u166D\u17DB\u1940\u19DE-\u19FF\u1B61-\u1B6A\u1B74-\u1B7C\u1FBD\u1FBF-\u1FC1\u1FCD-\u1FCF\u1FDD-\u1FDF\u1FED-\u1FEF\u1FFD\u1FFE\u2044\u2052\u207A-\u207C\u208A-\u208C\u20A0-\u20C0\u2100\u2101\u2103-\u2106\u2108\u2109\u2114\u2116-\u2118\u211E-\u2123\u2125\u2127\u2129\u212E\u213A\u213B\u2140-\u2144\u214A-\u214D\u214F\u218A\u218B\u2190-\u2307\u230C-\u2328\u232B-\u2426\u2440-\u244A\u249C-\u24E9\u2500-\u2767\u2794-\u27C4\u27C7-\u27E5\u27F0-\u2982\u2999-\u29D7\u29DC-\u29FB\u29FE-\u2B73\u2B76-\u2B95\u2B97-\u2BFF\u2CE5-\u2CEA\u2E50\u2E51\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u2FF0-\u2FFF\u3004\u3012\u3013\u3020\u3036\u3037\u303E\u303F\u309B\u309C\u3190\u3191\u3196-\u319F\u31C0-\u31E3\u31EF\u3200-\u321E\u322A-\u3247\u3250\u3260-\u327F\u328A-\u32B0\u32C0-\u33FF\u4DC0-\u4DFF\uA490-\uA4C6\uA700-\uA716\uA720\uA721\uA789\uA78A\uA828-\uA82B\uA836-\uA839\uAA77-\uAA79\uAB5B\uAB6A\uAB6B\uFB29\uFBB2-\uFBC2\uFD40-\uFD4F\uFDCF\uFDFC-\uFDFF\uFE62\uFE64-\uFE66\uFE69\uFF04\uFF0B\uFF1C-\uFF1E\uFF3E\uFF40\uFF5C\uFF5E\uFFE0-\uFFE6\uFFE8-\uFFEE\uFFFC\uFFFD]|\uD800[\uDD37-\uDD3F\uDD79-\uDD89\uDD8C-\uDD8E\uDD90-\uDD9C\uDDA0\uDDD0-\uDDFC]|\uD802[\uDC77\uDC78\uDEC8]|\uD805\uDF3F|\uD807[\uDFD5-\uDFF1]|\uD81A[\uDF3C-\uDF3F\uDF45]|\uD82F\uDC9C|\uD833[\uDF50-\uDFC3]|\uD834[\uDC00-\uDCF5\uDD00-\uDD26\uDD29-\uDD64\uDD6A-\uDD6C\uDD83\uDD84\uDD8C-\uDDA9\uDDAE-\uDDEA\uDE00-\uDE41\uDE45\uDF00-\uDF56]|\uD835[\uDEC1\uDEDB\uDEFB\uDF15\uDF35\uDF4F\uDF6F\uDF89\uDFA9\uDFC3]|\uD836[\uDC00-\uDDFF\uDE37-\uDE3A\uDE6D-\uDE74\uDE76-\uDE83\uDE85\uDE86]|\uD838[\uDD4F\uDEFF]|\uD83B[\uDCAC\uDCB0\uDD2E\uDEF0\uDEF1]|\uD83C[\uDC00-\uDC2B\uDC30-\uDC93\uDCA0-\uDCAE\uDCB1-\uDCBF\uDCC1-\uDCCF\uDCD1-\uDCF5\uDD0D-\uDDAD\uDDE6-\uDE02\uDE10-\uDE3B\uDE40-\uDE48\uDE50\uDE51\uDE60-\uDE65\uDF00-\uDFFF]|\uD83D[\uDC00-\uDED7\uDEDC-\uDEEC\uDEF0-\uDEFC\uDF00-\uDF76\uDF7B-\uDFD9\uDFE0-\uDFEB\uDFF0]|\uD83E[\uDC00-\uDC0B\uDC10-\uDC47\uDC50-\uDC59\uDC60-\uDC87\uDC90-\uDCAD\uDCB0\uDCB1\uDD00-\uDE53\uDE60-\uDE6D\uDE70-\uDE7C\uDE80-\uDE88\uDE90-\uDEBD\uDEBF-\uDEC5\uDECE-\uDEDB\uDEE0-\uDEE8\uDEF0-\uDEF8\uDF00-\uDF92\uDF94-\uDFCA]/,cn=/[ \xA0\u1680\u2000-\u200A\u2028\u2029\u202F\u205F\u3000]/,rc=Object.freeze(Object.defineProperty({__proto__:null,Any:on,Cc:sn,Cf:sc,P:Le,S:rn,Z:cn},Symbol.toStringTag,{value:"Module"})),cc=new Uint16Array('ᵁ<Õıʊҝջאٵ۞ޢߖࠏ੊ઑඡ๭༉༦჊ረዡᐕᒝᓃᓟᔥ\0\0\0\0\0\0ᕫᛍᦍᰒᷝ὾⁠↰⊍⏀⏻⑂⠤⤒ⴈ⹈⿎〖㊺㘹㞬㣾㨨㩱㫠㬮ࠀEMabcfglmnoprstu\\bfms¦³¹ÈÏlig耻Æ䃆P耻&䀦cute耻Á䃁reve;䄂Āiyx}rc耻Â䃂;䐐r;쀀𝔄rave耻À䃀pha;䎑acr;䄀d;橓Āgp¡on;䄄f;쀀𝔸plyFunction;恡ing耻Å䃅Ācs¾Ãr;쀀𝒜ign;扔ilde耻Ã䃃ml耻Ä䃄ЀaceforsuåûþėĜĢħĪĀcrêòkslash;或Ŷöø;櫧ed;挆y;䐑ƀcrtąċĔause;戵noullis;愬a;䎒r;쀀𝔅pf;쀀𝔹eve;䋘còēmpeq;扎܀HOacdefhilorsuōőŖƀƞƢƵƷƺǜȕɳɸɾcy;䐧PY耻©䂩ƀcpyŝŢźute;䄆Ā;iŧŨ拒talDifferentialD;慅leys;愭ȀaeioƉƎƔƘron;䄌dil耻Ç䃇rc;䄈nint;戰ot;䄊ĀdnƧƭilla;䂸terDot;䂷òſi;䎧rcleȀDMPTǇǋǑǖot;抙inus;抖lus;投imes;抗oĀcsǢǸkwiseContourIntegral;戲eCurlyĀDQȃȏoubleQuote;思uote;怙ȀlnpuȞȨɇɕonĀ;eȥȦ户;橴ƀgitȯȶȺruent;扡nt;戯ourIntegral;戮ĀfrɌɎ;愂oduct;成nterClockwiseContourIntegral;戳oss;樯cr;쀀𝒞pĀ;Cʄʅ拓ap;才րDJSZacefiosʠʬʰʴʸˋ˗ˡ˦̳ҍĀ;oŹʥtrahd;椑cy;䐂cy;䐅cy;䐏ƀgrsʿ˄ˇger;怡r;憡hv;櫤Āayː˕ron;䄎;䐔lĀ;t˝˞戇a;䎔r;쀀𝔇Āaf˫̧Ācm˰̢riticalȀADGT̖̜̀̆cute;䂴oŴ̋̍;䋙bleAcute;䋝rave;䁠ilde;䋜ond;拄ferentialD;慆Ѱ̽\0\0\0͔͂\0Ѕf;쀀𝔻ƀ;DE͈͉͍䂨ot;惜qual;扐blèCDLRUVͣͲ΂ϏϢϸontourIntegraìȹoɴ͹\0\0ͻ»͉nArrow;懓Āeo·ΤftƀARTΐΖΡrrow;懐ightArrow;懔eåˊngĀLRΫτeftĀARγιrrow;柸ightArrow;柺ightArrow;柹ightĀATϘϞrrow;懒ee;抨pɁϩ\0\0ϯrrow;懑ownArrow;懕erticalBar;戥ǹABLRTaВЪаўѿͼrrowƀ;BUНОТ憓ar;椓pArrow;懵reve;䌑eft˒к\0ц\0ѐightVector;楐eeVector;楞ectorĀ;Bљњ憽ar;楖ightǔѧ\0ѱeeVector;楟ectorĀ;BѺѻ懁ar;楗eeĀ;A҆҇护rrow;憧ĀctҒҗr;쀀𝒟rok;䄐ࠀNTacdfglmopqstuxҽӀӄӋӞӢӧӮӵԡԯԶՒ՝ՠեG;䅊H耻Ð䃐cute耻É䃉ƀaiyӒӗӜron;䄚rc耻Ê䃊;䐭ot;䄖r;쀀𝔈rave耻È䃈ement;戈ĀapӺӾcr;䄒tyɓԆ\0\0ԒmallSquare;旻erySmallSquare;斫ĀgpԦԪon;䄘f;쀀𝔼silon;䎕uĀaiԼՉlĀ;TՂՃ橵ilde;扂librium;懌Āci՗՚r;愰m;橳a;䎗ml耻Ë䃋Āipժկsts;戃onentialE;慇ʀcfiosօֈ֍ֲ׌y;䐤r;쀀𝔉lledɓ֗\0\0֣mallSquare;旼erySmallSquare;斪Ͱֺ\0ֿ\0\0ׄf;쀀𝔽All;戀riertrf;愱cò׋؀JTabcdfgorstר׬ׯ׺؀ؒؖ؛؝أ٬ٲcy;䐃耻>䀾mmaĀ;d׷׸䎓;䏜reve;䄞ƀeiy؇،ؐdil;䄢rc;䄜;䐓ot;䄠r;쀀𝔊;拙pf;쀀𝔾eater̀EFGLSTصلَٖٛ٦qualĀ;Lؾؿ扥ess;招ullEqual;执reater;檢ess;扷lantEqual;橾ilde;扳cr;쀀𝒢;扫ЀAacfiosuڅڋږڛڞڪھۊRDcy;䐪Āctڐڔek;䋇;䁞irc;䄤r;愌lbertSpace;愋ǰگ\0ڲf;愍izontalLine;攀Āctۃۅòکrok;䄦mpńېۘownHumðįqual;扏܀EJOacdfgmnostuۺ۾܃܇܎ܚܞܡܨ݄ݸދޏޕcy;䐕lig;䄲cy;䐁cute耻Í䃍Āiyܓܘrc耻Î䃎;䐘ot;䄰r;愑rave耻Ì䃌ƀ;apܠܯܿĀcgܴܷr;䄪inaryI;慈lieóϝǴ݉\0ݢĀ;eݍݎ戬Āgrݓݘral;戫section;拂isibleĀCTݬݲomma;恣imes;恢ƀgptݿރވon;䄮f;쀀𝕀a;䎙cr;愐ilde;䄨ǫޚ\0ޞcy;䐆l耻Ï䃏ʀcfosuެ޷޼߂ߐĀiyޱ޵rc;䄴;䐙r;쀀𝔍pf;쀀𝕁ǣ߇\0ߌr;쀀𝒥rcy;䐈kcy;䐄΀HJacfosߤߨ߽߬߱ࠂࠈcy;䐥cy;䐌ppa;䎚Āey߶߻dil;䄶;䐚r;쀀𝔎pf;쀀𝕂cr;쀀𝒦րJTaceflmostࠥࠩࠬࡐࡣ঳সে্਷ੇcy;䐉耻<䀼ʀcmnpr࠷࠼ࡁࡄࡍute;䄹bda;䎛g;柪lacetrf;愒r;憞ƀaeyࡗ࡜ࡡron;䄽dil;䄻;䐛Āfsࡨ॰tԀACDFRTUVarࡾࢩࢱࣦ࣠ࣼयज़ΐ४Ānrࢃ࢏gleBracket;柨rowƀ;BR࢙࢚࢞憐ar;懤ightArrow;懆eiling;挈oǵࢷ\0ࣃbleBracket;柦nǔࣈ\0࣒eeVector;楡ectorĀ;Bࣛࣜ懃ar;楙loor;挊ightĀAV࣯ࣵrrow;憔ector;楎Āerँगeƀ;AVउऊऐ抣rrow;憤ector;楚iangleƀ;BEतथऩ抲ar;槏qual;抴pƀDTVषूौownVector;楑eeVector;楠ectorĀ;Bॖॗ憿ar;楘ectorĀ;B॥०憼ar;楒ightáΜs̀EFGLSTॾঋকঝঢভqualGreater;拚ullEqual;扦reater;扶ess;檡lantEqual;橽ilde;扲r;쀀𝔏Ā;eঽা拘ftarrow;懚idot;䄿ƀnpw৔ਖਛgȀLRlr৞৷ਂਐeftĀAR০৬rrow;柵ightArrow;柷ightArrow;柶eftĀarγਊightáοightáϊf;쀀𝕃erĀLRਢਬeftArrow;憙ightArrow;憘ƀchtਾੀੂòࡌ;憰rok;䅁;扪Ѐacefiosuਗ਼੝੠੷੼અઋ઎p;椅y;䐜Ādl੥੯iumSpace;恟lintrf;愳r;쀀𝔐nusPlus;戓pf;쀀𝕄cò੶;䎜ҀJacefostuણધભીଔଙඑ඗ඞcy;䐊cute;䅃ƀaey઴હાron;䅇dil;䅅;䐝ƀgswે૰଎ativeƀMTV૓૟૨ediumSpace;怋hiĀcn૦૘ë૙eryThiî૙tedĀGL૸ଆreaterGreateòٳessLesóੈLine;䀊r;쀀𝔑ȀBnptଢନଷ଺reak;恠BreakingSpace;䂠f;愕ڀ;CDEGHLNPRSTV୕ୖ୪୼஡௫ఄ౞಄ದ೘ൡඅ櫬Āou୛୤ngruent;扢pCap;扭oubleVerticalBar;戦ƀlqxஃஊ஛ement;戉ualĀ;Tஒஓ扠ilde;쀀≂̸ists;戄reater΀;EFGLSTஶஷ஽௉௓௘௥扯qual;扱ullEqual;쀀≧̸reater;쀀≫̸ess;批lantEqual;쀀⩾̸ilde;扵umpń௲௽ownHump;쀀≎̸qual;쀀≏̸eĀfsఊధtTriangleƀ;BEచఛడ拪ar;쀀⧏̸qual;括s̀;EGLSTవశ఼ౄోౘ扮qual;扰reater;扸ess;쀀≪̸lantEqual;쀀⩽̸ilde;扴estedĀGL౨౹reaterGreater;쀀⪢̸essLess;쀀⪡̸recedesƀ;ESಒಓಛ技qual;쀀⪯̸lantEqual;拠ĀeiಫಹverseElement;戌ghtTriangleƀ;BEೋೌ೒拫ar;쀀⧐̸qual;拭ĀquೝഌuareSuĀbp೨೹setĀ;E೰ೳ쀀⊏̸qual;拢ersetĀ;Eഃആ쀀⊐̸qual;拣ƀbcpഓതൎsetĀ;Eഛഞ쀀⊂⃒qual;抈ceedsȀ;ESTലള഻െ抁qual;쀀⪰̸lantEqual;拡ilde;쀀≿̸ersetĀ;E൘൛쀀⊃⃒qual;抉ildeȀ;EFT൮൯൵ൿ扁qual;扄ullEqual;扇ilde;扉erticalBar;戤cr;쀀𝒩ilde耻Ñ䃑;䎝܀Eacdfgmoprstuvලෂ෉෕ෛ෠෧෼ขภยา฿ไlig;䅒cute耻Ó䃓Āiy෎ීrc耻Ô䃔;䐞blac;䅐r;쀀𝔒rave耻Ò䃒ƀaei෮ෲ෶cr;䅌ga;䎩cron;䎟pf;쀀𝕆enCurlyĀDQฎบoubleQuote;怜uote;怘;橔Āclวฬr;쀀𝒪ash耻Ø䃘iŬื฼de耻Õ䃕es;樷ml耻Ö䃖erĀBP๋๠Āar๐๓r;怾acĀek๚๜;揞et;掴arenthesis;揜Ҁacfhilors๿ງຊຏຒດຝະ໼rtialD;戂y;䐟r;쀀𝔓i;䎦;䎠usMinus;䂱Āipຢອncareplanåڝf;愙Ȁ;eio຺ູ໠໤檻cedesȀ;EST່້໏໚扺qual;檯lantEqual;扼ilde;找me;怳Ādp໩໮uct;戏ortionĀ;aȥ໹l;戝Āci༁༆r;쀀𝒫;䎨ȀUfos༑༖༛༟OT耻"䀢r;쀀𝔔pf;愚cr;쀀𝒬؀BEacefhiorsu༾གྷཇའཱིྦྷྪྭ႖ႩႴႾarr;椐G耻®䂮ƀcnrཎནབute;䅔g;柫rĀ;tཛྷཝ憠l;椖ƀaeyཧཬཱron;䅘dil;䅖;䐠Ā;vླྀཹ愜erseĀEUྂྙĀlq྇ྎement;戋uilibrium;懋pEquilibrium;楯r»ཹo;䎡ghtЀACDFTUVa࿁࿫࿳ဢဨၛႇϘĀnr࿆࿒gleBracket;柩rowƀ;BL࿜࿝࿡憒ar;懥eftArrow;懄eiling;按oǵ࿹\0စbleBracket;柧nǔည\0နeeVector;楝ectorĀ;Bဝသ懂ar;楕loor;挋Āerိ၃eƀ;AVဵံြ抢rrow;憦ector;楛iangleƀ;BEၐၑၕ抳ar;槐qual;抵pƀDTVၣၮၸownVector;楏eeVector;楜ectorĀ;Bႂႃ憾ar;楔ectorĀ;B႑႒懀ar;楓Āpuႛ႞f;愝ndImplies;楰ightarrow;懛ĀchႹႼr;愛;憱leDelayed;槴ڀHOacfhimoqstuფჱჷჽᄙᄞᅑᅖᅡᅧᆵᆻᆿĀCcჩხHcy;䐩y;䐨FTcy;䐬cute;䅚ʀ;aeiyᄈᄉᄎᄓᄗ檼ron;䅠dil;䅞rc;䅜;䐡r;쀀𝔖ortȀDLRUᄪᄴᄾᅉownArrow»ОeftArrow»࢚ightArrow»࿝pArrow;憑gma;䎣allCircle;战pf;쀀𝕊ɲᅭ\0\0ᅰt;戚areȀ;ISUᅻᅼᆉᆯ斡ntersection;抓uĀbpᆏᆞsetĀ;Eᆗᆘ抏qual;抑ersetĀ;Eᆨᆩ抐qual;抒nion;抔cr;쀀𝒮ar;拆ȀbcmpᇈᇛሉላĀ;sᇍᇎ拐etĀ;Eᇍᇕqual;抆ĀchᇠህeedsȀ;ESTᇭᇮᇴᇿ扻qual;檰lantEqual;扽ilde;承Tháྌ;我ƀ;esሒሓሣ拑rsetĀ;Eሜም抃qual;抇et»ሓրHRSacfhiorsሾቄ቉ቕ቞ቱቶኟዂወዑORN耻Þ䃞ADE;愢ĀHc቎ቒcy;䐋y;䐦Ābuቚቜ;䀉;䎤ƀaeyብቪቯron;䅤dil;䅢;䐢r;쀀𝔗Āeiቻ኉ǲኀ\0ኇefore;戴a;䎘Ācn኎ኘkSpace;쀀  Space;怉ldeȀ;EFTካኬኲኼ戼qual;扃ullEqual;扅ilde;扈pf;쀀𝕋ipleDot;惛Āctዖዛr;쀀𝒯rok;䅦ૡዷጎጚጦ\0ጬጱ\0\0\0\0\0ጸጽ፷ᎅ\0᏿ᐄᐊᐐĀcrዻጁute耻Ú䃚rĀ;oጇገ憟cir;楉rǣጓ\0጖y;䐎ve;䅬Āiyጞጣrc耻Û䃛;䐣blac;䅰r;쀀𝔘rave耻Ù䃙acr;䅪Ādiፁ፩erĀBPፈ፝Āarፍፐr;䁟acĀekፗፙ;揟et;掵arenthesis;揝onĀ;P፰፱拃lus;抎Āgp፻፿on;䅲f;쀀𝕌ЀADETadps᎕ᎮᎸᏄϨᏒᏗᏳrrowƀ;BDᅐᎠᎤar;椒ownArrow;懅ownArrow;憕quilibrium;楮eeĀ;AᏋᏌ报rrow;憥ownáϳerĀLRᏞᏨeftArrow;憖ightArrow;憗iĀ;lᏹᏺ䏒on;䎥ing;䅮cr;쀀𝒰ilde;䅨ml耻Ü䃜ҀDbcdefosvᐧᐬᐰᐳᐾᒅᒊᒐᒖash;披ar;櫫y;䐒ashĀ;lᐻᐼ抩;櫦Āerᑃᑅ;拁ƀbtyᑌᑐᑺar;怖Ā;iᑏᑕcalȀBLSTᑡᑥᑪᑴar;戣ine;䁼eparator;杘ilde;所ThinSpace;怊r;쀀𝔙pf;쀀𝕍cr;쀀𝒱dash;抪ʀcefosᒧᒬᒱᒶᒼirc;䅴dge;拀r;쀀𝔚pf;쀀𝕎cr;쀀𝒲Ȁfiosᓋᓐᓒᓘr;쀀𝔛;䎞pf;쀀𝕏cr;쀀𝒳ҀAIUacfosuᓱᓵᓹᓽᔄᔏᔔᔚᔠcy;䐯cy;䐇cy;䐮cute耻Ý䃝Āiyᔉᔍrc;䅶;䐫r;쀀𝔜pf;쀀𝕐cr;쀀𝒴ml;䅸ЀHacdefosᔵᔹᔿᕋᕏᕝᕠᕤcy;䐖cute;䅹Āayᕄᕉron;䅽;䐗ot;䅻ǲᕔ\0ᕛoWidtè૙a;䎖r;愨pf;愤cr;쀀𝒵௡ᖃᖊᖐ\0ᖰᖶᖿ\0\0\0\0ᗆᗛᗫᙟ᙭\0ᚕ᚛ᚲᚹ\0ᚾcute耻á䃡reve;䄃̀;Ediuyᖜᖝᖡᖣᖨᖭ戾;쀀∾̳;房rc耻â䃢te肻´̆;䐰lig耻æ䃦Ā;r²ᖺ;쀀𝔞rave耻à䃠ĀepᗊᗖĀfpᗏᗔsym;愵èᗓha;䎱ĀapᗟcĀclᗤᗧr;䄁g;樿ɤᗰ\0\0ᘊʀ;adsvᗺᗻᗿᘁᘇ戧nd;橕;橜lope;橘;橚΀;elmrszᘘᘙᘛᘞᘿᙏᙙ戠;榤e»ᘙsdĀ;aᘥᘦ戡ѡᘰᘲᘴᘶᘸᘺᘼᘾ;榨;榩;榪;榫;榬;榭;榮;榯tĀ;vᙅᙆ戟bĀ;dᙌᙍ抾;榝Āptᙔᙗh;戢»¹arr;捼Āgpᙣᙧon;䄅f;쀀𝕒΀;Eaeiop዁ᙻᙽᚂᚄᚇᚊ;橰cir;橯;扊d;手s;䀧roxĀ;e዁ᚒñᚃing耻å䃥ƀctyᚡᚦᚨr;쀀𝒶;䀪mpĀ;e዁ᚯñʈilde耻ã䃣ml耻ä䃤Āciᛂᛈoninôɲnt;樑ࠀNabcdefiklnoprsu᛭ᛱᜰ᜼ᝃᝈ᝸᝽០៦ᠹᡐᜍ᤽᥈ᥰot;櫭Ācrᛶ᜞kȀcepsᜀᜅᜍᜓong;扌psilon;䏶rime;怵imĀ;e᜚᜛戽q;拍Ŷᜢᜦee;抽edĀ;gᜬᜭ挅e»ᜭrkĀ;t፜᜷brk;掶Āoyᜁᝁ;䐱quo;怞ʀcmprtᝓ᝛ᝡᝤᝨausĀ;eĊĉptyv;榰séᜌnoõēƀahwᝯ᝱ᝳ;䎲;愶een;扬r;쀀𝔟g΀costuvwឍឝឳេ៕៛៞ƀaiuបពរðݠrc;旯p»፱ƀdptឤឨឭot;樀lus;樁imes;樂ɱឹ\0\0ើcup;樆ar;昅riangleĀdu៍្own;施p;斳plus;樄eåᑄåᒭarow;植ƀako៭ᠦᠵĀcn៲ᠣkƀlst៺֫᠂ozenge;槫riangleȀ;dlr᠒᠓᠘᠝斴own;斾eft;旂ight;斸k;搣Ʊᠫ\0ᠳƲᠯ\0ᠱ;斒;斑4;斓ck;斈ĀeoᠾᡍĀ;qᡃᡆ쀀=⃥uiv;쀀≡⃥t;挐Ȁptwxᡙᡞᡧᡬf;쀀𝕓Ā;tᏋᡣom»Ꮜtie;拈؀DHUVbdhmptuvᢅᢖᢪᢻᣗᣛᣬ᣿ᤅᤊᤐᤡȀLRlrᢎᢐᢒᢔ;敗;敔;敖;敓ʀ;DUduᢡᢢᢤᢦᢨ敐;敦;敩;敤;敧ȀLRlrᢳᢵᢷᢹ;敝;敚;敜;教΀;HLRhlrᣊᣋᣍᣏᣑᣓᣕ救;敬;散;敠;敫;敢;敟ox;槉ȀLRlrᣤᣦᣨᣪ;敕;敒;攐;攌ʀ;DUduڽ᣷᣹᣻᣽;敥;敨;攬;攴inus;抟lus;択imes;抠ȀLRlrᤙᤛᤝ᤟;敛;敘;攘;攔΀;HLRhlrᤰᤱᤳᤵᤷ᤻᤹攂;敪;敡;敞;攼;攤;攜Āevģ᥂bar耻¦䂦Ȁceioᥑᥖᥚᥠr;쀀𝒷mi;恏mĀ;e᜚᜜lƀ;bhᥨᥩᥫ䁜;槅sub;柈Ŭᥴ᥾lĀ;e᥹᥺怢t»᥺pƀ;Eeįᦅᦇ;檮Ā;qۜۛೡᦧ\0᧨ᨑᨕᨲ\0ᨷᩐ\0\0᪴\0\0᫁\0\0ᬡᬮ᭍᭒\0᯽\0ᰌƀcpr᦭ᦲ᧝ute;䄇̀;abcdsᦿᧀᧄ᧊᧕᧙戩nd;橄rcup;橉Āau᧏᧒p;橋p;橇ot;橀;쀀∩︀Āeo᧢᧥t;恁îړȀaeiu᧰᧻ᨁᨅǰ᧵\0᧸s;橍on;䄍dil耻ç䃧rc;䄉psĀ;sᨌᨍ橌m;橐ot;䄋ƀdmnᨛᨠᨦil肻¸ƭptyv;榲t脀¢;eᨭᨮ䂢räƲr;쀀𝔠ƀceiᨽᩀᩍy;䑇ckĀ;mᩇᩈ朓ark»ᩈ;䏇r΀;Ecefms᩟᩠ᩢᩫ᪤᪪᪮旋;槃ƀ;elᩩᩪᩭ䋆q;扗eɡᩴ\0\0᪈rrowĀlr᩼᪁eft;憺ight;憻ʀRSacd᪒᪔᪖᪚᪟»ཇ;擈st;抛irc;抚ash;抝nint;樐id;櫯cir;槂ubsĀ;u᪻᪼晣it»᪼ˬ᫇᫔᫺\0ᬊonĀ;eᫍᫎ䀺Ā;qÇÆɭ᫙\0\0᫢aĀ;t᫞᫟䀬;䁀ƀ;fl᫨᫩᫫戁îᅠeĀmx᫱᫶ent»᫩eóɍǧ᫾\0ᬇĀ;dኻᬂot;橭nôɆƀfryᬐᬔᬗ;쀀𝕔oäɔ脀©;sŕᬝr;愗Āaoᬥᬩrr;憵ss;朗Ācuᬲᬷr;쀀𝒸Ābpᬼ᭄Ā;eᭁᭂ櫏;櫑Ā;eᭉᭊ櫐;櫒dot;拯΀delprvw᭠᭬᭷ᮂᮬᯔ᯹arrĀlr᭨᭪;椸;椵ɰ᭲\0\0᭵r;拞c;拟arrĀ;p᭿ᮀ憶;椽̀;bcdosᮏᮐᮖᮡᮥᮨ截rcap;橈Āauᮛᮞp;橆p;橊ot;抍r;橅;쀀∪︀Ȁalrv᮵ᮿᯞᯣrrĀ;mᮼᮽ憷;椼yƀevwᯇᯔᯘqɰᯎ\0\0ᯒreã᭳uã᭵ee;拎edge;拏en耻¤䂤earrowĀlrᯮ᯳eft»ᮀight»ᮽeäᯝĀciᰁᰇoninôǷnt;戱lcty;挭ঀAHabcdefhijlorstuwz᰸᰻᰿ᱝᱩᱵᲊᲞᲬᲷ᳻᳿ᴍᵻᶑᶫᶻ᷆᷍rò΁ar;楥Ȁglrs᱈ᱍ᱒᱔ger;怠eth;愸òᄳhĀ;vᱚᱛ怐»ऊūᱡᱧarow;椏aã̕Āayᱮᱳron;䄏;䐴ƀ;ao̲ᱼᲄĀgrʿᲁr;懊tseq;橷ƀglmᲑᲔᲘ耻°䂰ta;䎴ptyv;榱ĀirᲣᲨsht;楿;쀀𝔡arĀlrᲳᲵ»ࣜ»သʀaegsv᳂͸᳖᳜᳠mƀ;oș᳊᳔ndĀ;ș᳑uit;晦amma;䏝in;拲ƀ;io᳧᳨᳸䃷de脀÷;o᳧ᳰntimes;拇nø᳷cy;䑒cɯᴆ\0\0ᴊrn;挞op;挍ʀlptuwᴘᴝᴢᵉᵕlar;䀤f;쀀𝕕ʀ;emps̋ᴭᴷᴽᵂqĀ;d͒ᴳot;扑inus;戸lus;戔quare;抡blebarwedgåúnƀadhᄮᵝᵧownarrowóᲃarpoonĀlrᵲᵶefôᲴighôᲶŢᵿᶅkaro÷གɯᶊ\0\0ᶎrn;挟op;挌ƀcotᶘᶣᶦĀryᶝᶡ;쀀𝒹;䑕l;槶rok;䄑Ādrᶰᶴot;拱iĀ;fᶺ᠖斿Āah᷀᷃ròЩaòྦangle;榦Āci᷒ᷕy;䑟grarr;柿ऀDacdefglmnopqrstuxḁḉḙḸոḼṉṡṾấắẽỡἪἷὄ὎὚ĀDoḆᴴoôᲉĀcsḎḔute耻é䃩ter;橮ȀaioyḢḧḱḶron;䄛rĀ;cḭḮ扖耻ê䃪lon;払;䑍ot;䄗ĀDrṁṅot;扒;쀀𝔢ƀ;rsṐṑṗ檚ave耻è䃨Ā;dṜṝ檖ot;檘Ȁ;ilsṪṫṲṴ檙nters;揧;愓Ā;dṹṺ檕ot;檗ƀapsẅẉẗcr;䄓tyƀ;svẒẓẕ戅et»ẓpĀ1;ẝẤĳạả;怄;怅怃ĀgsẪẬ;䅋p;怂ĀgpẴẸon;䄙f;쀀𝕖ƀalsỄỎỒrĀ;sỊị拕l;槣us;橱iƀ;lvỚớở䎵on»ớ;䏵ȀcsuvỪỳἋἣĀioữḱrc»Ḯɩỹ\0\0ỻíՈantĀglἂἆtr»ṝess»Ṻƀaeiἒ἖Ἒls;䀽st;扟vĀ;DȵἠD;橸parsl;槥ĀDaἯἳot;打rr;楱ƀcdiἾὁỸr;愯oô͒ĀahὉὋ;䎷耻ð䃰Āmrὓὗl耻ë䃫o;悬ƀcipὡὤὧl;䀡sôծĀeoὬὴctatioîՙnentialåչৡᾒ\0ᾞ\0ᾡᾧ\0\0ῆῌ\0ΐ\0ῦῪ \0 ⁚llingdotseñṄy;䑄male;晀ƀilrᾭᾳ῁lig;耀ﬃɩᾹ\0\0᾽g;耀ﬀig;耀ﬄ;쀀𝔣lig;耀ﬁlig;쀀fjƀaltῙ῜ῡt;晭ig;耀ﬂns;斱of;䆒ǰ΅\0ῳf;쀀𝕗ĀakֿῷĀ;vῼ´拔;櫙artint;樍Āao‌⁕Ācs‑⁒α‚‰‸⁅⁈\0⁐β•‥‧‪‬\0‮耻½䂽;慓耻¼䂼;慕;慙;慛Ƴ‴\0‶;慔;慖ʴ‾⁁\0\0⁃耻¾䂾;慗;慜5;慘ƶ⁌\0⁎;慚;慝8;慞l;恄wn;挢cr;쀀𝒻ࢀEabcdefgijlnorstv₂₉₟₥₰₴⃰⃵⃺⃿℃ℒℸ̗ℾ⅒↞Ā;lٍ₇;檌ƀcmpₐₕ₝ute;䇵maĀ;dₜ᳚䎳;檆reve;䄟Āiy₪₮rc;䄝;䐳ot;䄡Ȁ;lqsؾق₽⃉ƀ;qsؾٌ⃄lanô٥Ȁ;cdl٥⃒⃥⃕c;檩otĀ;o⃜⃝檀Ā;l⃢⃣檂;檄Ā;e⃪⃭쀀⋛︀s;檔r;쀀𝔤Ā;gٳ؛mel;愷cy;䑓Ȁ;Eajٚℌℎℐ;檒;檥;檤ȀEaesℛℝ℩ℴ;扩pĀ;p℣ℤ檊rox»ℤĀ;q℮ℯ檈Ā;q℮ℛim;拧pf;쀀𝕘Āci⅃ⅆr;愊mƀ;el٫ⅎ⅐;檎;檐茀>;cdlqr׮ⅠⅪⅮⅳⅹĀciⅥⅧ;檧r;橺ot;拗Par;榕uest;橼ʀadelsↄⅪ←ٖ↛ǰ↉\0↎proø₞r;楸qĀlqؿ↖lesó₈ií٫Āen↣↭rtneqq;쀀≩︀Å↪ԀAabcefkosy⇄⇇⇱⇵⇺∘∝∯≨≽ròΠȀilmr⇐⇔⇗⇛rsðᒄf»․ilôکĀdr⇠⇤cy;䑊ƀ;cwࣴ⇫⇯ir;楈;憭ar;意irc;䄥ƀalr∁∎∓rtsĀ;u∉∊晥it»∊lip;怦con;抹r;쀀𝔥sĀew∣∩arow;椥arow;椦ʀamopr∺∾≃≞≣rr;懿tht;戻kĀlr≉≓eftarrow;憩ightarrow;憪f;쀀𝕙bar;怕ƀclt≯≴≸r;쀀𝒽asè⇴rok;䄧Ābp⊂⊇ull;恃hen»ᱛૡ⊣\0⊪\0⊸⋅⋎\0⋕⋳\0\0⋸⌢⍧⍢⍿\0⎆⎪⎴cute耻í䃭ƀ;iyݱ⊰⊵rc耻î䃮;䐸Ācx⊼⊿y;䐵cl耻¡䂡ĀfrΟ⋉;쀀𝔦rave耻ì䃬Ȁ;inoܾ⋝⋩⋮Āin⋢⋦nt;樌t;戭fin;槜ta;愩lig;䄳ƀaop⋾⌚⌝ƀcgt⌅⌈⌗r;䄫ƀelpܟ⌏⌓inåގarôܠh;䄱f;抷ed;䆵ʀ;cfotӴ⌬⌱⌽⍁are;愅inĀ;t⌸⌹戞ie;槝doô⌙ʀ;celpݗ⍌⍐⍛⍡al;抺Āgr⍕⍙eróᕣã⍍arhk;樗rod;樼Ȁcgpt⍯⍲⍶⍻y;䑑on;䄯f;쀀𝕚a;䎹uest耻¿䂿Āci⎊⎏r;쀀𝒾nʀ;EdsvӴ⎛⎝⎡ӳ;拹ot;拵Ā;v⎦⎧拴;拳Ā;iݷ⎮lde;䄩ǫ⎸\0⎼cy;䑖l耻ï䃯̀cfmosu⏌⏗⏜⏡⏧⏵Āiy⏑⏕rc;䄵;䐹r;쀀𝔧ath;䈷pf;쀀𝕛ǣ⏬\0⏱r;쀀𝒿rcy;䑘kcy;䑔Ѐacfghjos␋␖␢␧␭␱␵␻ppaĀ;v␓␔䎺;䏰Āey␛␠dil;䄷;䐺r;쀀𝔨reen;䄸cy;䑅cy;䑜pf;쀀𝕜cr;쀀𝓀஀ABEHabcdefghjlmnoprstuv⑰⒁⒆⒍⒑┎┽╚▀♎♞♥♹♽⚚⚲⛘❝❨➋⟀⠁⠒ƀart⑷⑺⑼rò৆òΕail;椛arr;椎Ā;gঔ⒋;檋ar;楢ॣ⒥\0⒪\0⒱\0\0\0\0\0⒵Ⓔ\0ⓆⓈⓍ\0⓹ute;䄺mptyv;榴raîࡌbda;䎻gƀ;dlࢎⓁⓃ;榑åࢎ;檅uo耻«䂫rЀ;bfhlpst࢙ⓞⓦⓩ⓫⓮⓱⓵Ā;f࢝ⓣs;椟s;椝ë≒p;憫l;椹im;楳l;憢ƀ;ae⓿─┄檫il;椙Ā;s┉┊檭;쀀⪭︀ƀabr┕┙┝rr;椌rk;杲Āak┢┬cĀek┨┪;䁻;䁛Āes┱┳;榋lĀdu┹┻;榏;榍Ȁaeuy╆╋╖╘ron;䄾Ādi═╔il;䄼ìࢰâ┩;䐻Ȁcqrs╣╦╭╽a;椶uoĀ;rนᝆĀdu╲╷har;楧shar;楋h;憲ʀ;fgqs▋▌উ◳◿扤tʀahlrt▘▤▷◂◨rrowĀ;t࢙□aé⓶arpoonĀdu▯▴own»њp»०eftarrows;懇ightƀahs◍◖◞rrowĀ;sࣴࢧarpoonó྘quigarro÷⇰hreetimes;拋ƀ;qs▋ও◺lanôবʀ;cdgsব☊☍☝☨c;檨otĀ;o☔☕橿Ā;r☚☛檁;檃Ā;e☢☥쀀⋚︀s;檓ʀadegs☳☹☽♉♋pproøⓆot;拖qĀgq♃♅ôউgtò⒌ôছiíলƀilr♕࣡♚sht;楼;쀀𝔩Ā;Eজ♣;檑š♩♶rĀdu▲♮Ā;l॥♳;楪lk;斄cy;䑙ʀ;achtੈ⚈⚋⚑⚖rò◁orneòᴈard;楫ri;旺Āio⚟⚤dot;䅀ustĀ;a⚬⚭掰che»⚭ȀEaes⚻⚽⛉⛔;扨pĀ;p⛃⛄檉rox»⛄Ā;q⛎⛏檇Ā;q⛎⚻im;拦Ѐabnoptwz⛩⛴⛷✚✯❁❇❐Ānr⛮⛱g;柬r;懽rëࣁgƀlmr⛿✍✔eftĀar০✇ightá৲apsto;柼ightá৽parrowĀlr✥✩efô⓭ight;憬ƀafl✶✹✽r;榅;쀀𝕝us;樭imes;樴š❋❏st;戗áፎƀ;ef❗❘᠀旊nge»❘arĀ;l❤❥䀨t;榓ʀachmt❳❶❼➅➇ròࢨorneòᶌarĀ;d྘➃;業;怎ri;抿̀achiqt➘➝ੀ➢➮➻quo;怹r;쀀𝓁mƀ;egল➪➬;檍;檏Ābu┪➳oĀ;rฟ➹;怚rok;䅂萀<;cdhilqrࠫ⟒☹⟜⟠⟥⟪⟰Āci⟗⟙;檦r;橹reå◲mes;拉arr;楶uest;橻ĀPi⟵⟹ar;榖ƀ;ef⠀भ᠛旃rĀdu⠇⠍shar;楊har;楦Āen⠗⠡rtneqq;쀀≨︀Å⠞܀Dacdefhilnopsu⡀⡅⢂⢎⢓⢠⢥⢨⣚⣢⣤ઃ⣳⤂Dot;戺Ȁclpr⡎⡒⡣⡽r耻¯䂯Āet⡗⡙;時Ā;e⡞⡟朠se»⡟Ā;sျ⡨toȀ;dluျ⡳⡷⡻owîҌefôएðᏑker;斮Āoy⢇⢌mma;権;䐼ash;怔asuredangle»ᘦr;쀀𝔪o;愧ƀcdn⢯⢴⣉ro耻µ䂵Ȁ;acdᑤ⢽⣀⣄sôᚧir;櫰ot肻·Ƶusƀ;bd⣒ᤃ⣓戒Ā;uᴼ⣘;横ţ⣞⣡p;櫛ò−ðઁĀdp⣩⣮els;抧f;쀀𝕞Āct⣸⣽r;쀀𝓂pos»ᖝƀ;lm⤉⤊⤍䎼timap;抸ఀGLRVabcdefghijlmoprstuvw⥂⥓⥾⦉⦘⧚⧩⨕⨚⩘⩝⪃⪕⪤⪨⬄⬇⭄⭿⮮ⰴⱧⱼ⳩Āgt⥇⥋;쀀⋙̸Ā;v⥐௏쀀≫⃒ƀelt⥚⥲⥶ftĀar⥡⥧rrow;懍ightarrow;懎;쀀⋘̸Ā;v⥻ే쀀≪⃒ightarrow;懏ĀDd⦎⦓ash;抯ash;抮ʀbcnpt⦣⦧⦬⦱⧌la»˞ute;䅄g;쀀∠⃒ʀ;Eiop඄⦼⧀⧅⧈;쀀⩰̸d;쀀≋̸s;䅉roø඄urĀ;a⧓⧔普lĀ;s⧓ସǳ⧟\0⧣p肻 ଷmpĀ;e௹ఀʀaeouy⧴⧾⨃⨐⨓ǰ⧹\0⧻;橃on;䅈dil;䅆ngĀ;dൾ⨊ot;쀀⩭̸p;橂;䐽ash;怓΀;Aadqsxஒ⨩⨭⨻⩁⩅⩐rr;懗rĀhr⨳⨶k;椤Ā;oᏲᏰot;쀀≐̸uiöୣĀei⩊⩎ar;椨í஘istĀ;s஠டr;쀀𝔫ȀEest௅⩦⩹⩼ƀ;qs஼⩭௡ƀ;qs஼௅⩴lanô௢ií௪Ā;rஶ⪁»ஷƀAap⪊⪍⪑rò⥱rr;憮ar;櫲ƀ;svྍ⪜ྌĀ;d⪡⪢拼;拺cy;䑚΀AEadest⪷⪺⪾⫂⫅⫶⫹rò⥦;쀀≦̸rr;憚r;急Ȁ;fqs఻⫎⫣⫯tĀar⫔⫙rro÷⫁ightarro÷⪐ƀ;qs఻⪺⫪lanôౕĀ;sౕ⫴»శiíౝĀ;rవ⫾iĀ;eచథiäඐĀpt⬌⬑f;쀀𝕟膀¬;in⬙⬚⬶䂬nȀ;Edvஉ⬤⬨⬮;쀀⋹̸ot;쀀⋵̸ǡஉ⬳⬵;拷;拶iĀ;vಸ⬼ǡಸ⭁⭃;拾;拽ƀaor⭋⭣⭩rȀ;ast୻⭕⭚⭟lleì୻l;쀀⫽⃥;쀀∂̸lint;樔ƀ;ceಒ⭰⭳uåಥĀ;cಘ⭸Ā;eಒ⭽ñಘȀAait⮈⮋⮝⮧rò⦈rrƀ;cw⮔⮕⮙憛;쀀⤳̸;쀀↝̸ghtarrow»⮕riĀ;eೋೖ΀chimpqu⮽⯍⯙⬄୸⯤⯯Ȁ;cerല⯆ഷ⯉uå൅;쀀𝓃ortɭ⬅\0\0⯖ará⭖mĀ;e൮⯟Ā;q൴൳suĀbp⯫⯭å೸åഋƀbcp⯶ⰑⰙȀ;Ees⯿ⰀഢⰄ抄;쀀⫅̸etĀ;eഛⰋqĀ;qണⰀcĀ;eലⰗñസȀ;EesⰢⰣൟⰧ抅;쀀⫆̸etĀ;e൘ⰮqĀ;qൠⰣȀgilrⰽⰿⱅⱇìௗlde耻ñ䃱çృiangleĀlrⱒⱜeftĀ;eచⱚñదightĀ;eೋⱥñ೗Ā;mⱬⱭ䎽ƀ;esⱴⱵⱹ䀣ro;愖p;怇ҀDHadgilrsⲏⲔⲙⲞⲣⲰⲶⳓⳣash;抭arr;椄p;쀀≍⃒ash;抬ĀetⲨⲬ;쀀≥⃒;쀀>⃒nfin;槞ƀAetⲽⳁⳅrr;椂;쀀≤⃒Ā;rⳊⳍ쀀<⃒ie;쀀⊴⃒ĀAtⳘⳜrr;椃rie;쀀⊵⃒im;쀀∼⃒ƀAan⳰⳴ⴂrr;懖rĀhr⳺⳽k;椣Ā;oᏧᏥear;椧ቓ᪕\0\0\0\0\0\0\0\0\0\0\0\0\0ⴭ\0ⴸⵈⵠⵥ⵲ⶄᬇ\0\0ⶍⶫ\0ⷈⷎ\0ⷜ⸙⸫⸾⹃Ācsⴱ᪗ute耻ó䃳ĀiyⴼⵅrĀ;c᪞ⵂ耻ô䃴;䐾ʀabios᪠ⵒⵗǈⵚlac;䅑v;樸old;榼lig;䅓Ācr⵩⵭ir;榿;쀀𝔬ͯ⵹\0\0⵼\0ⶂn;䋛ave耻ò䃲;槁Ābmⶈ෴ar;榵Ȁacitⶕ⶘ⶥⶨrò᪀Āir⶝ⶠr;榾oss;榻nå๒;槀ƀaeiⶱⶵⶹcr;䅍ga;䏉ƀcdnⷀⷅǍron;䎿;榶pf;쀀𝕠ƀaelⷔ⷗ǒr;榷rp;榹΀;adiosvⷪⷫⷮ⸈⸍⸐⸖戨rò᪆Ȁ;efmⷷⷸ⸂⸅橝rĀ;oⷾⷿ愴f»ⷿ耻ª䂪耻º䂺gof;抶r;橖lope;橗;橛ƀclo⸟⸡⸧ò⸁ash耻ø䃸l;折iŬⸯ⸴de耻õ䃵esĀ;aǛ⸺s;樶ml耻ö䃶bar;挽ૡ⹞\0⹽\0⺀⺝\0⺢⺹\0\0⻋ຜ\0⼓\0\0⼫⾼\0⿈rȀ;astЃ⹧⹲຅脀¶;l⹭⹮䂶leìЃɩ⹸\0\0⹻m;櫳;櫽y;䐿rʀcimpt⺋⺏⺓ᡥ⺗nt;䀥od;䀮il;怰enk;怱r;쀀𝔭ƀimo⺨⺰⺴Ā;v⺭⺮䏆;䏕maô੶ne;明ƀ;tv⺿⻀⻈䏀chfork»´;䏖Āau⻏⻟nĀck⻕⻝kĀ;h⇴⻛;愎ö⇴sҀ;abcdemst⻳⻴ᤈ⻹⻽⼄⼆⼊⼎䀫cir;樣ir;樢Āouᵀ⼂;樥;橲n肻±ຝim;樦wo;樧ƀipu⼙⼠⼥ntint;樕f;쀀𝕡nd耻£䂣Ԁ;Eaceinosu່⼿⽁⽄⽇⾁⾉⾒⽾⾶;檳p;檷uå໙Ā;c໎⽌̀;acens່⽙⽟⽦⽨⽾pproø⽃urlyeñ໙ñ໎ƀaes⽯⽶⽺pprox;檹qq;檵im;拨iíໟmeĀ;s⾈ຮ怲ƀEas⽸⾐⽺ð⽵ƀdfp໬⾙⾯ƀals⾠⾥⾪lar;挮ine;挒urf;挓Ā;t໻⾴ï໻rel;抰Āci⿀⿅r;쀀𝓅;䏈ncsp;怈̀fiopsu⿚⋢⿟⿥⿫⿱r;쀀𝔮pf;쀀𝕢rime;恗cr;쀀𝓆ƀaeo⿸〉〓tĀei⿾々rnionóڰnt;樖stĀ;e【】䀿ñἙô༔઀ABHabcdefhilmnoprstux぀けさすムㄎㄫㅇㅢㅲㆎ㈆㈕㈤㈩㉘㉮㉲㊐㊰㊷ƀartぇおがròႳòϝail;検aròᱥar;楤΀cdenqrtとふへみわゔヌĀeuねぱ;쀀∽̱te;䅕iãᅮmptyv;榳gȀ;del࿑らるろ;榒;榥å࿑uo耻»䂻rր;abcfhlpstw࿜ガクシスゼゾダッデナp;極Ā;f࿠ゴs;椠;椳s;椞ë≝ð✮l;楅im;楴l;憣;憝Āaiパフil;椚oĀ;nホボ戶aló༞ƀabrョリヮrò៥rk;杳ĀakンヽcĀekヹ・;䁽;䁝Āes㄂㄄;榌lĀduㄊㄌ;榎;榐Ȁaeuyㄗㄜㄧㄩron;䅙Ādiㄡㄥil;䅗ì࿲âヺ;䑀Ȁclqsㄴㄷㄽㅄa;椷dhar;楩uoĀ;rȎȍh;憳ƀacgㅎㅟངlȀ;ipsླྀㅘㅛႜnåႻarôྩt;断ƀilrㅩဣㅮsht;楽;쀀𝔯ĀaoㅷㆆrĀduㅽㅿ»ѻĀ;l႑ㆄ;楬Ā;vㆋㆌ䏁;䏱ƀgns㆕ㇹㇼht̀ahlrstㆤㆰ㇂㇘㇤㇮rrowĀ;t࿜ㆭaéトarpoonĀduㆻㆿowîㅾp»႒eftĀah㇊㇐rrowó࿪arpoonóՑightarrows;應quigarro÷ニhreetimes;拌g;䋚ingdotseñἲƀahm㈍㈐㈓rò࿪aòՑ;怏oustĀ;a㈞㈟掱che»㈟mid;櫮Ȁabpt㈲㈽㉀㉒Ānr㈷㈺g;柭r;懾rëဃƀafl㉇㉊㉎r;榆;쀀𝕣us;樮imes;樵Āap㉝㉧rĀ;g㉣㉤䀩t;榔olint;樒arò㇣Ȁachq㉻㊀Ⴜ㊅quo;怺r;쀀𝓇Ābu・㊊oĀ;rȔȓƀhir㊗㊛㊠reåㇸmes;拊iȀ;efl㊪ၙᠡ㊫方tri;槎luhar;楨;愞ൡ㋕㋛㋟㌬㌸㍱\0㍺㎤\0\0㏬㏰\0㐨㑈㑚㒭㒱㓊㓱\0㘖\0\0㘳cute;䅛quï➺Ԁ;Eaceinpsyᇭ㋳㋵㋿㌂㌋㌏㌟㌦㌩;檴ǰ㋺\0㋼;檸on;䅡uåᇾĀ;dᇳ㌇il;䅟rc;䅝ƀEas㌖㌘㌛;檶p;檺im;择olint;樓iíሄ;䑁otƀ;be㌴ᵇ㌵担;橦΀Aacmstx㍆㍊㍗㍛㍞㍣㍭rr;懘rĀhr㍐㍒ë∨Ā;oਸ਼਴t耻§䂧i;䀻war;椩mĀin㍩ðnuóñt;朶rĀ;o㍶⁕쀀𝔰Ȁacoy㎂㎆㎑㎠rp;景Āhy㎋㎏cy;䑉;䑈rtɭ㎙\0\0㎜iäᑤaraì⹯耻­䂭Āgm㎨㎴maƀ;fv㎱㎲㎲䏃;䏂Ѐ;deglnprካ㏅㏉㏎㏖㏞㏡㏦ot;橪Ā;q኱ኰĀ;E㏓㏔檞;檠Ā;E㏛㏜檝;檟e;扆lus;樤arr;楲aròᄽȀaeit㏸㐈㐏㐗Āls㏽㐄lsetmé㍪hp;樳parsl;槤Ādlᑣ㐔e;挣Ā;e㐜㐝檪Ā;s㐢㐣檬;쀀⪬︀ƀflp㐮㐳㑂tcy;䑌Ā;b㐸㐹䀯Ā;a㐾㐿槄r;挿f;쀀𝕤aĀdr㑍ЂesĀ;u㑔㑕晠it»㑕ƀcsu㑠㑹㒟Āau㑥㑯pĀ;sᆈ㑫;쀀⊓︀pĀ;sᆴ㑵;쀀⊔︀uĀbp㑿㒏ƀ;esᆗᆜ㒆etĀ;eᆗ㒍ñᆝƀ;esᆨᆭ㒖etĀ;eᆨ㒝ñᆮƀ;afᅻ㒦ְrť㒫ֱ»ᅼaròᅈȀcemt㒹㒾㓂㓅r;쀀𝓈tmîñiì㐕aræᆾĀar㓎㓕rĀ;f㓔ឿ昆Āan㓚㓭ightĀep㓣㓪psiloîỠhé⺯s»⡒ʀbcmnp㓻㕞ሉ㖋㖎Ҁ;Edemnprs㔎㔏㔑㔕㔞㔣㔬㔱㔶抂;櫅ot;檽Ā;dᇚ㔚ot;櫃ult;櫁ĀEe㔨㔪;櫋;把lus;檿arr;楹ƀeiu㔽㕒㕕tƀ;en㔎㕅㕋qĀ;qᇚ㔏eqĀ;q㔫㔨m;櫇Ābp㕚㕜;櫕;櫓c̀;acensᇭ㕬㕲㕹㕻㌦pproø㋺urlyeñᇾñᇳƀaes㖂㖈㌛pproø㌚qñ㌗g;晪ڀ123;Edehlmnps㖩㖬㖯ሜ㖲㖴㗀㗉㗕㗚㗟㗨㗭耻¹䂹耻²䂲耻³䂳;櫆Āos㖹㖼t;檾ub;櫘Ā;dሢ㗅ot;櫄sĀou㗏㗒l;柉b;櫗arr;楻ult;櫂ĀEe㗤㗦;櫌;抋lus;櫀ƀeiu㗴㘉㘌tƀ;enሜ㗼㘂qĀ;qሢ㖲eqĀ;q㗧㗤m;櫈Ābp㘑㘓;櫔;櫖ƀAan㘜㘠㘭rr;懙rĀhr㘦㘨ë∮Ā;oਫ਩war;椪lig耻ß䃟௡㙑㙝㙠ዎ㙳㙹\0㙾㛂\0\0\0\0\0㛛㜃\0㜉㝬\0\0\0㞇ɲ㙖\0\0㙛get;挖;䏄rë๟ƀaey㙦㙫㙰ron;䅥dil;䅣;䑂lrec;挕r;쀀𝔱Ȁeiko㚆㚝㚵㚼ǲ㚋\0㚑eĀ4fኄኁaƀ;sv㚘㚙㚛䎸ym;䏑Ācn㚢㚲kĀas㚨㚮pproø዁im»ኬsðኞĀas㚺㚮ð዁rn耻þ䃾Ǭ̟㛆⋧es膀×;bd㛏㛐㛘䃗Ā;aᤏ㛕r;樱;樰ƀeps㛡㛣㜀á⩍Ȁ;bcf҆㛬㛰㛴ot;挶ir;櫱Ā;o㛹㛼쀀𝕥rk;櫚á㍢rime;怴ƀaip㜏㜒㝤dåቈ΀adempst㜡㝍㝀㝑㝗㝜㝟ngleʀ;dlqr㜰㜱㜶㝀㝂斵own»ᶻeftĀ;e⠀㜾ñम;扜ightĀ;e㊪㝋ñၚot;旬inus;樺lus;樹b;槍ime;樻ezium;揢ƀcht㝲㝽㞁Āry㝷㝻;쀀𝓉;䑆cy;䑛rok;䅧Āio㞋㞎xô᝷headĀlr㞗㞠eftarro÷ࡏightarrow»ཝऀAHabcdfghlmoprstuw㟐㟓㟗㟤㟰㟼㠎㠜㠣㠴㡑㡝㡫㢩㣌㣒㣪㣶ròϭar;楣Ācr㟜㟢ute耻ú䃺òᅐrǣ㟪\0㟭y;䑞ve;䅭Āiy㟵㟺rc耻û䃻;䑃ƀabh㠃㠆㠋ròᎭlac;䅱aòᏃĀir㠓㠘sht;楾;쀀𝔲rave耻ù䃹š㠧㠱rĀlr㠬㠮»ॗ»ႃlk;斀Āct㠹㡍ɯ㠿\0\0㡊rnĀ;e㡅㡆挜r»㡆op;挏ri;旸Āal㡖㡚cr;䅫肻¨͉Āgp㡢㡦on;䅳f;쀀𝕦̀adhlsuᅋ㡸㡽፲㢑㢠ownáᎳarpoonĀlr㢈㢌efô㠭ighô㠯iƀ;hl㢙㢚㢜䏅»ᏺon»㢚parrows;懈ƀcit㢰㣄㣈ɯ㢶\0\0㣁rnĀ;e㢼㢽挝r»㢽op;挎ng;䅯ri;旹cr;쀀𝓊ƀdir㣙㣝㣢ot;拰lde;䅩iĀ;f㜰㣨»᠓Āam㣯㣲rò㢨l耻ü䃼angle;榧ހABDacdeflnoprsz㤜㤟㤩㤭㦵㦸㦽㧟㧤㧨㧳㧹㧽㨁㨠ròϷarĀ;v㤦㤧櫨;櫩asèϡĀnr㤲㤷grt;榜΀eknprst㓣㥆㥋㥒㥝㥤㦖appá␕othinçẖƀhir㓫⻈㥙opô⾵Ā;hᎷ㥢ïㆍĀiu㥩㥭gmá㎳Ābp㥲㦄setneqĀ;q㥽㦀쀀⊊︀;쀀⫋︀setneqĀ;q㦏㦒쀀⊋︀;쀀⫌︀Āhr㦛㦟etá㚜iangleĀlr㦪㦯eft»थight»ၑy;䐲ash»ံƀelr㧄㧒㧗ƀ;beⷪ㧋㧏ar;抻q;扚lip;拮Ābt㧜ᑨaòᑩr;쀀𝔳tré㦮suĀbp㧯㧱»ജ»൙pf;쀀𝕧roð໻tré㦴Ācu㨆㨋r;쀀𝓋Ābp㨐㨘nĀEe㦀㨖»㥾nĀEe㦒㨞»㦐igzag;榚΀cefoprs㨶㨻㩖㩛㩔㩡㩪irc;䅵Ādi㩀㩑Ābg㩅㩉ar;機eĀ;qᗺ㩏;扙erp;愘r;쀀𝔴pf;쀀𝕨Ā;eᑹ㩦atèᑹcr;쀀𝓌ૣណ㪇\0㪋\0㪐㪛\0\0㪝㪨㪫㪯\0\0㫃㫎\0㫘ៜ៟tré៑r;쀀𝔵ĀAa㪔㪗ròσrò৶;䎾ĀAa㪡㪤ròθrò৫að✓is;拻ƀdptឤ㪵㪾Āfl㪺ឩ;쀀𝕩imåឲĀAa㫇㫊ròώròਁĀcq㫒ីr;쀀𝓍Āpt៖㫜ré។Ѐacefiosu㫰㫽㬈㬌㬑㬕㬛㬡cĀuy㫶㫻te耻ý䃽;䑏Āiy㬂㬆rc;䅷;䑋n耻¥䂥r;쀀𝔶cy;䑗pf;쀀𝕪cr;쀀𝓎Ācm㬦㬩y;䑎l耻ÿ䃿Ԁacdefhiosw㭂㭈㭔㭘㭤㭩㭭㭴㭺㮀cute;䅺Āay㭍㭒ron;䅾;䐷ot;䅼Āet㭝㭡træᕟa;䎶r;쀀𝔷cy;䐶grarr;懝pf;쀀𝕫cr;쀀𝓏Ājn㮅㮇;怍j;怌'.split("").map(e=>e.charCodeAt(0))),uc=new Uint16Array("Ȁaglq	\x1Bɭ\0\0p;䀦os;䀧t;䀾t;䀼uot;䀢".split("").map(e=>e.charCodeAt(0)));var be;const lc=new Map([[0,65533],[128,8364],[130,8218],[131,402],[132,8222],[133,8230],[134,8224],[135,8225],[136,710],[137,8240],[138,352],[139,8249],[140,338],[142,381],[145,8216],[146,8217],[147,8220],[148,8221],[149,8226],[150,8211],[151,8212],[152,732],[153,8482],[154,353],[155,8250],[156,339],[158,382],[159,376]]),dc=(be=String.fromCodePoint)!==null&&be!==void 0?be:function(e){let n="";return e>65535&&(e-=65536,n+=String.fromCharCode(e>>>10&1023|55296),e=56320|e&1023),n+=String.fromCharCode(e),n};function hc(e){var n;return e>=55296&&e<=57343||e>1114111?65533:(n=lc.get(e))!==null&&n!==void 0?n:e}var E;(function(e){e[e.NUM=35]="NUM",e[e.SEMI=59]="SEMI",e[e.EQUALS=61]="EQUALS",e[e.ZERO=48]="ZERO",e[e.NINE=57]="NINE",e[e.LOWER_A=97]="LOWER_A",e[e.LOWER_F=102]="LOWER_F",e[e.LOWER_X=120]="LOWER_X",e[e.LOWER_Z=122]="LOWER_Z",e[e.UPPER_A=65]="UPPER_A",e[e.UPPER_F=70]="UPPER_F",e[e.UPPER_Z=90]="UPPER_Z"})(E||(E={}));const mc=32;var Q;(function(e){e[e.VALUE_LENGTH=49152]="VALUE_LENGTH",e[e.BRANCH_LENGTH=16256]="BRANCH_LENGTH",e[e.JUMP_TABLE=127]="JUMP_TABLE"})(Q||(Q={}));function Ce(e){return e>=E.ZERO&&e<=E.NINE}function pc(e){return e>=E.UPPER_A&&e<=E.UPPER_F||e>=E.LOWER_A&&e<=E.LOWER_F}function bc(e){return e>=E.UPPER_A&&e<=E.UPPER_Z||e>=E.LOWER_A&&e<=E.LOWER_Z||Ce(e)}function gc(e){return e===E.EQUALS||bc(e)}var k;(function(e){e[e.EntityStart=0]="EntityStart",e[e.NumericStart=1]="NumericStart",e[e.NumericDecimal=2]="NumericDecimal",e[e.NumericHex=3]="NumericHex",e[e.NamedEntity=4]="NamedEntity"})(k||(k={}));var B;(function(e){e[e.Legacy=0]="Legacy",e[e.Strict=1]="Strict",e[e.Attribute=2]="Attribute"})(B||(B={}));class fc{constructor(n,i,t){this.decodeTree=n,this.emitCodePoint=i,this.errors=t,this.state=k.EntityStart,this.consumed=1,this.result=0,this.treeIndex=0,this.excess=1,this.decodeMode=B.Strict}startEntity(n){this.decodeMode=n,this.state=k.EntityStart,this.result=0,this.treeIndex=0,this.excess=1,this.consumed=1}write(n,i){switch(this.state){case k.EntityStart:return n.charCodeAt(i)===E.NUM?(this.state=k.NumericStart,this.consumed+=1,this.stateNumericStart(n,i+1)):(this.state=k.NamedEntity,this.stateNamedEntity(n,i));case k.NumericStart:return this.stateNumericStart(n,i);case k.NumericDecimal:return this.stateNumericDecimal(n,i);case k.NumericHex:return this.stateNumericHex(n,i);case k.NamedEntity:return this.stateNamedEntity(n,i)}}stateNumericStart(n,i){return i>=n.length?-1:(n.charCodeAt(i)|mc)===E.LOWER_X?(this.state=k.NumericHex,this.consumed+=1,this.stateNumericHex(n,i+1)):(this.state=k.NumericDecimal,this.stateNumericDecimal(n,i))}addToNumericResult(n,i,t,a){if(i!==t){const o=t-i;this.result=this.result*Math.pow(a,o)+parseInt(n.substr(i,o),a),this.consumed+=o}}stateNumericHex(n,i){const t=i;for(;i<n.length;){const a=n.charCodeAt(i);if(Ce(a)||pc(a))i+=1;else return this.addToNumericResult(n,t,i,16),this.emitNumericEntity(a,3)}return this.addToNumericResult(n,t,i,16),-1}stateNumericDecimal(n,i){const t=i;for(;i<n.length;){const a=n.charCodeAt(i);if(Ce(a))i+=1;else return this.addToNumericResult(n,t,i,10),this.emitNumericEntity(a,2)}return this.addToNumericResult(n,t,i,10),-1}emitNumericEntity(n,i){var t;if(this.consumed<=i)return(t=this.errors)===null||t===void 0||t.absenceOfDigitsInNumericCharacterReference(this.consumed),0;if(n===E.SEMI)this.consumed+=1;else if(this.decodeMode===B.Strict)return 0;return this.emitCodePoint(hc(this.result),this.consumed),this.errors&&(n!==E.SEMI&&this.errors.missingSemicolonAfterCharacterReference(),this.errors.validateNumericCharacterReference(this.result)),this.consumed}stateNamedEntity(n,i){const{decodeTree:t}=this;let a=t[this.treeIndex],o=(a&Q.VALUE_LENGTH)>>14;for(;i<n.length;i++,this.excess++){const r=n.charCodeAt(i);if(this.treeIndex=yc(t,a,this.treeIndex+Math.max(1,o),r),this.treeIndex<0)return this.result===0||this.decodeMode===B.Attribute&&(o===0||gc(r))?0:this.emitNotTerminatedNamedEntity();if(a=t[this.treeIndex],o=(a&Q.VALUE_LENGTH)>>14,o!==0){if(r===E.SEMI)return this.emitNamedEntityData(this.treeIndex,o,this.consumed+this.excess);this.decodeMode!==B.Strict&&(this.result=this.treeIndex,this.consumed+=this.excess,this.excess=0)}}return-1}emitNotTerminatedNamedEntity(){var n;const{result:i,decodeTree:t}=this,a=(t[i]&Q.VALUE_LENGTH)>>14;return this.emitNamedEntityData(i,a,this.consumed),(n=this.errors)===null||n===void 0||n.missingSemicolonAfterCharacterReference(),this.consumed}emitNamedEntityData(n,i,t){const{decodeTree:a}=this;return this.emitCodePoint(i===1?a[n]&~Q.VALUE_LENGTH:a[n+1],t),i===3&&this.emitCodePoint(a[n+2],t),t}end(){var n;switch(this.state){case k.NamedEntity:return this.result!==0&&(this.decodeMode!==B.Attribute||this.result===this.treeIndex)?this.emitNotTerminatedNamedEntity():0;case k.NumericDecimal:return this.emitNumericEntity(0,2);case k.NumericHex:return this.emitNumericEntity(0,3);case k.NumericStart:return(n=this.errors)===null||n===void 0||n.absenceOfDigitsInNumericCharacterReference(this.consumed),0;case k.EntityStart:return 0}}}function un(e){let n="";const i=new fc(e,t=>n+=dc(t));return function(a,o){let r=0,s=0;for(;(s=a.indexOf("&",s))>=0;){n+=a.slice(r,s),i.startEntity(o);const u=i.write(a,s+1);if(u<0){r=s+i.end();break}r=s+u,s=u===0?r+1:r}const c=n+a.slice(r);return n="",c}}function yc(e,n,i,t){const a=(n&Q.BRANCH_LENGTH)>>7,o=n&Q.JUMP_TABLE;if(a===0)return o!==0&&t===o?i:-1;if(o){const c=t-o;return c<0||c>=a?-1:e[i+c]-1}let r=i,s=r+a-1;for(;r<=s;){const c=r+s>>>1,u=e[c];if(u<t)r=c+1;else if(u>t)s=c-1;else return e[c+a]}return-1}const Ac=un(cc);un(uc);function ln(e,n=B.Legacy){return Ac(e,n)}function qc(e){return Object.prototype.toString.call(e)}function De(e){return qc(e)==="[object String]"}const _c=Object.prototype.hasOwnProperty;function vc(e,n){return _c.call(e,n)}function ue(e){return Array.prototype.slice.call(arguments,1).forEach(function(i){if(i){if(typeof i!="object")throw new TypeError(i+"must be object");Object.keys(i).forEach(function(t){e[t]=i[t]})}}),e}function dn(e,n,i){return[].concat(e.slice(0,n),i,e.slice(n+1))}function we(e){return!(e>=55296&&e<=57343||e>=64976&&e<=65007||(e&65535)===65535||(e&65535)===65534||e>=0&&e<=8||e===11||e>=14&&e<=31||e>=127&&e<=159||e>1114111)}function se(e){if(e>65535){e-=65536;const n=55296+(e>>10),i=56320+(e&1023);return String.fromCharCode(n,i)}return String.fromCharCode(e)}const hn=/\\([!"#$%&'()*+,\-./:;<=>?@[\\\]^_`{|}~])/g,Cc=/&([a-z#][a-z0-9]{1,31});/gi,xc=new RegExp(hn.source+"|"+Cc.source,"gi"),kc=/^#((?:x[a-f0-9]{1,8}|[0-9]{1,8}))$/i;function Ec(e,n){if(n.charCodeAt(0)===35&&kc.test(n)){const t=n[1].toLowerCase()==="x"?parseInt(n.slice(2),16):parseInt(n.slice(1),10);return we(t)?se(t):e}const i=ln(e);return i!==e?i:e}function Sc(e){return e.indexOf("\\")<0?e:e.replace(hn,"$1")}function H(e){return e.indexOf("\\")<0&&e.indexOf("&")<0?e:e.replace(xc,function(n,i,t){return i||Ec(n,t)})}const zc=/[&<>"]/,Lc=/[&<>"]/g,Dc={"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"};function wc(e){return Dc[e]}function N(e){return zc.test(e)?e.replace(Lc,wc):e}const Pc=/[.?*+^$[\]\\(){}|-]/g;function Tc(e){return e.replace(Pc,"\\$&")}function C(e){switch(e){case 9:case 32:return!0}return!1}function Z(e){if(e>=8192&&e<=8202)return!0;switch(e){case 9:case 10:case 11:case 12:case 13:case 32:case 160:case 5760:case 8239:case 8287:case 12288:return!0}return!1}function $(e){return Le.test(e)||rn.test(e)}function X(e){switch(e){case 33:case 34:case 35:case 36:case 37:case 38:case 39:case 40:case 41:case 42:case 43:case 44:case 45:case 46:case 47:case 58:case 59:case 60:case 61:case 62:case 63:case 64:case 91:case 92:case 93:case 94:case 95:case 96:case 123:case 124:case 125:case 126:return!0;default:return!1}}function le(e){return e=e.trim().replace(/\s+/g," "),"ẞ".toLowerCase()==="Ṿ"&&(e=e.replace(/ẞ/g,"ß")),e.toLowerCase().toUpperCase()}const Fc={mdurl:oc,ucmicro:rc},Rc=Object.freeze(Object.defineProperty({__proto__:null,arrayReplaceAt:dn,assign:ue,escapeHtml:N,escapeRE:Tc,fromCodePoint:se,has:vc,isMdAsciiPunct:X,isPunctChar:$,isSpace:C,isString:De,isValidEntityCode:we,isWhiteSpace:Z,lib:Fc,normalizeReference:le,unescapeAll:H,unescapeMd:Sc},Symbol.toStringTag,{value:"Module"}));function Ic(e,n,i){let t,a,o,r;const s=e.posMax,c=e.pos;for(e.pos=n+1,t=1;e.pos<s;){if(o=e.src.charCodeAt(e.pos),o===93&&(t--,t===0)){a=!0;break}if(r=e.pos,e.md.inline.skipToken(e),o===91){if(r===e.pos-1)t++;else if(i)return e.pos=c,-1}}let u=-1;return a&&(u=e.pos),e.pos=c,u}function Mc(e,n,i){let t,a=n;const o={ok:!1,pos:0,str:""};if(e.charCodeAt(a)===60){for(a++;a<i;){if(t=e.charCodeAt(a),t===10||t===60)return o;if(t===62)return o.pos=a+1,o.str=H(e.slice(n+1,a)),o.ok=!0,o;if(t===92&&a+1<i){a+=2;continue}a++}return o}let r=0;for(;a<i&&(t=e.charCodeAt(a),!(t===32||t<32||t===127));){if(t===92&&a+1<i){if(e.charCodeAt(a+1)===32)break;a+=2;continue}if(t===40&&(r++,r>32))return o;if(t===41){if(r===0)break;r--}a++}return n===a||r!==0||(o.str=H(e.slice(n,a)),o.pos=a,o.ok=!0),o}function jc(e,n,i,t){let a,o=n;const r={ok:!1,can_continue:!1,pos:0,str:"",marker:0};if(t)r.str=t.str,r.marker=t.marker;else{if(o>=i)return r;let s=e.charCodeAt(o);if(s!==34&&s!==39&&s!==40)return r;n++,o++,s===40&&(s=41),r.marker=s}for(;o<i;){if(a=e.charCodeAt(o),a===r.marker)return r.pos=o+1,r.str+=H(e.slice(n,o)),r.ok=!0,r;if(a===40&&r.marker===41)return r;a===92&&o+1<i&&o++,o++}return r.can_continue=!0,r.str+=H(e.slice(n,o)),r}const Bc=Object.freeze(Object.defineProperty({__proto__:null,parseLinkDestination:Mc,parseLinkLabel:Ic,parseLinkTitle:jc},Symbol.toStringTag,{value:"Module"})),R={};R.code_inline=function(e,n,i,t,a){const o=e[n];return"<code"+a.renderAttrs(o)+">"+N(o.content)+"</code>"};R.code_block=function(e,n,i,t,a){const o=e[n];return"<pre"+a.renderAttrs(o)+"><code>"+N(e[n].content)+`</code></pre>
+`,Be={};function Yr(e){let n=Be[e];if(n)return n;n=Be[e]=[];for(let i=0;i<128;i++){const t=String.fromCharCode(i);n.push(t)}for(let i=0;i<e.length;i++){const t=e.charCodeAt(i);n[t]="%"+("0"+t.toString(16).toUpperCase()).slice(-2)}return n}function U(e,n){typeof n!="string"&&(n=U.defaultChars);const i=Yr(n);return e.replace(/(%[a-f0-9]{2})+/gi,function(t){let a="";for(let o=0,r=t.length;o<r;o+=3){const s=parseInt(t.slice(o+1,o+3),16);if(s<128){a+=i[s];continue}if((s&224)===192&&o+3<r){const c=parseInt(t.slice(o+4,o+6),16);if((c&192)===128){const u=s<<6&1984|c&63;u<128?a+="��":a+=String.fromCharCode(u),o+=3;continue}}if((s&240)===224&&o+6<r){const c=parseInt(t.slice(o+4,o+6),16),u=parseInt(t.slice(o+7,o+9),16);if((c&192)===128&&(u&192)===128){const l=s<<12&61440|c<<6&4032|u&63;l<2048||l>=55296&&l<=57343?a+="���":a+=String.fromCharCode(l),o+=6;continue}}if((s&248)===240&&o+9<r){const c=parseInt(t.slice(o+4,o+6),16),u=parseInt(t.slice(o+7,o+9),16),l=parseInt(t.slice(o+10,o+12),16);if((c&192)===128&&(u&192)===128&&(l&192)===128){let h=s<<18&1835008|c<<12&258048|u<<6&4032|l&63;h<65536||h>1114111?a+="����":(h-=65536,a+=String.fromCharCode(55296+(h>>10),56320+(h&1023))),o+=9;continue}}a+="�"}return a})}U.defaultChars=";/?:@&=+$,#";U.componentChars="";const Qe={};function ec(e){let n=Qe[e];if(n)return n;n=Qe[e]=[];for(let i=0;i<128;i++){const t=String.fromCharCode(i);/^[0-9a-z]$/i.test(t)?n.push(t):n.push("%"+("0"+i.toString(16).toUpperCase()).slice(-2))}for(let i=0;i<e.length;i++)n[e.charCodeAt(i)]=e[i];return n}function ee(e,n,i){typeof n!="string"&&(i=n,n=ee.defaultChars),typeof i>"u"&&(i=!0);const t=ec(n);let a="";for(let o=0,r=e.length;o<r;o++){const s=e.charCodeAt(o);if(i&&s===37&&o+2<r&&/^[0-9a-f]{2}$/i.test(e.slice(o+1,o+3))){a+=e.slice(o,o+3),o+=2;continue}if(s<128){a+=t[s];continue}if(s>=55296&&s<=57343){if(s>=55296&&s<=56319&&o+1<r){const c=e.charCodeAt(o+1);if(c>=56320&&c<=57343){a+=encodeURIComponent(e[o]+e[o+1]),o++;continue}}a+="%EF%BF%BD";continue}a+=encodeURIComponent(e[o])}return a}ee.defaultChars=";/?:@&=+$,-_.!~*'()#";ee.componentChars="-_.!~*'()";function Se(e){let n="";return n+=e.protocol||"",n+=e.slashes?"//":"",n+=e.auth?e.auth+"@":"",e.hostname&&e.hostname.indexOf(":")!==-1?n+="["+e.hostname+"]":n+=e.hostname||"",n+=e.port?":"+e.port:"",n+=e.pathname||"",n+=e.search||"",n+=e.hash||"",n}function oe(){this.protocol=null,this.slashes=null,this.auth=null,this.port=null,this.hostname=null,this.hash=null,this.search=null,this.pathname=null}const nc=/^([a-z0-9.+-]+:)/i,ic=/:[0-9]*$/,tc=/^(\/\/?(?!\/)[^\?\s]*)(\?[^\s]*)?$/,ac=["<",">",'"',"`"," ","\r",`
+`,"	"],oc=["{","}","|","\\","^","`"].concat(ac),sc=["'"].concat(oc),Ne=["%","/","?",";","#"].concat(sc),Oe=["/","?","#"],rc=255,Ge=/^[+a-z0-9A-Z_-]{0,63}$/,cc=/^([+a-z0-9A-Z_-]{0,63})(.*)$/,We={javascript:!0,"javascript:":!0},Je={http:!0,https:!0,ftp:!0,gopher:!0,file:!0,"http:":!0,"https:":!0,"ftp:":!0,"gopher:":!0,"file:":!0};function ze(e,n){if(e&&e instanceof oe)return e;const i=new oe;return i.parse(e,n),i}oe.prototype.parse=function(e,n){let i,t,a,o=e;if(o=o.trim(),!n&&e.split("#").length===1){const u=tc.exec(o);if(u)return this.pathname=u[1],u[2]&&(this.search=u[2]),this}let r=nc.exec(o);if(r&&(r=r[0],i=r.toLowerCase(),this.protocol=r,o=o.substr(r.length)),(n||r||o.match(/^\/\/[^@\/]+@[^@\/]+/))&&(a=o.substr(0,2)==="//",a&&!(r&&We[r])&&(o=o.substr(2),this.slashes=!0)),!We[r]&&(a||r&&!Je[r])){let u=-1;for(let d=0;d<Oe.length;d++)t=o.indexOf(Oe[d]),t!==-1&&(u===-1||t<u)&&(u=t);let l,h;u===-1?h=o.lastIndexOf("@"):h=o.lastIndexOf("@",u),h!==-1&&(l=o.slice(0,h),o=o.slice(h+1),this.auth=l),u=-1;for(let d=0;d<Ne.length;d++)t=o.indexOf(Ne[d]),t!==-1&&(u===-1||t<u)&&(u=t);u===-1&&(u=o.length),o[u-1]===":"&&u--;const p=o.slice(0,u);o=o.slice(u),this.parseHost(p),this.hostname=this.hostname||"";const m=this.hostname[0]==="["&&this.hostname[this.hostname.length-1]==="]";if(!m){const d=this.hostname.split(/\./);for(let A=0,q=d.length;A<q;A++){const v=d[A];if(v&&!v.match(Ge)){let b="";for(let f=0,g=v.length;f<g;f++)v.charCodeAt(f)>127?b+="x":b+=v[f];if(!b.match(Ge)){const f=d.slice(0,A),g=d.slice(A+1),y=v.match(cc);y&&(f.push(y[1]),g.unshift(y[2])),g.length&&(o=g.join(".")+o),this.hostname=f.join(".");break}}}}this.hostname.length>rc&&(this.hostname=""),m&&(this.hostname=this.hostname.substr(1,this.hostname.length-2))}const s=o.indexOf("#");s!==-1&&(this.hash=o.substr(s),o=o.slice(0,s));const c=o.indexOf("?");return c!==-1&&(this.search=o.substr(c),o=o.slice(0,c)),o&&(this.pathname=o),Je[i]&&this.hostname&&!this.pathname&&(this.pathname=""),this};oe.prototype.parseHost=function(e){let n=ic.exec(e);n&&(n=n[0],n!==":"&&(this.port=n.substr(1)),e=e.substr(0,e.length-n.length)),e&&(this.hostname=e)};const uc=Object.freeze(Object.defineProperty({__proto__:null,decode:U,encode:ee,format:Se,parse:ze},Symbol.toStringTag,{value:"Module"})),on=/[\0-\uD7FF\uE000-\uFFFF]|[\uD800-\uDBFF][\uDC00-\uDFFF]|[\uD800-\uDBFF](?![\uDC00-\uDFFF])|(?:[^\uD800-\uDBFF]|^)[\uDC00-\uDFFF]/,sn=/[\0-\x1F\x7F-\x9F]/,lc=/[\xAD\u0600-\u0605\u061C\u06DD\u070F\u0890\u0891\u08E2\u180E\u200B-\u200F\u202A-\u202E\u2060-\u2064\u2066-\u206F\uFEFF\uFFF9-\uFFFB]|\uD804[\uDCBD\uDCCD]|\uD80D[\uDC30-\uDC3F]|\uD82F[\uDCA0-\uDCA3]|\uD834[\uDD73-\uDD7A]|\uDB40[\uDC01\uDC20-\uDC7F]/,Le=/[!-#%-\*,-\/:;\?@\[-\]_\{\}\xA1\xA7\xAB\xB6\xB7\xBB\xBF\u037E\u0387\u055A-\u055F\u0589\u058A\u05BE\u05C0\u05C3\u05C6\u05F3\u05F4\u0609\u060A\u060C\u060D\u061B\u061D-\u061F\u066A-\u066D\u06D4\u0700-\u070D\u07F7-\u07F9\u0830-\u083E\u085E\u0964\u0965\u0970\u09FD\u0A76\u0AF0\u0C77\u0C84\u0DF4\u0E4F\u0E5A\u0E5B\u0F04-\u0F12\u0F14\u0F3A-\u0F3D\u0F85\u0FD0-\u0FD4\u0FD9\u0FDA\u104A-\u104F\u10FB\u1360-\u1368\u1400\u166E\u169B\u169C\u16EB-\u16ED\u1735\u1736\u17D4-\u17D6\u17D8-\u17DA\u1800-\u180A\u1944\u1945\u1A1E\u1A1F\u1AA0-\u1AA6\u1AA8-\u1AAD\u1B5A-\u1B60\u1B7D\u1B7E\u1BFC-\u1BFF\u1C3B-\u1C3F\u1C7E\u1C7F\u1CC0-\u1CC7\u1CD3\u2010-\u2027\u2030-\u2043\u2045-\u2051\u2053-\u205E\u207D\u207E\u208D\u208E\u2308-\u230B\u2329\u232A\u2768-\u2775\u27C5\u27C6\u27E6-\u27EF\u2983-\u2998\u29D8-\u29DB\u29FC\u29FD\u2CF9-\u2CFC\u2CFE\u2CFF\u2D70\u2E00-\u2E2E\u2E30-\u2E4F\u2E52-\u2E5D\u3001-\u3003\u3008-\u3011\u3014-\u301F\u3030\u303D\u30A0\u30FB\uA4FE\uA4FF\uA60D-\uA60F\uA673\uA67E\uA6F2-\uA6F7\uA874-\uA877\uA8CE\uA8CF\uA8F8-\uA8FA\uA8FC\uA92E\uA92F\uA95F\uA9C1-\uA9CD\uA9DE\uA9DF\uAA5C-\uAA5F\uAADE\uAADF\uAAF0\uAAF1\uABEB\uFD3E\uFD3F\uFE10-\uFE19\uFE30-\uFE52\uFE54-\uFE61\uFE63\uFE68\uFE6A\uFE6B\uFF01-\uFF03\uFF05-\uFF0A\uFF0C-\uFF0F\uFF1A\uFF1B\uFF1F\uFF20\uFF3B-\uFF3D\uFF3F\uFF5B\uFF5D\uFF5F-\uFF65]|\uD800[\uDD00-\uDD02\uDF9F\uDFD0]|\uD801\uDD6F|\uD802[\uDC57\uDD1F\uDD3F\uDE50-\uDE58\uDE7F\uDEF0-\uDEF6\uDF39-\uDF3F\uDF99-\uDF9C]|\uD803[\uDEAD\uDF55-\uDF59\uDF86-\uDF89]|\uD804[\uDC47-\uDC4D\uDCBB\uDCBC\uDCBE-\uDCC1\uDD40-\uDD43\uDD74\uDD75\uDDC5-\uDDC8\uDDCD\uDDDB\uDDDD-\uDDDF\uDE38-\uDE3D\uDEA9]|\uD805[\uDC4B-\uDC4F\uDC5A\uDC5B\uDC5D\uDCC6\uDDC1-\uDDD7\uDE41-\uDE43\uDE60-\uDE6C\uDEB9\uDF3C-\uDF3E]|\uD806[\uDC3B\uDD44-\uDD46\uDDE2\uDE3F-\uDE46\uDE9A-\uDE9C\uDE9E-\uDEA2\uDF00-\uDF09]|\uD807[\uDC41-\uDC45\uDC70\uDC71\uDEF7\uDEF8\uDF43-\uDF4F\uDFFF]|\uD809[\uDC70-\uDC74]|\uD80B[\uDFF1\uDFF2]|\uD81A[\uDE6E\uDE6F\uDEF5\uDF37-\uDF3B\uDF44]|\uD81B[\uDE97-\uDE9A\uDFE2]|\uD82F\uDC9F|\uD836[\uDE87-\uDE8B]|\uD83A[\uDD5E\uDD5F]/,rn=/[\$\+<->\^`\|~\xA2-\xA6\xA8\xA9\xAC\xAE-\xB1\xB4\xB8\xD7\xF7\u02C2-\u02C5\u02D2-\u02DF\u02E5-\u02EB\u02ED\u02EF-\u02FF\u0375\u0384\u0385\u03F6\u0482\u058D-\u058F\u0606-\u0608\u060B\u060E\u060F\u06DE\u06E9\u06FD\u06FE\u07F6\u07FE\u07FF\u0888\u09F2\u09F3\u09FA\u09FB\u0AF1\u0B70\u0BF3-\u0BFA\u0C7F\u0D4F\u0D79\u0E3F\u0F01-\u0F03\u0F13\u0F15-\u0F17\u0F1A-\u0F1F\u0F34\u0F36\u0F38\u0FBE-\u0FC5\u0FC7-\u0FCC\u0FCE\u0FCF\u0FD5-\u0FD8\u109E\u109F\u1390-\u1399\u166D\u17DB\u1940\u19DE-\u19FF\u1B61-\u1B6A\u1B74-\u1B7C\u1FBD\u1FBF-\u1FC1\u1FCD-\u1FCF\u1FDD-\u1FDF\u1FED-\u1FEF\u1FFD\u1FFE\u2044\u2052\u207A-\u207C\u208A-\u208C\u20A0-\u20C0\u2100\u2101\u2103-\u2106\u2108\u2109\u2114\u2116-\u2118\u211E-\u2123\u2125\u2127\u2129\u212E\u213A\u213B\u2140-\u2144\u214A-\u214D\u214F\u218A\u218B\u2190-\u2307\u230C-\u2328\u232B-\u2426\u2440-\u244A\u249C-\u24E9\u2500-\u2767\u2794-\u27C4\u27C7-\u27E5\u27F0-\u2982\u2999-\u29D7\u29DC-\u29FB\u29FE-\u2B73\u2B76-\u2B95\u2B97-\u2BFF\u2CE5-\u2CEA\u2E50\u2E51\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u2FF0-\u2FFF\u3004\u3012\u3013\u3020\u3036\u3037\u303E\u303F\u309B\u309C\u3190\u3191\u3196-\u319F\u31C0-\u31E3\u31EF\u3200-\u321E\u322A-\u3247\u3250\u3260-\u327F\u328A-\u32B0\u32C0-\u33FF\u4DC0-\u4DFF\uA490-\uA4C6\uA700-\uA716\uA720\uA721\uA789\uA78A\uA828-\uA82B\uA836-\uA839\uAA77-\uAA79\uAB5B\uAB6A\uAB6B\uFB29\uFBB2-\uFBC2\uFD40-\uFD4F\uFDCF\uFDFC-\uFDFF\uFE62\uFE64-\uFE66\uFE69\uFF04\uFF0B\uFF1C-\uFF1E\uFF3E\uFF40\uFF5C\uFF5E\uFFE0-\uFFE6\uFFE8-\uFFEE\uFFFC\uFFFD]|\uD800[\uDD37-\uDD3F\uDD79-\uDD89\uDD8C-\uDD8E\uDD90-\uDD9C\uDDA0\uDDD0-\uDDFC]|\uD802[\uDC77\uDC78\uDEC8]|\uD805\uDF3F|\uD807[\uDFD5-\uDFF1]|\uD81A[\uDF3C-\uDF3F\uDF45]|\uD82F\uDC9C|\uD833[\uDF50-\uDFC3]|\uD834[\uDC00-\uDCF5\uDD00-\uDD26\uDD29-\uDD64\uDD6A-\uDD6C\uDD83\uDD84\uDD8C-\uDDA9\uDDAE-\uDDEA\uDE00-\uDE41\uDE45\uDF00-\uDF56]|\uD835[\uDEC1\uDEDB\uDEFB\uDF15\uDF35\uDF4F\uDF6F\uDF89\uDFA9\uDFC3]|\uD836[\uDC00-\uDDFF\uDE37-\uDE3A\uDE6D-\uDE74\uDE76-\uDE83\uDE85\uDE86]|\uD838[\uDD4F\uDEFF]|\uD83B[\uDCAC\uDCB0\uDD2E\uDEF0\uDEF1]|\uD83C[\uDC00-\uDC2B\uDC30-\uDC93\uDCA0-\uDCAE\uDCB1-\uDCBF\uDCC1-\uDCCF\uDCD1-\uDCF5\uDD0D-\uDDAD\uDDE6-\uDE02\uDE10-\uDE3B\uDE40-\uDE48\uDE50\uDE51\uDE60-\uDE65\uDF00-\uDFFF]|\uD83D[\uDC00-\uDED7\uDEDC-\uDEEC\uDEF0-\uDEFC\uDF00-\uDF76\uDF7B-\uDFD9\uDFE0-\uDFEB\uDFF0]|\uD83E[\uDC00-\uDC0B\uDC10-\uDC47\uDC50-\uDC59\uDC60-\uDC87\uDC90-\uDCAD\uDCB0\uDCB1\uDD00-\uDE53\uDE60-\uDE6D\uDE70-\uDE7C\uDE80-\uDE88\uDE90-\uDEBD\uDEBF-\uDEC5\uDECE-\uDEDB\uDEE0-\uDEE8\uDEF0-\uDEF8\uDF00-\uDF92\uDF94-\uDFCA]/,cn=/[ \xA0\u1680\u2000-\u200A\u2028\u2029\u202F\u205F\u3000]/,dc=Object.freeze(Object.defineProperty({__proto__:null,Any:on,Cc:sn,Cf:lc,P:Le,S:rn,Z:cn},Symbol.toStringTag,{value:"Module"})),hc=new Uint16Array('ᵁ<Õıʊҝջאٵ۞ޢߖࠏ੊ઑඡ๭༉༦჊ረዡᐕᒝᓃᓟᔥ\0\0\0\0\0\0ᕫᛍᦍᰒᷝ὾⁠↰⊍⏀⏻⑂⠤⤒ⴈ⹈⿎〖㊺㘹㞬㣾㨨㩱㫠㬮ࠀEMabcfglmnoprstu\\bfms¦³¹ÈÏlig耻Æ䃆P耻&䀦cute耻Á䃁reve;䄂Āiyx}rc耻Â䃂;䐐r;쀀𝔄rave耻À䃀pha;䎑acr;䄀d;橓Āgp¡on;䄄f;쀀𝔸plyFunction;恡ing耻Å䃅Ācs¾Ãr;쀀𝒜ign;扔ilde耻Ã䃃ml耻Ä䃄ЀaceforsuåûþėĜĢħĪĀcrêòkslash;或Ŷöø;櫧ed;挆y;䐑ƀcrtąċĔause;戵noullis;愬a;䎒r;쀀𝔅pf;쀀𝔹eve;䋘còēmpeq;扎܀HOacdefhilorsuōőŖƀƞƢƵƷƺǜȕɳɸɾcy;䐧PY耻©䂩ƀcpyŝŢźute;䄆Ā;iŧŨ拒talDifferentialD;慅leys;愭ȀaeioƉƎƔƘron;䄌dil耻Ç䃇rc;䄈nint;戰ot;䄊ĀdnƧƭilla;䂸terDot;䂷òſi;䎧rcleȀDMPTǇǋǑǖot;抙inus;抖lus;投imes;抗oĀcsǢǸkwiseContourIntegral;戲eCurlyĀDQȃȏoubleQuote;思uote;怙ȀlnpuȞȨɇɕonĀ;eȥȦ户;橴ƀgitȯȶȺruent;扡nt;戯ourIntegral;戮ĀfrɌɎ;愂oduct;成nterClockwiseContourIntegral;戳oss;樯cr;쀀𝒞pĀ;Cʄʅ拓ap;才րDJSZacefiosʠʬʰʴʸˋ˗ˡ˦̳ҍĀ;oŹʥtrahd;椑cy;䐂cy;䐅cy;䐏ƀgrsʿ˄ˇger;怡r;憡hv;櫤Āayː˕ron;䄎;䐔lĀ;t˝˞戇a;䎔r;쀀𝔇Āaf˫̧Ācm˰̢riticalȀADGT̖̜̀̆cute;䂴oŴ̋̍;䋙bleAcute;䋝rave;䁠ilde;䋜ond;拄ferentialD;慆Ѱ̽\0\0\0͔͂\0Ѕf;쀀𝔻ƀ;DE͈͉͍䂨ot;惜qual;扐blèCDLRUVͣͲ΂ϏϢϸontourIntegraìȹoɴ͹\0\0ͻ»͉nArrow;懓Āeo·ΤftƀARTΐΖΡrrow;懐ightArrow;懔eåˊngĀLRΫτeftĀARγιrrow;柸ightArrow;柺ightArrow;柹ightĀATϘϞrrow;懒ee;抨pɁϩ\0\0ϯrrow;懑ownArrow;懕erticalBar;戥ǹABLRTaВЪаўѿͼrrowƀ;BUНОТ憓ar;椓pArrow;懵reve;䌑eft˒к\0ц\0ѐightVector;楐eeVector;楞ectorĀ;Bљњ憽ar;楖ightǔѧ\0ѱeeVector;楟ectorĀ;BѺѻ懁ar;楗eeĀ;A҆҇护rrow;憧ĀctҒҗr;쀀𝒟rok;䄐ࠀNTacdfglmopqstuxҽӀӄӋӞӢӧӮӵԡԯԶՒ՝ՠեG;䅊H耻Ð䃐cute耻É䃉ƀaiyӒӗӜron;䄚rc耻Ê䃊;䐭ot;䄖r;쀀𝔈rave耻È䃈ement;戈ĀapӺӾcr;䄒tyɓԆ\0\0ԒmallSquare;旻erySmallSquare;斫ĀgpԦԪon;䄘f;쀀𝔼silon;䎕uĀaiԼՉlĀ;TՂՃ橵ilde;扂librium;懌Āci՗՚r;愰m;橳a;䎗ml耻Ë䃋Āipժկsts;戃onentialE;慇ʀcfiosօֈ֍ֲ׌y;䐤r;쀀𝔉lledɓ֗\0\0֣mallSquare;旼erySmallSquare;斪Ͱֺ\0ֿ\0\0ׄf;쀀𝔽All;戀riertrf;愱cò׋؀JTabcdfgorstר׬ׯ׺؀ؒؖ؛؝أ٬ٲcy;䐃耻>䀾mmaĀ;d׷׸䎓;䏜reve;䄞ƀeiy؇،ؐdil;䄢rc;䄜;䐓ot;䄠r;쀀𝔊;拙pf;쀀𝔾eater̀EFGLSTصلَٖٛ٦qualĀ;Lؾؿ扥ess;招ullEqual;执reater;檢ess;扷lantEqual;橾ilde;扳cr;쀀𝒢;扫ЀAacfiosuڅڋږڛڞڪھۊRDcy;䐪Āctڐڔek;䋇;䁞irc;䄤r;愌lbertSpace;愋ǰگ\0ڲf;愍izontalLine;攀Āctۃۅòکrok;䄦mpńېۘownHumðįqual;扏܀EJOacdfgmnostuۺ۾܃܇܎ܚܞܡܨ݄ݸދޏޕcy;䐕lig;䄲cy;䐁cute耻Í䃍Āiyܓܘrc耻Î䃎;䐘ot;䄰r;愑rave耻Ì䃌ƀ;apܠܯܿĀcgܴܷr;䄪inaryI;慈lieóϝǴ݉\0ݢĀ;eݍݎ戬Āgrݓݘral;戫section;拂isibleĀCTݬݲomma;恣imes;恢ƀgptݿރވon;䄮f;쀀𝕀a;䎙cr;愐ilde;䄨ǫޚ\0ޞcy;䐆l耻Ï䃏ʀcfosuެ޷޼߂ߐĀiyޱ޵rc;䄴;䐙r;쀀𝔍pf;쀀𝕁ǣ߇\0ߌr;쀀𝒥rcy;䐈kcy;䐄΀HJacfosߤߨ߽߬߱ࠂࠈcy;䐥cy;䐌ppa;䎚Āey߶߻dil;䄶;䐚r;쀀𝔎pf;쀀𝕂cr;쀀𝒦րJTaceflmostࠥࠩࠬࡐࡣ঳সে্਷ੇcy;䐉耻<䀼ʀcmnpr࠷࠼ࡁࡄࡍute;䄹bda;䎛g;柪lacetrf;愒r;憞ƀaeyࡗ࡜ࡡron;䄽dil;䄻;䐛Āfsࡨ॰tԀACDFRTUVarࡾࢩࢱࣦ࣠ࣼयज़ΐ४Ānrࢃ࢏gleBracket;柨rowƀ;BR࢙࢚࢞憐ar;懤ightArrow;懆eiling;挈oǵࢷ\0ࣃbleBracket;柦nǔࣈ\0࣒eeVector;楡ectorĀ;Bࣛࣜ懃ar;楙loor;挊ightĀAV࣯ࣵrrow;憔ector;楎Āerँगeƀ;AVउऊऐ抣rrow;憤ector;楚iangleƀ;BEतथऩ抲ar;槏qual;抴pƀDTVषूौownVector;楑eeVector;楠ectorĀ;Bॖॗ憿ar;楘ectorĀ;B॥०憼ar;楒ightáΜs̀EFGLSTॾঋকঝঢভqualGreater;拚ullEqual;扦reater;扶ess;檡lantEqual;橽ilde;扲r;쀀𝔏Ā;eঽা拘ftarrow;懚idot;䄿ƀnpw৔ਖਛgȀLRlr৞৷ਂਐeftĀAR০৬rrow;柵ightArrow;柷ightArrow;柶eftĀarγਊightáοightáϊf;쀀𝕃erĀLRਢਬeftArrow;憙ightArrow;憘ƀchtਾੀੂòࡌ;憰rok;䅁;扪Ѐacefiosuਗ਼੝੠੷੼અઋ઎p;椅y;䐜Ādl੥੯iumSpace;恟lintrf;愳r;쀀𝔐nusPlus;戓pf;쀀𝕄cò੶;䎜ҀJacefostuણધભીଔଙඑ඗ඞcy;䐊cute;䅃ƀaey઴હાron;䅇dil;䅅;䐝ƀgswે૰଎ativeƀMTV૓૟૨ediumSpace;怋hiĀcn૦૘ë૙eryThiî૙tedĀGL૸ଆreaterGreateòٳessLesóੈLine;䀊r;쀀𝔑ȀBnptଢନଷ଺reak;恠BreakingSpace;䂠f;愕ڀ;CDEGHLNPRSTV୕ୖ୪୼஡௫ఄ౞಄ದ೘ൡඅ櫬Āou୛୤ngruent;扢pCap;扭oubleVerticalBar;戦ƀlqxஃஊ஛ement;戉ualĀ;Tஒஓ扠ilde;쀀≂̸ists;戄reater΀;EFGLSTஶஷ஽௉௓௘௥扯qual;扱ullEqual;쀀≧̸reater;쀀≫̸ess;批lantEqual;쀀⩾̸ilde;扵umpń௲௽ownHump;쀀≎̸qual;쀀≏̸eĀfsఊధtTriangleƀ;BEచఛడ拪ar;쀀⧏̸qual;括s̀;EGLSTవశ఼ౄోౘ扮qual;扰reater;扸ess;쀀≪̸lantEqual;쀀⩽̸ilde;扴estedĀGL౨౹reaterGreater;쀀⪢̸essLess;쀀⪡̸recedesƀ;ESಒಓಛ技qual;쀀⪯̸lantEqual;拠ĀeiಫಹverseElement;戌ghtTriangleƀ;BEೋೌ೒拫ar;쀀⧐̸qual;拭ĀquೝഌuareSuĀbp೨೹setĀ;E೰ೳ쀀⊏̸qual;拢ersetĀ;Eഃആ쀀⊐̸qual;拣ƀbcpഓതൎsetĀ;Eഛഞ쀀⊂⃒qual;抈ceedsȀ;ESTലള഻െ抁qual;쀀⪰̸lantEqual;拡ilde;쀀≿̸ersetĀ;E൘൛쀀⊃⃒qual;抉ildeȀ;EFT൮൯൵ൿ扁qual;扄ullEqual;扇ilde;扉erticalBar;戤cr;쀀𝒩ilde耻Ñ䃑;䎝܀Eacdfgmoprstuvලෂ෉෕ෛ෠෧෼ขภยา฿ไlig;䅒cute耻Ó䃓Āiy෎ීrc耻Ô䃔;䐞blac;䅐r;쀀𝔒rave耻Ò䃒ƀaei෮ෲ෶cr;䅌ga;䎩cron;䎟pf;쀀𝕆enCurlyĀDQฎบoubleQuote;怜uote;怘;橔Āclวฬr;쀀𝒪ash耻Ø䃘iŬื฼de耻Õ䃕es;樷ml耻Ö䃖erĀBP๋๠Āar๐๓r;怾acĀek๚๜;揞et;掴arenthesis;揜Ҁacfhilors๿ງຊຏຒດຝະ໼rtialD;戂y;䐟r;쀀𝔓i;䎦;䎠usMinus;䂱Āipຢອncareplanåڝf;愙Ȁ;eio຺ູ໠໤檻cedesȀ;EST່້໏໚扺qual;檯lantEqual;扼ilde;找me;怳Ādp໩໮uct;戏ortionĀ;aȥ໹l;戝Āci༁༆r;쀀𝒫;䎨ȀUfos༑༖༛༟OT耻"䀢r;쀀𝔔pf;愚cr;쀀𝒬؀BEacefhiorsu༾གྷཇའཱིྦྷྪྭ႖ႩႴႾarr;椐G耻®䂮ƀcnrཎནབute;䅔g;柫rĀ;tཛྷཝ憠l;椖ƀaeyཧཬཱron;䅘dil;䅖;䐠Ā;vླྀཹ愜erseĀEUྂྙĀlq྇ྎement;戋uilibrium;懋pEquilibrium;楯r»ཹo;䎡ghtЀACDFTUVa࿁࿫࿳ဢဨၛႇϘĀnr࿆࿒gleBracket;柩rowƀ;BL࿜࿝࿡憒ar;懥eftArrow;懄eiling;按oǵ࿹\0စbleBracket;柧nǔည\0နeeVector;楝ectorĀ;Bဝသ懂ar;楕loor;挋Āerိ၃eƀ;AVဵံြ抢rrow;憦ector;楛iangleƀ;BEၐၑၕ抳ar;槐qual;抵pƀDTVၣၮၸownVector;楏eeVector;楜ectorĀ;Bႂႃ憾ar;楔ectorĀ;B႑႒懀ar;楓Āpuႛ႞f;愝ndImplies;楰ightarrow;懛ĀchႹႼr;愛;憱leDelayed;槴ڀHOacfhimoqstuფჱჷჽᄙᄞᅑᅖᅡᅧᆵᆻᆿĀCcჩხHcy;䐩y;䐨FTcy;䐬cute;䅚ʀ;aeiyᄈᄉᄎᄓᄗ檼ron;䅠dil;䅞rc;䅜;䐡r;쀀𝔖ortȀDLRUᄪᄴᄾᅉownArrow»ОeftArrow»࢚ightArrow»࿝pArrow;憑gma;䎣allCircle;战pf;쀀𝕊ɲᅭ\0\0ᅰt;戚areȀ;ISUᅻᅼᆉᆯ斡ntersection;抓uĀbpᆏᆞsetĀ;Eᆗᆘ抏qual;抑ersetĀ;Eᆨᆩ抐qual;抒nion;抔cr;쀀𝒮ar;拆ȀbcmpᇈᇛሉላĀ;sᇍᇎ拐etĀ;Eᇍᇕqual;抆ĀchᇠህeedsȀ;ESTᇭᇮᇴᇿ扻qual;檰lantEqual;扽ilde;承Tháྌ;我ƀ;esሒሓሣ拑rsetĀ;Eሜም抃qual;抇et»ሓրHRSacfhiorsሾቄ቉ቕ቞ቱቶኟዂወዑORN耻Þ䃞ADE;愢ĀHc቎ቒcy;䐋y;䐦Ābuቚቜ;䀉;䎤ƀaeyብቪቯron;䅤dil;䅢;䐢r;쀀𝔗Āeiቻ኉ǲኀ\0ኇefore;戴a;䎘Ācn኎ኘkSpace;쀀  Space;怉ldeȀ;EFTካኬኲኼ戼qual;扃ullEqual;扅ilde;扈pf;쀀𝕋ipleDot;惛Āctዖዛr;쀀𝒯rok;䅦ૡዷጎጚጦ\0ጬጱ\0\0\0\0\0ጸጽ፷ᎅ\0᏿ᐄᐊᐐĀcrዻጁute耻Ú䃚rĀ;oጇገ憟cir;楉rǣጓ\0጖y;䐎ve;䅬Āiyጞጣrc耻Û䃛;䐣blac;䅰r;쀀𝔘rave耻Ù䃙acr;䅪Ādiፁ፩erĀBPፈ፝Āarፍፐr;䁟acĀekፗፙ;揟et;掵arenthesis;揝onĀ;P፰፱拃lus;抎Āgp፻፿on;䅲f;쀀𝕌ЀADETadps᎕ᎮᎸᏄϨᏒᏗᏳrrowƀ;BDᅐᎠᎤar;椒ownArrow;懅ownArrow;憕quilibrium;楮eeĀ;AᏋᏌ报rrow;憥ownáϳerĀLRᏞᏨeftArrow;憖ightArrow;憗iĀ;lᏹᏺ䏒on;䎥ing;䅮cr;쀀𝒰ilde;䅨ml耻Ü䃜ҀDbcdefosvᐧᐬᐰᐳᐾᒅᒊᒐᒖash;披ar;櫫y;䐒ashĀ;lᐻᐼ抩;櫦Āerᑃᑅ;拁ƀbtyᑌᑐᑺar;怖Ā;iᑏᑕcalȀBLSTᑡᑥᑪᑴar;戣ine;䁼eparator;杘ilde;所ThinSpace;怊r;쀀𝔙pf;쀀𝕍cr;쀀𝒱dash;抪ʀcefosᒧᒬᒱᒶᒼirc;䅴dge;拀r;쀀𝔚pf;쀀𝕎cr;쀀𝒲Ȁfiosᓋᓐᓒᓘr;쀀𝔛;䎞pf;쀀𝕏cr;쀀𝒳ҀAIUacfosuᓱᓵᓹᓽᔄᔏᔔᔚᔠcy;䐯cy;䐇cy;䐮cute耻Ý䃝Āiyᔉᔍrc;䅶;䐫r;쀀𝔜pf;쀀𝕐cr;쀀𝒴ml;䅸ЀHacdefosᔵᔹᔿᕋᕏᕝᕠᕤcy;䐖cute;䅹Āayᕄᕉron;䅽;䐗ot;䅻ǲᕔ\0ᕛoWidtè૙a;䎖r;愨pf;愤cr;쀀𝒵௡ᖃᖊᖐ\0ᖰᖶᖿ\0\0\0\0ᗆᗛᗫᙟ᙭\0ᚕ᚛ᚲᚹ\0ᚾcute耻á䃡reve;䄃̀;Ediuyᖜᖝᖡᖣᖨᖭ戾;쀀∾̳;房rc耻â䃢te肻´̆;䐰lig耻æ䃦Ā;r²ᖺ;쀀𝔞rave耻à䃠ĀepᗊᗖĀfpᗏᗔsym;愵èᗓha;䎱ĀapᗟcĀclᗤᗧr;䄁g;樿ɤᗰ\0\0ᘊʀ;adsvᗺᗻᗿᘁᘇ戧nd;橕;橜lope;橘;橚΀;elmrszᘘᘙᘛᘞᘿᙏᙙ戠;榤e»ᘙsdĀ;aᘥᘦ戡ѡᘰᘲᘴᘶᘸᘺᘼᘾ;榨;榩;榪;榫;榬;榭;榮;榯tĀ;vᙅᙆ戟bĀ;dᙌᙍ抾;榝Āptᙔᙗh;戢»¹arr;捼Āgpᙣᙧon;䄅f;쀀𝕒΀;Eaeiop዁ᙻᙽᚂᚄᚇᚊ;橰cir;橯;扊d;手s;䀧roxĀ;e዁ᚒñᚃing耻å䃥ƀctyᚡᚦᚨr;쀀𝒶;䀪mpĀ;e዁ᚯñʈilde耻ã䃣ml耻ä䃤Āciᛂᛈoninôɲnt;樑ࠀNabcdefiklnoprsu᛭ᛱᜰ᜼ᝃᝈ᝸᝽០៦ᠹᡐᜍ᤽᥈ᥰot;櫭Ācrᛶ᜞kȀcepsᜀᜅᜍᜓong;扌psilon;䏶rime;怵imĀ;e᜚᜛戽q;拍Ŷᜢᜦee;抽edĀ;gᜬᜭ挅e»ᜭrkĀ;t፜᜷brk;掶Āoyᜁᝁ;䐱quo;怞ʀcmprtᝓ᝛ᝡᝤᝨausĀ;eĊĉptyv;榰séᜌnoõēƀahwᝯ᝱ᝳ;䎲;愶een;扬r;쀀𝔟g΀costuvwឍឝឳេ៕៛៞ƀaiuបពរðݠrc;旯p»፱ƀdptឤឨឭot;樀lus;樁imes;樂ɱឹ\0\0ើcup;樆ar;昅riangleĀdu៍្own;施p;斳plus;樄eåᑄåᒭarow;植ƀako៭ᠦᠵĀcn៲ᠣkƀlst៺֫᠂ozenge;槫riangleȀ;dlr᠒᠓᠘᠝斴own;斾eft;旂ight;斸k;搣Ʊᠫ\0ᠳƲᠯ\0ᠱ;斒;斑4;斓ck;斈ĀeoᠾᡍĀ;qᡃᡆ쀀=⃥uiv;쀀≡⃥t;挐Ȁptwxᡙᡞᡧᡬf;쀀𝕓Ā;tᏋᡣom»Ꮜtie;拈؀DHUVbdhmptuvᢅᢖᢪᢻᣗᣛᣬ᣿ᤅᤊᤐᤡȀLRlrᢎᢐᢒᢔ;敗;敔;敖;敓ʀ;DUduᢡᢢᢤᢦᢨ敐;敦;敩;敤;敧ȀLRlrᢳᢵᢷᢹ;敝;敚;敜;教΀;HLRhlrᣊᣋᣍᣏᣑᣓᣕ救;敬;散;敠;敫;敢;敟ox;槉ȀLRlrᣤᣦᣨᣪ;敕;敒;攐;攌ʀ;DUduڽ᣷᣹᣻᣽;敥;敨;攬;攴inus;抟lus;択imes;抠ȀLRlrᤙᤛᤝ᤟;敛;敘;攘;攔΀;HLRhlrᤰᤱᤳᤵᤷ᤻᤹攂;敪;敡;敞;攼;攤;攜Āevģ᥂bar耻¦䂦Ȁceioᥑᥖᥚᥠr;쀀𝒷mi;恏mĀ;e᜚᜜lƀ;bhᥨᥩᥫ䁜;槅sub;柈Ŭᥴ᥾lĀ;e᥹᥺怢t»᥺pƀ;Eeįᦅᦇ;檮Ā;qۜۛೡᦧ\0᧨ᨑᨕᨲ\0ᨷᩐ\0\0᪴\0\0᫁\0\0ᬡᬮ᭍᭒\0᯽\0ᰌƀcpr᦭ᦲ᧝ute;䄇̀;abcdsᦿᧀᧄ᧊᧕᧙戩nd;橄rcup;橉Āau᧏᧒p;橋p;橇ot;橀;쀀∩︀Āeo᧢᧥t;恁îړȀaeiu᧰᧻ᨁᨅǰ᧵\0᧸s;橍on;䄍dil耻ç䃧rc;䄉psĀ;sᨌᨍ橌m;橐ot;䄋ƀdmnᨛᨠᨦil肻¸ƭptyv;榲t脀¢;eᨭᨮ䂢räƲr;쀀𝔠ƀceiᨽᩀᩍy;䑇ckĀ;mᩇᩈ朓ark»ᩈ;䏇r΀;Ecefms᩟᩠ᩢᩫ᪤᪪᪮旋;槃ƀ;elᩩᩪᩭ䋆q;扗eɡᩴ\0\0᪈rrowĀlr᩼᪁eft;憺ight;憻ʀRSacd᪒᪔᪖᪚᪟»ཇ;擈st;抛irc;抚ash;抝nint;樐id;櫯cir;槂ubsĀ;u᪻᪼晣it»᪼ˬ᫇᫔᫺\0ᬊonĀ;eᫍᫎ䀺Ā;qÇÆɭ᫙\0\0᫢aĀ;t᫞᫟䀬;䁀ƀ;fl᫨᫩᫫戁îᅠeĀmx᫱᫶ent»᫩eóɍǧ᫾\0ᬇĀ;dኻᬂot;橭nôɆƀfryᬐᬔᬗ;쀀𝕔oäɔ脀©;sŕᬝr;愗Āaoᬥᬩrr;憵ss;朗Ācuᬲᬷr;쀀𝒸Ābpᬼ᭄Ā;eᭁᭂ櫏;櫑Ā;eᭉᭊ櫐;櫒dot;拯΀delprvw᭠᭬᭷ᮂᮬᯔ᯹arrĀlr᭨᭪;椸;椵ɰ᭲\0\0᭵r;拞c;拟arrĀ;p᭿ᮀ憶;椽̀;bcdosᮏᮐᮖᮡᮥᮨ截rcap;橈Āauᮛᮞp;橆p;橊ot;抍r;橅;쀀∪︀Ȁalrv᮵ᮿᯞᯣrrĀ;mᮼᮽ憷;椼yƀevwᯇᯔᯘqɰᯎ\0\0ᯒreã᭳uã᭵ee;拎edge;拏en耻¤䂤earrowĀlrᯮ᯳eft»ᮀight»ᮽeäᯝĀciᰁᰇoninôǷnt;戱lcty;挭ঀAHabcdefhijlorstuwz᰸᰻᰿ᱝᱩᱵᲊᲞᲬᲷ᳻᳿ᴍᵻᶑᶫᶻ᷆᷍rò΁ar;楥Ȁglrs᱈ᱍ᱒᱔ger;怠eth;愸òᄳhĀ;vᱚᱛ怐»ऊūᱡᱧarow;椏aã̕Āayᱮᱳron;䄏;䐴ƀ;ao̲ᱼᲄĀgrʿᲁr;懊tseq;橷ƀglmᲑᲔᲘ耻°䂰ta;䎴ptyv;榱ĀirᲣᲨsht;楿;쀀𝔡arĀlrᲳᲵ»ࣜ»သʀaegsv᳂͸᳖᳜᳠mƀ;oș᳊᳔ndĀ;ș᳑uit;晦amma;䏝in;拲ƀ;io᳧᳨᳸䃷de脀÷;o᳧ᳰntimes;拇nø᳷cy;䑒cɯᴆ\0\0ᴊrn;挞op;挍ʀlptuwᴘᴝᴢᵉᵕlar;䀤f;쀀𝕕ʀ;emps̋ᴭᴷᴽᵂqĀ;d͒ᴳot;扑inus;戸lus;戔quare;抡blebarwedgåúnƀadhᄮᵝᵧownarrowóᲃarpoonĀlrᵲᵶefôᲴighôᲶŢᵿᶅkaro÷གɯᶊ\0\0ᶎrn;挟op;挌ƀcotᶘᶣᶦĀryᶝᶡ;쀀𝒹;䑕l;槶rok;䄑Ādrᶰᶴot;拱iĀ;fᶺ᠖斿Āah᷀᷃ròЩaòྦangle;榦Āci᷒ᷕy;䑟grarr;柿ऀDacdefglmnopqrstuxḁḉḙḸոḼṉṡṾấắẽỡἪἷὄ὎὚ĀDoḆᴴoôᲉĀcsḎḔute耻é䃩ter;橮ȀaioyḢḧḱḶron;䄛rĀ;cḭḮ扖耻ê䃪lon;払;䑍ot;䄗ĀDrṁṅot;扒;쀀𝔢ƀ;rsṐṑṗ檚ave耻è䃨Ā;dṜṝ檖ot;檘Ȁ;ilsṪṫṲṴ檙nters;揧;愓Ā;dṹṺ檕ot;檗ƀapsẅẉẗcr;䄓tyƀ;svẒẓẕ戅et»ẓpĀ1;ẝẤĳạả;怄;怅怃ĀgsẪẬ;䅋p;怂ĀgpẴẸon;䄙f;쀀𝕖ƀalsỄỎỒrĀ;sỊị拕l;槣us;橱iƀ;lvỚớở䎵on»ớ;䏵ȀcsuvỪỳἋἣĀioữḱrc»Ḯɩỹ\0\0ỻíՈantĀglἂἆtr»ṝess»Ṻƀaeiἒ἖Ἒls;䀽st;扟vĀ;DȵἠD;橸parsl;槥ĀDaἯἳot;打rr;楱ƀcdiἾὁỸr;愯oô͒ĀahὉὋ;䎷耻ð䃰Āmrὓὗl耻ë䃫o;悬ƀcipὡὤὧl;䀡sôծĀeoὬὴctatioîՙnentialåչৡᾒ\0ᾞ\0ᾡᾧ\0\0ῆῌ\0ΐ\0ῦῪ \0 ⁚llingdotseñṄy;䑄male;晀ƀilrᾭᾳ῁lig;耀ﬃɩᾹ\0\0᾽g;耀ﬀig;耀ﬄ;쀀𝔣lig;耀ﬁlig;쀀fjƀaltῙ῜ῡt;晭ig;耀ﬂns;斱of;䆒ǰ΅\0ῳf;쀀𝕗ĀakֿῷĀ;vῼ´拔;櫙artint;樍Āao‌⁕Ācs‑⁒α‚‰‸⁅⁈\0⁐β•‥‧‪‬\0‮耻½䂽;慓耻¼䂼;慕;慙;慛Ƴ‴\0‶;慔;慖ʴ‾⁁\0\0⁃耻¾䂾;慗;慜5;慘ƶ⁌\0⁎;慚;慝8;慞l;恄wn;挢cr;쀀𝒻ࢀEabcdefgijlnorstv₂₉₟₥₰₴⃰⃵⃺⃿℃ℒℸ̗ℾ⅒↞Ā;lٍ₇;檌ƀcmpₐₕ₝ute;䇵maĀ;dₜ᳚䎳;檆reve;䄟Āiy₪₮rc;䄝;䐳ot;䄡Ȁ;lqsؾق₽⃉ƀ;qsؾٌ⃄lanô٥Ȁ;cdl٥⃒⃥⃕c;檩otĀ;o⃜⃝檀Ā;l⃢⃣檂;檄Ā;e⃪⃭쀀⋛︀s;檔r;쀀𝔤Ā;gٳ؛mel;愷cy;䑓Ȁ;Eajٚℌℎℐ;檒;檥;檤ȀEaesℛℝ℩ℴ;扩pĀ;p℣ℤ檊rox»ℤĀ;q℮ℯ檈Ā;q℮ℛim;拧pf;쀀𝕘Āci⅃ⅆr;愊mƀ;el٫ⅎ⅐;檎;檐茀>;cdlqr׮ⅠⅪⅮⅳⅹĀciⅥⅧ;檧r;橺ot;拗Par;榕uest;橼ʀadelsↄⅪ←ٖ↛ǰ↉\0↎proø₞r;楸qĀlqؿ↖lesó₈ií٫Āen↣↭rtneqq;쀀≩︀Å↪ԀAabcefkosy⇄⇇⇱⇵⇺∘∝∯≨≽ròΠȀilmr⇐⇔⇗⇛rsðᒄf»․ilôکĀdr⇠⇤cy;䑊ƀ;cwࣴ⇫⇯ir;楈;憭ar;意irc;䄥ƀalr∁∎∓rtsĀ;u∉∊晥it»∊lip;怦con;抹r;쀀𝔥sĀew∣∩arow;椥arow;椦ʀamopr∺∾≃≞≣rr;懿tht;戻kĀlr≉≓eftarrow;憩ightarrow;憪f;쀀𝕙bar;怕ƀclt≯≴≸r;쀀𝒽asè⇴rok;䄧Ābp⊂⊇ull;恃hen»ᱛૡ⊣\0⊪\0⊸⋅⋎\0⋕⋳\0\0⋸⌢⍧⍢⍿\0⎆⎪⎴cute耻í䃭ƀ;iyݱ⊰⊵rc耻î䃮;䐸Ācx⊼⊿y;䐵cl耻¡䂡ĀfrΟ⋉;쀀𝔦rave耻ì䃬Ȁ;inoܾ⋝⋩⋮Āin⋢⋦nt;樌t;戭fin;槜ta;愩lig;䄳ƀaop⋾⌚⌝ƀcgt⌅⌈⌗r;䄫ƀelpܟ⌏⌓inåގarôܠh;䄱f;抷ed;䆵ʀ;cfotӴ⌬⌱⌽⍁are;愅inĀ;t⌸⌹戞ie;槝doô⌙ʀ;celpݗ⍌⍐⍛⍡al;抺Āgr⍕⍙eróᕣã⍍arhk;樗rod;樼Ȁcgpt⍯⍲⍶⍻y;䑑on;䄯f;쀀𝕚a;䎹uest耻¿䂿Āci⎊⎏r;쀀𝒾nʀ;EdsvӴ⎛⎝⎡ӳ;拹ot;拵Ā;v⎦⎧拴;拳Ā;iݷ⎮lde;䄩ǫ⎸\0⎼cy;䑖l耻ï䃯̀cfmosu⏌⏗⏜⏡⏧⏵Āiy⏑⏕rc;䄵;䐹r;쀀𝔧ath;䈷pf;쀀𝕛ǣ⏬\0⏱r;쀀𝒿rcy;䑘kcy;䑔Ѐacfghjos␋␖␢␧␭␱␵␻ppaĀ;v␓␔䎺;䏰Āey␛␠dil;䄷;䐺r;쀀𝔨reen;䄸cy;䑅cy;䑜pf;쀀𝕜cr;쀀𝓀஀ABEHabcdefghjlmnoprstuv⑰⒁⒆⒍⒑┎┽╚▀♎♞♥♹♽⚚⚲⛘❝❨➋⟀⠁⠒ƀart⑷⑺⑼rò৆òΕail;椛arr;椎Ā;gঔ⒋;檋ar;楢ॣ⒥\0⒪\0⒱\0\0\0\0\0⒵Ⓔ\0ⓆⓈⓍ\0⓹ute;䄺mptyv;榴raîࡌbda;䎻gƀ;dlࢎⓁⓃ;榑åࢎ;檅uo耻«䂫rЀ;bfhlpst࢙ⓞⓦⓩ⓫⓮⓱⓵Ā;f࢝ⓣs;椟s;椝ë≒p;憫l;椹im;楳l;憢ƀ;ae⓿─┄檫il;椙Ā;s┉┊檭;쀀⪭︀ƀabr┕┙┝rr;椌rk;杲Āak┢┬cĀek┨┪;䁻;䁛Āes┱┳;榋lĀdu┹┻;榏;榍Ȁaeuy╆╋╖╘ron;䄾Ādi═╔il;䄼ìࢰâ┩;䐻Ȁcqrs╣╦╭╽a;椶uoĀ;rนᝆĀdu╲╷har;楧shar;楋h;憲ʀ;fgqs▋▌উ◳◿扤tʀahlrt▘▤▷◂◨rrowĀ;t࢙□aé⓶arpoonĀdu▯▴own»њp»०eftarrows;懇ightƀahs◍◖◞rrowĀ;sࣴࢧarpoonó྘quigarro÷⇰hreetimes;拋ƀ;qs▋ও◺lanôবʀ;cdgsব☊☍☝☨c;檨otĀ;o☔☕橿Ā;r☚☛檁;檃Ā;e☢☥쀀⋚︀s;檓ʀadegs☳☹☽♉♋pproøⓆot;拖qĀgq♃♅ôউgtò⒌ôছiíলƀilr♕࣡♚sht;楼;쀀𝔩Ā;Eজ♣;檑š♩♶rĀdu▲♮Ā;l॥♳;楪lk;斄cy;䑙ʀ;achtੈ⚈⚋⚑⚖rò◁orneòᴈard;楫ri;旺Āio⚟⚤dot;䅀ustĀ;a⚬⚭掰che»⚭ȀEaes⚻⚽⛉⛔;扨pĀ;p⛃⛄檉rox»⛄Ā;q⛎⛏檇Ā;q⛎⚻im;拦Ѐabnoptwz⛩⛴⛷✚✯❁❇❐Ānr⛮⛱g;柬r;懽rëࣁgƀlmr⛿✍✔eftĀar০✇ightá৲apsto;柼ightá৽parrowĀlr✥✩efô⓭ight;憬ƀafl✶✹✽r;榅;쀀𝕝us;樭imes;樴š❋❏st;戗áፎƀ;ef❗❘᠀旊nge»❘arĀ;l❤❥䀨t;榓ʀachmt❳❶❼➅➇ròࢨorneòᶌarĀ;d྘➃;業;怎ri;抿̀achiqt➘➝ੀ➢➮➻quo;怹r;쀀𝓁mƀ;egল➪➬;檍;檏Ābu┪➳oĀ;rฟ➹;怚rok;䅂萀<;cdhilqrࠫ⟒☹⟜⟠⟥⟪⟰Āci⟗⟙;檦r;橹reå◲mes;拉arr;楶uest;橻ĀPi⟵⟹ar;榖ƀ;ef⠀भ᠛旃rĀdu⠇⠍shar;楊har;楦Āen⠗⠡rtneqq;쀀≨︀Å⠞܀Dacdefhilnopsu⡀⡅⢂⢎⢓⢠⢥⢨⣚⣢⣤ઃ⣳⤂Dot;戺Ȁclpr⡎⡒⡣⡽r耻¯䂯Āet⡗⡙;時Ā;e⡞⡟朠se»⡟Ā;sျ⡨toȀ;dluျ⡳⡷⡻owîҌefôएðᏑker;斮Āoy⢇⢌mma;権;䐼ash;怔asuredangle»ᘦr;쀀𝔪o;愧ƀcdn⢯⢴⣉ro耻µ䂵Ȁ;acdᑤ⢽⣀⣄sôᚧir;櫰ot肻·Ƶusƀ;bd⣒ᤃ⣓戒Ā;uᴼ⣘;横ţ⣞⣡p;櫛ò−ðઁĀdp⣩⣮els;抧f;쀀𝕞Āct⣸⣽r;쀀𝓂pos»ᖝƀ;lm⤉⤊⤍䎼timap;抸ఀGLRVabcdefghijlmoprstuvw⥂⥓⥾⦉⦘⧚⧩⨕⨚⩘⩝⪃⪕⪤⪨⬄⬇⭄⭿⮮ⰴⱧⱼ⳩Āgt⥇⥋;쀀⋙̸Ā;v⥐௏쀀≫⃒ƀelt⥚⥲⥶ftĀar⥡⥧rrow;懍ightarrow;懎;쀀⋘̸Ā;v⥻ే쀀≪⃒ightarrow;懏ĀDd⦎⦓ash;抯ash;抮ʀbcnpt⦣⦧⦬⦱⧌la»˞ute;䅄g;쀀∠⃒ʀ;Eiop඄⦼⧀⧅⧈;쀀⩰̸d;쀀≋̸s;䅉roø඄urĀ;a⧓⧔普lĀ;s⧓ସǳ⧟\0⧣p肻 ଷmpĀ;e௹ఀʀaeouy⧴⧾⨃⨐⨓ǰ⧹\0⧻;橃on;䅈dil;䅆ngĀ;dൾ⨊ot;쀀⩭̸p;橂;䐽ash;怓΀;Aadqsxஒ⨩⨭⨻⩁⩅⩐rr;懗rĀhr⨳⨶k;椤Ā;oᏲᏰot;쀀≐̸uiöୣĀei⩊⩎ar;椨í஘istĀ;s஠டr;쀀𝔫ȀEest௅⩦⩹⩼ƀ;qs஼⩭௡ƀ;qs஼௅⩴lanô௢ií௪Ā;rஶ⪁»ஷƀAap⪊⪍⪑rò⥱rr;憮ar;櫲ƀ;svྍ⪜ྌĀ;d⪡⪢拼;拺cy;䑚΀AEadest⪷⪺⪾⫂⫅⫶⫹rò⥦;쀀≦̸rr;憚r;急Ȁ;fqs఻⫎⫣⫯tĀar⫔⫙rro÷⫁ightarro÷⪐ƀ;qs఻⪺⫪lanôౕĀ;sౕ⫴»శiíౝĀ;rవ⫾iĀ;eచథiäඐĀpt⬌⬑f;쀀𝕟膀¬;in⬙⬚⬶䂬nȀ;Edvஉ⬤⬨⬮;쀀⋹̸ot;쀀⋵̸ǡஉ⬳⬵;拷;拶iĀ;vಸ⬼ǡಸ⭁⭃;拾;拽ƀaor⭋⭣⭩rȀ;ast୻⭕⭚⭟lleì୻l;쀀⫽⃥;쀀∂̸lint;樔ƀ;ceಒ⭰⭳uåಥĀ;cಘ⭸Ā;eಒ⭽ñಘȀAait⮈⮋⮝⮧rò⦈rrƀ;cw⮔⮕⮙憛;쀀⤳̸;쀀↝̸ghtarrow»⮕riĀ;eೋೖ΀chimpqu⮽⯍⯙⬄୸⯤⯯Ȁ;cerല⯆ഷ⯉uå൅;쀀𝓃ortɭ⬅\0\0⯖ará⭖mĀ;e൮⯟Ā;q൴൳suĀbp⯫⯭å೸åഋƀbcp⯶ⰑⰙȀ;Ees⯿ⰀഢⰄ抄;쀀⫅̸etĀ;eഛⰋqĀ;qണⰀcĀ;eലⰗñസȀ;EesⰢⰣൟⰧ抅;쀀⫆̸etĀ;e൘ⰮqĀ;qൠⰣȀgilrⰽⰿⱅⱇìௗlde耻ñ䃱çృiangleĀlrⱒⱜeftĀ;eచⱚñదightĀ;eೋⱥñ೗Ā;mⱬⱭ䎽ƀ;esⱴⱵⱹ䀣ro;愖p;怇ҀDHadgilrsⲏⲔⲙⲞⲣⲰⲶⳓⳣash;抭arr;椄p;쀀≍⃒ash;抬ĀetⲨⲬ;쀀≥⃒;쀀>⃒nfin;槞ƀAetⲽⳁⳅrr;椂;쀀≤⃒Ā;rⳊⳍ쀀<⃒ie;쀀⊴⃒ĀAtⳘⳜrr;椃rie;쀀⊵⃒im;쀀∼⃒ƀAan⳰⳴ⴂrr;懖rĀhr⳺⳽k;椣Ā;oᏧᏥear;椧ቓ᪕\0\0\0\0\0\0\0\0\0\0\0\0\0ⴭ\0ⴸⵈⵠⵥ⵲ⶄᬇ\0\0ⶍⶫ\0ⷈⷎ\0ⷜ⸙⸫⸾⹃Ācsⴱ᪗ute耻ó䃳ĀiyⴼⵅrĀ;c᪞ⵂ耻ô䃴;䐾ʀabios᪠ⵒⵗǈⵚlac;䅑v;樸old;榼lig;䅓Ācr⵩⵭ir;榿;쀀𝔬ͯ⵹\0\0⵼\0ⶂn;䋛ave耻ò䃲;槁Ābmⶈ෴ar;榵Ȁacitⶕ⶘ⶥⶨrò᪀Āir⶝ⶠr;榾oss;榻nå๒;槀ƀaeiⶱⶵⶹcr;䅍ga;䏉ƀcdnⷀⷅǍron;䎿;榶pf;쀀𝕠ƀaelⷔ⷗ǒr;榷rp;榹΀;adiosvⷪⷫⷮ⸈⸍⸐⸖戨rò᪆Ȁ;efmⷷⷸ⸂⸅橝rĀ;oⷾⷿ愴f»ⷿ耻ª䂪耻º䂺gof;抶r;橖lope;橗;橛ƀclo⸟⸡⸧ò⸁ash耻ø䃸l;折iŬⸯ⸴de耻õ䃵esĀ;aǛ⸺s;樶ml耻ö䃶bar;挽ૡ⹞\0⹽\0⺀⺝\0⺢⺹\0\0⻋ຜ\0⼓\0\0⼫⾼\0⿈rȀ;astЃ⹧⹲຅脀¶;l⹭⹮䂶leìЃɩ⹸\0\0⹻m;櫳;櫽y;䐿rʀcimpt⺋⺏⺓ᡥ⺗nt;䀥od;䀮il;怰enk;怱r;쀀𝔭ƀimo⺨⺰⺴Ā;v⺭⺮䏆;䏕maô੶ne;明ƀ;tv⺿⻀⻈䏀chfork»´;䏖Āau⻏⻟nĀck⻕⻝kĀ;h⇴⻛;愎ö⇴sҀ;abcdemst⻳⻴ᤈ⻹⻽⼄⼆⼊⼎䀫cir;樣ir;樢Āouᵀ⼂;樥;橲n肻±ຝim;樦wo;樧ƀipu⼙⼠⼥ntint;樕f;쀀𝕡nd耻£䂣Ԁ;Eaceinosu່⼿⽁⽄⽇⾁⾉⾒⽾⾶;檳p;檷uå໙Ā;c໎⽌̀;acens່⽙⽟⽦⽨⽾pproø⽃urlyeñ໙ñ໎ƀaes⽯⽶⽺pprox;檹qq;檵im;拨iíໟmeĀ;s⾈ຮ怲ƀEas⽸⾐⽺ð⽵ƀdfp໬⾙⾯ƀals⾠⾥⾪lar;挮ine;挒urf;挓Ā;t໻⾴ï໻rel;抰Āci⿀⿅r;쀀𝓅;䏈ncsp;怈̀fiopsu⿚⋢⿟⿥⿫⿱r;쀀𝔮pf;쀀𝕢rime;恗cr;쀀𝓆ƀaeo⿸〉〓tĀei⿾々rnionóڰnt;樖stĀ;e【】䀿ñἙô༔઀ABHabcdefhilmnoprstux぀けさすムㄎㄫㅇㅢㅲㆎ㈆㈕㈤㈩㉘㉮㉲㊐㊰㊷ƀartぇおがròႳòϝail;検aròᱥar;楤΀cdenqrtとふへみわゔヌĀeuねぱ;쀀∽̱te;䅕iãᅮmptyv;榳gȀ;del࿑らるろ;榒;榥å࿑uo耻»䂻rր;abcfhlpstw࿜ガクシスゼゾダッデナp;極Ā;f࿠ゴs;椠;椳s;椞ë≝ð✮l;楅im;楴l;憣;憝Āaiパフil;椚oĀ;nホボ戶aló༞ƀabrョリヮrò៥rk;杳ĀakンヽcĀekヹ・;䁽;䁝Āes㄂㄄;榌lĀduㄊㄌ;榎;榐Ȁaeuyㄗㄜㄧㄩron;䅙Ādiㄡㄥil;䅗ì࿲âヺ;䑀Ȁclqsㄴㄷㄽㅄa;椷dhar;楩uoĀ;rȎȍh;憳ƀacgㅎㅟངlȀ;ipsླྀㅘㅛႜnåႻarôྩt;断ƀilrㅩဣㅮsht;楽;쀀𝔯ĀaoㅷㆆrĀduㅽㅿ»ѻĀ;l႑ㆄ;楬Ā;vㆋㆌ䏁;䏱ƀgns㆕ㇹㇼht̀ahlrstㆤㆰ㇂㇘㇤㇮rrowĀ;t࿜ㆭaéトarpoonĀduㆻㆿowîㅾp»႒eftĀah㇊㇐rrowó࿪arpoonóՑightarrows;應quigarro÷ニhreetimes;拌g;䋚ingdotseñἲƀahm㈍㈐㈓rò࿪aòՑ;怏oustĀ;a㈞㈟掱che»㈟mid;櫮Ȁabpt㈲㈽㉀㉒Ānr㈷㈺g;柭r;懾rëဃƀafl㉇㉊㉎r;榆;쀀𝕣us;樮imes;樵Āap㉝㉧rĀ;g㉣㉤䀩t;榔olint;樒arò㇣Ȁachq㉻㊀Ⴜ㊅quo;怺r;쀀𝓇Ābu・㊊oĀ;rȔȓƀhir㊗㊛㊠reåㇸmes;拊iȀ;efl㊪ၙᠡ㊫方tri;槎luhar;楨;愞ൡ㋕㋛㋟㌬㌸㍱\0㍺㎤\0\0㏬㏰\0㐨㑈㑚㒭㒱㓊㓱\0㘖\0\0㘳cute;䅛quï➺Ԁ;Eaceinpsyᇭ㋳㋵㋿㌂㌋㌏㌟㌦㌩;檴ǰ㋺\0㋼;檸on;䅡uåᇾĀ;dᇳ㌇il;䅟rc;䅝ƀEas㌖㌘㌛;檶p;檺im;择olint;樓iíሄ;䑁otƀ;be㌴ᵇ㌵担;橦΀Aacmstx㍆㍊㍗㍛㍞㍣㍭rr;懘rĀhr㍐㍒ë∨Ā;oਸ਼਴t耻§䂧i;䀻war;椩mĀin㍩ðnuóñt;朶rĀ;o㍶⁕쀀𝔰Ȁacoy㎂㎆㎑㎠rp;景Āhy㎋㎏cy;䑉;䑈rtɭ㎙\0\0㎜iäᑤaraì⹯耻­䂭Āgm㎨㎴maƀ;fv㎱㎲㎲䏃;䏂Ѐ;deglnprካ㏅㏉㏎㏖㏞㏡㏦ot;橪Ā;q኱ኰĀ;E㏓㏔檞;檠Ā;E㏛㏜檝;檟e;扆lus;樤arr;楲aròᄽȀaeit㏸㐈㐏㐗Āls㏽㐄lsetmé㍪hp;樳parsl;槤Ādlᑣ㐔e;挣Ā;e㐜㐝檪Ā;s㐢㐣檬;쀀⪬︀ƀflp㐮㐳㑂tcy;䑌Ā;b㐸㐹䀯Ā;a㐾㐿槄r;挿f;쀀𝕤aĀdr㑍ЂesĀ;u㑔㑕晠it»㑕ƀcsu㑠㑹㒟Āau㑥㑯pĀ;sᆈ㑫;쀀⊓︀pĀ;sᆴ㑵;쀀⊔︀uĀbp㑿㒏ƀ;esᆗᆜ㒆etĀ;eᆗ㒍ñᆝƀ;esᆨᆭ㒖etĀ;eᆨ㒝ñᆮƀ;afᅻ㒦ְrť㒫ֱ»ᅼaròᅈȀcemt㒹㒾㓂㓅r;쀀𝓈tmîñiì㐕aræᆾĀar㓎㓕rĀ;f㓔ឿ昆Āan㓚㓭ightĀep㓣㓪psiloîỠhé⺯s»⡒ʀbcmnp㓻㕞ሉ㖋㖎Ҁ;Edemnprs㔎㔏㔑㔕㔞㔣㔬㔱㔶抂;櫅ot;檽Ā;dᇚ㔚ot;櫃ult;櫁ĀEe㔨㔪;櫋;把lus;檿arr;楹ƀeiu㔽㕒㕕tƀ;en㔎㕅㕋qĀ;qᇚ㔏eqĀ;q㔫㔨m;櫇Ābp㕚㕜;櫕;櫓c̀;acensᇭ㕬㕲㕹㕻㌦pproø㋺urlyeñᇾñᇳƀaes㖂㖈㌛pproø㌚qñ㌗g;晪ڀ123;Edehlmnps㖩㖬㖯ሜ㖲㖴㗀㗉㗕㗚㗟㗨㗭耻¹䂹耻²䂲耻³䂳;櫆Āos㖹㖼t;檾ub;櫘Ā;dሢ㗅ot;櫄sĀou㗏㗒l;柉b;櫗arr;楻ult;櫂ĀEe㗤㗦;櫌;抋lus;櫀ƀeiu㗴㘉㘌tƀ;enሜ㗼㘂qĀ;qሢ㖲eqĀ;q㗧㗤m;櫈Ābp㘑㘓;櫔;櫖ƀAan㘜㘠㘭rr;懙rĀhr㘦㘨ë∮Ā;oਫ਩war;椪lig耻ß䃟௡㙑㙝㙠ዎ㙳㙹\0㙾㛂\0\0\0\0\0㛛㜃\0㜉㝬\0\0\0㞇ɲ㙖\0\0㙛get;挖;䏄rë๟ƀaey㙦㙫㙰ron;䅥dil;䅣;䑂lrec;挕r;쀀𝔱Ȁeiko㚆㚝㚵㚼ǲ㚋\0㚑eĀ4fኄኁaƀ;sv㚘㚙㚛䎸ym;䏑Ācn㚢㚲kĀas㚨㚮pproø዁im»ኬsðኞĀas㚺㚮ð዁rn耻þ䃾Ǭ̟㛆⋧es膀×;bd㛏㛐㛘䃗Ā;aᤏ㛕r;樱;樰ƀeps㛡㛣㜀á⩍Ȁ;bcf҆㛬㛰㛴ot;挶ir;櫱Ā;o㛹㛼쀀𝕥rk;櫚á㍢rime;怴ƀaip㜏㜒㝤dåቈ΀adempst㜡㝍㝀㝑㝗㝜㝟ngleʀ;dlqr㜰㜱㜶㝀㝂斵own»ᶻeftĀ;e⠀㜾ñम;扜ightĀ;e㊪㝋ñၚot;旬inus;樺lus;樹b;槍ime;樻ezium;揢ƀcht㝲㝽㞁Āry㝷㝻;쀀𝓉;䑆cy;䑛rok;䅧Āio㞋㞎xô᝷headĀlr㞗㞠eftarro÷ࡏightarrow»ཝऀAHabcdfghlmoprstuw㟐㟓㟗㟤㟰㟼㠎㠜㠣㠴㡑㡝㡫㢩㣌㣒㣪㣶ròϭar;楣Ācr㟜㟢ute耻ú䃺òᅐrǣ㟪\0㟭y;䑞ve;䅭Āiy㟵㟺rc耻û䃻;䑃ƀabh㠃㠆㠋ròᎭlac;䅱aòᏃĀir㠓㠘sht;楾;쀀𝔲rave耻ù䃹š㠧㠱rĀlr㠬㠮»ॗ»ႃlk;斀Āct㠹㡍ɯ㠿\0\0㡊rnĀ;e㡅㡆挜r»㡆op;挏ri;旸Āal㡖㡚cr;䅫肻¨͉Āgp㡢㡦on;䅳f;쀀𝕦̀adhlsuᅋ㡸㡽፲㢑㢠ownáᎳarpoonĀlr㢈㢌efô㠭ighô㠯iƀ;hl㢙㢚㢜䏅»ᏺon»㢚parrows;懈ƀcit㢰㣄㣈ɯ㢶\0\0㣁rnĀ;e㢼㢽挝r»㢽op;挎ng;䅯ri;旹cr;쀀𝓊ƀdir㣙㣝㣢ot;拰lde;䅩iĀ;f㜰㣨»᠓Āam㣯㣲rò㢨l耻ü䃼angle;榧ހABDacdeflnoprsz㤜㤟㤩㤭㦵㦸㦽㧟㧤㧨㧳㧹㧽㨁㨠ròϷarĀ;v㤦㤧櫨;櫩asèϡĀnr㤲㤷grt;榜΀eknprst㓣㥆㥋㥒㥝㥤㦖appá␕othinçẖƀhir㓫⻈㥙opô⾵Ā;hᎷ㥢ïㆍĀiu㥩㥭gmá㎳Ābp㥲㦄setneqĀ;q㥽㦀쀀⊊︀;쀀⫋︀setneqĀ;q㦏㦒쀀⊋︀;쀀⫌︀Āhr㦛㦟etá㚜iangleĀlr㦪㦯eft»थight»ၑy;䐲ash»ံƀelr㧄㧒㧗ƀ;beⷪ㧋㧏ar;抻q;扚lip;拮Ābt㧜ᑨaòᑩr;쀀𝔳tré㦮suĀbp㧯㧱»ജ»൙pf;쀀𝕧roð໻tré㦴Ācu㨆㨋r;쀀𝓋Ābp㨐㨘nĀEe㦀㨖»㥾nĀEe㦒㨞»㦐igzag;榚΀cefoprs㨶㨻㩖㩛㩔㩡㩪irc;䅵Ādi㩀㩑Ābg㩅㩉ar;機eĀ;qᗺ㩏;扙erp;愘r;쀀𝔴pf;쀀𝕨Ā;eᑹ㩦atèᑹcr;쀀𝓌ૣណ㪇\0㪋\0㪐㪛\0\0㪝㪨㪫㪯\0\0㫃㫎\0㫘ៜ៟tré៑r;쀀𝔵ĀAa㪔㪗ròσrò৶;䎾ĀAa㪡㪤ròθrò৫að✓is;拻ƀdptឤ㪵㪾Āfl㪺ឩ;쀀𝕩imåឲĀAa㫇㫊ròώròਁĀcq㫒ីr;쀀𝓍Āpt៖㫜ré។Ѐacefiosu㫰㫽㬈㬌㬑㬕㬛㬡cĀuy㫶㫻te耻ý䃽;䑏Āiy㬂㬆rc;䅷;䑋n耻¥䂥r;쀀𝔶cy;䑗pf;쀀𝕪cr;쀀𝓎Ācm㬦㬩y;䑎l耻ÿ䃿Ԁacdefhiosw㭂㭈㭔㭘㭤㭩㭭㭴㭺㮀cute;䅺Āay㭍㭒ron;䅾;䐷ot;䅼Āet㭝㭡træᕟa;䎶r;쀀𝔷cy;䐶grarr;懝pf;쀀𝕫cr;쀀𝓏Ājn㮅㮇;怍j;怌'.split("").map(e=>e.charCodeAt(0))),mc=new Uint16Array("Ȁaglq	\x1Bɭ\0\0p;䀦os;䀧t;䀾t;䀼uot;䀢".split("").map(e=>e.charCodeAt(0)));var be;const pc=new Map([[0,65533],[128,8364],[130,8218],[131,402],[132,8222],[133,8230],[134,8224],[135,8225],[136,710],[137,8240],[138,352],[139,8249],[140,338],[142,381],[145,8216],[146,8217],[147,8220],[148,8221],[149,8226],[150,8211],[151,8212],[152,732],[153,8482],[154,353],[155,8250],[156,339],[158,382],[159,376]]),bc=(be=String.fromCodePoint)!==null&&be!==void 0?be:function(e){let n="";return e>65535&&(e-=65536,n+=String.fromCharCode(e>>>10&1023|55296),e=56320|e&1023),n+=String.fromCharCode(e),n};function gc(e){var n;return e>=55296&&e<=57343||e>1114111?65533:(n=pc.get(e))!==null&&n!==void 0?n:e}var E;(function(e){e[e.NUM=35]="NUM",e[e.SEMI=59]="SEMI",e[e.EQUALS=61]="EQUALS",e[e.ZERO=48]="ZERO",e[e.NINE=57]="NINE",e[e.LOWER_A=97]="LOWER_A",e[e.LOWER_F=102]="LOWER_F",e[e.LOWER_X=120]="LOWER_X",e[e.LOWER_Z=122]="LOWER_Z",e[e.UPPER_A=65]="UPPER_A",e[e.UPPER_F=70]="UPPER_F",e[e.UPPER_Z=90]="UPPER_Z"})(E||(E={}));const fc=32;var Q;(function(e){e[e.VALUE_LENGTH=49152]="VALUE_LENGTH",e[e.BRANCH_LENGTH=16256]="BRANCH_LENGTH",e[e.JUMP_TABLE=127]="JUMP_TABLE"})(Q||(Q={}));function Ce(e){return e>=E.ZERO&&e<=E.NINE}function yc(e){return e>=E.UPPER_A&&e<=E.UPPER_F||e>=E.LOWER_A&&e<=E.LOWER_F}function Ac(e){return e>=E.UPPER_A&&e<=E.UPPER_Z||e>=E.LOWER_A&&e<=E.LOWER_Z||Ce(e)}function qc(e){return e===E.EQUALS||Ac(e)}var k;(function(e){e[e.EntityStart=0]="EntityStart",e[e.NumericStart=1]="NumericStart",e[e.NumericDecimal=2]="NumericDecimal",e[e.NumericHex=3]="NumericHex",e[e.NamedEntity=4]="NamedEntity"})(k||(k={}));var B;(function(e){e[e.Legacy=0]="Legacy",e[e.Strict=1]="Strict",e[e.Attribute=2]="Attribute"})(B||(B={}));class _c{constructor(n,i,t){this.decodeTree=n,this.emitCodePoint=i,this.errors=t,this.state=k.EntityStart,this.consumed=1,this.result=0,this.treeIndex=0,this.excess=1,this.decodeMode=B.Strict}startEntity(n){this.decodeMode=n,this.state=k.EntityStart,this.result=0,this.treeIndex=0,this.excess=1,this.consumed=1}write(n,i){switch(this.state){case k.EntityStart:return n.charCodeAt(i)===E.NUM?(this.state=k.NumericStart,this.consumed+=1,this.stateNumericStart(n,i+1)):(this.state=k.NamedEntity,this.stateNamedEntity(n,i));case k.NumericStart:return this.stateNumericStart(n,i);case k.NumericDecimal:return this.stateNumericDecimal(n,i);case k.NumericHex:return this.stateNumericHex(n,i);case k.NamedEntity:return this.stateNamedEntity(n,i)}}stateNumericStart(n,i){return i>=n.length?-1:(n.charCodeAt(i)|fc)===E.LOWER_X?(this.state=k.NumericHex,this.consumed+=1,this.stateNumericHex(n,i+1)):(this.state=k.NumericDecimal,this.stateNumericDecimal(n,i))}addToNumericResult(n,i,t,a){if(i!==t){const o=t-i;this.result=this.result*Math.pow(a,o)+parseInt(n.substr(i,o),a),this.consumed+=o}}stateNumericHex(n,i){const t=i;for(;i<n.length;){const a=n.charCodeAt(i);if(Ce(a)||yc(a))i+=1;else return this.addToNumericResult(n,t,i,16),this.emitNumericEntity(a,3)}return this.addToNumericResult(n,t,i,16),-1}stateNumericDecimal(n,i){const t=i;for(;i<n.length;){const a=n.charCodeAt(i);if(Ce(a))i+=1;else return this.addToNumericResult(n,t,i,10),this.emitNumericEntity(a,2)}return this.addToNumericResult(n,t,i,10),-1}emitNumericEntity(n,i){var t;if(this.consumed<=i)return(t=this.errors)===null||t===void 0||t.absenceOfDigitsInNumericCharacterReference(this.consumed),0;if(n===E.SEMI)this.consumed+=1;else if(this.decodeMode===B.Strict)return 0;return this.emitCodePoint(gc(this.result),this.consumed),this.errors&&(n!==E.SEMI&&this.errors.missingSemicolonAfterCharacterReference(),this.errors.validateNumericCharacterReference(this.result)),this.consumed}stateNamedEntity(n,i){const{decodeTree:t}=this;let a=t[this.treeIndex],o=(a&Q.VALUE_LENGTH)>>14;for(;i<n.length;i++,this.excess++){const r=n.charCodeAt(i);if(this.treeIndex=vc(t,a,this.treeIndex+Math.max(1,o),r),this.treeIndex<0)return this.result===0||this.decodeMode===B.Attribute&&(o===0||qc(r))?0:this.emitNotTerminatedNamedEntity();if(a=t[this.treeIndex],o=(a&Q.VALUE_LENGTH)>>14,o!==0){if(r===E.SEMI)return this.emitNamedEntityData(this.treeIndex,o,this.consumed+this.excess);this.decodeMode!==B.Strict&&(this.result=this.treeIndex,this.consumed+=this.excess,this.excess=0)}}return-1}emitNotTerminatedNamedEntity(){var n;const{result:i,decodeTree:t}=this,a=(t[i]&Q.VALUE_LENGTH)>>14;return this.emitNamedEntityData(i,a,this.consumed),(n=this.errors)===null||n===void 0||n.missingSemicolonAfterCharacterReference(),this.consumed}emitNamedEntityData(n,i,t){const{decodeTree:a}=this;return this.emitCodePoint(i===1?a[n]&~Q.VALUE_LENGTH:a[n+1],t),i===3&&this.emitCodePoint(a[n+2],t),t}end(){var n;switch(this.state){case k.NamedEntity:return this.result!==0&&(this.decodeMode!==B.Attribute||this.result===this.treeIndex)?this.emitNotTerminatedNamedEntity():0;case k.NumericDecimal:return this.emitNumericEntity(0,2);case k.NumericHex:return this.emitNumericEntity(0,3);case k.NumericStart:return(n=this.errors)===null||n===void 0||n.absenceOfDigitsInNumericCharacterReference(this.consumed),0;case k.EntityStart:return 0}}}function un(e){let n="";const i=new _c(e,t=>n+=bc(t));return function(a,o){let r=0,s=0;for(;(s=a.indexOf("&",s))>=0;){n+=a.slice(r,s),i.startEntity(o);const u=i.write(a,s+1);if(u<0){r=s+i.end();break}r=s+u,s=u===0?r+1:r}const c=n+a.slice(r);return n="",c}}function vc(e,n,i,t){const a=(n&Q.BRANCH_LENGTH)>>7,o=n&Q.JUMP_TABLE;if(a===0)return o!==0&&t===o?i:-1;if(o){const c=t-o;return c<0||c>=a?-1:e[i+c]-1}let r=i,s=r+a-1;for(;r<=s;){const c=r+s>>>1,u=e[c];if(u<t)r=c+1;else if(u>t)s=c-1;else return e[c+a]}return-1}const Cc=un(hc);un(mc);function ln(e,n=B.Legacy){return Cc(e,n)}function xc(e){return Object.prototype.toString.call(e)}function De(e){return xc(e)==="[object String]"}const kc=Object.prototype.hasOwnProperty;function Ec(e,n){return kc.call(e,n)}function ue(e){return Array.prototype.slice.call(arguments,1).forEach(function(i){if(i){if(typeof i!="object")throw new TypeError(i+"must be object");Object.keys(i).forEach(function(t){e[t]=i[t]})}}),e}function dn(e,n,i){return[].concat(e.slice(0,n),i,e.slice(n+1))}function we(e){return!(e>=55296&&e<=57343||e>=64976&&e<=65007||(e&65535)===65535||(e&65535)===65534||e>=0&&e<=8||e===11||e>=14&&e<=31||e>=127&&e<=159||e>1114111)}function se(e){if(e>65535){e-=65536;const n=55296+(e>>10),i=56320+(e&1023);return String.fromCharCode(n,i)}return String.fromCharCode(e)}const hn=/\\([!"#$%&'()*+,\-./:;<=>?@[\\\]^_`{|}~])/g,Sc=/&([a-z#][a-z0-9]{1,31});/gi,zc=new RegExp(hn.source+"|"+Sc.source,"gi"),Lc=/^#((?:x[a-f0-9]{1,8}|[0-9]{1,8}))$/i;function Dc(e,n){if(n.charCodeAt(0)===35&&Lc.test(n)){const t=n[1].toLowerCase()==="x"?parseInt(n.slice(2),16):parseInt(n.slice(1),10);return we(t)?se(t):e}const i=ln(e);return i!==e?i:e}function wc(e){return e.indexOf("\\")<0?e:e.replace(hn,"$1")}function H(e){return e.indexOf("\\")<0&&e.indexOf("&")<0?e:e.replace(zc,function(n,i,t){return i||Dc(n,t)})}const Pc=/[&<>"]/,Tc=/[&<>"]/g,Fc={"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"};function Rc(e){return Fc[e]}function N(e){return Pc.test(e)?e.replace(Tc,Rc):e}const Mc=/[.?*+^$[\]\\(){}|-]/g;function Ic(e){return e.replace(Mc,"\\$&")}function x(e){switch(e){case 9:case 32:return!0}return!1}function Z(e){if(e>=8192&&e<=8202)return!0;switch(e){case 9:case 10:case 11:case 12:case 13:case 32:case 160:case 5760:case 8239:case 8287:case 12288:return!0}return!1}function $(e){return Le.test(e)||rn.test(e)}function X(e){switch(e){case 33:case 34:case 35:case 36:case 37:case 38:case 39:case 40:case 41:case 42:case 43:case 44:case 45:case 46:case 47:case 58:case 59:case 60:case 61:case 62:case 63:case 64:case 91:case 92:case 93:case 94:case 95:case 96:case 123:case 124:case 125:case 126:return!0;default:return!1}}function le(e){return e=e.trim().replace(/\s+/g," "),"ẞ".toLowerCase()==="Ṿ"&&(e=e.replace(/ẞ/g,"ß")),e.toLowerCase().toUpperCase()}const jc={mdurl:uc,ucmicro:dc},Bc=Object.freeze(Object.defineProperty({__proto__:null,arrayReplaceAt:dn,assign:ue,escapeHtml:N,escapeRE:Ic,fromCodePoint:se,has:Ec,isMdAsciiPunct:X,isPunctChar:$,isSpace:x,isString:De,isValidEntityCode:we,isWhiteSpace:Z,lib:jc,normalizeReference:le,unescapeAll:H,unescapeMd:wc},Symbol.toStringTag,{value:"Module"}));function Qc(e,n,i){let t,a,o,r;const s=e.posMax,c=e.pos;for(e.pos=n+1,t=1;e.pos<s;){if(o=e.src.charCodeAt(e.pos),o===93&&(t--,t===0)){a=!0;break}if(r=e.pos,e.md.inline.skipToken(e),o===91){if(r===e.pos-1)t++;else if(i)return e.pos=c,-1}}let u=-1;return a&&(u=e.pos),e.pos=c,u}function Nc(e,n,i){let t,a=n;const o={ok:!1,pos:0,str:""};if(e.charCodeAt(a)===60){for(a++;a<i;){if(t=e.charCodeAt(a),t===10||t===60)return o;if(t===62)return o.pos=a+1,o.str=H(e.slice(n+1,a)),o.ok=!0,o;if(t===92&&a+1<i){a+=2;continue}a++}return o}let r=0;for(;a<i&&(t=e.charCodeAt(a),!(t===32||t<32||t===127));){if(t===92&&a+1<i){if(e.charCodeAt(a+1)===32)break;a+=2;continue}if(t===40&&(r++,r>32))return o;if(t===41){if(r===0)break;r--}a++}return n===a||r!==0||(o.str=H(e.slice(n,a)),o.pos=a,o.ok=!0),o}function Oc(e,n,i,t){let a,o=n;const r={ok:!1,can_continue:!1,pos:0,str:"",marker:0};if(t)r.str=t.str,r.marker=t.marker;else{if(o>=i)return r;let s=e.charCodeAt(o);if(s!==34&&s!==39&&s!==40)return r;n++,o++,s===40&&(s=41),r.marker=s}for(;o<i;){if(a=e.charCodeAt(o),a===r.marker)return r.pos=o+1,r.str+=H(e.slice(n,o)),r.ok=!0,r;if(a===40&&r.marker===41)return r;a===92&&o+1<i&&o++,o++}return r.can_continue=!0,r.str+=H(e.slice(n,o)),r}const Gc=Object.freeze(Object.defineProperty({__proto__:null,parseLinkDestination:Nc,parseLinkLabel:Qc,parseLinkTitle:Oc},Symbol.toStringTag,{value:"Module"})),R={};R.code_inline=function(e,n,i,t,a){const o=e[n];return"<code"+a.renderAttrs(o)+">"+N(o.content)+"</code>"};R.code_block=function(e,n,i,t,a){const o=e[n];return"<pre"+a.renderAttrs(o)+"><code>"+N(e[n].content)+`</code></pre>
 `};R.fence=function(e,n,i,t,a){const o=e[n],r=o.info?H(o.info).trim():"";let s="",c="";if(r){const l=r.split(/(\s+)/g);s=l[0],c=l.slice(2).join("")}let u;if(i.highlight?u=i.highlight(o.content,s,c)||N(o.content):u=N(o.content),u.indexOf("<pre")===0)return u+`
 `;if(r){const l=o.attrIndex("class"),h=o.attrs?o.attrs.slice():[];l<0?h.push(["class",i.langPrefix+s]):(h[l]=h[l].slice(),h[l][1]+=" "+i.langPrefix+s);const p={attrs:h};return`<pre><code${a.renderAttrs(p)}>${u}</code></pre>
 `}return`<pre><code${a.renderAttrs(o)}>${u}</code></pre>
@@ -7659,8 +7659,8 @@ These repositories show Nicolas Pereira's work across front-end fundamentals, An
 `};R.text=function(e,n){return N(e[n].content)};R.html_block=function(e,n){return e[n].content};R.html_inline=function(e,n){return e[n].content};function K(){this.rules=ue({},R)}K.prototype.renderAttrs=function(n){let i,t,a;if(!n.attrs)return"";for(a="",i=0,t=n.attrs.length;i<t;i++)a+=" "+N(n.attrs[i][0])+'="'+N(n.attrs[i][1])+'"';return a};K.prototype.renderToken=function(n,i,t){const a=n[i];let o="";if(a.hidden)return"";a.block&&a.nesting!==-1&&i&&n[i-1].hidden&&(o+=`
 `),o+=(a.nesting===-1?"</":"<")+a.tag,o+=this.renderAttrs(a),a.nesting===0&&t.xhtmlOut&&(o+=" /");let r=!1;if(a.block&&(r=!0,a.nesting===1&&i+1<n.length)){const s=n[i+1];(s.type==="inline"||s.hidden||s.nesting===-1&&s.tag===a.tag)&&(r=!1)}return o+=r?`>
 `:">",o};K.prototype.renderInline=function(e,n,i){let t="";const a=this.rules;for(let o=0,r=e.length;o<r;o++){const s=e[o].type;typeof a[s]<"u"?t+=a[s](e,o,n,i,this):t+=this.renderToken(e,o,n)}return t};K.prototype.renderInlineAsText=function(e,n,i){let t="";for(let a=0,o=e.length;a<o;a++)switch(e[a].type){case"text":t+=e[a].content;break;case"image":t+=this.renderInlineAsText(e[a].children,n,i);break;case"html_inline":case"html_block":t+=e[a].content;break;case"softbreak":case"hardbreak":t+=`
-`;break}return t};K.prototype.render=function(e,n,i){let t="";const a=this.rules;for(let o=0,r=e.length;o<r;o++){const s=e[o].type;s==="inline"?t+=this.renderInline(e[o].children,n,i):typeof a[s]<"u"?t+=a[s](e,o,n,i,this):t+=this.renderToken(e,o,n,i)}return t};function z(){this.__rules__=[],this.__cache__=null}z.prototype.__find__=function(e){for(let n=0;n<this.__rules__.length;n++)if(this.__rules__[n].name===e)return n;return-1};z.prototype.__compile__=function(){const e=this,n=[""];e.__rules__.forEach(function(i){i.enabled&&i.alt.forEach(function(t){n.indexOf(t)<0&&n.push(t)})}),e.__cache__={},n.forEach(function(i){e.__cache__[i]=[],e.__rules__.forEach(function(t){t.enabled&&(i&&t.alt.indexOf(i)<0||e.__cache__[i].push(t.fn))})})};z.prototype.at=function(e,n,i){const t=this.__find__(e),a=i||{};if(t===-1)throw new Error("Parser rule not found: "+e);this.__rules__[t].fn=n,this.__rules__[t].alt=a.alt||[],this.__cache__=null};z.prototype.before=function(e,n,i,t){const a=this.__find__(e),o=t||{};if(a===-1)throw new Error("Parser rule not found: "+e);this.__rules__.splice(a,0,{name:n,enabled:!0,fn:i,alt:o.alt||[]}),this.__cache__=null};z.prototype.after=function(e,n,i,t){const a=this.__find__(e),o=t||{};if(a===-1)throw new Error("Parser rule not found: "+e);this.__rules__.splice(a+1,0,{name:n,enabled:!0,fn:i,alt:o.alt||[]}),this.__cache__=null};z.prototype.push=function(e,n,i){const t=i||{};this.__rules__.push({name:e,enabled:!0,fn:n,alt:t.alt||[]}),this.__cache__=null};z.prototype.enable=function(e,n){Array.isArray(e)||(e=[e]);const i=[];return e.forEach(function(t){const a=this.__find__(t);if(a<0){if(n)return;throw new Error("Rules manager: invalid rule name "+t)}this.__rules__[a].enabled=!0,i.push(t)},this),this.__cache__=null,i};z.prototype.enableOnly=function(e,n){Array.isArray(e)||(e=[e]),this.__rules__.forEach(function(i){i.enabled=!1}),this.enable(e,n)};z.prototype.disable=function(e,n){Array.isArray(e)||(e=[e]);const i=[];return e.forEach(function(t){const a=this.__find__(t);if(a<0){if(n)return;throw new Error("Rules manager: invalid rule name "+t)}this.__rules__[a].enabled=!1,i.push(t)},this),this.__cache__=null,i};z.prototype.getRules=function(e){return this.__cache__===null&&this.__compile__(),this.__cache__[e]||[]};function P(e,n,i){this.type=e,this.tag=n,this.attrs=null,this.map=null,this.nesting=i,this.level=0,this.children=null,this.content="",this.markup="",this.info="",this.meta=null,this.block=!1,this.hidden=!1}P.prototype.attrIndex=function(n){if(!this.attrs)return-1;const i=this.attrs;for(let t=0,a=i.length;t<a;t++)if(i[t][0]===n)return t;return-1};P.prototype.attrPush=function(n){this.attrs?this.attrs.push(n):this.attrs=[n]};P.prototype.attrSet=function(n,i){const t=this.attrIndex(n),a=[n,i];t<0?this.attrPush(a):this.attrs[t]=a};P.prototype.attrGet=function(n){const i=this.attrIndex(n);let t=null;return i>=0&&(t=this.attrs[i][1]),t};P.prototype.attrJoin=function(n,i){const t=this.attrIndex(n);t<0?this.attrPush([n,i]):this.attrs[t][1]=this.attrs[t][1]+" "+i};function mn(e,n,i){this.src=e,this.env=i,this.tokens=[],this.inlineMode=!1,this.md=n}mn.prototype.Token=P;const Qc=/\r\n?|\n/g,Nc=/\0/g;function Oc(e){let n;n=e.src.replace(Qc,`
-`),n=n.replace(Nc,"�"),e.src=n}function Gc(e){let n;e.inlineMode?(n=new e.Token("inline","",0),n.content=e.src,n.map=[0,1],n.children=[],e.tokens.push(n)):e.md.block.parse(e.src,e.md,e.env,e.tokens)}function Wc(e){const n=e.tokens;for(let i=0,t=n.length;i<t;i++){const a=n[i];a.type==="inline"&&e.md.inline.parse(a.content,e.md,e.env,a.children)}}function Jc(e){return/^<a[>\s]/i.test(e)}function Uc(e){return/^<\/a\s*>/i.test(e)}function Hc(e){const n=e.tokens;if(e.md.options.linkify)for(let i=0,t=n.length;i<t;i++){if(n[i].type!=="inline"||!e.md.linkify.pretest(n[i].content))continue;let a=n[i].children,o=0;for(let r=a.length-1;r>=0;r--){const s=a[r];if(s.type==="link_close"){for(r--;a[r].level!==s.level&&a[r].type!=="link_open";)r--;continue}if(s.type==="html_inline"&&(Jc(s.content)&&o>0&&o--,Uc(s.content)&&o++),!(o>0)&&s.type==="text"&&e.md.linkify.test(s.content)){const c=s.content;let u=e.md.linkify.match(c);const l=[];let h=s.level,p=0;u.length>0&&u[0].index===0&&r>0&&a[r-1].type==="text_special"&&(u=u.slice(1));for(let m=0;m<u.length;m++){const d=u[m].url,A=e.md.normalizeLink(d);if(!e.md.validateLink(A))continue;let q=u[m].text;u[m].schema?u[m].schema==="mailto:"&&!/^mailto:/i.test(q)?q=e.md.normalizeLinkText("mailto:"+q).replace(/^mailto:/,""):q=e.md.normalizeLinkText(q):q=e.md.normalizeLinkText("http://"+q).replace(/^http:\/\//,"");const v=u[m].index;if(v>p){const y=new e.Token("text","",0);y.content=c.slice(p,v),y.level=h,l.push(y)}const b=new e.Token("link_open","a",1);b.attrs=[["href",A]],b.level=h++,b.markup="linkify",b.info="auto",l.push(b);const f=new e.Token("text","",0);f.content=q,f.level=h,l.push(f);const g=new e.Token("link_close","a",-1);g.level=--h,g.markup="linkify",g.info="auto",l.push(g),p=u[m].lastIndex}if(p<c.length){const m=new e.Token("text","",0);m.content=c.slice(p),m.level=h,l.push(m)}n[i].children=a=dn(a,r,l)}}}}const pn=/\+-|\.\.|\?\?\?\?|!!!!|,,|--/,Kc=/\((c|tm|r)\)/i,Vc=/\((c|tm|r)\)/ig,Zc={c:"©",r:"®",tm:"™"};function $c(e,n){return Zc[n.toLowerCase()]}function Xc(e){let n=0;for(let i=e.length-1;i>=0;i--){const t=e[i];t.type==="text"&&!n&&(t.content=t.content.replace(Vc,$c)),t.type==="link_open"&&t.info==="auto"&&n--,t.type==="link_close"&&t.info==="auto"&&n++}}function Yc(e){let n=0;for(let i=e.length-1;i>=0;i--){const t=e[i];t.type==="text"&&!n&&pn.test(t.content)&&(t.content=t.content.replace(/\+-/g,"±").replace(/\.{2,}/g,"…").replace(/([?!])…/g,"$1..").replace(/([?!]){4,}/g,"$1$1$1").replace(/,{2,}/g,",").replace(/(^|[^-])---(?=[^-]|$)/mg,"$1—").replace(/(^|\s)--(?=\s|$)/mg,"$1–").replace(/(^|[^-\s])--(?=[^-\s]|$)/mg,"$1–")),t.type==="link_open"&&t.info==="auto"&&n--,t.type==="link_close"&&t.info==="auto"&&n++}}function eu(e){let n;if(e.md.options.typographer)for(n=e.tokens.length-1;n>=0;n--)e.tokens[n].type==="inline"&&(Kc.test(e.tokens[n].content)&&Xc(e.tokens[n].children),pn.test(e.tokens[n].content)&&Yc(e.tokens[n].children))}const nu=/['"]/,Ue=/['"]/g,He="’";function te(e,n,i){return e.slice(0,n)+i+e.slice(n+1)}function iu(e,n){let i;const t=[];for(let a=0;a<e.length;a++){const o=e[a],r=e[a].level;for(i=t.length-1;i>=0&&!(t[i].level<=r);i--);if(t.length=i+1,o.type!=="text")continue;let s=o.content,c=0,u=s.length;e:for(;c<u;){Ue.lastIndex=c;const l=Ue.exec(s);if(!l)break;let h=!0,p=!0;c=l.index+1;const m=l[0]==="'";let d=32;if(l.index-1>=0)d=s.charCodeAt(l.index-1);else for(i=a-1;i>=0&&!(e[i].type==="softbreak"||e[i].type==="hardbreak");i--)if(e[i].content){d=e[i].content.charCodeAt(e[i].content.length-1);break}let A=32;if(c<u)A=s.charCodeAt(c);else for(i=a+1;i<e.length&&!(e[i].type==="softbreak"||e[i].type==="hardbreak");i++)if(e[i].content){A=e[i].content.charCodeAt(0);break}const q=X(d)||$(String.fromCharCode(d)),v=X(A)||$(String.fromCharCode(A)),b=Z(d),f=Z(A);if(f?h=!1:v&&(b||q||(h=!1)),b?p=!1:q&&(f||v||(p=!1)),A===34&&l[0]==='"'&&d>=48&&d<=57&&(p=h=!1),h&&p&&(h=q,p=v),!h&&!p){m&&(o.content=te(o.content,l.index,He));continue}if(p)for(i=t.length-1;i>=0;i--){let g=t[i];if(t[i].level<r)break;if(g.single===m&&t[i].level===r){g=t[i];let y,_;m?(y=n.md.options.quotes[2],_=n.md.options.quotes[3]):(y=n.md.options.quotes[0],_=n.md.options.quotes[1]),o.content=te(o.content,l.index,_),e[g.token].content=te(e[g.token].content,g.pos,y),c+=_.length-1,g.token===a&&(c+=y.length-1),s=o.content,u=s.length,t.length=i;continue e}}h?t.push({token:a,pos:l.index,single:m,level:r}):p&&m&&(o.content=te(o.content,l.index,He))}}}function tu(e){if(e.md.options.typographer)for(let n=e.tokens.length-1;n>=0;n--)e.tokens[n].type!=="inline"||!nu.test(e.tokens[n].content)||iu(e.tokens[n].children,e)}function au(e){let n,i;const t=e.tokens,a=t.length;for(let o=0;o<a;o++){if(t[o].type!=="inline")continue;const r=t[o].children,s=r.length;for(n=0;n<s;n++)r[n].type==="text_special"&&(r[n].type="text");for(n=i=0;n<s;n++)r[n].type==="text"&&n+1<s&&r[n+1].type==="text"?r[n+1].content=r[n].content+r[n+1].content:(n!==i&&(r[i]=r[n]),i++);n!==i&&(r.length=i)}}const ge=[["normalize",Oc],["block",Gc],["inline",Wc],["linkify",Hc],["replacements",eu],["smartquotes",tu],["text_join",au]];function Pe(){this.ruler=new z;for(let e=0;e<ge.length;e++)this.ruler.push(ge[e][0],ge[e][1])}Pe.prototype.process=function(e){const n=this.ruler.getRules("");for(let i=0,t=n.length;i<t;i++)n[i](e)};Pe.prototype.State=mn;function I(e,n,i,t){this.src=e,this.md=n,this.env=i,this.tokens=t,this.bMarks=[],this.eMarks=[],this.tShift=[],this.sCount=[],this.bsCount=[],this.blkIndent=0,this.line=0,this.lineMax=0,this.tight=!1,this.ddIndent=-1,this.listIndent=-1,this.parentType="root",this.level=0;const a=this.src;for(let o=0,r=0,s=0,c=0,u=a.length,l=!1;r<u;r++){const h=a.charCodeAt(r);if(!l)if(C(h)){s++,h===9?c+=4-c%4:c++;continue}else l=!0;(h===10||r===u-1)&&(h!==10&&r++,this.bMarks.push(o),this.eMarks.push(r),this.tShift.push(s),this.sCount.push(c),this.bsCount.push(0),l=!1,s=0,c=0,o=r+1)}this.bMarks.push(a.length),this.eMarks.push(a.length),this.tShift.push(0),this.sCount.push(0),this.bsCount.push(0),this.lineMax=this.bMarks.length-1}I.prototype.push=function(e,n,i){const t=new P(e,n,i);return t.block=!0,i<0&&this.level--,t.level=this.level,i>0&&this.level++,this.tokens.push(t),t};I.prototype.isEmpty=function(n){return this.bMarks[n]+this.tShift[n]>=this.eMarks[n]};I.prototype.skipEmptyLines=function(n){for(let i=this.lineMax;n<i&&!(this.bMarks[n]+this.tShift[n]<this.eMarks[n]);n++);return n};I.prototype.skipSpaces=function(n){for(let i=this.src.length;n<i;n++){const t=this.src.charCodeAt(n);if(!C(t))break}return n};I.prototype.skipSpacesBack=function(n,i){if(n<=i)return n;for(;n>i;)if(!C(this.src.charCodeAt(--n)))return n+1;return n};I.prototype.skipChars=function(n,i){for(let t=this.src.length;n<t&&this.src.charCodeAt(n)===i;n++);return n};I.prototype.skipCharsBack=function(n,i,t){if(n<=t)return n;for(;n>t;)if(i!==this.src.charCodeAt(--n))return n+1;return n};I.prototype.getLines=function(n,i,t,a){if(n>=i)return"";const o=new Array(i-n);for(let r=0,s=n;s<i;s++,r++){let c=0;const u=this.bMarks[s];let l=u,h;for(s+1<i||a?h=this.eMarks[s]+1:h=this.eMarks[s];l<h&&c<t;){const p=this.src.charCodeAt(l);if(C(p))p===9?c+=4-(c+this.bsCount[s])%4:c++;else if(l-u<this.tShift[s])c++;else break;l++}c>t?o[r]=new Array(c-t+1).join(" ")+this.src.slice(l,h):o[r]=this.src.slice(l,h)}return o.join("")};I.prototype.Token=P;const ou=65536;function fe(e,n){const i=e.bMarks[n]+e.tShift[n],t=e.eMarks[n];return e.src.slice(i,t)}function Ke(e){const n=[],i=e.length;let t=0,a=e.charCodeAt(t),o=!1,r=0,s="";for(;t<i;)a===124&&(o?(s+=e.substring(r,t-1),r=t):(n.push(s+e.substring(r,t)),s="",r=t+1)),o=a===92,t++,a=e.charCodeAt(t);return n.push(s+e.substring(r)),n}function su(e,n,i,t){if(n+2>i)return!1;let a=n+1;if(e.sCount[a]<e.blkIndent||e.sCount[a]-e.blkIndent>=4)return!1;let o=e.bMarks[a]+e.tShift[a];if(o>=e.eMarks[a])return!1;const r=e.src.charCodeAt(o++);if(r!==124&&r!==45&&r!==58||o>=e.eMarks[a])return!1;const s=e.src.charCodeAt(o++);if(s!==124&&s!==45&&s!==58&&!C(s)||r===45&&C(s))return!1;for(;o<e.eMarks[a];){const g=e.src.charCodeAt(o);if(g!==124&&g!==45&&g!==58&&!C(g))return!1;o++}let c=fe(e,n+1),u=c.split("|");const l=[];for(let g=0;g<u.length;g++){const y=u[g].trim();if(!y){if(g===0||g===u.length-1)continue;return!1}if(!/^:?-+:?$/.test(y))return!1;y.charCodeAt(y.length-1)===58?l.push(y.charCodeAt(0)===58?"center":"right"):y.charCodeAt(0)===58?l.push("left"):l.push("")}if(c=fe(e,n).trim(),c.indexOf("|")===-1||e.sCount[n]-e.blkIndent>=4)return!1;u=Ke(c),u.length&&u[0]===""&&u.shift(),u.length&&u[u.length-1]===""&&u.pop();const h=u.length;if(h===0||h!==l.length)return!1;if(t)return!0;const p=e.parentType;e.parentType="table";const m=e.md.block.ruler.getRules("blockquote"),d=e.push("table_open","table",1),A=[n,0];d.map=A;const q=e.push("thead_open","thead",1);q.map=[n,n+1];const v=e.push("tr_open","tr",1);v.map=[n,n+1];for(let g=0;g<u.length;g++){const y=e.push("th_open","th",1);l[g]&&(y.attrs=[["style","text-align:"+l[g]]]);const _=e.push("inline","",0);_.content=u[g].trim(),_.children=[],e.push("th_close","th",-1)}e.push("tr_close","tr",-1),e.push("thead_close","thead",-1);let b,f=0;for(a=n+2;a<i&&!(e.sCount[a]<e.blkIndent);a++){let g=!1;for(let _=0,S=m.length;_<S;_++)if(m[_](e,a,i,!0)){g=!0;break}if(g||(c=fe(e,a).trim(),!c)||e.sCount[a]-e.blkIndent>=4||(u=Ke(c),u.length&&u[0]===""&&u.shift(),u.length&&u[u.length-1]===""&&u.pop(),f+=h-u.length,f>ou))break;if(a===n+2){const _=e.push("tbody_open","tbody",1);_.map=b=[n+2,0]}const y=e.push("tr_open","tr",1);y.map=[a,a+1];for(let _=0;_<h;_++){const S=e.push("td_open","td",1);l[_]&&(S.attrs=[["style","text-align:"+l[_]]]);const w=e.push("inline","",0);w.content=u[_]?u[_].trim():"",w.children=[],e.push("td_close","td",-1)}e.push("tr_close","tr",-1)}return b&&(e.push("tbody_close","tbody",-1),b[1]=a),e.push("table_close","table",-1),A[1]=a,e.parentType=p,e.line=a,!0}function ru(e,n,i){if(e.sCount[n]-e.blkIndent<4)return!1;let t=n+1,a=t;for(;t<i;){if(e.isEmpty(t)){t++;continue}if(e.sCount[t]-e.blkIndent>=4){t++,a=t;continue}break}e.line=a;const o=e.push("code_block","code",0);return o.content=e.getLines(n,a,4+e.blkIndent,!1)+`
-`,o.map=[n,e.line],!0}function cu(e,n,i,t){let a=e.bMarks[n]+e.tShift[n],o=e.eMarks[n];if(e.sCount[n]-e.blkIndent>=4||a+3>o)return!1;const r=e.src.charCodeAt(a);if(r!==126&&r!==96)return!1;let s=a;a=e.skipChars(a,r);let c=a-s;if(c<3)return!1;const u=e.src.slice(s,a),l=e.src.slice(a,o);if(r===96&&l.indexOf(String.fromCharCode(r))>=0)return!1;if(t)return!0;let h=n,p=!1;for(;h++,!(h>=i||(a=s=e.bMarks[h]+e.tShift[h],o=e.eMarks[h],a<o&&e.sCount[h]<e.blkIndent));)if(e.src.charCodeAt(a)===r&&!(e.sCount[h]-e.blkIndent>=4)&&(a=e.skipChars(a,r),!(a-s<c)&&(a=e.skipSpaces(a),!(a<o)))){p=!0;break}c=e.sCount[n],e.line=h+(p?1:0);const m=e.push("fence","code",0);return m.info=l,m.content=e.getLines(n+1,h,c,!0),m.markup=u,m.map=[n,e.line],!0}function uu(e,n,i,t){let a=e.bMarks[n]+e.tShift[n],o=e.eMarks[n];const r=e.lineMax;if(e.sCount[n]-e.blkIndent>=4||e.src.charCodeAt(a)!==62)return!1;if(t)return!0;const s=[],c=[],u=[],l=[],h=e.md.block.ruler.getRules("blockquote"),p=e.parentType;e.parentType="blockquote";let m=!1,d;for(d=n;d<i;d++){const f=e.sCount[d]<e.blkIndent;if(a=e.bMarks[d]+e.tShift[d],o=e.eMarks[d],a>=o)break;if(e.src.charCodeAt(a++)===62&&!f){let y=e.sCount[d]+1,_,S;e.src.charCodeAt(a)===32?(a++,y++,S=!1,_=!0):e.src.charCodeAt(a)===9?(_=!0,(e.bsCount[d]+y)%4===3?(a++,y++,S=!1):S=!0):_=!1;let w=y;for(s.push(e.bMarks[d]),e.bMarks[d]=a;a<o;){const M=e.src.charCodeAt(a);if(C(M))M===9?w+=4-(w+e.bsCount[d]+(S?1:0))%4:w++;else break;a++}m=a>=o,c.push(e.bsCount[d]),e.bsCount[d]=e.sCount[d]+1+(_?1:0),u.push(e.sCount[d]),e.sCount[d]=w-y,l.push(e.tShift[d]),e.tShift[d]=a-e.bMarks[d];continue}if(m)break;let g=!1;for(let y=0,_=h.length;y<_;y++)if(h[y](e,d,i,!0)){g=!0;break}if(g){e.lineMax=d,e.blkIndent!==0&&(s.push(e.bMarks[d]),c.push(e.bsCount[d]),l.push(e.tShift[d]),u.push(e.sCount[d]),e.sCount[d]-=e.blkIndent);break}s.push(e.bMarks[d]),c.push(e.bsCount[d]),l.push(e.tShift[d]),u.push(e.sCount[d]),e.sCount[d]=-1}const A=e.blkIndent;e.blkIndent=0;const q=e.push("blockquote_open","blockquote",1);q.markup=">";const v=[n,0];q.map=v,e.md.block.tokenize(e,n,d);const b=e.push("blockquote_close","blockquote",-1);b.markup=">",e.lineMax=r,e.parentType=p,v[1]=e.line;for(let f=0;f<l.length;f++)e.bMarks[f+n]=s[f],e.tShift[f+n]=l[f],e.sCount[f+n]=u[f],e.bsCount[f+n]=c[f];return e.blkIndent=A,!0}function lu(e,n,i,t){const a=e.eMarks[n];if(e.sCount[n]-e.blkIndent>=4)return!1;let o=e.bMarks[n]+e.tShift[n];const r=e.src.charCodeAt(o++);if(r!==42&&r!==45&&r!==95)return!1;let s=1;for(;o<a;){const u=e.src.charCodeAt(o++);if(u!==r&&!C(u))return!1;u===r&&s++}if(s<3)return!1;if(t)return!0;e.line=n+1;const c=e.push("hr","hr",0);return c.map=[n,e.line],c.markup=Array(s+1).join(String.fromCharCode(r)),!0}function Ve(e,n){const i=e.eMarks[n];let t=e.bMarks[n]+e.tShift[n];const a=e.src.charCodeAt(t++);if(a!==42&&a!==45&&a!==43)return-1;if(t<i){const o=e.src.charCodeAt(t);if(!C(o))return-1}return t}function Ze(e,n){const i=e.bMarks[n]+e.tShift[n],t=e.eMarks[n];let a=i;if(a+1>=t)return-1;let o=e.src.charCodeAt(a++);if(o<48||o>57)return-1;for(;;){if(a>=t)return-1;if(o=e.src.charCodeAt(a++),o>=48&&o<=57){if(a-i>=10)return-1;continue}if(o===41||o===46)break;return-1}return a<t&&(o=e.src.charCodeAt(a),!C(o))?-1:a}function du(e,n){const i=e.level+2;for(let t=n+2,a=e.tokens.length-2;t<a;t++)e.tokens[t].level===i&&e.tokens[t].type==="paragraph_open"&&(e.tokens[t+2].hidden=!0,e.tokens[t].hidden=!0,t+=2)}function hu(e,n,i,t){let a,o,r,s,c=n,u=!0;if(e.sCount[c]-e.blkIndent>=4||e.listIndent>=0&&e.sCount[c]-e.listIndent>=4&&e.sCount[c]<e.blkIndent)return!1;let l=!1;t&&e.parentType==="paragraph"&&e.sCount[c]>=e.blkIndent&&(l=!0);let h,p,m;if((m=Ze(e,c))>=0){if(h=!0,r=e.bMarks[c]+e.tShift[c],p=Number(e.src.slice(r,m-1)),l&&p!==1)return!1}else if((m=Ve(e,c))>=0)h=!1;else return!1;if(l&&e.skipSpaces(m)>=e.eMarks[c])return!1;if(t)return!0;const d=e.src.charCodeAt(m-1),A=e.tokens.length;h?(s=e.push("ordered_list_open","ol",1),p!==1&&(s.attrs=[["start",p]])):s=e.push("bullet_list_open","ul",1);const q=[c,0];s.map=q,s.markup=String.fromCharCode(d);let v=!1;const b=e.md.block.ruler.getRules("list"),f=e.parentType;for(e.parentType="list";c<i;){o=m,a=e.eMarks[c];const g=e.sCount[c]+m-(e.bMarks[c]+e.tShift[c]);let y=g;for(;o<a;){const G=e.src.charCodeAt(o);if(G===9)y+=4-(y+e.bsCount[c])%4;else if(G===32)y++;else break;o++}const _=o;let S;_>=a?S=1:S=y-g,S>4&&(S=1);const w=g+S;s=e.push("list_item_open","li",1),s.markup=String.fromCharCode(d);const M=[c,0];s.map=M,h&&(s.info=e.src.slice(r,m-1));const V=e.tight,me=e.tShift[c],Dn=e.sCount[c],wn=e.listIndent;if(e.listIndent=e.blkIndent,e.blkIndent=w,e.tight=!0,e.tShift[c]=_-e.bMarks[c],e.sCount[c]=y,_>=a&&e.isEmpty(c+1)?e.line=Math.min(e.line+2,i):e.md.block.tokenize(e,c,i,!0),(!e.tight||v)&&(u=!1),v=e.line-c>1&&e.isEmpty(e.line-1),e.blkIndent=e.listIndent,e.listIndent=wn,e.tShift[c]=me,e.sCount[c]=Dn,e.tight=V,s=e.push("list_item_close","li",-1),s.markup=String.fromCharCode(d),c=e.line,M[1]=c,c>=i||e.sCount[c]<e.blkIndent||e.sCount[c]-e.blkIndent>=4)break;let Ie=!1;for(let G=0,Pn=b.length;G<Pn;G++)if(b[G](e,c,i,!0)){Ie=!0;break}if(Ie)break;if(h){if(m=Ze(e,c),m<0)break;r=e.bMarks[c]+e.tShift[c]}else if(m=Ve(e,c),m<0)break;if(d!==e.src.charCodeAt(m-1))break}return h?s=e.push("ordered_list_close","ol",-1):s=e.push("bullet_list_close","ul",-1),s.markup=String.fromCharCode(d),q[1]=c,e.line=c,e.parentType=f,u&&du(e,A),!0}function mu(e,n,i,t){let a=e.bMarks[n]+e.tShift[n],o=e.eMarks[n],r=n+1;if(e.sCount[n]-e.blkIndent>=4||e.src.charCodeAt(a)!==91)return!1;function s(b){const f=e.lineMax;if(b>=f||e.isEmpty(b))return null;let g=!1;if(e.sCount[b]-e.blkIndent>3&&(g=!0),e.sCount[b]<0&&(g=!0),!g){const S=e.md.block.ruler.getRules("reference"),w=e.parentType;e.parentType="reference";let M=!1;for(let V=0,me=S.length;V<me;V++)if(S[V](e,b,f,!0)){M=!0;break}if(e.parentType=w,M)return null}const y=e.bMarks[b]+e.tShift[b],_=e.eMarks[b];return e.src.slice(y,_+1)}let c=e.src.slice(a,o+1);o=c.length;let u=-1;for(a=1;a<o;a++){const b=c.charCodeAt(a);if(b===91)return!1;if(b===93){u=a;break}else if(b===10){const f=s(r);f!==null&&(c+=f,o=c.length,r++)}else if(b===92&&(a++,a<o&&c.charCodeAt(a)===10)){const f=s(r);f!==null&&(c+=f,o=c.length,r++)}}if(u<0||c.charCodeAt(u+1)!==58)return!1;for(a=u+2;a<o;a++){const b=c.charCodeAt(a);if(b===10){const f=s(r);f!==null&&(c+=f,o=c.length,r++)}else if(!C(b))break}const l=e.md.helpers.parseLinkDestination(c,a,o);if(!l.ok)return!1;const h=e.md.normalizeLink(l.str);if(!e.md.validateLink(h))return!1;a=l.pos;const p=a,m=r,d=a;for(;a<o;a++){const b=c.charCodeAt(a);if(b===10){const f=s(r);f!==null&&(c+=f,o=c.length,r++)}else if(!C(b))break}let A=e.md.helpers.parseLinkTitle(c,a,o);for(;A.can_continue;){const b=s(r);if(b===null)break;c+=b,a=o,o=c.length,r++,A=e.md.helpers.parseLinkTitle(c,a,o,A)}let q;for(a<o&&d!==a&&A.ok?(q=A.str,a=A.pos):(q="",a=p,r=m);a<o;){const b=c.charCodeAt(a);if(!C(b))break;a++}if(a<o&&c.charCodeAt(a)!==10&&q)for(q="",a=p,r=m;a<o;){const b=c.charCodeAt(a);if(!C(b))break;a++}if(a<o&&c.charCodeAt(a)!==10)return!1;const v=le(c.slice(1,u));return v?(t||(typeof e.env.references>"u"&&(e.env.references={}),typeof e.env.references[v]>"u"&&(e.env.references[v]={title:q,href:h}),e.line=r),!0):!1}const pu=["address","article","aside","base","basefont","blockquote","body","caption","center","col","colgroup","dd","details","dialog","dir","div","dl","dt","fieldset","figcaption","figure","footer","form","frame","frameset","h1","h2","h3","h4","h5","h6","head","header","hr","html","iframe","legend","li","link","main","menu","menuitem","nav","noframes","ol","optgroup","option","p","param","search","section","summary","table","tbody","td","tfoot","th","thead","title","tr","track","ul"],bu="[a-zA-Z_:][a-zA-Z0-9:._-]*",gu="[^\"'=<>`\\x00-\\x20]+",fu="'[^']*'",yu='"[^"]*"',Au="(?:"+gu+"|"+fu+"|"+yu+")",qu="(?:\\s+"+bu+"(?:\\s*=\\s*"+Au+")?)",bn="<[A-Za-z][A-Za-z0-9\\-]*"+qu+"*\\s*\\/?>",gn="<\\/[A-Za-z][A-Za-z0-9\\-]*\\s*>",_u="<!---?>|<!--(?:[^-]|-[^-]|--[^>])*-->",vu="<[?][\\s\\S]*?[?]>",Cu="<![A-Za-z][^>]*>",xu="<!\\[CDATA\\[[\\s\\S]*?\\]\\]>",ku=new RegExp("^(?:"+bn+"|"+gn+"|"+_u+"|"+vu+"|"+Cu+"|"+xu+")"),Eu=new RegExp("^(?:"+bn+"|"+gn+")"),W=[[/^<(script|pre|style|textarea)(?=(\s|>|$))/i,/<\/(script|pre|style|textarea)>/i,!0],[/^<!--/,/-->/,!0],[/^<\?/,/\?>/,!0],[/^<![A-Z]/,/>/,!0],[/^<!\[CDATA\[/,/\]\]>/,!0],[new RegExp("^</?("+pu.join("|")+")(?=(\\s|/?>|$))","i"),/^$/,!0],[new RegExp(Eu.source+"\\s*$"),/^$/,!1]];function Su(e,n,i,t){let a=e.bMarks[n]+e.tShift[n],o=e.eMarks[n];if(e.sCount[n]-e.blkIndent>=4||!e.md.options.html||e.src.charCodeAt(a)!==60)return!1;let r=e.src.slice(a,o),s=0;for(;s<W.length&&!W[s][0].test(r);s++);if(s===W.length)return!1;if(t)return W[s][2];let c=n+1;if(!W[s][1].test(r)){for(;c<i&&!(e.sCount[c]<e.blkIndent);c++)if(a=e.bMarks[c]+e.tShift[c],o=e.eMarks[c],r=e.src.slice(a,o),W[s][1].test(r)){r.length!==0&&c++;break}}e.line=c;const u=e.push("html_block","",0);return u.map=[n,c],u.content=e.getLines(n,c,e.blkIndent,!0),!0}function zu(e,n,i,t){let a=e.bMarks[n]+e.tShift[n],o=e.eMarks[n];if(e.sCount[n]-e.blkIndent>=4)return!1;let r=e.src.charCodeAt(a);if(r!==35||a>=o)return!1;let s=1;for(r=e.src.charCodeAt(++a);r===35&&a<o&&s<=6;)s++,r=e.src.charCodeAt(++a);if(s>6||a<o&&!C(r))return!1;if(t)return!0;o=e.skipSpacesBack(o,a);const c=e.skipCharsBack(o,35,a);c>a&&C(e.src.charCodeAt(c-1))&&(o=c),e.line=n+1;const u=e.push("heading_open","h"+String(s),1);u.markup="########".slice(0,s),u.map=[n,e.line];const l=e.push("inline","",0);l.content=e.src.slice(a,o).trim(),l.map=[n,e.line],l.children=[];const h=e.push("heading_close","h"+String(s),-1);return h.markup="########".slice(0,s),!0}function Lu(e,n,i){const t=e.md.block.ruler.getRules("paragraph");if(e.sCount[n]-e.blkIndent>=4)return!1;const a=e.parentType;e.parentType="paragraph";let o=0,r,s=n+1;for(;s<i&&!e.isEmpty(s);s++){if(e.sCount[s]-e.blkIndent>3)continue;if(e.sCount[s]>=e.blkIndent){let m=e.bMarks[s]+e.tShift[s];const d=e.eMarks[s];if(m<d&&(r=e.src.charCodeAt(m),(r===45||r===61)&&(m=e.skipChars(m,r),m=e.skipSpaces(m),m>=d))){o=r===61?1:2;break}}if(e.sCount[s]<0)continue;let p=!1;for(let m=0,d=t.length;m<d;m++)if(t[m](e,s,i,!0)){p=!0;break}if(p)break}if(!o)return!1;const c=e.getLines(n,s,e.blkIndent,!1).trim();e.line=s+1;const u=e.push("heading_open","h"+String(o),1);u.markup=String.fromCharCode(r),u.map=[n,e.line];const l=e.push("inline","",0);l.content=c,l.map=[n,e.line-1],l.children=[];const h=e.push("heading_close","h"+String(o),-1);return h.markup=String.fromCharCode(r),e.parentType=a,!0}function Du(e,n,i){const t=e.md.block.ruler.getRules("paragraph"),a=e.parentType;let o=n+1;for(e.parentType="paragraph";o<i&&!e.isEmpty(o);o++){if(e.sCount[o]-e.blkIndent>3||e.sCount[o]<0)continue;let u=!1;for(let l=0,h=t.length;l<h;l++)if(t[l](e,o,i,!0)){u=!0;break}if(u)break}const r=e.getLines(n,o,e.blkIndent,!1).trim();e.line=o;const s=e.push("paragraph_open","p",1);s.map=[n,e.line];const c=e.push("inline","",0);return c.content=r,c.map=[n,e.line],c.children=[],e.push("paragraph_close","p",-1),e.parentType=a,!0}const ae=[["table",su,["paragraph","reference"]],["code",ru],["fence",cu,["paragraph","reference","blockquote","list"]],["blockquote",uu,["paragraph","reference","blockquote","list"]],["hr",lu,["paragraph","reference","blockquote","list"]],["list",hu,["paragraph","reference","blockquote"]],["reference",mu],["html_block",Su,["paragraph","reference","blockquote"]],["heading",zu,["paragraph","reference","blockquote"]],["lheading",Lu],["paragraph",Du]];function de(){this.ruler=new z;for(let e=0;e<ae.length;e++)this.ruler.push(ae[e][0],ae[e][1],{alt:(ae[e][2]||[]).slice()})}de.prototype.tokenize=function(e,n,i){const t=this.ruler.getRules(""),a=t.length,o=e.md.options.maxNesting;let r=n,s=!1;for(;r<i&&(e.line=r=e.skipEmptyLines(r),!(r>=i||e.sCount[r]<e.blkIndent));){if(e.level>=o){e.line=i;break}const c=e.line;let u=!1;for(let l=0;l<a;l++)if(u=t[l](e,r,i,!1),u){if(c>=e.line)throw new Error("block rule didn't increment state.line");break}if(!u)throw new Error("none of the block rules matched");e.tight=!s,e.isEmpty(e.line-1)&&(s=!0),r=e.line,r<i&&e.isEmpty(r)&&(s=!0,r++,e.line=r)}};de.prototype.parse=function(e,n,i,t){if(!e)return;const a=new this.State(e,n,i,t);this.tokenize(a,a.line,a.lineMax)};de.prototype.State=I;function ne(e,n,i,t){this.src=e,this.env=i,this.md=n,this.tokens=t,this.tokens_meta=Array(t.length),this.pos=0,this.posMax=this.src.length,this.level=0,this.pending="",this.pendingLevel=0,this.cache={},this.delimiters=[],this._prev_delimiters=[],this.backticks={},this.backticksScanned=!1,this.linkLevel=0}ne.prototype.pushPending=function(){const e=new P("text","",0);return e.content=this.pending,e.level=this.pendingLevel,this.tokens.push(e),this.pending="",e};ne.prototype.push=function(e,n,i){this.pending&&this.pushPending();const t=new P(e,n,i);let a=null;return i<0&&(this.level--,this.delimiters=this._prev_delimiters.pop()),t.level=this.level,i>0&&(this.level++,this._prev_delimiters.push(this.delimiters),this.delimiters=[],a={delimiters:this.delimiters}),this.pendingLevel=this.level,this.tokens.push(t),this.tokens_meta.push(a),t};ne.prototype.scanDelims=function(e,n){const i=this.posMax,t=this.src.charCodeAt(e),a=e>0?this.src.charCodeAt(e-1):32;let o=e;for(;o<i&&this.src.charCodeAt(o)===t;)o++;const r=o-e,s=o<i?this.src.charCodeAt(o):32,c=X(a)||$(String.fromCharCode(a)),u=X(s)||$(String.fromCharCode(s)),l=Z(a),h=Z(s),p=!h&&(!u||l||c),m=!l&&(!c||h||u);return{can_open:p&&(n||!m||c),can_close:m&&(n||!p||u),length:r}};ne.prototype.Token=P;function wu(e){switch(e){case 10:case 33:case 35:case 36:case 37:case 38:case 42:case 43:case 45:case 58:case 60:case 61:case 62:case 64:case 91:case 92:case 93:case 94:case 95:case 96:case 123:case 125:case 126:return!0;default:return!1}}function Pu(e,n){let i=e.pos;for(;i<e.posMax&&!wu(e.src.charCodeAt(i));)i++;return i===e.pos?!1:(n||(e.pending+=e.src.slice(e.pos,i)),e.pos=i,!0)}const Tu=/(?:^|[^a-z0-9.+-])([a-z][a-z0-9.+-]*)$/i;function Fu(e,n){if(!e.md.options.linkify||e.linkLevel>0)return!1;const i=e.pos,t=e.posMax;if(i+3>t||e.src.charCodeAt(i)!==58||e.src.charCodeAt(i+1)!==47||e.src.charCodeAt(i+2)!==47)return!1;const a=e.pending.match(Tu);if(!a)return!1;const o=a[1],r=e.md.linkify.matchAtStart(e.src.slice(i-o.length));if(!r)return!1;let s=r.url;if(s.length<=o.length)return!1;let c=s.length;for(;c>0&&s.charCodeAt(c-1)===42;)c--;c!==s.length&&(s=s.slice(0,c));const u=e.md.normalizeLink(s);if(!e.md.validateLink(u))return!1;if(!n){e.pending=e.pending.slice(0,-o.length);const l=e.push("link_open","a",1);l.attrs=[["href",u]],l.markup="linkify",l.info="auto";const h=e.push("text","",0);h.content=e.md.normalizeLinkText(s);const p=e.push("link_close","a",-1);p.markup="linkify",p.info="auto"}return e.pos+=s.length-o.length,!0}function Ru(e,n){let i=e.pos;if(e.src.charCodeAt(i)!==10)return!1;const t=e.pending.length-1,a=e.posMax;if(!n)if(t>=0&&e.pending.charCodeAt(t)===32)if(t>=1&&e.pending.charCodeAt(t-1)===32){let o=t-1;for(;o>=1&&e.pending.charCodeAt(o-1)===32;)o--;e.pending=e.pending.slice(0,o),e.push("hardbreak","br",0)}else e.pending=e.pending.slice(0,-1),e.push("softbreak","br",0);else e.push("softbreak","br",0);for(i++;i<a&&C(e.src.charCodeAt(i));)i++;return e.pos=i,!0}const Te=[];for(let e=0;e<256;e++)Te.push(0);"\\!\"#$%&'()*+,./:;<=>?@[]^_`{|}~-".split("").forEach(function(e){Te[e.charCodeAt(0)]=1});function Iu(e,n){let i=e.pos;const t=e.posMax;if(e.src.charCodeAt(i)!==92||(i++,i>=t))return!1;let a=e.src.charCodeAt(i);if(a===10){for(n||e.push("hardbreak","br",0),i++;i<t&&(a=e.src.charCodeAt(i),!!C(a));)i++;return e.pos=i,!0}let o=e.src[i];if(a>=55296&&a<=56319&&i+1<t){const s=e.src.charCodeAt(i+1);s>=56320&&s<=57343&&(o+=e.src[i+1],i++)}const r="\\"+o;if(!n){const s=e.push("text_special","",0);a<256&&Te[a]!==0?s.content=o:s.content=r,s.markup=r,s.info="escape"}return e.pos=i+1,!0}function Mu(e,n){let i=e.pos;if(e.src.charCodeAt(i)!==96)return!1;const a=i;i++;const o=e.posMax;for(;i<o&&e.src.charCodeAt(i)===96;)i++;const r=e.src.slice(a,i),s=r.length;if(e.backticksScanned&&(e.backticks[s]||0)<=a)return n||(e.pending+=r),e.pos+=s,!0;let c=i,u;for(;(u=e.src.indexOf("`",c))!==-1;){for(c=u+1;c<o&&e.src.charCodeAt(c)===96;)c++;const l=c-u;if(l===s){if(!n){const h=e.push("code_inline","code",0);h.markup=r,h.content=e.src.slice(i,u).replace(/\n/g," ").replace(/^ (.+) $/,"$1")}return e.pos=c,!0}e.backticks[l]=u}return e.backticksScanned=!0,n||(e.pending+=r),e.pos+=s,!0}function ju(e,n){const i=e.pos,t=e.src.charCodeAt(i);if(n||t!==126)return!1;const a=e.scanDelims(e.pos,!0);let o=a.length;const r=String.fromCharCode(t);if(o<2)return!1;let s;o%2&&(s=e.push("text","",0),s.content=r,o--);for(let c=0;c<o;c+=2)s=e.push("text","",0),s.content=r+r,e.delimiters.push({marker:t,length:0,token:e.tokens.length-1,end:-1,open:a.can_open,close:a.can_close});return e.pos+=a.length,!0}function $e(e,n){let i;const t=[],a=n.length;for(let o=0;o<a;o++){const r=n[o];if(r.marker!==126||r.end===-1)continue;const s=n[r.end];i=e.tokens[r.token],i.type="s_open",i.tag="s",i.nesting=1,i.markup="~~",i.content="",i=e.tokens[s.token],i.type="s_close",i.tag="s",i.nesting=-1,i.markup="~~",i.content="",e.tokens[s.token-1].type==="text"&&e.tokens[s.token-1].content==="~"&&t.push(s.token-1)}for(;t.length;){const o=t.pop();let r=o+1;for(;r<e.tokens.length&&e.tokens[r].type==="s_close";)r++;r--,o!==r&&(i=e.tokens[r],e.tokens[r]=e.tokens[o],e.tokens[o]=i)}}function Bu(e){const n=e.tokens_meta,i=e.tokens_meta.length;$e(e,e.delimiters);for(let t=0;t<i;t++)n[t]&&n[t].delimiters&&$e(e,n[t].delimiters)}const fn={tokenize:ju,postProcess:Bu};function Qu(e,n){const i=e.pos,t=e.src.charCodeAt(i);if(n||t!==95&&t!==42)return!1;const a=e.scanDelims(e.pos,t===42);for(let o=0;o<a.length;o++){const r=e.push("text","",0);r.content=String.fromCharCode(t),e.delimiters.push({marker:t,length:a.length,token:e.tokens.length-1,end:-1,open:a.can_open,close:a.can_close})}return e.pos+=a.length,!0}function Xe(e,n){const i=n.length;for(let t=i-1;t>=0;t--){const a=n[t];if(a.marker!==95&&a.marker!==42||a.end===-1)continue;const o=n[a.end],r=t>0&&n[t-1].end===a.end+1&&n[t-1].marker===a.marker&&n[t-1].token===a.token-1&&n[a.end+1].token===o.token+1,s=String.fromCharCode(a.marker),c=e.tokens[a.token];c.type=r?"strong_open":"em_open",c.tag=r?"strong":"em",c.nesting=1,c.markup=r?s+s:s,c.content="";const u=e.tokens[o.token];u.type=r?"strong_close":"em_close",u.tag=r?"strong":"em",u.nesting=-1,u.markup=r?s+s:s,u.content="",r&&(e.tokens[n[t-1].token].content="",e.tokens[n[a.end+1].token].content="",t--)}}function Nu(e){const n=e.tokens_meta,i=e.tokens_meta.length;Xe(e,e.delimiters);for(let t=0;t<i;t++)n[t]&&n[t].delimiters&&Xe(e,n[t].delimiters)}const yn={tokenize:Qu,postProcess:Nu};function Ou(e,n){let i,t,a,o,r="",s="",c=e.pos,u=!0;if(e.src.charCodeAt(e.pos)!==91)return!1;const l=e.pos,h=e.posMax,p=e.pos+1,m=e.md.helpers.parseLinkLabel(e,e.pos,!0);if(m<0)return!1;let d=m+1;if(d<h&&e.src.charCodeAt(d)===40){for(u=!1,d++;d<h&&(i=e.src.charCodeAt(d),!(!C(i)&&i!==10));d++);if(d>=h)return!1;if(c=d,a=e.md.helpers.parseLinkDestination(e.src,d,e.posMax),a.ok){for(r=e.md.normalizeLink(a.str),e.md.validateLink(r)?d=a.pos:r="",c=d;d<h&&(i=e.src.charCodeAt(d),!(!C(i)&&i!==10));d++);if(a=e.md.helpers.parseLinkTitle(e.src,d,e.posMax),d<h&&c!==d&&a.ok)for(s=a.str,d=a.pos;d<h&&(i=e.src.charCodeAt(d),!(!C(i)&&i!==10));d++);}(d>=h||e.src.charCodeAt(d)!==41)&&(u=!0),d++}if(u){if(typeof e.env.references>"u")return!1;if(d<h&&e.src.charCodeAt(d)===91?(c=d+1,d=e.md.helpers.parseLinkLabel(e,d),d>=0?t=e.src.slice(c,d++):d=m+1):d=m+1,t||(t=e.src.slice(p,m)),o=e.env.references[le(t)],!o)return e.pos=l,!1;r=o.href,s=o.title}if(!n){e.pos=p,e.posMax=m;const A=e.push("link_open","a",1),q=[["href",r]];A.attrs=q,s&&q.push(["title",s]),e.linkLevel++,e.md.inline.tokenize(e),e.linkLevel--,e.push("link_close","a",-1)}return e.pos=d,e.posMax=h,!0}function Gu(e,n){let i,t,a,o,r,s,c,u,l="";const h=e.pos,p=e.posMax;if(e.src.charCodeAt(e.pos)!==33||e.src.charCodeAt(e.pos+1)!==91)return!1;const m=e.pos+2,d=e.md.helpers.parseLinkLabel(e,e.pos+1,!1);if(d<0)return!1;if(o=d+1,o<p&&e.src.charCodeAt(o)===40){for(o++;o<p&&(i=e.src.charCodeAt(o),!(!C(i)&&i!==10));o++);if(o>=p)return!1;for(u=o,s=e.md.helpers.parseLinkDestination(e.src,o,e.posMax),s.ok&&(l=e.md.normalizeLink(s.str),e.md.validateLink(l)?o=s.pos:l=""),u=o;o<p&&(i=e.src.charCodeAt(o),!(!C(i)&&i!==10));o++);if(s=e.md.helpers.parseLinkTitle(e.src,o,e.posMax),o<p&&u!==o&&s.ok)for(c=s.str,o=s.pos;o<p&&(i=e.src.charCodeAt(o),!(!C(i)&&i!==10));o++);else c="";if(o>=p||e.src.charCodeAt(o)!==41)return e.pos=h,!1;o++}else{if(typeof e.env.references>"u")return!1;if(o<p&&e.src.charCodeAt(o)===91?(u=o+1,o=e.md.helpers.parseLinkLabel(e,o),o>=0?a=e.src.slice(u,o++):o=d+1):o=d+1,a||(a=e.src.slice(m,d)),r=e.env.references[le(a)],!r)return e.pos=h,!1;l=r.href,c=r.title}if(!n){t=e.src.slice(m,d);const A=[];e.md.inline.parse(t,e.md,e.env,A);const q=e.push("image","img",0),v=[["src",l],["alt",""]];q.attrs=v,q.children=A,q.content=t,c&&v.push(["title",c])}return e.pos=o,e.posMax=p,!0}const Wu=/^([a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*)$/,Ju=/^([a-zA-Z][a-zA-Z0-9+.-]{1,31}):([^<>\x00-\x20]*)$/;function Uu(e,n){let i=e.pos;if(e.src.charCodeAt(i)!==60)return!1;const t=e.pos,a=e.posMax;for(;;){if(++i>=a)return!1;const r=e.src.charCodeAt(i);if(r===60)return!1;if(r===62)break}const o=e.src.slice(t+1,i);if(Ju.test(o)){const r=e.md.normalizeLink(o);if(!e.md.validateLink(r))return!1;if(!n){const s=e.push("link_open","a",1);s.attrs=[["href",r]],s.markup="autolink",s.info="auto";const c=e.push("text","",0);c.content=e.md.normalizeLinkText(o);const u=e.push("link_close","a",-1);u.markup="autolink",u.info="auto"}return e.pos+=o.length+2,!0}if(Wu.test(o)){const r=e.md.normalizeLink("mailto:"+o);if(!e.md.validateLink(r))return!1;if(!n){const s=e.push("link_open","a",1);s.attrs=[["href",r]],s.markup="autolink",s.info="auto";const c=e.push("text","",0);c.content=e.md.normalizeLinkText(o);const u=e.push("link_close","a",-1);u.markup="autolink",u.info="auto"}return e.pos+=o.length+2,!0}return!1}function Hu(e){return/^<a[>\s]/i.test(e)}function Ku(e){return/^<\/a\s*>/i.test(e)}function Vu(e){const n=e|32;return n>=97&&n<=122}function Zu(e,n){if(!e.md.options.html)return!1;const i=e.posMax,t=e.pos;if(e.src.charCodeAt(t)!==60||t+2>=i)return!1;const a=e.src.charCodeAt(t+1);if(a!==33&&a!==63&&a!==47&&!Vu(a))return!1;const o=e.src.slice(t).match(ku);if(!o)return!1;if(!n){const r=e.push("html_inline","",0);r.content=o[0],Hu(r.content)&&e.linkLevel++,Ku(r.content)&&e.linkLevel--}return e.pos+=o[0].length,!0}const $u=/^&#((?:x[a-f0-9]{1,6}|[0-9]{1,7}));/i,Xu=/^&([a-z][a-z0-9]{1,31});/i;function Yu(e,n){const i=e.pos,t=e.posMax;if(e.src.charCodeAt(i)!==38||i+1>=t)return!1;if(e.src.charCodeAt(i+1)===35){const o=e.src.slice(i).match($u);if(o){if(!n){const r=o[1][0].toLowerCase()==="x"?parseInt(o[1].slice(1),16):parseInt(o[1],10),s=e.push("text_special","",0);s.content=we(r)?se(r):se(65533),s.markup=o[0],s.info="entity"}return e.pos+=o[0].length,!0}}else{const o=e.src.slice(i).match(Xu);if(o){const r=ln(o[0]);if(r!==o[0]){if(!n){const s=e.push("text_special","",0);s.content=r,s.markup=o[0],s.info="entity"}return e.pos+=o[0].length,!0}}}return!1}function Ye(e){const n={},i=e.length;if(!i)return;let t=0,a=-2;const o=[];for(let r=0;r<i;r++){const s=e[r];if(o.push(0),(e[t].marker!==s.marker||a!==s.token-1)&&(t=r),a=s.token,s.length=s.length||0,!s.close)continue;n.hasOwnProperty(s.marker)||(n[s.marker]=[-1,-1,-1,-1,-1,-1]);const c=n[s.marker][(s.open?3:0)+s.length%3];let u=t-o[t]-1,l=u;for(;u>c;u-=o[u]+1){const h=e[u];if(h.marker===s.marker&&h.open&&h.end<0){let p=!1;if((h.close||s.open)&&(h.length+s.length)%3===0&&(h.length%3!==0||s.length%3!==0)&&(p=!0),!p){const m=u>0&&!e[u-1].open?o[u-1]+1:0;o[r]=r-u+m,o[u]=m,s.open=!1,h.end=r,h.close=!1,l=-1,a=-2;break}}}l!==-1&&(n[s.marker][(s.open?3:0)+(s.length||0)%3]=l)}}function el(e){const n=e.tokens_meta,i=e.tokens_meta.length;Ye(e.delimiters);for(let t=0;t<i;t++)n[t]&&n[t].delimiters&&Ye(n[t].delimiters)}function nl(e){let n,i,t=0;const a=e.tokens,o=e.tokens.length;for(n=i=0;n<o;n++)a[n].nesting<0&&t--,a[n].level=t,a[n].nesting>0&&t++,a[n].type==="text"&&n+1<o&&a[n+1].type==="text"?a[n+1].content=a[n].content+a[n+1].content:(n!==i&&(a[i]=a[n]),i++);n!==i&&(a.length=i)}const ye=[["text",Pu],["linkify",Fu],["newline",Ru],["escape",Iu],["backticks",Mu],["strikethrough",fn.tokenize],["emphasis",yn.tokenize],["link",Ou],["image",Gu],["autolink",Uu],["html_inline",Zu],["entity",Yu]],Ae=[["balance_pairs",el],["strikethrough",fn.postProcess],["emphasis",yn.postProcess],["fragments_join",nl]];function ie(){this.ruler=new z;for(let e=0;e<ye.length;e++)this.ruler.push(ye[e][0],ye[e][1]);this.ruler2=new z;for(let e=0;e<Ae.length;e++)this.ruler2.push(Ae[e][0],Ae[e][1])}ie.prototype.skipToken=function(e){const n=e.pos,i=this.ruler.getRules(""),t=i.length,a=e.md.options.maxNesting,o=e.cache;if(typeof o[n]<"u"){e.pos=o[n];return}let r=!1;if(e.level<a){for(let s=0;s<t;s++)if(e.level++,r=i[s](e,!0),e.level--,r){if(n>=e.pos)throw new Error("inline rule didn't increment state.pos");break}}else e.pos=e.posMax;r||e.pos++,o[n]=e.pos};ie.prototype.tokenize=function(e){const n=this.ruler.getRules(""),i=n.length,t=e.posMax,a=e.md.options.maxNesting;for(;e.pos<t;){const o=e.pos;let r=!1;if(e.level<a){for(let s=0;s<i;s++)if(r=n[s](e,!1),r){if(o>=e.pos)throw new Error("inline rule didn't increment state.pos");break}}if(r){if(e.pos>=t)break;continue}e.pending+=e.src[e.pos++]}e.pending&&e.pushPending()};ie.prototype.parse=function(e,n,i,t){const a=new this.State(e,n,i,t);this.tokenize(a);const o=this.ruler2.getRules(""),r=o.length;for(let s=0;s<r;s++)o[s](a)};ie.prototype.State=ne;function il(e){const n={};e=e||{},n.src_Any=on.source,n.src_Cc=sn.source,n.src_Z=cn.source,n.src_P=Le.source,n.src_ZPCc=[n.src_Z,n.src_P,n.src_Cc].join("|"),n.src_ZCc=[n.src_Z,n.src_Cc].join("|");const i="[><｜]";return n.src_pseudo_letter="(?:(?!"+i+"|"+n.src_ZPCc+")"+n.src_Any+")",n.src_ip4="(?:(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)",n.src_auth="(?:(?:(?!"+n.src_ZCc+"|[@/\\[\\]()]).)+@)?",n.src_port="(?::(?:6(?:[0-4]\\d{3}|5(?:[0-4]\\d{2}|5(?:[0-2]\\d|3[0-5])))|[1-5]?\\d{1,4}))?",n.src_host_terminator="(?=$|"+i+"|"+n.src_ZPCc+")(?!"+(e["---"]?"-(?!--)|":"-|")+"_|:\\d|\\.-|\\.(?!$|"+n.src_ZPCc+"))",n.src_path="(?:[/?#](?:(?!"+n.src_ZCc+"|"+i+`|[()[\\]{}.,"'?!\\-;]).|\\[(?:(?!`+n.src_ZCc+"|\\]).)*\\]|\\((?:(?!"+n.src_ZCc+"|[)]).)*\\)|\\{(?:(?!"+n.src_ZCc+'|[}]).)*\\}|\\"(?:(?!'+n.src_ZCc+`|["]).)+\\"|\\'(?:(?!`+n.src_ZCc+"|[']).)+\\'|\\'(?="+n.src_pseudo_letter+"|[-])|\\.{2,}[a-zA-Z0-9%/&]|\\.(?!"+n.src_ZCc+"|[.]|$)|"+(e["---"]?"\\-(?!--(?:[^-]|$))(?:-*)|":"\\-+|")+",(?!"+n.src_ZCc+"|$)|;(?!"+n.src_ZCc+"|$)|\\!+(?!"+n.src_ZCc+"|[!]|$)|\\?(?!"+n.src_ZCc+"|[?]|$))+|\\/)?",n.src_email_name='[\\-;:&=\\+\\$,\\.a-zA-Z0-9_][\\-;:&=\\+\\$,\\"\\.a-zA-Z0-9_]*',n.src_xn="xn--[a-z0-9\\-]{1,59}",n.src_domain_root="(?:"+n.src_xn+"|"+n.src_pseudo_letter+"{1,63})",n.src_domain="(?:"+n.src_xn+"|(?:"+n.src_pseudo_letter+")|(?:"+n.src_pseudo_letter+"(?:-|"+n.src_pseudo_letter+"){0,61}"+n.src_pseudo_letter+"))",n.src_host="(?:(?:(?:(?:"+n.src_domain+")\\.)*"+n.src_domain+"))",n.tpl_host_fuzzy="(?:"+n.src_ip4+"|(?:(?:(?:"+n.src_domain+")\\.)+(?:%TLDS%)))",n.tpl_host_no_ip_fuzzy="(?:(?:(?:"+n.src_domain+")\\.)+(?:%TLDS%))",n.src_host_strict=n.src_host+n.src_host_terminator,n.tpl_host_fuzzy_strict=n.tpl_host_fuzzy+n.src_host_terminator,n.src_host_port_strict=n.src_host+n.src_port+n.src_host_terminator,n.tpl_host_port_fuzzy_strict=n.tpl_host_fuzzy+n.src_port+n.src_host_terminator,n.tpl_host_port_no_ip_fuzzy_strict=n.tpl_host_no_ip_fuzzy+n.src_port+n.src_host_terminator,n.tpl_host_fuzzy_test="localhost|www\\.|\\.\\d{1,3}\\.|(?:\\.(?:%TLDS%)(?:"+n.src_ZPCc+"|>|$))",n.tpl_email_fuzzy="(^|"+i+'|"|\\(|'+n.src_ZCc+")("+n.src_email_name+"@"+n.tpl_host_fuzzy_strict+")",n.tpl_link_fuzzy="(^|(?![.:/\\-_@])(?:[$+<=>^`|｜]|"+n.src_ZPCc+"))((?![$+<=>^`|｜])"+n.tpl_host_port_fuzzy_strict+n.src_path+")",n.tpl_link_no_ip_fuzzy="(^|(?![.:/\\-_@])(?:[$+<=>^`|｜]|"+n.src_ZPCc+"))((?![$+<=>^`|｜])"+n.tpl_host_port_no_ip_fuzzy_strict+n.src_path+")",n}function xe(e){return Array.prototype.slice.call(arguments,1).forEach(function(i){i&&Object.keys(i).forEach(function(t){e[t]=i[t]})}),e}function he(e){return Object.prototype.toString.call(e)}function tl(e){return he(e)==="[object String]"}function al(e){return he(e)==="[object Object]"}function ol(e){return he(e)==="[object RegExp]"}function en(e){return he(e)==="[object Function]"}function sl(e){return e.replace(/[.?*+^$[\]\\(){}|-]/g,"\\$&")}const An={fuzzyLink:!0,fuzzyEmail:!0,fuzzyIP:!1};function rl(e){return Object.keys(e||{}).reduce(function(n,i){return n||An.hasOwnProperty(i)},!1)}const cl={"http:":{validate:function(e,n,i){const t=e.slice(n);return i.re.http||(i.re.http=new RegExp("^\\/\\/"+i.re.src_auth+i.re.src_host_port_strict+i.re.src_path,"i")),i.re.http.test(t)?t.match(i.re.http)[0].length:0}},"https:":"http:","ftp:":"http:","//":{validate:function(e,n,i){const t=e.slice(n);return i.re.no_http||(i.re.no_http=new RegExp("^"+i.re.src_auth+"(?:localhost|(?:(?:"+i.re.src_domain+")\\.)+"+i.re.src_domain_root+")"+i.re.src_port+i.re.src_host_terminator+i.re.src_path,"i")),i.re.no_http.test(t)?n>=3&&e[n-3]===":"||n>=3&&e[n-3]==="/"?0:t.match(i.re.no_http)[0].length:0}},"mailto:":{validate:function(e,n,i){const t=e.slice(n);return i.re.mailto||(i.re.mailto=new RegExp("^"+i.re.src_email_name+"@"+i.re.src_host_strict,"i")),i.re.mailto.test(t)?t.match(i.re.mailto)[0].length:0}}},ul="a[cdefgilmnoqrstuwxz]|b[abdefghijmnorstvwyz]|c[acdfghiklmnoruvwxyz]|d[ejkmoz]|e[cegrstu]|f[ijkmor]|g[abdefghilmnpqrstuwy]|h[kmnrtu]|i[delmnoqrst]|j[emop]|k[eghimnprwyz]|l[abcikrstuvy]|m[acdeghklmnopqrstuvwxyz]|n[acefgilopruz]|om|p[aefghklmnrstwy]|qa|r[eosuw]|s[abcdeghijklmnortuvxyz]|t[cdfghjklmnortvwz]|u[agksyz]|v[aceginu]|w[fs]|y[et]|z[amw]",ll="biz|com|edu|gov|net|org|pro|web|xxx|aero|asia|coop|info|museum|name|shop|рф".split("|");function dl(e){e.__index__=-1,e.__text_cache__=""}function hl(e){return function(n,i){const t=n.slice(i);return e.test(t)?t.match(e)[0].length:0}}function nn(){return function(e,n){n.normalize(e)}}function re(e){const n=e.re=il(e.__opts__),i=e.__tlds__.slice();e.onCompile(),e.__tlds_replaced__||i.push(ul),i.push(n.src_xn),n.src_tlds=i.join("|");function t(s){return s.replace("%TLDS%",n.src_tlds)}n.email_fuzzy=RegExp(t(n.tpl_email_fuzzy),"i"),n.link_fuzzy=RegExp(t(n.tpl_link_fuzzy),"i"),n.link_no_ip_fuzzy=RegExp(t(n.tpl_link_no_ip_fuzzy),"i"),n.host_fuzzy_test=RegExp(t(n.tpl_host_fuzzy_test),"i");const a=[];e.__compiled__={};function o(s,c){throw new Error('(LinkifyIt) Invalid schema "'+s+'": '+c)}Object.keys(e.__schemas__).forEach(function(s){const c=e.__schemas__[s];if(c===null)return;const u={validate:null,link:null};if(e.__compiled__[s]=u,al(c)){ol(c.validate)?u.validate=hl(c.validate):en(c.validate)?u.validate=c.validate:o(s,c),en(c.normalize)?u.normalize=c.normalize:c.normalize?o(s,c):u.normalize=nn();return}if(tl(c)){a.push(s);return}o(s,c)}),a.forEach(function(s){e.__compiled__[e.__schemas__[s]]&&(e.__compiled__[s].validate=e.__compiled__[e.__schemas__[s]].validate,e.__compiled__[s].normalize=e.__compiled__[e.__schemas__[s]].normalize)}),e.__compiled__[""]={validate:null,normalize:nn()};const r=Object.keys(e.__compiled__).filter(function(s){return s.length>0&&e.__compiled__[s]}).map(sl).join("|");e.re.schema_test=RegExp("(^|(?!_)(?:[><｜]|"+n.src_ZPCc+"))("+r+")","i"),e.re.schema_search=RegExp("(^|(?!_)(?:[><｜]|"+n.src_ZPCc+"))("+r+")","ig"),e.re.schema_at_start=RegExp("^"+e.re.schema_search.source,"i"),e.re.pretest=RegExp("("+e.re.schema_test.source+")|("+e.re.host_fuzzy_test.source+")|@","i"),dl(e)}function ml(e,n){const i=e.__index__,t=e.__last_index__,a=e.__text_cache__.slice(i,t);this.schema=e.__schema__.toLowerCase(),this.index=i+n,this.lastIndex=t+n,this.raw=a,this.text=a,this.url=a}function ke(e,n){const i=new ml(e,n);return e.__compiled__[i.schema].normalize(i,e),i}function L(e,n){if(!(this instanceof L))return new L(e,n);n||rl(e)&&(n=e,e={}),this.__opts__=xe({},An,n),this.__index__=-1,this.__last_index__=-1,this.__schema__="",this.__text_cache__="",this.__schemas__=xe({},cl,e),this.__compiled__={},this.__tlds__=ll,this.__tlds_replaced__=!1,this.re={},re(this)}L.prototype.add=function(n,i){return this.__schemas__[n]=i,re(this),this};L.prototype.set=function(n){return this.__opts__=xe(this.__opts__,n),this};L.prototype.test=function(n){if(this.__text_cache__=n,this.__index__=-1,!n.length)return!1;let i,t,a,o,r,s,c,u,l;if(this.re.schema_test.test(n)){for(c=this.re.schema_search,c.lastIndex=0;(i=c.exec(n))!==null;)if(o=this.testSchemaAt(n,i[2],c.lastIndex),o){this.__schema__=i[2],this.__index__=i.index+i[1].length,this.__last_index__=i.index+i[0].length+o;break}}return this.__opts__.fuzzyLink&&this.__compiled__["http:"]&&(u=n.search(this.re.host_fuzzy_test),u>=0&&(this.__index__<0||u<this.__index__)&&(t=n.match(this.__opts__.fuzzyIP?this.re.link_fuzzy:this.re.link_no_ip_fuzzy))!==null&&(r=t.index+t[1].length,(this.__index__<0||r<this.__index__)&&(this.__schema__="",this.__index__=r,this.__last_index__=t.index+t[0].length))),this.__opts__.fuzzyEmail&&this.__compiled__["mailto:"]&&(l=n.indexOf("@"),l>=0&&(a=n.match(this.re.email_fuzzy))!==null&&(r=a.index+a[1].length,s=a.index+a[0].length,(this.__index__<0||r<this.__index__||r===this.__index__&&s>this.__last_index__)&&(this.__schema__="mailto:",this.__index__=r,this.__last_index__=s))),this.__index__>=0};L.prototype.pretest=function(n){return this.re.pretest.test(n)};L.prototype.testSchemaAt=function(n,i,t){return this.__compiled__[i.toLowerCase()]?this.__compiled__[i.toLowerCase()].validate(n,t,this):0};L.prototype.match=function(n){const i=[];let t=0;this.__index__>=0&&this.__text_cache__===n&&(i.push(ke(this,t)),t=this.__last_index__);let a=t?n.slice(t):n;for(;this.test(a);)i.push(ke(this,t)),a=a.slice(this.__last_index__),t+=this.__last_index__;return i.length?i:null};L.prototype.matchAtStart=function(n){if(this.__text_cache__=n,this.__index__=-1,!n.length)return null;const i=this.re.schema_at_start.exec(n);if(!i)return null;const t=this.testSchemaAt(n,i[2],i[0].length);return t?(this.__schema__=i[2],this.__index__=i.index+i[1].length,this.__last_index__=i.index+i[0].length+t,ke(this,0)):null};L.prototype.tlds=function(n,i){return n=Array.isArray(n)?n:[n],i?(this.__tlds__=this.__tlds__.concat(n).sort().filter(function(t,a,o){return t!==o[a-1]}).reverse(),re(this),this):(this.__tlds__=n.slice(),this.__tlds_replaced__=!0,re(this),this)};L.prototype.normalize=function(n){n.schema||(n.url="http://"+n.url),n.schema==="mailto:"&&!/^mailto:/i.test(n.url)&&(n.url="mailto:"+n.url)};L.prototype.onCompile=function(){};const J=2147483647,T=36,Fe=1,Y=26,pl=38,bl=700,qn=72,_n=128,vn="-",gl=/^xn--/,fl=/[^\0-\x7F]/,yl=/[\x2E\u3002\uFF0E\uFF61]/g,Al={overflow:"Overflow: input needs wider integers to process","not-basic":"Illegal input >= 0x80 (not a basic code point)","invalid-input":"Invalid input"},qe=T-Fe,F=Math.floor,_e=String.fromCharCode;function j(e){throw new RangeError(Al[e])}function ql(e,n){const i=[];let t=e.length;for(;t--;)i[t]=n(e[t]);return i}function Cn(e,n){const i=e.split("@");let t="";i.length>1&&(t=i[0]+"@",e=i[1]),e=e.replace(yl,".");const a=e.split("."),o=ql(a,n).join(".");return t+o}function xn(e){const n=[];let i=0;const t=e.length;for(;i<t;){const a=e.charCodeAt(i++);if(a>=55296&&a<=56319&&i<t){const o=e.charCodeAt(i++);(o&64512)==56320?n.push(((a&1023)<<10)+(o&1023)+65536):(n.push(a),i--)}else n.push(a)}return n}const _l=e=>String.fromCodePoint(...e),vl=function(e){return e>=48&&e<58?26+(e-48):e>=65&&e<91?e-65:e>=97&&e<123?e-97:T},tn=function(e,n){return e+22+75*(e<26)-((n!=0)<<5)},kn=function(e,n,i){let t=0;for(e=i?F(e/bl):e>>1,e+=F(e/n);e>qe*Y>>1;t+=T)e=F(e/qe);return F(t+(qe+1)*e/(e+pl))},En=function(e){const n=[],i=e.length;let t=0,a=_n,o=qn,r=e.lastIndexOf(vn);r<0&&(r=0);for(let s=0;s<r;++s)e.charCodeAt(s)>=128&&j("not-basic"),n.push(e.charCodeAt(s));for(let s=r>0?r+1:0;s<i;){const c=t;for(let l=1,h=T;;h+=T){s>=i&&j("invalid-input");const p=vl(e.charCodeAt(s++));p>=T&&j("invalid-input"),p>F((J-t)/l)&&j("overflow"),t+=p*l;const m=h<=o?Fe:h>=o+Y?Y:h-o;if(p<m)break;const d=T-m;l>F(J/d)&&j("overflow"),l*=d}const u=n.length+1;o=kn(t-c,u,c==0),F(t/u)>J-a&&j("overflow"),a+=F(t/u),t%=u,n.splice(t++,0,a)}return String.fromCodePoint(...n)},Sn=function(e){const n=[];e=xn(e);const i=e.length;let t=_n,a=0,o=qn;for(const c of e)c<128&&n.push(_e(c));const r=n.length;let s=r;for(r&&n.push(vn);s<i;){let c=J;for(const l of e)l>=t&&l<c&&(c=l);const u=s+1;c-t>F((J-a)/u)&&j("overflow"),a+=(c-t)*u,t=c;for(const l of e)if(l<t&&++a>J&&j("overflow"),l===t){let h=a;for(let p=T;;p+=T){const m=p<=o?Fe:p>=o+Y?Y:p-o;if(h<m)break;const d=h-m,A=T-m;n.push(_e(tn(m+d%A,0))),h=F(d/A)}n.push(_e(tn(h,0))),o=kn(a,u,s===r),a=0,++s}++a,++t}return n.join("")},Cl=function(e){return Cn(e,function(n){return gl.test(n)?En(n.slice(4).toLowerCase()):n})},xl=function(e){return Cn(e,function(n){return fl.test(n)?"xn--"+Sn(n):n})},zn={version:"2.3.1",ucs2:{decode:xn,encode:_l},decode:En,encode:Sn,toASCII:xl,toUnicode:Cl},kl={options:{html:!1,xhtmlOut:!1,breaks:!1,langPrefix:"language-",linkify:!1,typographer:!1,quotes:"“”‘’",highlight:null,maxNesting:100},components:{core:{},block:{},inline:{}}},El={options:{html:!1,xhtmlOut:!1,breaks:!1,langPrefix:"language-",linkify:!1,typographer:!1,quotes:"“”‘’",highlight:null,maxNesting:20},components:{core:{rules:["normalize","block","inline","text_join"]},block:{rules:["paragraph"]},inline:{rules:["text"],rules2:["balance_pairs","fragments_join"]}}},Sl={options:{html:!0,xhtmlOut:!0,breaks:!1,langPrefix:"language-",linkify:!1,typographer:!1,quotes:"“”‘’",highlight:null,maxNesting:20},components:{core:{rules:["normalize","block","inline","text_join"]},block:{rules:["blockquote","code","fence","heading","hr","html_block","lheading","list","reference","paragraph"]},inline:{rules:["autolink","backticks","emphasis","entity","escape","html_inline","image","link","newline","text"],rules2:["balance_pairs","emphasis","fragments_join"]}}},zl={default:kl,zero:El,commonmark:Sl},Ll=/^(vbscript|javascript|file|data):/,Dl=/^data:image\/(gif|png|jpeg|webp);/;function wl(e){const n=e.trim().toLowerCase();return Ll.test(n)?Dl.test(n):!0}const Ln=["http:","https:","mailto:"];function Pl(e){const n=ze(e,!0);if(n.hostname&&(!n.protocol||Ln.indexOf(n.protocol)>=0))try{n.hostname=zn.toASCII(n.hostname)}catch{}return ee(Se(n))}function Tl(e){const n=ze(e,!0);if(n.hostname&&(!n.protocol||Ln.indexOf(n.protocol)>=0))try{n.hostname=zn.toUnicode(n.hostname)}catch{}return U(Se(n),U.defaultChars+"%")}function D(e,n){if(!(this instanceof D))return new D(e,n);n||De(e)||(n=e||{},e="default"),this.inline=new ie,this.block=new de,this.core=new Pe,this.renderer=new K,this.linkify=new L,this.validateLink=wl,this.normalizeLink=Pl,this.normalizeLinkText=Tl,this.utils=Rc,this.helpers=ue({},Bc),this.options={},this.configure(e),n&&this.set(n)}D.prototype.set=function(e){return ue(this.options,e),this};D.prototype.configure=function(e){const n=this;if(De(e)){const i=e;if(e=zl[i],!e)throw new Error('Wrong `markdown-it` preset "'+i+'", check name')}if(!e)throw new Error("Wrong `markdown-it` preset, can't be empty");return e.options&&n.set(e.options),e.components&&Object.keys(e.components).forEach(function(i){e.components[i].rules&&n[i].ruler.enableOnly(e.components[i].rules),e.components[i].rules2&&n[i].ruler2.enableOnly(e.components[i].rules2)}),this};D.prototype.enable=function(e,n){let i=[];Array.isArray(e)||(e=[e]),["core","block","inline"].forEach(function(a){i=i.concat(this[a].ruler.enable(e,!0))},this),i=i.concat(this.inline.ruler2.enable(e,!0));const t=e.filter(function(a){return i.indexOf(a)<0});if(t.length&&!n)throw new Error("MarkdownIt. Failed to enable unknown rule(s): "+t);return this};D.prototype.disable=function(e,n){let i=[];Array.isArray(e)||(e=[e]),["core","block","inline"].forEach(function(a){i=i.concat(this[a].ruler.disable(e,!0))},this),i=i.concat(this.inline.ruler2.disable(e,!0));const t=e.filter(function(a){return i.indexOf(a)<0});if(t.length&&!n)throw new Error("MarkdownIt. Failed to disable unknown rule(s): "+t);return this};D.prototype.use=function(e){const n=[this].concat(Array.prototype.slice.call(arguments,1));return e.apply(e,n),this};D.prototype.parse=function(e,n){if(typeof e!="string")throw new Error("Input data should be a String");const i=new this.core.State(e,this,n);return this.core.process(i),i.tokens};D.prototype.render=function(e,n){return n=n||{},this.renderer.render(this.parse(e,n),this.options,n)};D.prototype.parseInline=function(e,n){const i=new this.core.State(e,this,n);return i.inlineMode=!0,this.core.process(i),i.tokens};D.prototype.renderInline=function(e,n){return n=n||{},this.renderer.render(this.parseInline(e,n),this.options,n)};const Fl=Object.assign({"../content/about/links.md":pi,"../content/about/profile.md":bi,"../content/de/about/links.md":gi,"../content/de/about/profile.md":fi,"../content/de/education/academic-training.md":yi,"../content/de/education/projects-links.md":Ai,"../content/de/experience/highlights.md":qi,"../content/de/experience/roles.md":_i,"../content/de/source-control/advanced-sql/joins-and-analytics.md":vi,"../content/de/source-control/advanced-sql/t-sql-and-triggers.md":Ci,"../content/de/source-control/applied-statistics/sampling-and-pandas.md":xi,"../content/de/source-control/artificial-intelligence/search-and-optimization.md":ki,"../content/de/source-control/c-plus-plus/cpp-exercises.md":Ei,"../content/de/source-control/cloud-computing.md":Si,"../content/de/source-control/cloud-computing/cloud-foundations.md":zi,"../content/de/source-control/computer-science-fundamentals.md":Li,"../content/de/source-control/control-systems/control-analysis.md":Di,"../content/de/source-control/cybersecurity/security-principles.md":wi,"../content/de/source-control/data-science-ai.md":Pi,"../content/de/source-control/data-science/data-science-notebooks.md":Ti,"../content/de/source-control/data-structures/lists-and-stacks.md":Fi,"../content/de/source-control/data-structures/trees-and-search.md":Ri,"../content/de/source-control/databases.md":Ii,"../content/de/source-control/delphi-7/classic-projects.md":Mi,"../content/de/source-control/embedded-operating-systems/esp32-coursework.md":ji,"../content/de/source-control/embedded-operating-systems/pic-projects.md":Bi,"../content/de/source-control/embedded-systems.md":Qi,"../content/de/source-control/front-end/web-fundamentals.md":Ni,"../content/de/source-control/internet-of-things/iot-labs.md":Oi,"../content/de/source-control/java-backend/spring-backend.md":Gi,"../content/de/source-control/machine-learning/ml-pipeline.md":Wi,"../content/de/source-control/mobile-development/android-kotlin.md":Ji,"../content/de/source-control/mobile-development/react-native-apps.md":Ui,"../content/de/source-control/network-security/network-defense.md":Hi,"../content/de/source-control/networks-security.md":Ki,"../content/de/source-control/programming-languages.md":Vi,"../content/de/source-control/python-foundations/basics-and-modules.md":Zi,"../content/de/source-control/python-foundations/control-flow-and-loops.md":$i,"../content/de/source-control/sql-fundamentals/foundations-and-queries.md":Xi,"../content/de/source-control/web-mobile.md":Yi,"../content/education/academic-training.md":et,"../content/education/projects-links.md":nt,"../content/es/about/links.md":it,"../content/es/about/profile.md":tt,"../content/es/education/academic-training.md":at,"../content/es/education/projects-links.md":ot,"../content/es/experience/highlights.md":st,"../content/es/experience/roles.md":rt,"../content/es/source-control/advanced-sql/joins-and-analytics.md":ct,"../content/es/source-control/advanced-sql/t-sql-and-triggers.md":ut,"../content/es/source-control/applied-statistics/sampling-and-pandas.md":lt,"../content/es/source-control/artificial-intelligence/search-and-optimization.md":dt,"../content/es/source-control/c-plus-plus/cpp-exercises.md":ht,"../content/es/source-control/cloud-computing.md":mt,"../content/es/source-control/cloud-computing/cloud-foundations.md":pt,"../content/es/source-control/computer-science-fundamentals.md":bt,"../content/es/source-control/control-systems/control-analysis.md":gt,"../content/es/source-control/cybersecurity/security-principles.md":ft,"../content/es/source-control/data-science-ai.md":yt,"../content/es/source-control/data-science/data-science-notebooks.md":At,"../content/es/source-control/data-structures/lists-and-stacks.md":qt,"../content/es/source-control/data-structures/trees-and-search.md":_t,"../content/es/source-control/databases.md":vt,"../content/es/source-control/delphi-7/classic-projects.md":Ct,"../content/es/source-control/embedded-operating-systems/esp32-coursework.md":xt,"../content/es/source-control/embedded-operating-systems/pic-projects.md":kt,"../content/es/source-control/embedded-systems.md":Et,"../content/es/source-control/front-end/web-fundamentals.md":St,"../content/es/source-control/internet-of-things/iot-labs.md":zt,"../content/es/source-control/java-backend/spring-backend.md":Lt,"../content/es/source-control/machine-learning/ml-pipeline.md":Dt,"../content/es/source-control/mobile-development/android-kotlin.md":wt,"../content/es/source-control/mobile-development/react-native-apps.md":Pt,"../content/es/source-control/network-security/network-defense.md":Tt,"../content/es/source-control/networks-security.md":Ft,"../content/es/source-control/programming-languages.md":Rt,"../content/es/source-control/python-foundations/basics-and-modules.md":It,"../content/es/source-control/python-foundations/control-flow-and-loops.md":Mt,"../content/es/source-control/sql-fundamentals/foundations-and-queries.md":jt,"../content/es/source-control/web-mobile.md":Bt,"../content/experience/highlights.md":Qt,"../content/experience/roles.md":Nt,"../content/fr/about/links.md":Ot,"../content/fr/about/profile.md":Gt,"../content/fr/education/academic-training.md":Wt,"../content/fr/education/projects-links.md":Jt,"../content/fr/experience/highlights.md":Ut,"../content/fr/experience/roles.md":Ht,"../content/fr/source-control/advanced-sql/joins-and-analytics.md":Kt,"../content/fr/source-control/advanced-sql/t-sql-and-triggers.md":Vt,"../content/fr/source-control/applied-statistics/sampling-and-pandas.md":Zt,"../content/fr/source-control/artificial-intelligence/search-and-optimization.md":$t,"../content/fr/source-control/c-plus-plus/cpp-exercises.md":Xt,"../content/fr/source-control/cloud-computing.md":Yt,"../content/fr/source-control/cloud-computing/cloud-foundations.md":ea,"../content/fr/source-control/computer-science-fundamentals.md":na,"../content/fr/source-control/control-systems/control-analysis.md":ia,"../content/fr/source-control/cybersecurity/security-principles.md":ta,"../content/fr/source-control/data-science-ai.md":aa,"../content/fr/source-control/data-science/data-science-notebooks.md":oa,"../content/fr/source-control/data-structures/lists-and-stacks.md":sa,"../content/fr/source-control/data-structures/trees-and-search.md":ra,"../content/fr/source-control/databases.md":ca,"../content/fr/source-control/delphi-7/classic-projects.md":ua,"../content/fr/source-control/embedded-operating-systems/esp32-coursework.md":la,"../content/fr/source-control/embedded-operating-systems/pic-projects.md":da,"../content/fr/source-control/embedded-systems.md":ha,"../content/fr/source-control/front-end/web-fundamentals.md":ma,"../content/fr/source-control/internet-of-things/iot-labs.md":pa,"../content/fr/source-control/java-backend/spring-backend.md":ba,"../content/fr/source-control/machine-learning/ml-pipeline.md":ga,"../content/fr/source-control/mobile-development/android-kotlin.md":fa,"../content/fr/source-control/mobile-development/react-native-apps.md":ya,"../content/fr/source-control/network-security/network-defense.md":Aa,"../content/fr/source-control/networks-security.md":qa,"../content/fr/source-control/programming-languages.md":_a,"../content/fr/source-control/python-foundations/basics-and-modules.md":va,"../content/fr/source-control/python-foundations/control-flow-and-loops.md":Ca,"../content/fr/source-control/sql-fundamentals/foundations-and-queries.md":xa,"../content/fr/source-control/web-mobile.md":ka,"../content/it/about/links.md":Ea,"../content/it/about/profile.md":Sa,"../content/it/education/academic-training.md":za,"../content/it/education/projects-links.md":La,"../content/it/experience/highlights.md":Da,"../content/it/experience/roles.md":wa,"../content/it/source-control/advanced-sql/joins-and-analytics.md":Pa,"../content/it/source-control/advanced-sql/t-sql-and-triggers.md":Ta,"../content/it/source-control/applied-statistics/sampling-and-pandas.md":Fa,"../content/it/source-control/artificial-intelligence/search-and-optimization.md":Ra,"../content/it/source-control/c-plus-plus/cpp-exercises.md":Ia,"../content/it/source-control/cloud-computing.md":Ma,"../content/it/source-control/cloud-computing/cloud-foundations.md":ja,"../content/it/source-control/computer-science-fundamentals.md":Ba,"../content/it/source-control/control-systems/control-analysis.md":Qa,"../content/it/source-control/cybersecurity/security-principles.md":Na,"../content/it/source-control/data-science-ai.md":Oa,"../content/it/source-control/data-science/data-science-notebooks.md":Ga,"../content/it/source-control/data-structures/lists-and-stacks.md":Wa,"../content/it/source-control/data-structures/trees-and-search.md":Ja,"../content/it/source-control/databases.md":Ua,"../content/it/source-control/delphi-7/classic-projects.md":Ha,"../content/it/source-control/embedded-operating-systems/esp32-coursework.md":Ka,"../content/it/source-control/embedded-operating-systems/pic-projects.md":Va,"../content/it/source-control/embedded-systems.md":Za,"../content/it/source-control/front-end/web-fundamentals.md":$a,"../content/it/source-control/internet-of-things/iot-labs.md":Xa,"../content/it/source-control/java-backend/spring-backend.md":Ya,"../content/it/source-control/machine-learning/ml-pipeline.md":eo,"../content/it/source-control/mobile-development/android-kotlin.md":no,"../content/it/source-control/mobile-development/react-native-apps.md":io,"../content/it/source-control/network-security/network-defense.md":to,"../content/it/source-control/networks-security.md":ao,"../content/it/source-control/programming-languages.md":oo,"../content/it/source-control/python-foundations/basics-and-modules.md":so,"../content/it/source-control/python-foundations/control-flow-and-loops.md":ro,"../content/it/source-control/sql-fundamentals/foundations-and-queries.md":co,"../content/it/source-control/web-mobile.md":uo,"../content/pl/about/links.md":lo,"../content/pl/about/profile.md":ho,"../content/pl/education/academic-training.md":mo,"../content/pl/education/projects-links.md":po,"../content/pl/experience/highlights.md":bo,"../content/pl/experience/roles.md":go,"../content/pl/source-control/advanced-sql/joins-and-analytics.md":fo,"../content/pl/source-control/advanced-sql/t-sql-and-triggers.md":yo,"../content/pl/source-control/applied-statistics/sampling-and-pandas.md":Ao,"../content/pl/source-control/artificial-intelligence/search-and-optimization.md":qo,"../content/pl/source-control/c-plus-plus/cpp-exercises.md":_o,"../content/pl/source-control/cloud-computing.md":vo,"../content/pl/source-control/cloud-computing/cloud-foundations.md":Co,"../content/pl/source-control/computer-science-fundamentals.md":xo,"../content/pl/source-control/control-systems/control-analysis.md":ko,"../content/pl/source-control/cybersecurity/security-principles.md":Eo,"../content/pl/source-control/data-science-ai.md":So,"../content/pl/source-control/data-science/data-science-notebooks.md":zo,"../content/pl/source-control/data-structures/lists-and-stacks.md":Lo,"../content/pl/source-control/data-structures/trees-and-search.md":Do,"../content/pl/source-control/databases.md":wo,"../content/pl/source-control/delphi-7/classic-projects.md":Po,"../content/pl/source-control/embedded-operating-systems/esp32-coursework.md":To,"../content/pl/source-control/embedded-operating-systems/pic-projects.md":Fo,"../content/pl/source-control/embedded-systems.md":Ro,"../content/pl/source-control/front-end/web-fundamentals.md":Io,"../content/pl/source-control/internet-of-things/iot-labs.md":Mo,"../content/pl/source-control/java-backend/spring-backend.md":jo,"../content/pl/source-control/machine-learning/ml-pipeline.md":Bo,"../content/pl/source-control/mobile-development/android-kotlin.md":Qo,"../content/pl/source-control/mobile-development/react-native-apps.md":No,"../content/pl/source-control/network-security/network-defense.md":Oo,"../content/pl/source-control/networks-security.md":Go,"../content/pl/source-control/programming-languages.md":Wo,"../content/pl/source-control/python-foundations/basics-and-modules.md":Jo,"../content/pl/source-control/python-foundations/control-flow-and-loops.md":Uo,"../content/pl/source-control/sql-fundamentals/foundations-and-queries.md":Ho,"../content/pl/source-control/web-mobile.md":Ko,"../content/pt-BR/about/links.md":Vo,"../content/pt-BR/about/profile.md":Zo,"../content/pt-BR/education/academic-training.md":$o,"../content/pt-BR/education/projects-links.md":Xo,"../content/pt-BR/experience/highlights.md":Yo,"../content/pt-BR/experience/roles.md":es,"../content/pt-BR/source-control/advanced-sql/joins-and-analytics.md":ns,"../content/pt-BR/source-control/advanced-sql/t-sql-and-triggers.md":is,"../content/pt-BR/source-control/applied-statistics/sampling-and-pandas.md":ts,"../content/pt-BR/source-control/artificial-intelligence/search-and-optimization.md":as,"../content/pt-BR/source-control/c-plus-plus/cpp-exercises.md":os,"../content/pt-BR/source-control/cloud-computing.md":ss,"../content/pt-BR/source-control/cloud-computing/cloud-foundations.md":rs,"../content/pt-BR/source-control/computer-science-fundamentals.md":cs,"../content/pt-BR/source-control/control-systems/control-analysis.md":us,"../content/pt-BR/source-control/cybersecurity/security-principles.md":ls,"../content/pt-BR/source-control/data-science-ai.md":ds,"../content/pt-BR/source-control/data-science/data-science-notebooks.md":hs,"../content/pt-BR/source-control/data-structures/lists-and-stacks.md":ms,"../content/pt-BR/source-control/data-structures/trees-and-search.md":ps,"../content/pt-BR/source-control/databases.md":bs,"../content/pt-BR/source-control/delphi-7/classic-projects.md":gs,"../content/pt-BR/source-control/embedded-operating-systems/esp32-coursework.md":fs,"../content/pt-BR/source-control/embedded-operating-systems/pic-projects.md":ys,"../content/pt-BR/source-control/embedded-systems.md":As,"../content/pt-BR/source-control/front-end/web-fundamentals.md":qs,"../content/pt-BR/source-control/internet-of-things/iot-labs.md":_s,"../content/pt-BR/source-control/java-backend/spring-backend.md":vs,"../content/pt-BR/source-control/machine-learning/ml-pipeline.md":Cs,"../content/pt-BR/source-control/mobile-development/android-kotlin.md":xs,"../content/pt-BR/source-control/mobile-development/react-native-apps.md":ks,"../content/pt-BR/source-control/network-security/network-defense.md":Es,"../content/pt-BR/source-control/networks-security.md":Ss,"../content/pt-BR/source-control/programming-languages.md":zs,"../content/pt-BR/source-control/python-foundations/basics-and-modules.md":Ls,"../content/pt-BR/source-control/python-foundations/control-flow-and-loops.md":Ds,"../content/pt-BR/source-control/sql-fundamentals/foundations-and-queries.md":ws,"../content/pt-BR/source-control/web-mobile.md":Ps,"../content/source-control/advanced-sql/joins-and-analytics.md":Ts,"../content/source-control/advanced-sql/t-sql-and-triggers.md":Fs,"../content/source-control/applied-statistics/sampling-and-pandas.md":Rs,"../content/source-control/artificial-intelligence/search-and-optimization.md":Is,"../content/source-control/c-plus-plus/cpp-exercises.md":Ms,"../content/source-control/cloud-computing.md":js,"../content/source-control/cloud-computing/cloud-foundations.md":Bs,"../content/source-control/computer-science-fundamentals.md":Qs,"../content/source-control/control-systems/control-analysis.md":Ns,"../content/source-control/cybersecurity/security-principles.md":Os,"../content/source-control/data-science-ai.md":Gs,"../content/source-control/data-science/data-science-notebooks.md":Ws,"../content/source-control/data-structures/lists-and-stacks.md":Js,"../content/source-control/data-structures/trees-and-search.md":Us,"../content/source-control/databases.md":Hs,"../content/source-control/delphi-7/classic-projects.md":Ks,"../content/source-control/embedded-operating-systems/esp32-coursework.md":Vs,"../content/source-control/embedded-operating-systems/pic-projects.md":Zs,"../content/source-control/embedded-systems.md":$s,"../content/source-control/front-end/web-fundamentals.md":Xs,"../content/source-control/internet-of-things/iot-labs.md":Ys,"../content/source-control/java-backend/spring-backend.md":er,"../content/source-control/machine-learning/ml-pipeline.md":nr,"../content/source-control/mobile-development/android-kotlin.md":ir,"../content/source-control/mobile-development/react-native-apps.md":tr,"../content/source-control/network-security/network-defense.md":ar,"../content/source-control/networks-security.md":or,"../content/source-control/programming-languages.md":sr,"../content/source-control/python-foundations/basics-and-modules.md":rr,"../content/source-control/python-foundations/control-flow-and-loops.md":cr,"../content/source-control/sql-fundamentals/foundations-and-queries.md":ur,"../content/source-control/web-mobile.md":lr,"../content/zh/about/links.md":dr,"../content/zh/about/profile.md":hr,"../content/zh/education/academic-training.md":mr,"../content/zh/education/projects-links.md":pr,"../content/zh/experience/highlights.md":br,"../content/zh/experience/roles.md":gr,"../content/zh/source-control/advanced-sql/joins-and-analytics.md":fr,"../content/zh/source-control/advanced-sql/t-sql-and-triggers.md":yr,"../content/zh/source-control/applied-statistics/sampling-and-pandas.md":Ar,"../content/zh/source-control/artificial-intelligence/search-and-optimization.md":qr,"../content/zh/source-control/c-plus-plus/cpp-exercises.md":_r,"../content/zh/source-control/cloud-computing.md":vr,"../content/zh/source-control/cloud-computing/cloud-foundations.md":Cr,"../content/zh/source-control/computer-science-fundamentals.md":xr,"../content/zh/source-control/control-systems/control-analysis.md":kr,"../content/zh/source-control/cybersecurity/security-principles.md":Er,"../content/zh/source-control/data-science-ai.md":Sr,"../content/zh/source-control/data-science/data-science-notebooks.md":zr,"../content/zh/source-control/data-structures/lists-and-stacks.md":Lr,"../content/zh/source-control/data-structures/trees-and-search.md":Dr,"../content/zh/source-control/databases.md":wr,"../content/zh/source-control/delphi-7/classic-projects.md":Pr,"../content/zh/source-control/embedded-operating-systems/esp32-coursework.md":Tr,"../content/zh/source-control/embedded-operating-systems/pic-projects.md":Fr,"../content/zh/source-control/embedded-systems.md":Rr,"../content/zh/source-control/front-end/web-fundamentals.md":Ir,"../content/zh/source-control/internet-of-things/iot-labs.md":Mr,"../content/zh/source-control/java-backend/spring-backend.md":jr,"../content/zh/source-control/machine-learning/ml-pipeline.md":Br,"../content/zh/source-control/mobile-development/android-kotlin.md":Qr,"../content/zh/source-control/mobile-development/react-native-apps.md":Nr,"../content/zh/source-control/network-security/network-defense.md":Or,"../content/zh/source-control/networks-security.md":Gr,"../content/zh/source-control/programming-languages.md":Wr,"../content/zh/source-control/python-foundations/basics-and-modules.md":Jr,"../content/zh/source-control/python-foundations/control-flow-and-loops.md":Ur,"../content/zh/source-control/sql-fundamentals/foundations-and-queries.md":Hr,"../content/zh/source-control/web-mobile.md":Kr}),Re=new D({html:!1,linkify:!0,typographer:!0}),Rl=Re.renderer.rules.link_open??((e,n,i,t,a)=>a.renderToken(e,n,i));Re.renderer.rules.link_open=(e,n,i,t,a)=>{const o=e[n].attrIndex("target"),r=e[n].attrIndex("rel");return o<0?e[n].attrPush(["target","_blank"]):e[n].attrs[o][1]="_blank",r<0?e[n].attrPush(["rel","noreferrer noopener"]):e[n].attrs[r][1]="noreferrer noopener",Rl(e,n,i,t,a)};function Il(e){return e.replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;").replaceAll("'","&#39;")}function Ml(e){return['<pre class="shiki github-dark" tabindex="0">',"<code>",e.split(`
-`).map(t=>`<span class="line">${Il(t)||" "}</span>`).join(`
-`),"</code>","</pre>"].join("")}function jl(e,n=ce){const i=Ee[O(e)];if(!i)return null;const t=an(i,n);return{path:e,title:t.title,kind:t.kind,language:t.language,description:t.description}}function Bl(e,n=ce){const i=O(e);return[`../content/${Wn(n)}${i}.md`,`../content${i}.md`]}function Ql(e,n=ce){const i=O(e);return i in Ee?Bl(i,n).map(t=>Fl[t]).find(t=>t!==void 0)??null:null}function Nl(e,n,i){return n==="code"?Ml(e):Re.render(e)}function Hl(e,n=ce){const i=O(e),t=jl(i,n),a=Ql(i,n);return!t||a===null?null:{...t,raw:a,html:Nl(a,t.kind,t.language)}}export{ui as S,Wl as X,Jl as _,Ql as a,Hl as g,Ul as u};
+`;break}return t};K.prototype.render=function(e,n,i){let t="";const a=this.rules;for(let o=0,r=e.length;o<r;o++){const s=e[o].type;s==="inline"?t+=this.renderInline(e[o].children,n,i):typeof a[s]<"u"?t+=a[s](e,o,n,i,this):t+=this.renderToken(e,o,n,i)}return t};function z(){this.__rules__=[],this.__cache__=null}z.prototype.__find__=function(e){for(let n=0;n<this.__rules__.length;n++)if(this.__rules__[n].name===e)return n;return-1};z.prototype.__compile__=function(){const e=this,n=[""];e.__rules__.forEach(function(i){i.enabled&&i.alt.forEach(function(t){n.indexOf(t)<0&&n.push(t)})}),e.__cache__={},n.forEach(function(i){e.__cache__[i]=[],e.__rules__.forEach(function(t){t.enabled&&(i&&t.alt.indexOf(i)<0||e.__cache__[i].push(t.fn))})})};z.prototype.at=function(e,n,i){const t=this.__find__(e),a=i||{};if(t===-1)throw new Error("Parser rule not found: "+e);this.__rules__[t].fn=n,this.__rules__[t].alt=a.alt||[],this.__cache__=null};z.prototype.before=function(e,n,i,t){const a=this.__find__(e),o=t||{};if(a===-1)throw new Error("Parser rule not found: "+e);this.__rules__.splice(a,0,{name:n,enabled:!0,fn:i,alt:o.alt||[]}),this.__cache__=null};z.prototype.after=function(e,n,i,t){const a=this.__find__(e),o=t||{};if(a===-1)throw new Error("Parser rule not found: "+e);this.__rules__.splice(a+1,0,{name:n,enabled:!0,fn:i,alt:o.alt||[]}),this.__cache__=null};z.prototype.push=function(e,n,i){const t=i||{};this.__rules__.push({name:e,enabled:!0,fn:n,alt:t.alt||[]}),this.__cache__=null};z.prototype.enable=function(e,n){Array.isArray(e)||(e=[e]);const i=[];return e.forEach(function(t){const a=this.__find__(t);if(a<0){if(n)return;throw new Error("Rules manager: invalid rule name "+t)}this.__rules__[a].enabled=!0,i.push(t)},this),this.__cache__=null,i};z.prototype.enableOnly=function(e,n){Array.isArray(e)||(e=[e]),this.__rules__.forEach(function(i){i.enabled=!1}),this.enable(e,n)};z.prototype.disable=function(e,n){Array.isArray(e)||(e=[e]);const i=[];return e.forEach(function(t){const a=this.__find__(t);if(a<0){if(n)return;throw new Error("Rules manager: invalid rule name "+t)}this.__rules__[a].enabled=!1,i.push(t)},this),this.__cache__=null,i};z.prototype.getRules=function(e){return this.__cache__===null&&this.__compile__(),this.__cache__[e]||[]};function P(e,n,i){this.type=e,this.tag=n,this.attrs=null,this.map=null,this.nesting=i,this.level=0,this.children=null,this.content="",this.markup="",this.info="",this.meta=null,this.block=!1,this.hidden=!1}P.prototype.attrIndex=function(n){if(!this.attrs)return-1;const i=this.attrs;for(let t=0,a=i.length;t<a;t++)if(i[t][0]===n)return t;return-1};P.prototype.attrPush=function(n){this.attrs?this.attrs.push(n):this.attrs=[n]};P.prototype.attrSet=function(n,i){const t=this.attrIndex(n),a=[n,i];t<0?this.attrPush(a):this.attrs[t]=a};P.prototype.attrGet=function(n){const i=this.attrIndex(n);let t=null;return i>=0&&(t=this.attrs[i][1]),t};P.prototype.attrJoin=function(n,i){const t=this.attrIndex(n);t<0?this.attrPush([n,i]):this.attrs[t][1]=this.attrs[t][1]+" "+i};function mn(e,n,i){this.src=e,this.env=i,this.tokens=[],this.inlineMode=!1,this.md=n}mn.prototype.Token=P;const Wc=/\r\n?|\n/g,Jc=/\0/g;function Uc(e){let n;n=e.src.replace(Wc,`
+`),n=n.replace(Jc,"�"),e.src=n}function Hc(e){let n;e.inlineMode?(n=new e.Token("inline","",0),n.content=e.src,n.map=[0,1],n.children=[],e.tokens.push(n)):e.md.block.parse(e.src,e.md,e.env,e.tokens)}function Kc(e){const n=e.tokens;for(let i=0,t=n.length;i<t;i++){const a=n[i];a.type==="inline"&&e.md.inline.parse(a.content,e.md,e.env,a.children)}}function Vc(e){return/^<a[>\s]/i.test(e)}function Zc(e){return/^<\/a\s*>/i.test(e)}function $c(e){const n=e.tokens;if(e.md.options.linkify)for(let i=0,t=n.length;i<t;i++){if(n[i].type!=="inline"||!e.md.linkify.pretest(n[i].content))continue;let a=n[i].children,o=0;for(let r=a.length-1;r>=0;r--){const s=a[r];if(s.type==="link_close"){for(r--;a[r].level!==s.level&&a[r].type!=="link_open";)r--;continue}if(s.type==="html_inline"&&(Vc(s.content)&&o>0&&o--,Zc(s.content)&&o++),!(o>0)&&s.type==="text"&&e.md.linkify.test(s.content)){const c=s.content;let u=e.md.linkify.match(c);const l=[];let h=s.level,p=0;u.length>0&&u[0].index===0&&r>0&&a[r-1].type==="text_special"&&(u=u.slice(1));for(let m=0;m<u.length;m++){const d=u[m].url,A=e.md.normalizeLink(d);if(!e.md.validateLink(A))continue;let q=u[m].text;u[m].schema?u[m].schema==="mailto:"&&!/^mailto:/i.test(q)?q=e.md.normalizeLinkText("mailto:"+q).replace(/^mailto:/,""):q=e.md.normalizeLinkText(q):q=e.md.normalizeLinkText("http://"+q).replace(/^http:\/\//,"");const v=u[m].index;if(v>p){const y=new e.Token("text","",0);y.content=c.slice(p,v),y.level=h,l.push(y)}const b=new e.Token("link_open","a",1);b.attrs=[["href",A]],b.level=h++,b.markup="linkify",b.info="auto",l.push(b);const f=new e.Token("text","",0);f.content=q,f.level=h,l.push(f);const g=new e.Token("link_close","a",-1);g.level=--h,g.markup="linkify",g.info="auto",l.push(g),p=u[m].lastIndex}if(p<c.length){const m=new e.Token("text","",0);m.content=c.slice(p),m.level=h,l.push(m)}n[i].children=a=dn(a,r,l)}}}}const pn=/\+-|\.\.|\?\?\?\?|!!!!|,,|--/,Xc=/\((c|tm|r)\)/i,Yc=/\((c|tm|r)\)/ig,eu={c:"©",r:"®",tm:"™"};function nu(e,n){return eu[n.toLowerCase()]}function iu(e){let n=0;for(let i=e.length-1;i>=0;i--){const t=e[i];t.type==="text"&&!n&&(t.content=t.content.replace(Yc,nu)),t.type==="link_open"&&t.info==="auto"&&n--,t.type==="link_close"&&t.info==="auto"&&n++}}function tu(e){let n=0;for(let i=e.length-1;i>=0;i--){const t=e[i];t.type==="text"&&!n&&pn.test(t.content)&&(t.content=t.content.replace(/\+-/g,"±").replace(/\.{2,}/g,"…").replace(/([?!])…/g,"$1..").replace(/([?!]){4,}/g,"$1$1$1").replace(/,{2,}/g,",").replace(/(^|[^-])---(?=[^-]|$)/mg,"$1—").replace(/(^|\s)--(?=\s|$)/mg,"$1–").replace(/(^|[^-\s])--(?=[^-\s]|$)/mg,"$1–")),t.type==="link_open"&&t.info==="auto"&&n--,t.type==="link_close"&&t.info==="auto"&&n++}}function au(e){let n;if(e.md.options.typographer)for(n=e.tokens.length-1;n>=0;n--)e.tokens[n].type==="inline"&&(Xc.test(e.tokens[n].content)&&iu(e.tokens[n].children),pn.test(e.tokens[n].content)&&tu(e.tokens[n].children))}const ou=/['"]/,Ue=/['"]/g,He="’";function te(e,n,i){return e.slice(0,n)+i+e.slice(n+1)}function su(e,n){let i;const t=[];for(let a=0;a<e.length;a++){const o=e[a],r=e[a].level;for(i=t.length-1;i>=0&&!(t[i].level<=r);i--);if(t.length=i+1,o.type!=="text")continue;let s=o.content,c=0,u=s.length;e:for(;c<u;){Ue.lastIndex=c;const l=Ue.exec(s);if(!l)break;let h=!0,p=!0;c=l.index+1;const m=l[0]==="'";let d=32;if(l.index-1>=0)d=s.charCodeAt(l.index-1);else for(i=a-1;i>=0&&!(e[i].type==="softbreak"||e[i].type==="hardbreak");i--)if(e[i].content){d=e[i].content.charCodeAt(e[i].content.length-1);break}let A=32;if(c<u)A=s.charCodeAt(c);else for(i=a+1;i<e.length&&!(e[i].type==="softbreak"||e[i].type==="hardbreak");i++)if(e[i].content){A=e[i].content.charCodeAt(0);break}const q=X(d)||$(String.fromCharCode(d)),v=X(A)||$(String.fromCharCode(A)),b=Z(d),f=Z(A);if(f?h=!1:v&&(b||q||(h=!1)),b?p=!1:q&&(f||v||(p=!1)),A===34&&l[0]==='"'&&d>=48&&d<=57&&(p=h=!1),h&&p&&(h=q,p=v),!h&&!p){m&&(o.content=te(o.content,l.index,He));continue}if(p)for(i=t.length-1;i>=0;i--){let g=t[i];if(t[i].level<r)break;if(g.single===m&&t[i].level===r){g=t[i];let y,_;m?(y=n.md.options.quotes[2],_=n.md.options.quotes[3]):(y=n.md.options.quotes[0],_=n.md.options.quotes[1]),o.content=te(o.content,l.index,_),e[g.token].content=te(e[g.token].content,g.pos,y),c+=_.length-1,g.token===a&&(c+=y.length-1),s=o.content,u=s.length,t.length=i;continue e}}h?t.push({token:a,pos:l.index,single:m,level:r}):p&&m&&(o.content=te(o.content,l.index,He))}}}function ru(e){if(e.md.options.typographer)for(let n=e.tokens.length-1;n>=0;n--)e.tokens[n].type!=="inline"||!ou.test(e.tokens[n].content)||su(e.tokens[n].children,e)}function cu(e){let n,i;const t=e.tokens,a=t.length;for(let o=0;o<a;o++){if(t[o].type!=="inline")continue;const r=t[o].children,s=r.length;for(n=0;n<s;n++)r[n].type==="text_special"&&(r[n].type="text");for(n=i=0;n<s;n++)r[n].type==="text"&&n+1<s&&r[n+1].type==="text"?r[n+1].content=r[n].content+r[n+1].content:(n!==i&&(r[i]=r[n]),i++);n!==i&&(r.length=i)}}const ge=[["normalize",Uc],["block",Hc],["inline",Kc],["linkify",$c],["replacements",au],["smartquotes",ru],["text_join",cu]];function Pe(){this.ruler=new z;for(let e=0;e<ge.length;e++)this.ruler.push(ge[e][0],ge[e][1])}Pe.prototype.process=function(e){const n=this.ruler.getRules("");for(let i=0,t=n.length;i<t;i++)n[i](e)};Pe.prototype.State=mn;function M(e,n,i,t){this.src=e,this.md=n,this.env=i,this.tokens=t,this.bMarks=[],this.eMarks=[],this.tShift=[],this.sCount=[],this.bsCount=[],this.blkIndent=0,this.line=0,this.lineMax=0,this.tight=!1,this.ddIndent=-1,this.listIndent=-1,this.parentType="root",this.level=0;const a=this.src;for(let o=0,r=0,s=0,c=0,u=a.length,l=!1;r<u;r++){const h=a.charCodeAt(r);if(!l)if(x(h)){s++,h===9?c+=4-c%4:c++;continue}else l=!0;(h===10||r===u-1)&&(h!==10&&r++,this.bMarks.push(o),this.eMarks.push(r),this.tShift.push(s),this.sCount.push(c),this.bsCount.push(0),l=!1,s=0,c=0,o=r+1)}this.bMarks.push(a.length),this.eMarks.push(a.length),this.tShift.push(0),this.sCount.push(0),this.bsCount.push(0),this.lineMax=this.bMarks.length-1}M.prototype.push=function(e,n,i){const t=new P(e,n,i);return t.block=!0,i<0&&this.level--,t.level=this.level,i>0&&this.level++,this.tokens.push(t),t};M.prototype.isEmpty=function(n){return this.bMarks[n]+this.tShift[n]>=this.eMarks[n]};M.prototype.skipEmptyLines=function(n){for(let i=this.lineMax;n<i&&!(this.bMarks[n]+this.tShift[n]<this.eMarks[n]);n++);return n};M.prototype.skipSpaces=function(n){for(let i=this.src.length;n<i;n++){const t=this.src.charCodeAt(n);if(!x(t))break}return n};M.prototype.skipSpacesBack=function(n,i){if(n<=i)return n;for(;n>i;)if(!x(this.src.charCodeAt(--n)))return n+1;return n};M.prototype.skipChars=function(n,i){for(let t=this.src.length;n<t&&this.src.charCodeAt(n)===i;n++);return n};M.prototype.skipCharsBack=function(n,i,t){if(n<=t)return n;for(;n>t;)if(i!==this.src.charCodeAt(--n))return n+1;return n};M.prototype.getLines=function(n,i,t,a){if(n>=i)return"";const o=new Array(i-n);for(let r=0,s=n;s<i;s++,r++){let c=0;const u=this.bMarks[s];let l=u,h;for(s+1<i||a?h=this.eMarks[s]+1:h=this.eMarks[s];l<h&&c<t;){const p=this.src.charCodeAt(l);if(x(p))p===9?c+=4-(c+this.bsCount[s])%4:c++;else if(l-u<this.tShift[s])c++;else break;l++}c>t?o[r]=new Array(c-t+1).join(" ")+this.src.slice(l,h):o[r]=this.src.slice(l,h)}return o.join("")};M.prototype.Token=P;const uu=65536;function fe(e,n){const i=e.bMarks[n]+e.tShift[n],t=e.eMarks[n];return e.src.slice(i,t)}function Ke(e){const n=[],i=e.length;let t=0,a=e.charCodeAt(t),o=!1,r=0,s="";for(;t<i;)a===124&&(o?(s+=e.substring(r,t-1),r=t):(n.push(s+e.substring(r,t)),s="",r=t+1)),o=a===92,t++,a=e.charCodeAt(t);return n.push(s+e.substring(r)),n}function lu(e,n,i,t){if(n+2>i)return!1;let a=n+1;if(e.sCount[a]<e.blkIndent||e.sCount[a]-e.blkIndent>=4)return!1;let o=e.bMarks[a]+e.tShift[a];if(o>=e.eMarks[a])return!1;const r=e.src.charCodeAt(o++);if(r!==124&&r!==45&&r!==58||o>=e.eMarks[a])return!1;const s=e.src.charCodeAt(o++);if(s!==124&&s!==45&&s!==58&&!x(s)||r===45&&x(s))return!1;for(;o<e.eMarks[a];){const g=e.src.charCodeAt(o);if(g!==124&&g!==45&&g!==58&&!x(g))return!1;o++}let c=fe(e,n+1),u=c.split("|");const l=[];for(let g=0;g<u.length;g++){const y=u[g].trim();if(!y){if(g===0||g===u.length-1)continue;return!1}if(!/^:?-+:?$/.test(y))return!1;y.charCodeAt(y.length-1)===58?l.push(y.charCodeAt(0)===58?"center":"right"):y.charCodeAt(0)===58?l.push("left"):l.push("")}if(c=fe(e,n).trim(),c.indexOf("|")===-1||e.sCount[n]-e.blkIndent>=4)return!1;u=Ke(c),u.length&&u[0]===""&&u.shift(),u.length&&u[u.length-1]===""&&u.pop();const h=u.length;if(h===0||h!==l.length)return!1;if(t)return!0;const p=e.parentType;e.parentType="table";const m=e.md.block.ruler.getRules("blockquote"),d=e.push("table_open","table",1),A=[n,0];d.map=A;const q=e.push("thead_open","thead",1);q.map=[n,n+1];const v=e.push("tr_open","tr",1);v.map=[n,n+1];for(let g=0;g<u.length;g++){const y=e.push("th_open","th",1);l[g]&&(y.attrs=[["style","text-align:"+l[g]]]);const _=e.push("inline","",0);_.content=u[g].trim(),_.children=[],e.push("th_close","th",-1)}e.push("tr_close","tr",-1),e.push("thead_close","thead",-1);let b,f=0;for(a=n+2;a<i&&!(e.sCount[a]<e.blkIndent);a++){let g=!1;for(let _=0,S=m.length;_<S;_++)if(m[_](e,a,i,!0)){g=!0;break}if(g||(c=fe(e,a).trim(),!c)||e.sCount[a]-e.blkIndent>=4||(u=Ke(c),u.length&&u[0]===""&&u.shift(),u.length&&u[u.length-1]===""&&u.pop(),f+=h-u.length,f>uu))break;if(a===n+2){const _=e.push("tbody_open","tbody",1);_.map=b=[n+2,0]}const y=e.push("tr_open","tr",1);y.map=[a,a+1];for(let _=0;_<h;_++){const S=e.push("td_open","td",1);l[_]&&(S.attrs=[["style","text-align:"+l[_]]]);const w=e.push("inline","",0);w.content=u[_]?u[_].trim():"",w.children=[],e.push("td_close","td",-1)}e.push("tr_close","tr",-1)}return b&&(e.push("tbody_close","tbody",-1),b[1]=a),e.push("table_close","table",-1),A[1]=a,e.parentType=p,e.line=a,!0}function du(e,n,i){if(e.sCount[n]-e.blkIndent<4)return!1;let t=n+1,a=t;for(;t<i;){if(e.isEmpty(t)){t++;continue}if(e.sCount[t]-e.blkIndent>=4){t++,a=t;continue}break}e.line=a;const o=e.push("code_block","code",0);return o.content=e.getLines(n,a,4+e.blkIndent,!1)+`
+`,o.map=[n,e.line],!0}function hu(e,n,i,t){let a=e.bMarks[n]+e.tShift[n],o=e.eMarks[n];if(e.sCount[n]-e.blkIndent>=4||a+3>o)return!1;const r=e.src.charCodeAt(a);if(r!==126&&r!==96)return!1;let s=a;a=e.skipChars(a,r);let c=a-s;if(c<3)return!1;const u=e.src.slice(s,a),l=e.src.slice(a,o);if(r===96&&l.indexOf(String.fromCharCode(r))>=0)return!1;if(t)return!0;let h=n,p=!1;for(;h++,!(h>=i||(a=s=e.bMarks[h]+e.tShift[h],o=e.eMarks[h],a<o&&e.sCount[h]<e.blkIndent));)if(e.src.charCodeAt(a)===r&&!(e.sCount[h]-e.blkIndent>=4)&&(a=e.skipChars(a,r),!(a-s<c)&&(a=e.skipSpaces(a),!(a<o)))){p=!0;break}c=e.sCount[n],e.line=h+(p?1:0);const m=e.push("fence","code",0);return m.info=l,m.content=e.getLines(n+1,h,c,!0),m.markup=u,m.map=[n,e.line],!0}function mu(e,n,i,t){let a=e.bMarks[n]+e.tShift[n],o=e.eMarks[n];const r=e.lineMax;if(e.sCount[n]-e.blkIndent>=4||e.src.charCodeAt(a)!==62)return!1;if(t)return!0;const s=[],c=[],u=[],l=[],h=e.md.block.ruler.getRules("blockquote"),p=e.parentType;e.parentType="blockquote";let m=!1,d;for(d=n;d<i;d++){const f=e.sCount[d]<e.blkIndent;if(a=e.bMarks[d]+e.tShift[d],o=e.eMarks[d],a>=o)break;if(e.src.charCodeAt(a++)===62&&!f){let y=e.sCount[d]+1,_,S;e.src.charCodeAt(a)===32?(a++,y++,S=!1,_=!0):e.src.charCodeAt(a)===9?(_=!0,(e.bsCount[d]+y)%4===3?(a++,y++,S=!1):S=!0):_=!1;let w=y;for(s.push(e.bMarks[d]),e.bMarks[d]=a;a<o;){const I=e.src.charCodeAt(a);if(x(I))I===9?w+=4-(w+e.bsCount[d]+(S?1:0))%4:w++;else break;a++}m=a>=o,c.push(e.bsCount[d]),e.bsCount[d]=e.sCount[d]+1+(_?1:0),u.push(e.sCount[d]),e.sCount[d]=w-y,l.push(e.tShift[d]),e.tShift[d]=a-e.bMarks[d];continue}if(m)break;let g=!1;for(let y=0,_=h.length;y<_;y++)if(h[y](e,d,i,!0)){g=!0;break}if(g){e.lineMax=d,e.blkIndent!==0&&(s.push(e.bMarks[d]),c.push(e.bsCount[d]),l.push(e.tShift[d]),u.push(e.sCount[d]),e.sCount[d]-=e.blkIndent);break}s.push(e.bMarks[d]),c.push(e.bsCount[d]),l.push(e.tShift[d]),u.push(e.sCount[d]),e.sCount[d]=-1}const A=e.blkIndent;e.blkIndent=0;const q=e.push("blockquote_open","blockquote",1);q.markup=">";const v=[n,0];q.map=v,e.md.block.tokenize(e,n,d);const b=e.push("blockquote_close","blockquote",-1);b.markup=">",e.lineMax=r,e.parentType=p,v[1]=e.line;for(let f=0;f<l.length;f++)e.bMarks[f+n]=s[f],e.tShift[f+n]=l[f],e.sCount[f+n]=u[f],e.bsCount[f+n]=c[f];return e.blkIndent=A,!0}function pu(e,n,i,t){const a=e.eMarks[n];if(e.sCount[n]-e.blkIndent>=4)return!1;let o=e.bMarks[n]+e.tShift[n];const r=e.src.charCodeAt(o++);if(r!==42&&r!==45&&r!==95)return!1;let s=1;for(;o<a;){const u=e.src.charCodeAt(o++);if(u!==r&&!x(u))return!1;u===r&&s++}if(s<3)return!1;if(t)return!0;e.line=n+1;const c=e.push("hr","hr",0);return c.map=[n,e.line],c.markup=Array(s+1).join(String.fromCharCode(r)),!0}function Ve(e,n){const i=e.eMarks[n];let t=e.bMarks[n]+e.tShift[n];const a=e.src.charCodeAt(t++);if(a!==42&&a!==45&&a!==43)return-1;if(t<i){const o=e.src.charCodeAt(t);if(!x(o))return-1}return t}function Ze(e,n){const i=e.bMarks[n]+e.tShift[n],t=e.eMarks[n];let a=i;if(a+1>=t)return-1;let o=e.src.charCodeAt(a++);if(o<48||o>57)return-1;for(;;){if(a>=t)return-1;if(o=e.src.charCodeAt(a++),o>=48&&o<=57){if(a-i>=10)return-1;continue}if(o===41||o===46)break;return-1}return a<t&&(o=e.src.charCodeAt(a),!x(o))?-1:a}function bu(e,n){const i=e.level+2;for(let t=n+2,a=e.tokens.length-2;t<a;t++)e.tokens[t].level===i&&e.tokens[t].type==="paragraph_open"&&(e.tokens[t+2].hidden=!0,e.tokens[t].hidden=!0,t+=2)}function gu(e,n,i,t){let a,o,r,s,c=n,u=!0;if(e.sCount[c]-e.blkIndent>=4||e.listIndent>=0&&e.sCount[c]-e.listIndent>=4&&e.sCount[c]<e.blkIndent)return!1;let l=!1;t&&e.parentType==="paragraph"&&e.sCount[c]>=e.blkIndent&&(l=!0);let h,p,m;if((m=Ze(e,c))>=0){if(h=!0,r=e.bMarks[c]+e.tShift[c],p=Number(e.src.slice(r,m-1)),l&&p!==1)return!1}else if((m=Ve(e,c))>=0)h=!1;else return!1;if(l&&e.skipSpaces(m)>=e.eMarks[c])return!1;if(t)return!0;const d=e.src.charCodeAt(m-1),A=e.tokens.length;h?(s=e.push("ordered_list_open","ol",1),p!==1&&(s.attrs=[["start",p]])):s=e.push("bullet_list_open","ul",1);const q=[c,0];s.map=q,s.markup=String.fromCharCode(d);let v=!1;const b=e.md.block.ruler.getRules("list"),f=e.parentType;for(e.parentType="list";c<i;){o=m,a=e.eMarks[c];const g=e.sCount[c]+m-(e.bMarks[c]+e.tShift[c]);let y=g;for(;o<a;){const G=e.src.charCodeAt(o);if(G===9)y+=4-(y+e.bsCount[c])%4;else if(G===32)y++;else break;o++}const _=o;let S;_>=a?S=1:S=y-g,S>4&&(S=1);const w=g+S;s=e.push("list_item_open","li",1),s.markup=String.fromCharCode(d);const I=[c,0];s.map=I,h&&(s.info=e.src.slice(r,m-1));const V=e.tight,me=e.tShift[c],Dn=e.sCount[c],wn=e.listIndent;if(e.listIndent=e.blkIndent,e.blkIndent=w,e.tight=!0,e.tShift[c]=_-e.bMarks[c],e.sCount[c]=y,_>=a&&e.isEmpty(c+1)?e.line=Math.min(e.line+2,i):e.md.block.tokenize(e,c,i,!0),(!e.tight||v)&&(u=!1),v=e.line-c>1&&e.isEmpty(e.line-1),e.blkIndent=e.listIndent,e.listIndent=wn,e.tShift[c]=me,e.sCount[c]=Dn,e.tight=V,s=e.push("list_item_close","li",-1),s.markup=String.fromCharCode(d),c=e.line,I[1]=c,c>=i||e.sCount[c]<e.blkIndent||e.sCount[c]-e.blkIndent>=4)break;let Me=!1;for(let G=0,Pn=b.length;G<Pn;G++)if(b[G](e,c,i,!0)){Me=!0;break}if(Me)break;if(h){if(m=Ze(e,c),m<0)break;r=e.bMarks[c]+e.tShift[c]}else if(m=Ve(e,c),m<0)break;if(d!==e.src.charCodeAt(m-1))break}return h?s=e.push("ordered_list_close","ol",-1):s=e.push("bullet_list_close","ul",-1),s.markup=String.fromCharCode(d),q[1]=c,e.line=c,e.parentType=f,u&&bu(e,A),!0}function fu(e,n,i,t){let a=e.bMarks[n]+e.tShift[n],o=e.eMarks[n],r=n+1;if(e.sCount[n]-e.blkIndent>=4||e.src.charCodeAt(a)!==91)return!1;function s(b){const f=e.lineMax;if(b>=f||e.isEmpty(b))return null;let g=!1;if(e.sCount[b]-e.blkIndent>3&&(g=!0),e.sCount[b]<0&&(g=!0),!g){const S=e.md.block.ruler.getRules("reference"),w=e.parentType;e.parentType="reference";let I=!1;for(let V=0,me=S.length;V<me;V++)if(S[V](e,b,f,!0)){I=!0;break}if(e.parentType=w,I)return null}const y=e.bMarks[b]+e.tShift[b],_=e.eMarks[b];return e.src.slice(y,_+1)}let c=e.src.slice(a,o+1);o=c.length;let u=-1;for(a=1;a<o;a++){const b=c.charCodeAt(a);if(b===91)return!1;if(b===93){u=a;break}else if(b===10){const f=s(r);f!==null&&(c+=f,o=c.length,r++)}else if(b===92&&(a++,a<o&&c.charCodeAt(a)===10)){const f=s(r);f!==null&&(c+=f,o=c.length,r++)}}if(u<0||c.charCodeAt(u+1)!==58)return!1;for(a=u+2;a<o;a++){const b=c.charCodeAt(a);if(b===10){const f=s(r);f!==null&&(c+=f,o=c.length,r++)}else if(!x(b))break}const l=e.md.helpers.parseLinkDestination(c,a,o);if(!l.ok)return!1;const h=e.md.normalizeLink(l.str);if(!e.md.validateLink(h))return!1;a=l.pos;const p=a,m=r,d=a;for(;a<o;a++){const b=c.charCodeAt(a);if(b===10){const f=s(r);f!==null&&(c+=f,o=c.length,r++)}else if(!x(b))break}let A=e.md.helpers.parseLinkTitle(c,a,o);for(;A.can_continue;){const b=s(r);if(b===null)break;c+=b,a=o,o=c.length,r++,A=e.md.helpers.parseLinkTitle(c,a,o,A)}let q;for(a<o&&d!==a&&A.ok?(q=A.str,a=A.pos):(q="",a=p,r=m);a<o;){const b=c.charCodeAt(a);if(!x(b))break;a++}if(a<o&&c.charCodeAt(a)!==10&&q)for(q="",a=p,r=m;a<o;){const b=c.charCodeAt(a);if(!x(b))break;a++}if(a<o&&c.charCodeAt(a)!==10)return!1;const v=le(c.slice(1,u));return v?(t||(typeof e.env.references>"u"&&(e.env.references={}),typeof e.env.references[v]>"u"&&(e.env.references[v]={title:q,href:h}),e.line=r),!0):!1}const yu=["address","article","aside","base","basefont","blockquote","body","caption","center","col","colgroup","dd","details","dialog","dir","div","dl","dt","fieldset","figcaption","figure","footer","form","frame","frameset","h1","h2","h3","h4","h5","h6","head","header","hr","html","iframe","legend","li","link","main","menu","menuitem","nav","noframes","ol","optgroup","option","p","param","search","section","summary","table","tbody","td","tfoot","th","thead","title","tr","track","ul"],Au="[a-zA-Z_:][a-zA-Z0-9:._-]*",qu="[^\"'=<>`\\x00-\\x20]+",_u="'[^']*'",vu='"[^"]*"',Cu="(?:"+qu+"|"+_u+"|"+vu+")",xu="(?:\\s+"+Au+"(?:\\s*=\\s*"+Cu+")?)",bn="<[A-Za-z][A-Za-z0-9\\-]*"+xu+"*\\s*\\/?>",gn="<\\/[A-Za-z][A-Za-z0-9\\-]*\\s*>",ku="<!---?>|<!--(?:[^-]|-[^-]|--[^>])*-->",Eu="<[?][\\s\\S]*?[?]>",Su="<![A-Za-z][^>]*>",zu="<!\\[CDATA\\[[\\s\\S]*?\\]\\]>",Lu=new RegExp("^(?:"+bn+"|"+gn+"|"+ku+"|"+Eu+"|"+Su+"|"+zu+")"),Du=new RegExp("^(?:"+bn+"|"+gn+")"),W=[[/^<(script|pre|style|textarea)(?=(\s|>|$))/i,/<\/(script|pre|style|textarea)>/i,!0],[/^<!--/,/-->/,!0],[/^<\?/,/\?>/,!0],[/^<![A-Z]/,/>/,!0],[/^<!\[CDATA\[/,/\]\]>/,!0],[new RegExp("^</?("+yu.join("|")+")(?=(\\s|/?>|$))","i"),/^$/,!0],[new RegExp(Du.source+"\\s*$"),/^$/,!1]];function wu(e,n,i,t){let a=e.bMarks[n]+e.tShift[n],o=e.eMarks[n];if(e.sCount[n]-e.blkIndent>=4||!e.md.options.html||e.src.charCodeAt(a)!==60)return!1;let r=e.src.slice(a,o),s=0;for(;s<W.length&&!W[s][0].test(r);s++);if(s===W.length)return!1;if(t)return W[s][2];let c=n+1;if(!W[s][1].test(r)){for(;c<i&&!(e.sCount[c]<e.blkIndent);c++)if(a=e.bMarks[c]+e.tShift[c],o=e.eMarks[c],r=e.src.slice(a,o),W[s][1].test(r)){r.length!==0&&c++;break}}e.line=c;const u=e.push("html_block","",0);return u.map=[n,c],u.content=e.getLines(n,c,e.blkIndent,!0),!0}function Pu(e,n,i,t){let a=e.bMarks[n]+e.tShift[n],o=e.eMarks[n];if(e.sCount[n]-e.blkIndent>=4)return!1;let r=e.src.charCodeAt(a);if(r!==35||a>=o)return!1;let s=1;for(r=e.src.charCodeAt(++a);r===35&&a<o&&s<=6;)s++,r=e.src.charCodeAt(++a);if(s>6||a<o&&!x(r))return!1;if(t)return!0;o=e.skipSpacesBack(o,a);const c=e.skipCharsBack(o,35,a);c>a&&x(e.src.charCodeAt(c-1))&&(o=c),e.line=n+1;const u=e.push("heading_open","h"+String(s),1);u.markup="########".slice(0,s),u.map=[n,e.line];const l=e.push("inline","",0);l.content=e.src.slice(a,o).trim(),l.map=[n,e.line],l.children=[];const h=e.push("heading_close","h"+String(s),-1);return h.markup="########".slice(0,s),!0}function Tu(e,n,i){const t=e.md.block.ruler.getRules("paragraph");if(e.sCount[n]-e.blkIndent>=4)return!1;const a=e.parentType;e.parentType="paragraph";let o=0,r,s=n+1;for(;s<i&&!e.isEmpty(s);s++){if(e.sCount[s]-e.blkIndent>3)continue;if(e.sCount[s]>=e.blkIndent){let m=e.bMarks[s]+e.tShift[s];const d=e.eMarks[s];if(m<d&&(r=e.src.charCodeAt(m),(r===45||r===61)&&(m=e.skipChars(m,r),m=e.skipSpaces(m),m>=d))){o=r===61?1:2;break}}if(e.sCount[s]<0)continue;let p=!1;for(let m=0,d=t.length;m<d;m++)if(t[m](e,s,i,!0)){p=!0;break}if(p)break}if(!o)return!1;const c=e.getLines(n,s,e.blkIndent,!1).trim();e.line=s+1;const u=e.push("heading_open","h"+String(o),1);u.markup=String.fromCharCode(r),u.map=[n,e.line];const l=e.push("inline","",0);l.content=c,l.map=[n,e.line-1],l.children=[];const h=e.push("heading_close","h"+String(o),-1);return h.markup=String.fromCharCode(r),e.parentType=a,!0}function Fu(e,n,i){const t=e.md.block.ruler.getRules("paragraph"),a=e.parentType;let o=n+1;for(e.parentType="paragraph";o<i&&!e.isEmpty(o);o++){if(e.sCount[o]-e.blkIndent>3||e.sCount[o]<0)continue;let u=!1;for(let l=0,h=t.length;l<h;l++)if(t[l](e,o,i,!0)){u=!0;break}if(u)break}const r=e.getLines(n,o,e.blkIndent,!1).trim();e.line=o;const s=e.push("paragraph_open","p",1);s.map=[n,e.line];const c=e.push("inline","",0);return c.content=r,c.map=[n,e.line],c.children=[],e.push("paragraph_close","p",-1),e.parentType=a,!0}const ae=[["table",lu,["paragraph","reference"]],["code",du],["fence",hu,["paragraph","reference","blockquote","list"]],["blockquote",mu,["paragraph","reference","blockquote","list"]],["hr",pu,["paragraph","reference","blockquote","list"]],["list",gu,["paragraph","reference","blockquote"]],["reference",fu],["html_block",wu,["paragraph","reference","blockquote"]],["heading",Pu,["paragraph","reference","blockquote"]],["lheading",Tu],["paragraph",Fu]];function de(){this.ruler=new z;for(let e=0;e<ae.length;e++)this.ruler.push(ae[e][0],ae[e][1],{alt:(ae[e][2]||[]).slice()})}de.prototype.tokenize=function(e,n,i){const t=this.ruler.getRules(""),a=t.length,o=e.md.options.maxNesting;let r=n,s=!1;for(;r<i&&(e.line=r=e.skipEmptyLines(r),!(r>=i||e.sCount[r]<e.blkIndent));){if(e.level>=o){e.line=i;break}const c=e.line;let u=!1;for(let l=0;l<a;l++)if(u=t[l](e,r,i,!1),u){if(c>=e.line)throw new Error("block rule didn't increment state.line");break}if(!u)throw new Error("none of the block rules matched");e.tight=!s,e.isEmpty(e.line-1)&&(s=!0),r=e.line,r<i&&e.isEmpty(r)&&(s=!0,r++,e.line=r)}};de.prototype.parse=function(e,n,i,t){if(!e)return;const a=new this.State(e,n,i,t);this.tokenize(a,a.line,a.lineMax)};de.prototype.State=M;function ne(e,n,i,t){this.src=e,this.env=i,this.md=n,this.tokens=t,this.tokens_meta=Array(t.length),this.pos=0,this.posMax=this.src.length,this.level=0,this.pending="",this.pendingLevel=0,this.cache={},this.delimiters=[],this._prev_delimiters=[],this.backticks={},this.backticksScanned=!1,this.linkLevel=0}ne.prototype.pushPending=function(){const e=new P("text","",0);return e.content=this.pending,e.level=this.pendingLevel,this.tokens.push(e),this.pending="",e};ne.prototype.push=function(e,n,i){this.pending&&this.pushPending();const t=new P(e,n,i);let a=null;return i<0&&(this.level--,this.delimiters=this._prev_delimiters.pop()),t.level=this.level,i>0&&(this.level++,this._prev_delimiters.push(this.delimiters),this.delimiters=[],a={delimiters:this.delimiters}),this.pendingLevel=this.level,this.tokens.push(t),this.tokens_meta.push(a),t};ne.prototype.scanDelims=function(e,n){const i=this.posMax,t=this.src.charCodeAt(e),a=e>0?this.src.charCodeAt(e-1):32;let o=e;for(;o<i&&this.src.charCodeAt(o)===t;)o++;const r=o-e,s=o<i?this.src.charCodeAt(o):32,c=X(a)||$(String.fromCharCode(a)),u=X(s)||$(String.fromCharCode(s)),l=Z(a),h=Z(s),p=!h&&(!u||l||c),m=!l&&(!c||h||u);return{can_open:p&&(n||!m||c),can_close:m&&(n||!p||u),length:r}};ne.prototype.Token=P;function Ru(e){switch(e){case 10:case 33:case 35:case 36:case 37:case 38:case 42:case 43:case 45:case 58:case 60:case 61:case 62:case 64:case 91:case 92:case 93:case 94:case 95:case 96:case 123:case 125:case 126:return!0;default:return!1}}function Mu(e,n){let i=e.pos;for(;i<e.posMax&&!Ru(e.src.charCodeAt(i));)i++;return i===e.pos?!1:(n||(e.pending+=e.src.slice(e.pos,i)),e.pos=i,!0)}const Iu=/(?:^|[^a-z0-9.+-])([a-z][a-z0-9.+-]*)$/i;function ju(e,n){if(!e.md.options.linkify||e.linkLevel>0)return!1;const i=e.pos,t=e.posMax;if(i+3>t||e.src.charCodeAt(i)!==58||e.src.charCodeAt(i+1)!==47||e.src.charCodeAt(i+2)!==47)return!1;const a=e.pending.match(Iu);if(!a)return!1;const o=a[1],r=e.md.linkify.matchAtStart(e.src.slice(i-o.length));if(!r)return!1;let s=r.url;if(s.length<=o.length)return!1;let c=s.length;for(;c>0&&s.charCodeAt(c-1)===42;)c--;c!==s.length&&(s=s.slice(0,c));const u=e.md.normalizeLink(s);if(!e.md.validateLink(u))return!1;if(!n){e.pending=e.pending.slice(0,-o.length);const l=e.push("link_open","a",1);l.attrs=[["href",u]],l.markup="linkify",l.info="auto";const h=e.push("text","",0);h.content=e.md.normalizeLinkText(s);const p=e.push("link_close","a",-1);p.markup="linkify",p.info="auto"}return e.pos+=s.length-o.length,!0}function Bu(e,n){let i=e.pos;if(e.src.charCodeAt(i)!==10)return!1;const t=e.pending.length-1,a=e.posMax;if(!n)if(t>=0&&e.pending.charCodeAt(t)===32)if(t>=1&&e.pending.charCodeAt(t-1)===32){let o=t-1;for(;o>=1&&e.pending.charCodeAt(o-1)===32;)o--;e.pending=e.pending.slice(0,o),e.push("hardbreak","br",0)}else e.pending=e.pending.slice(0,-1),e.push("softbreak","br",0);else e.push("softbreak","br",0);for(i++;i<a&&x(e.src.charCodeAt(i));)i++;return e.pos=i,!0}const Te=[];for(let e=0;e<256;e++)Te.push(0);"\\!\"#$%&'()*+,./:;<=>?@[]^_`{|}~-".split("").forEach(function(e){Te[e.charCodeAt(0)]=1});function Qu(e,n){let i=e.pos;const t=e.posMax;if(e.src.charCodeAt(i)!==92||(i++,i>=t))return!1;let a=e.src.charCodeAt(i);if(a===10){for(n||e.push("hardbreak","br",0),i++;i<t&&(a=e.src.charCodeAt(i),!!x(a));)i++;return e.pos=i,!0}let o=e.src[i];if(a>=55296&&a<=56319&&i+1<t){const s=e.src.charCodeAt(i+1);s>=56320&&s<=57343&&(o+=e.src[i+1],i++)}const r="\\"+o;if(!n){const s=e.push("text_special","",0);a<256&&Te[a]!==0?s.content=o:s.content=r,s.markup=r,s.info="escape"}return e.pos=i+1,!0}function Nu(e,n){let i=e.pos;if(e.src.charCodeAt(i)!==96)return!1;const a=i;i++;const o=e.posMax;for(;i<o&&e.src.charCodeAt(i)===96;)i++;const r=e.src.slice(a,i),s=r.length;if(e.backticksScanned&&(e.backticks[s]||0)<=a)return n||(e.pending+=r),e.pos+=s,!0;let c=i,u;for(;(u=e.src.indexOf("`",c))!==-1;){for(c=u+1;c<o&&e.src.charCodeAt(c)===96;)c++;const l=c-u;if(l===s){if(!n){const h=e.push("code_inline","code",0);h.markup=r,h.content=e.src.slice(i,u).replace(/\n/g," ").replace(/^ (.+) $/,"$1")}return e.pos=c,!0}e.backticks[l]=u}return e.backticksScanned=!0,n||(e.pending+=r),e.pos+=s,!0}function Ou(e,n){const i=e.pos,t=e.src.charCodeAt(i);if(n||t!==126)return!1;const a=e.scanDelims(e.pos,!0);let o=a.length;const r=String.fromCharCode(t);if(o<2)return!1;let s;o%2&&(s=e.push("text","",0),s.content=r,o--);for(let c=0;c<o;c+=2)s=e.push("text","",0),s.content=r+r,e.delimiters.push({marker:t,length:0,token:e.tokens.length-1,end:-1,open:a.can_open,close:a.can_close});return e.pos+=a.length,!0}function $e(e,n){let i;const t=[],a=n.length;for(let o=0;o<a;o++){const r=n[o];if(r.marker!==126||r.end===-1)continue;const s=n[r.end];i=e.tokens[r.token],i.type="s_open",i.tag="s",i.nesting=1,i.markup="~~",i.content="",i=e.tokens[s.token],i.type="s_close",i.tag="s",i.nesting=-1,i.markup="~~",i.content="",e.tokens[s.token-1].type==="text"&&e.tokens[s.token-1].content==="~"&&t.push(s.token-1)}for(;t.length;){const o=t.pop();let r=o+1;for(;r<e.tokens.length&&e.tokens[r].type==="s_close";)r++;r--,o!==r&&(i=e.tokens[r],e.tokens[r]=e.tokens[o],e.tokens[o]=i)}}function Gu(e){const n=e.tokens_meta,i=e.tokens_meta.length;$e(e,e.delimiters);for(let t=0;t<i;t++)n[t]&&n[t].delimiters&&$e(e,n[t].delimiters)}const fn={tokenize:Ou,postProcess:Gu};function Wu(e,n){const i=e.pos,t=e.src.charCodeAt(i);if(n||t!==95&&t!==42)return!1;const a=e.scanDelims(e.pos,t===42);for(let o=0;o<a.length;o++){const r=e.push("text","",0);r.content=String.fromCharCode(t),e.delimiters.push({marker:t,length:a.length,token:e.tokens.length-1,end:-1,open:a.can_open,close:a.can_close})}return e.pos+=a.length,!0}function Xe(e,n){const i=n.length;for(let t=i-1;t>=0;t--){const a=n[t];if(a.marker!==95&&a.marker!==42||a.end===-1)continue;const o=n[a.end],r=t>0&&n[t-1].end===a.end+1&&n[t-1].marker===a.marker&&n[t-1].token===a.token-1&&n[a.end+1].token===o.token+1,s=String.fromCharCode(a.marker),c=e.tokens[a.token];c.type=r?"strong_open":"em_open",c.tag=r?"strong":"em",c.nesting=1,c.markup=r?s+s:s,c.content="";const u=e.tokens[o.token];u.type=r?"strong_close":"em_close",u.tag=r?"strong":"em",u.nesting=-1,u.markup=r?s+s:s,u.content="",r&&(e.tokens[n[t-1].token].content="",e.tokens[n[a.end+1].token].content="",t--)}}function Ju(e){const n=e.tokens_meta,i=e.tokens_meta.length;Xe(e,e.delimiters);for(let t=0;t<i;t++)n[t]&&n[t].delimiters&&Xe(e,n[t].delimiters)}const yn={tokenize:Wu,postProcess:Ju};function Uu(e,n){let i,t,a,o,r="",s="",c=e.pos,u=!0;if(e.src.charCodeAt(e.pos)!==91)return!1;const l=e.pos,h=e.posMax,p=e.pos+1,m=e.md.helpers.parseLinkLabel(e,e.pos,!0);if(m<0)return!1;let d=m+1;if(d<h&&e.src.charCodeAt(d)===40){for(u=!1,d++;d<h&&(i=e.src.charCodeAt(d),!(!x(i)&&i!==10));d++);if(d>=h)return!1;if(c=d,a=e.md.helpers.parseLinkDestination(e.src,d,e.posMax),a.ok){for(r=e.md.normalizeLink(a.str),e.md.validateLink(r)?d=a.pos:r="",c=d;d<h&&(i=e.src.charCodeAt(d),!(!x(i)&&i!==10));d++);if(a=e.md.helpers.parseLinkTitle(e.src,d,e.posMax),d<h&&c!==d&&a.ok)for(s=a.str,d=a.pos;d<h&&(i=e.src.charCodeAt(d),!(!x(i)&&i!==10));d++);}(d>=h||e.src.charCodeAt(d)!==41)&&(u=!0),d++}if(u){if(typeof e.env.references>"u")return!1;if(d<h&&e.src.charCodeAt(d)===91?(c=d+1,d=e.md.helpers.parseLinkLabel(e,d),d>=0?t=e.src.slice(c,d++):d=m+1):d=m+1,t||(t=e.src.slice(p,m)),o=e.env.references[le(t)],!o)return e.pos=l,!1;r=o.href,s=o.title}if(!n){e.pos=p,e.posMax=m;const A=e.push("link_open","a",1),q=[["href",r]];A.attrs=q,s&&q.push(["title",s]),e.linkLevel++,e.md.inline.tokenize(e),e.linkLevel--,e.push("link_close","a",-1)}return e.pos=d,e.posMax=h,!0}function Hu(e,n){let i,t,a,o,r,s,c,u,l="";const h=e.pos,p=e.posMax;if(e.src.charCodeAt(e.pos)!==33||e.src.charCodeAt(e.pos+1)!==91)return!1;const m=e.pos+2,d=e.md.helpers.parseLinkLabel(e,e.pos+1,!1);if(d<0)return!1;if(o=d+1,o<p&&e.src.charCodeAt(o)===40){for(o++;o<p&&(i=e.src.charCodeAt(o),!(!x(i)&&i!==10));o++);if(o>=p)return!1;for(u=o,s=e.md.helpers.parseLinkDestination(e.src,o,e.posMax),s.ok&&(l=e.md.normalizeLink(s.str),e.md.validateLink(l)?o=s.pos:l=""),u=o;o<p&&(i=e.src.charCodeAt(o),!(!x(i)&&i!==10));o++);if(s=e.md.helpers.parseLinkTitle(e.src,o,e.posMax),o<p&&u!==o&&s.ok)for(c=s.str,o=s.pos;o<p&&(i=e.src.charCodeAt(o),!(!x(i)&&i!==10));o++);else c="";if(o>=p||e.src.charCodeAt(o)!==41)return e.pos=h,!1;o++}else{if(typeof e.env.references>"u")return!1;if(o<p&&e.src.charCodeAt(o)===91?(u=o+1,o=e.md.helpers.parseLinkLabel(e,o),o>=0?a=e.src.slice(u,o++):o=d+1):o=d+1,a||(a=e.src.slice(m,d)),r=e.env.references[le(a)],!r)return e.pos=h,!1;l=r.href,c=r.title}if(!n){t=e.src.slice(m,d);const A=[];e.md.inline.parse(t,e.md,e.env,A);const q=e.push("image","img",0),v=[["src",l],["alt",""]];q.attrs=v,q.children=A,q.content=t,c&&v.push(["title",c])}return e.pos=o,e.posMax=p,!0}const Ku=/^([a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*)$/,Vu=/^([a-zA-Z][a-zA-Z0-9+.-]{1,31}):([^<>\x00-\x20]*)$/;function Zu(e,n){let i=e.pos;if(e.src.charCodeAt(i)!==60)return!1;const t=e.pos,a=e.posMax;for(;;){if(++i>=a)return!1;const r=e.src.charCodeAt(i);if(r===60)return!1;if(r===62)break}const o=e.src.slice(t+1,i);if(Vu.test(o)){const r=e.md.normalizeLink(o);if(!e.md.validateLink(r))return!1;if(!n){const s=e.push("link_open","a",1);s.attrs=[["href",r]],s.markup="autolink",s.info="auto";const c=e.push("text","",0);c.content=e.md.normalizeLinkText(o);const u=e.push("link_close","a",-1);u.markup="autolink",u.info="auto"}return e.pos+=o.length+2,!0}if(Ku.test(o)){const r=e.md.normalizeLink("mailto:"+o);if(!e.md.validateLink(r))return!1;if(!n){const s=e.push("link_open","a",1);s.attrs=[["href",r]],s.markup="autolink",s.info="auto";const c=e.push("text","",0);c.content=e.md.normalizeLinkText(o);const u=e.push("link_close","a",-1);u.markup="autolink",u.info="auto"}return e.pos+=o.length+2,!0}return!1}function $u(e){return/^<a[>\s]/i.test(e)}function Xu(e){return/^<\/a\s*>/i.test(e)}function Yu(e){const n=e|32;return n>=97&&n<=122}function el(e,n){if(!e.md.options.html)return!1;const i=e.posMax,t=e.pos;if(e.src.charCodeAt(t)!==60||t+2>=i)return!1;const a=e.src.charCodeAt(t+1);if(a!==33&&a!==63&&a!==47&&!Yu(a))return!1;const o=e.src.slice(t).match(Lu);if(!o)return!1;if(!n){const r=e.push("html_inline","",0);r.content=o[0],$u(r.content)&&e.linkLevel++,Xu(r.content)&&e.linkLevel--}return e.pos+=o[0].length,!0}const nl=/^&#((?:x[a-f0-9]{1,6}|[0-9]{1,7}));/i,il=/^&([a-z][a-z0-9]{1,31});/i;function tl(e,n){const i=e.pos,t=e.posMax;if(e.src.charCodeAt(i)!==38||i+1>=t)return!1;if(e.src.charCodeAt(i+1)===35){const o=e.src.slice(i).match(nl);if(o){if(!n){const r=o[1][0].toLowerCase()==="x"?parseInt(o[1].slice(1),16):parseInt(o[1],10),s=e.push("text_special","",0);s.content=we(r)?se(r):se(65533),s.markup=o[0],s.info="entity"}return e.pos+=o[0].length,!0}}else{const o=e.src.slice(i).match(il);if(o){const r=ln(o[0]);if(r!==o[0]){if(!n){const s=e.push("text_special","",0);s.content=r,s.markup=o[0],s.info="entity"}return e.pos+=o[0].length,!0}}}return!1}function Ye(e){const n={},i=e.length;if(!i)return;let t=0,a=-2;const o=[];for(let r=0;r<i;r++){const s=e[r];if(o.push(0),(e[t].marker!==s.marker||a!==s.token-1)&&(t=r),a=s.token,s.length=s.length||0,!s.close)continue;n.hasOwnProperty(s.marker)||(n[s.marker]=[-1,-1,-1,-1,-1,-1]);const c=n[s.marker][(s.open?3:0)+s.length%3];let u=t-o[t]-1,l=u;for(;u>c;u-=o[u]+1){const h=e[u];if(h.marker===s.marker&&h.open&&h.end<0){let p=!1;if((h.close||s.open)&&(h.length+s.length)%3===0&&(h.length%3!==0||s.length%3!==0)&&(p=!0),!p){const m=u>0&&!e[u-1].open?o[u-1]+1:0;o[r]=r-u+m,o[u]=m,s.open=!1,h.end=r,h.close=!1,l=-1,a=-2;break}}}l!==-1&&(n[s.marker][(s.open?3:0)+(s.length||0)%3]=l)}}function al(e){const n=e.tokens_meta,i=e.tokens_meta.length;Ye(e.delimiters);for(let t=0;t<i;t++)n[t]&&n[t].delimiters&&Ye(n[t].delimiters)}function ol(e){let n,i,t=0;const a=e.tokens,o=e.tokens.length;for(n=i=0;n<o;n++)a[n].nesting<0&&t--,a[n].level=t,a[n].nesting>0&&t++,a[n].type==="text"&&n+1<o&&a[n+1].type==="text"?a[n+1].content=a[n].content+a[n+1].content:(n!==i&&(a[i]=a[n]),i++);n!==i&&(a.length=i)}const ye=[["text",Mu],["linkify",ju],["newline",Bu],["escape",Qu],["backticks",Nu],["strikethrough",fn.tokenize],["emphasis",yn.tokenize],["link",Uu],["image",Hu],["autolink",Zu],["html_inline",el],["entity",tl]],Ae=[["balance_pairs",al],["strikethrough",fn.postProcess],["emphasis",yn.postProcess],["fragments_join",ol]];function ie(){this.ruler=new z;for(let e=0;e<ye.length;e++)this.ruler.push(ye[e][0],ye[e][1]);this.ruler2=new z;for(let e=0;e<Ae.length;e++)this.ruler2.push(Ae[e][0],Ae[e][1])}ie.prototype.skipToken=function(e){const n=e.pos,i=this.ruler.getRules(""),t=i.length,a=e.md.options.maxNesting,o=e.cache;if(typeof o[n]<"u"){e.pos=o[n];return}let r=!1;if(e.level<a){for(let s=0;s<t;s++)if(e.level++,r=i[s](e,!0),e.level--,r){if(n>=e.pos)throw new Error("inline rule didn't increment state.pos");break}}else e.pos=e.posMax;r||e.pos++,o[n]=e.pos};ie.prototype.tokenize=function(e){const n=this.ruler.getRules(""),i=n.length,t=e.posMax,a=e.md.options.maxNesting;for(;e.pos<t;){const o=e.pos;let r=!1;if(e.level<a){for(let s=0;s<i;s++)if(r=n[s](e,!1),r){if(o>=e.pos)throw new Error("inline rule didn't increment state.pos");break}}if(r){if(e.pos>=t)break;continue}e.pending+=e.src[e.pos++]}e.pending&&e.pushPending()};ie.prototype.parse=function(e,n,i,t){const a=new this.State(e,n,i,t);this.tokenize(a);const o=this.ruler2.getRules(""),r=o.length;for(let s=0;s<r;s++)o[s](a)};ie.prototype.State=ne;function sl(e){const n={};e=e||{},n.src_Any=on.source,n.src_Cc=sn.source,n.src_Z=cn.source,n.src_P=Le.source,n.src_ZPCc=[n.src_Z,n.src_P,n.src_Cc].join("|"),n.src_ZCc=[n.src_Z,n.src_Cc].join("|");const i="[><｜]";return n.src_pseudo_letter="(?:(?!"+i+"|"+n.src_ZPCc+")"+n.src_Any+")",n.src_ip4="(?:(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)",n.src_auth="(?:(?:(?!"+n.src_ZCc+"|[@/\\[\\]()]).)+@)?",n.src_port="(?::(?:6(?:[0-4]\\d{3}|5(?:[0-4]\\d{2}|5(?:[0-2]\\d|3[0-5])))|[1-5]?\\d{1,4}))?",n.src_host_terminator="(?=$|"+i+"|"+n.src_ZPCc+")(?!"+(e["---"]?"-(?!--)|":"-|")+"_|:\\d|\\.-|\\.(?!$|"+n.src_ZPCc+"))",n.src_path="(?:[/?#](?:(?!"+n.src_ZCc+"|"+i+`|[()[\\]{}.,"'?!\\-;]).|\\[(?:(?!`+n.src_ZCc+"|\\]).)*\\]|\\((?:(?!"+n.src_ZCc+"|[)]).)*\\)|\\{(?:(?!"+n.src_ZCc+'|[}]).)*\\}|\\"(?:(?!'+n.src_ZCc+`|["]).)+\\"|\\'(?:(?!`+n.src_ZCc+"|[']).)+\\'|\\'(?="+n.src_pseudo_letter+"|[-])|\\.{2,}[a-zA-Z0-9%/&]|\\.(?!"+n.src_ZCc+"|[.]|$)|"+(e["---"]?"\\-(?!--(?:[^-]|$))(?:-*)|":"\\-+|")+",(?!"+n.src_ZCc+"|$)|;(?!"+n.src_ZCc+"|$)|\\!+(?!"+n.src_ZCc+"|[!]|$)|\\?(?!"+n.src_ZCc+"|[?]|$))+|\\/)?",n.src_email_name='[\\-;:&=\\+\\$,\\.a-zA-Z0-9_][\\-;:&=\\+\\$,\\"\\.a-zA-Z0-9_]*',n.src_xn="xn--[a-z0-9\\-]{1,59}",n.src_domain_root="(?:"+n.src_xn+"|"+n.src_pseudo_letter+"{1,63})",n.src_domain="(?:"+n.src_xn+"|(?:"+n.src_pseudo_letter+")|(?:"+n.src_pseudo_letter+"(?:-|"+n.src_pseudo_letter+"){0,61}"+n.src_pseudo_letter+"))",n.src_host="(?:(?:(?:(?:"+n.src_domain+")\\.)*"+n.src_domain+"))",n.tpl_host_fuzzy="(?:"+n.src_ip4+"|(?:(?:(?:"+n.src_domain+")\\.)+(?:%TLDS%)))",n.tpl_host_no_ip_fuzzy="(?:(?:(?:"+n.src_domain+")\\.)+(?:%TLDS%))",n.src_host_strict=n.src_host+n.src_host_terminator,n.tpl_host_fuzzy_strict=n.tpl_host_fuzzy+n.src_host_terminator,n.src_host_port_strict=n.src_host+n.src_port+n.src_host_terminator,n.tpl_host_port_fuzzy_strict=n.tpl_host_fuzzy+n.src_port+n.src_host_terminator,n.tpl_host_port_no_ip_fuzzy_strict=n.tpl_host_no_ip_fuzzy+n.src_port+n.src_host_terminator,n.tpl_host_fuzzy_test="localhost|www\\.|\\.\\d{1,3}\\.|(?:\\.(?:%TLDS%)(?:"+n.src_ZPCc+"|>|$))",n.tpl_email_fuzzy="(^|"+i+'|"|\\(|'+n.src_ZCc+")("+n.src_email_name+"@"+n.tpl_host_fuzzy_strict+")",n.tpl_link_fuzzy="(^|(?![.:/\\-_@])(?:[$+<=>^`|｜]|"+n.src_ZPCc+"))((?![$+<=>^`|｜])"+n.tpl_host_port_fuzzy_strict+n.src_path+")",n.tpl_link_no_ip_fuzzy="(^|(?![.:/\\-_@])(?:[$+<=>^`|｜]|"+n.src_ZPCc+"))((?![$+<=>^`|｜])"+n.tpl_host_port_no_ip_fuzzy_strict+n.src_path+")",n}function xe(e){return Array.prototype.slice.call(arguments,1).forEach(function(i){i&&Object.keys(i).forEach(function(t){e[t]=i[t]})}),e}function he(e){return Object.prototype.toString.call(e)}function rl(e){return he(e)==="[object String]"}function cl(e){return he(e)==="[object Object]"}function ul(e){return he(e)==="[object RegExp]"}function en(e){return he(e)==="[object Function]"}function ll(e){return e.replace(/[.?*+^$[\]\\(){}|-]/g,"\\$&")}const An={fuzzyLink:!0,fuzzyEmail:!0,fuzzyIP:!1};function dl(e){return Object.keys(e||{}).reduce(function(n,i){return n||An.hasOwnProperty(i)},!1)}const hl={"http:":{validate:function(e,n,i){const t=e.slice(n);return i.re.http||(i.re.http=new RegExp("^\\/\\/"+i.re.src_auth+i.re.src_host_port_strict+i.re.src_path,"i")),i.re.http.test(t)?t.match(i.re.http)[0].length:0}},"https:":"http:","ftp:":"http:","//":{validate:function(e,n,i){const t=e.slice(n);return i.re.no_http||(i.re.no_http=new RegExp("^"+i.re.src_auth+"(?:localhost|(?:(?:"+i.re.src_domain+")\\.)+"+i.re.src_domain_root+")"+i.re.src_port+i.re.src_host_terminator+i.re.src_path,"i")),i.re.no_http.test(t)?n>=3&&e[n-3]===":"||n>=3&&e[n-3]==="/"?0:t.match(i.re.no_http)[0].length:0}},"mailto:":{validate:function(e,n,i){const t=e.slice(n);return i.re.mailto||(i.re.mailto=new RegExp("^"+i.re.src_email_name+"@"+i.re.src_host_strict,"i")),i.re.mailto.test(t)?t.match(i.re.mailto)[0].length:0}}},ml="a[cdefgilmnoqrstuwxz]|b[abdefghijmnorstvwyz]|c[acdfghiklmnoruvwxyz]|d[ejkmoz]|e[cegrstu]|f[ijkmor]|g[abdefghilmnpqrstuwy]|h[kmnrtu]|i[delmnoqrst]|j[emop]|k[eghimnprwyz]|l[abcikrstuvy]|m[acdeghklmnopqrstuvwxyz]|n[acefgilopruz]|om|p[aefghklmnrstwy]|qa|r[eosuw]|s[abcdeghijklmnortuvxyz]|t[cdfghjklmnortvwz]|u[agksyz]|v[aceginu]|w[fs]|y[et]|z[amw]",pl="biz|com|edu|gov|net|org|pro|web|xxx|aero|asia|coop|info|museum|name|shop|рф".split("|");function bl(e){e.__index__=-1,e.__text_cache__=""}function gl(e){return function(n,i){const t=n.slice(i);return e.test(t)?t.match(e)[0].length:0}}function nn(){return function(e,n){n.normalize(e)}}function re(e){const n=e.re=sl(e.__opts__),i=e.__tlds__.slice();e.onCompile(),e.__tlds_replaced__||i.push(ml),i.push(n.src_xn),n.src_tlds=i.join("|");function t(s){return s.replace("%TLDS%",n.src_tlds)}n.email_fuzzy=RegExp(t(n.tpl_email_fuzzy),"i"),n.link_fuzzy=RegExp(t(n.tpl_link_fuzzy),"i"),n.link_no_ip_fuzzy=RegExp(t(n.tpl_link_no_ip_fuzzy),"i"),n.host_fuzzy_test=RegExp(t(n.tpl_host_fuzzy_test),"i");const a=[];e.__compiled__={};function o(s,c){throw new Error('(LinkifyIt) Invalid schema "'+s+'": '+c)}Object.keys(e.__schemas__).forEach(function(s){const c=e.__schemas__[s];if(c===null)return;const u={validate:null,link:null};if(e.__compiled__[s]=u,cl(c)){ul(c.validate)?u.validate=gl(c.validate):en(c.validate)?u.validate=c.validate:o(s,c),en(c.normalize)?u.normalize=c.normalize:c.normalize?o(s,c):u.normalize=nn();return}if(rl(c)){a.push(s);return}o(s,c)}),a.forEach(function(s){e.__compiled__[e.__schemas__[s]]&&(e.__compiled__[s].validate=e.__compiled__[e.__schemas__[s]].validate,e.__compiled__[s].normalize=e.__compiled__[e.__schemas__[s]].normalize)}),e.__compiled__[""]={validate:null,normalize:nn()};const r=Object.keys(e.__compiled__).filter(function(s){return s.length>0&&e.__compiled__[s]}).map(ll).join("|");e.re.schema_test=RegExp("(^|(?!_)(?:[><｜]|"+n.src_ZPCc+"))("+r+")","i"),e.re.schema_search=RegExp("(^|(?!_)(?:[><｜]|"+n.src_ZPCc+"))("+r+")","ig"),e.re.schema_at_start=RegExp("^"+e.re.schema_search.source,"i"),e.re.pretest=RegExp("("+e.re.schema_test.source+")|("+e.re.host_fuzzy_test.source+")|@","i"),bl(e)}function fl(e,n){const i=e.__index__,t=e.__last_index__,a=e.__text_cache__.slice(i,t);this.schema=e.__schema__.toLowerCase(),this.index=i+n,this.lastIndex=t+n,this.raw=a,this.text=a,this.url=a}function ke(e,n){const i=new fl(e,n);return e.__compiled__[i.schema].normalize(i,e),i}function L(e,n){if(!(this instanceof L))return new L(e,n);n||dl(e)&&(n=e,e={}),this.__opts__=xe({},An,n),this.__index__=-1,this.__last_index__=-1,this.__schema__="",this.__text_cache__="",this.__schemas__=xe({},hl,e),this.__compiled__={},this.__tlds__=pl,this.__tlds_replaced__=!1,this.re={},re(this)}L.prototype.add=function(n,i){return this.__schemas__[n]=i,re(this),this};L.prototype.set=function(n){return this.__opts__=xe(this.__opts__,n),this};L.prototype.test=function(n){if(this.__text_cache__=n,this.__index__=-1,!n.length)return!1;let i,t,a,o,r,s,c,u,l;if(this.re.schema_test.test(n)){for(c=this.re.schema_search,c.lastIndex=0;(i=c.exec(n))!==null;)if(o=this.testSchemaAt(n,i[2],c.lastIndex),o){this.__schema__=i[2],this.__index__=i.index+i[1].length,this.__last_index__=i.index+i[0].length+o;break}}return this.__opts__.fuzzyLink&&this.__compiled__["http:"]&&(u=n.search(this.re.host_fuzzy_test),u>=0&&(this.__index__<0||u<this.__index__)&&(t=n.match(this.__opts__.fuzzyIP?this.re.link_fuzzy:this.re.link_no_ip_fuzzy))!==null&&(r=t.index+t[1].length,(this.__index__<0||r<this.__index__)&&(this.__schema__="",this.__index__=r,this.__last_index__=t.index+t[0].length))),this.__opts__.fuzzyEmail&&this.__compiled__["mailto:"]&&(l=n.indexOf("@"),l>=0&&(a=n.match(this.re.email_fuzzy))!==null&&(r=a.index+a[1].length,s=a.index+a[0].length,(this.__index__<0||r<this.__index__||r===this.__index__&&s>this.__last_index__)&&(this.__schema__="mailto:",this.__index__=r,this.__last_index__=s))),this.__index__>=0};L.prototype.pretest=function(n){return this.re.pretest.test(n)};L.prototype.testSchemaAt=function(n,i,t){return this.__compiled__[i.toLowerCase()]?this.__compiled__[i.toLowerCase()].validate(n,t,this):0};L.prototype.match=function(n){const i=[];let t=0;this.__index__>=0&&this.__text_cache__===n&&(i.push(ke(this,t)),t=this.__last_index__);let a=t?n.slice(t):n;for(;this.test(a);)i.push(ke(this,t)),a=a.slice(this.__last_index__),t+=this.__last_index__;return i.length?i:null};L.prototype.matchAtStart=function(n){if(this.__text_cache__=n,this.__index__=-1,!n.length)return null;const i=this.re.schema_at_start.exec(n);if(!i)return null;const t=this.testSchemaAt(n,i[2],i[0].length);return t?(this.__schema__=i[2],this.__index__=i.index+i[1].length,this.__last_index__=i.index+i[0].length+t,ke(this,0)):null};L.prototype.tlds=function(n,i){return n=Array.isArray(n)?n:[n],i?(this.__tlds__=this.__tlds__.concat(n).sort().filter(function(t,a,o){return t!==o[a-1]}).reverse(),re(this),this):(this.__tlds__=n.slice(),this.__tlds_replaced__=!0,re(this),this)};L.prototype.normalize=function(n){n.schema||(n.url="http://"+n.url),n.schema==="mailto:"&&!/^mailto:/i.test(n.url)&&(n.url="mailto:"+n.url)};L.prototype.onCompile=function(){};const J=2147483647,T=36,Fe=1,Y=26,yl=38,Al=700,qn=72,_n=128,vn="-",ql=/^xn--/,_l=/[^\0-\x7F]/,vl=/[\x2E\u3002\uFF0E\uFF61]/g,Cl={overflow:"Overflow: input needs wider integers to process","not-basic":"Illegal input >= 0x80 (not a basic code point)","invalid-input":"Invalid input"},qe=T-Fe,F=Math.floor,_e=String.fromCharCode;function j(e){throw new RangeError(Cl[e])}function xl(e,n){const i=[];let t=e.length;for(;t--;)i[t]=n(e[t]);return i}function Cn(e,n){const i=e.split("@");let t="";i.length>1&&(t=i[0]+"@",e=i[1]),e=e.replace(vl,".");const a=e.split("."),o=xl(a,n).join(".");return t+o}function xn(e){const n=[];let i=0;const t=e.length;for(;i<t;){const a=e.charCodeAt(i++);if(a>=55296&&a<=56319&&i<t){const o=e.charCodeAt(i++);(o&64512)==56320?n.push(((a&1023)<<10)+(o&1023)+65536):(n.push(a),i--)}else n.push(a)}return n}const kl=e=>String.fromCodePoint(...e),El=function(e){return e>=48&&e<58?26+(e-48):e>=65&&e<91?e-65:e>=97&&e<123?e-97:T},tn=function(e,n){return e+22+75*(e<26)-((n!=0)<<5)},kn=function(e,n,i){let t=0;for(e=i?F(e/Al):e>>1,e+=F(e/n);e>qe*Y>>1;t+=T)e=F(e/qe);return F(t+(qe+1)*e/(e+yl))},En=function(e){const n=[],i=e.length;let t=0,a=_n,o=qn,r=e.lastIndexOf(vn);r<0&&(r=0);for(let s=0;s<r;++s)e.charCodeAt(s)>=128&&j("not-basic"),n.push(e.charCodeAt(s));for(let s=r>0?r+1:0;s<i;){const c=t;for(let l=1,h=T;;h+=T){s>=i&&j("invalid-input");const p=El(e.charCodeAt(s++));p>=T&&j("invalid-input"),p>F((J-t)/l)&&j("overflow"),t+=p*l;const m=h<=o?Fe:h>=o+Y?Y:h-o;if(p<m)break;const d=T-m;l>F(J/d)&&j("overflow"),l*=d}const u=n.length+1;o=kn(t-c,u,c==0),F(t/u)>J-a&&j("overflow"),a+=F(t/u),t%=u,n.splice(t++,0,a)}return String.fromCodePoint(...n)},Sn=function(e){const n=[];e=xn(e);const i=e.length;let t=_n,a=0,o=qn;for(const c of e)c<128&&n.push(_e(c));const r=n.length;let s=r;for(r&&n.push(vn);s<i;){let c=J;for(const l of e)l>=t&&l<c&&(c=l);const u=s+1;c-t>F((J-a)/u)&&j("overflow"),a+=(c-t)*u,t=c;for(const l of e)if(l<t&&++a>J&&j("overflow"),l===t){let h=a;for(let p=T;;p+=T){const m=p<=o?Fe:p>=o+Y?Y:p-o;if(h<m)break;const d=h-m,A=T-m;n.push(_e(tn(m+d%A,0))),h=F(d/A)}n.push(_e(tn(h,0))),o=kn(a,u,s===r),a=0,++s}++a,++t}return n.join("")},Sl=function(e){return Cn(e,function(n){return ql.test(n)?En(n.slice(4).toLowerCase()):n})},zl=function(e){return Cn(e,function(n){return _l.test(n)?"xn--"+Sn(n):n})},zn={version:"2.3.1",ucs2:{decode:xn,encode:kl},decode:En,encode:Sn,toASCII:zl,toUnicode:Sl},Ll={options:{html:!1,xhtmlOut:!1,breaks:!1,langPrefix:"language-",linkify:!1,typographer:!1,quotes:"“”‘’",highlight:null,maxNesting:100},components:{core:{},block:{},inline:{}}},Dl={options:{html:!1,xhtmlOut:!1,breaks:!1,langPrefix:"language-",linkify:!1,typographer:!1,quotes:"“”‘’",highlight:null,maxNesting:20},components:{core:{rules:["normalize","block","inline","text_join"]},block:{rules:["paragraph"]},inline:{rules:["text"],rules2:["balance_pairs","fragments_join"]}}},wl={options:{html:!0,xhtmlOut:!0,breaks:!1,langPrefix:"language-",linkify:!1,typographer:!1,quotes:"“”‘’",highlight:null,maxNesting:20},components:{core:{rules:["normalize","block","inline","text_join"]},block:{rules:["blockquote","code","fence","heading","hr","html_block","lheading","list","reference","paragraph"]},inline:{rules:["autolink","backticks","emphasis","entity","escape","html_inline","image","link","newline","text"],rules2:["balance_pairs","emphasis","fragments_join"]}}},Pl={default:Ll,zero:Dl,commonmark:wl},Tl=/^(vbscript|javascript|file|data):/,Fl=/^data:image\/(gif|png|jpeg|webp);/;function Rl(e){const n=e.trim().toLowerCase();return Tl.test(n)?Fl.test(n):!0}const Ln=["http:","https:","mailto:"];function Ml(e){const n=ze(e,!0);if(n.hostname&&(!n.protocol||Ln.indexOf(n.protocol)>=0))try{n.hostname=zn.toASCII(n.hostname)}catch{}return ee(Se(n))}function Il(e){const n=ze(e,!0);if(n.hostname&&(!n.protocol||Ln.indexOf(n.protocol)>=0))try{n.hostname=zn.toUnicode(n.hostname)}catch{}return U(Se(n),U.defaultChars+"%")}function D(e,n){if(!(this instanceof D))return new D(e,n);n||De(e)||(n=e||{},e="default"),this.inline=new ie,this.block=new de,this.core=new Pe,this.renderer=new K,this.linkify=new L,this.validateLink=Rl,this.normalizeLink=Ml,this.normalizeLinkText=Il,this.utils=Bc,this.helpers=ue({},Gc),this.options={},this.configure(e),n&&this.set(n)}D.prototype.set=function(e){return ue(this.options,e),this};D.prototype.configure=function(e){const n=this;if(De(e)){const i=e;if(e=Pl[i],!e)throw new Error('Wrong `markdown-it` preset "'+i+'", check name')}if(!e)throw new Error("Wrong `markdown-it` preset, can't be empty");return e.options&&n.set(e.options),e.components&&Object.keys(e.components).forEach(function(i){e.components[i].rules&&n[i].ruler.enableOnly(e.components[i].rules),e.components[i].rules2&&n[i].ruler2.enableOnly(e.components[i].rules2)}),this};D.prototype.enable=function(e,n){let i=[];Array.isArray(e)||(e=[e]),["core","block","inline"].forEach(function(a){i=i.concat(this[a].ruler.enable(e,!0))},this),i=i.concat(this.inline.ruler2.enable(e,!0));const t=e.filter(function(a){return i.indexOf(a)<0});if(t.length&&!n)throw new Error("MarkdownIt. Failed to enable unknown rule(s): "+t);return this};D.prototype.disable=function(e,n){let i=[];Array.isArray(e)||(e=[e]),["core","block","inline"].forEach(function(a){i=i.concat(this[a].ruler.disable(e,!0))},this),i=i.concat(this.inline.ruler2.disable(e,!0));const t=e.filter(function(a){return i.indexOf(a)<0});if(t.length&&!n)throw new Error("MarkdownIt. Failed to disable unknown rule(s): "+t);return this};D.prototype.use=function(e){const n=[this].concat(Array.prototype.slice.call(arguments,1));return e.apply(e,n),this};D.prototype.parse=function(e,n){if(typeof e!="string")throw new Error("Input data should be a String");const i=new this.core.State(e,this,n);return this.core.process(i),i.tokens};D.prototype.render=function(e,n){return n=n||{},this.renderer.render(this.parse(e,n),this.options,n)};D.prototype.parseInline=function(e,n){const i=new this.core.State(e,this,n);return i.inlineMode=!0,this.core.process(i),i.tokens};D.prototype.renderInline=function(e,n){return n=n||{},this.renderer.render(this.parseInline(e,n),this.options,n)};const jl=Object.assign({"../content/about/links.md":yi,"../content/about/profile.md":Ai,"../content/de/about/links.md":qi,"../content/de/about/profile.md":_i,"../content/de/education/academic-training.md":vi,"../content/de/education/projects-links.md":Ci,"../content/de/experience/highlights.md":xi,"../content/de/experience/roles.md":ki,"../content/de/source-control/advanced-sql/joins-and-analytics.md":Ei,"../content/de/source-control/advanced-sql/t-sql-and-triggers.md":Si,"../content/de/source-control/applied-statistics/sampling-and-pandas.md":zi,"../content/de/source-control/artificial-intelligence/search-and-optimization.md":Li,"../content/de/source-control/c-plus-plus/cpp-exercises.md":Di,"../content/de/source-control/cloud-computing.md":wi,"../content/de/source-control/cloud-computing/cloud-foundations.md":Pi,"../content/de/source-control/computer-science-fundamentals.md":Ti,"../content/de/source-control/control-systems/control-analysis.md":Fi,"../content/de/source-control/cybersecurity/security-principles.md":Ri,"../content/de/source-control/data-science-ai.md":Mi,"../content/de/source-control/data-science/data-science-notebooks.md":Ii,"../content/de/source-control/data-structures/lists-and-stacks.md":ji,"../content/de/source-control/data-structures/trees-and-search.md":Bi,"../content/de/source-control/databases.md":Qi,"../content/de/source-control/delphi-7/classic-projects.md":Ni,"../content/de/source-control/embedded-operating-systems/esp32-coursework.md":Oi,"../content/de/source-control/embedded-operating-systems/pic-projects.md":Gi,"../content/de/source-control/embedded-systems.md":Wi,"../content/de/source-control/front-end/web-fundamentals.md":Ji,"../content/de/source-control/internet-of-things/iot-labs.md":Ui,"../content/de/source-control/java-backend/spring-backend.md":Hi,"../content/de/source-control/machine-learning/ml-pipeline.md":Ki,"../content/de/source-control/mobile-development/android-kotlin.md":Vi,"../content/de/source-control/mobile-development/react-native-apps.md":Zi,"../content/de/source-control/network-security/network-defense.md":$i,"../content/de/source-control/networks-security.md":Xi,"../content/de/source-control/programming-languages.md":Yi,"../content/de/source-control/python-foundations/basics-and-modules.md":et,"../content/de/source-control/python-foundations/control-flow-and-loops.md":nt,"../content/de/source-control/sql-fundamentals/foundations-and-queries.md":it,"../content/de/source-control/web-mobile.md":tt,"../content/education/academic-training.md":at,"../content/education/projects-links.md":ot,"../content/es/about/links.md":st,"../content/es/about/profile.md":rt,"../content/es/education/academic-training.md":ct,"../content/es/education/projects-links.md":ut,"../content/es/experience/highlights.md":lt,"../content/es/experience/roles.md":dt,"../content/es/source-control/advanced-sql/joins-and-analytics.md":ht,"../content/es/source-control/advanced-sql/t-sql-and-triggers.md":mt,"../content/es/source-control/applied-statistics/sampling-and-pandas.md":pt,"../content/es/source-control/artificial-intelligence/search-and-optimization.md":bt,"../content/es/source-control/c-plus-plus/cpp-exercises.md":gt,"../content/es/source-control/cloud-computing.md":ft,"../content/es/source-control/cloud-computing/cloud-foundations.md":yt,"../content/es/source-control/computer-science-fundamentals.md":At,"../content/es/source-control/control-systems/control-analysis.md":qt,"../content/es/source-control/cybersecurity/security-principles.md":_t,"../content/es/source-control/data-science-ai.md":vt,"../content/es/source-control/data-science/data-science-notebooks.md":Ct,"../content/es/source-control/data-structures/lists-and-stacks.md":xt,"../content/es/source-control/data-structures/trees-and-search.md":kt,"../content/es/source-control/databases.md":Et,"../content/es/source-control/delphi-7/classic-projects.md":St,"../content/es/source-control/embedded-operating-systems/esp32-coursework.md":zt,"../content/es/source-control/embedded-operating-systems/pic-projects.md":Lt,"../content/es/source-control/embedded-systems.md":Dt,"../content/es/source-control/front-end/web-fundamentals.md":wt,"../content/es/source-control/internet-of-things/iot-labs.md":Pt,"../content/es/source-control/java-backend/spring-backend.md":Tt,"../content/es/source-control/machine-learning/ml-pipeline.md":Ft,"../content/es/source-control/mobile-development/android-kotlin.md":Rt,"../content/es/source-control/mobile-development/react-native-apps.md":Mt,"../content/es/source-control/network-security/network-defense.md":It,"../content/es/source-control/networks-security.md":jt,"../content/es/source-control/programming-languages.md":Bt,"../content/es/source-control/python-foundations/basics-and-modules.md":Qt,"../content/es/source-control/python-foundations/control-flow-and-loops.md":Nt,"../content/es/source-control/sql-fundamentals/foundations-and-queries.md":Ot,"../content/es/source-control/web-mobile.md":Gt,"../content/experience/highlights.md":Wt,"../content/experience/roles.md":Jt,"../content/fr/about/links.md":Ut,"../content/fr/about/profile.md":Ht,"../content/fr/education/academic-training.md":Kt,"../content/fr/education/projects-links.md":Vt,"../content/fr/experience/highlights.md":Zt,"../content/fr/experience/roles.md":$t,"../content/fr/source-control/advanced-sql/joins-and-analytics.md":Xt,"../content/fr/source-control/advanced-sql/t-sql-and-triggers.md":Yt,"../content/fr/source-control/applied-statistics/sampling-and-pandas.md":ea,"../content/fr/source-control/artificial-intelligence/search-and-optimization.md":na,"../content/fr/source-control/c-plus-plus/cpp-exercises.md":ia,"../content/fr/source-control/cloud-computing.md":ta,"../content/fr/source-control/cloud-computing/cloud-foundations.md":aa,"../content/fr/source-control/computer-science-fundamentals.md":oa,"../content/fr/source-control/control-systems/control-analysis.md":sa,"../content/fr/source-control/cybersecurity/security-principles.md":ra,"../content/fr/source-control/data-science-ai.md":ca,"../content/fr/source-control/data-science/data-science-notebooks.md":ua,"../content/fr/source-control/data-structures/lists-and-stacks.md":la,"../content/fr/source-control/data-structures/trees-and-search.md":da,"../content/fr/source-control/databases.md":ha,"../content/fr/source-control/delphi-7/classic-projects.md":ma,"../content/fr/source-control/embedded-operating-systems/esp32-coursework.md":pa,"../content/fr/source-control/embedded-operating-systems/pic-projects.md":ba,"../content/fr/source-control/embedded-systems.md":ga,"../content/fr/source-control/front-end/web-fundamentals.md":fa,"../content/fr/source-control/internet-of-things/iot-labs.md":ya,"../content/fr/source-control/java-backend/spring-backend.md":Aa,"../content/fr/source-control/machine-learning/ml-pipeline.md":qa,"../content/fr/source-control/mobile-development/android-kotlin.md":_a,"../content/fr/source-control/mobile-development/react-native-apps.md":va,"../content/fr/source-control/network-security/network-defense.md":Ca,"../content/fr/source-control/networks-security.md":xa,"../content/fr/source-control/programming-languages.md":ka,"../content/fr/source-control/python-foundations/basics-and-modules.md":Ea,"../content/fr/source-control/python-foundations/control-flow-and-loops.md":Sa,"../content/fr/source-control/sql-fundamentals/foundations-and-queries.md":za,"../content/fr/source-control/web-mobile.md":La,"../content/it/about/links.md":Da,"../content/it/about/profile.md":wa,"../content/it/education/academic-training.md":Pa,"../content/it/education/projects-links.md":Ta,"../content/it/experience/highlights.md":Fa,"../content/it/experience/roles.md":Ra,"../content/it/source-control/advanced-sql/joins-and-analytics.md":Ma,"../content/it/source-control/advanced-sql/t-sql-and-triggers.md":Ia,"../content/it/source-control/applied-statistics/sampling-and-pandas.md":ja,"../content/it/source-control/artificial-intelligence/search-and-optimization.md":Ba,"../content/it/source-control/c-plus-plus/cpp-exercises.md":Qa,"../content/it/source-control/cloud-computing.md":Na,"../content/it/source-control/cloud-computing/cloud-foundations.md":Oa,"../content/it/source-control/computer-science-fundamentals.md":Ga,"../content/it/source-control/control-systems/control-analysis.md":Wa,"../content/it/source-control/cybersecurity/security-principles.md":Ja,"../content/it/source-control/data-science-ai.md":Ua,"../content/it/source-control/data-science/data-science-notebooks.md":Ha,"../content/it/source-control/data-structures/lists-and-stacks.md":Ka,"../content/it/source-control/data-structures/trees-and-search.md":Va,"../content/it/source-control/databases.md":Za,"../content/it/source-control/delphi-7/classic-projects.md":$a,"../content/it/source-control/embedded-operating-systems/esp32-coursework.md":Xa,"../content/it/source-control/embedded-operating-systems/pic-projects.md":Ya,"../content/it/source-control/embedded-systems.md":eo,"../content/it/source-control/front-end/web-fundamentals.md":no,"../content/it/source-control/internet-of-things/iot-labs.md":io,"../content/it/source-control/java-backend/spring-backend.md":to,"../content/it/source-control/machine-learning/ml-pipeline.md":ao,"../content/it/source-control/mobile-development/android-kotlin.md":oo,"../content/it/source-control/mobile-development/react-native-apps.md":so,"../content/it/source-control/network-security/network-defense.md":ro,"../content/it/source-control/networks-security.md":co,"../content/it/source-control/programming-languages.md":uo,"../content/it/source-control/python-foundations/basics-and-modules.md":lo,"../content/it/source-control/python-foundations/control-flow-and-loops.md":ho,"../content/it/source-control/sql-fundamentals/foundations-and-queries.md":mo,"../content/it/source-control/web-mobile.md":po,"../content/pl/about/links.md":bo,"../content/pl/about/profile.md":go,"../content/pl/education/academic-training.md":fo,"../content/pl/education/projects-links.md":yo,"../content/pl/experience/highlights.md":Ao,"../content/pl/experience/roles.md":qo,"../content/pl/source-control/advanced-sql/joins-and-analytics.md":_o,"../content/pl/source-control/advanced-sql/t-sql-and-triggers.md":vo,"../content/pl/source-control/applied-statistics/sampling-and-pandas.md":Co,"../content/pl/source-control/artificial-intelligence/search-and-optimization.md":xo,"../content/pl/source-control/c-plus-plus/cpp-exercises.md":ko,"../content/pl/source-control/cloud-computing.md":Eo,"../content/pl/source-control/cloud-computing/cloud-foundations.md":So,"../content/pl/source-control/computer-science-fundamentals.md":zo,"../content/pl/source-control/control-systems/control-analysis.md":Lo,"../content/pl/source-control/cybersecurity/security-principles.md":Do,"../content/pl/source-control/data-science-ai.md":wo,"../content/pl/source-control/data-science/data-science-notebooks.md":Po,"../content/pl/source-control/data-structures/lists-and-stacks.md":To,"../content/pl/source-control/data-structures/trees-and-search.md":Fo,"../content/pl/source-control/databases.md":Ro,"../content/pl/source-control/delphi-7/classic-projects.md":Mo,"../content/pl/source-control/embedded-operating-systems/esp32-coursework.md":Io,"../content/pl/source-control/embedded-operating-systems/pic-projects.md":jo,"../content/pl/source-control/embedded-systems.md":Bo,"../content/pl/source-control/front-end/web-fundamentals.md":Qo,"../content/pl/source-control/internet-of-things/iot-labs.md":No,"../content/pl/source-control/java-backend/spring-backend.md":Oo,"../content/pl/source-control/machine-learning/ml-pipeline.md":Go,"../content/pl/source-control/mobile-development/android-kotlin.md":Wo,"../content/pl/source-control/mobile-development/react-native-apps.md":Jo,"../content/pl/source-control/network-security/network-defense.md":Uo,"../content/pl/source-control/networks-security.md":Ho,"../content/pl/source-control/programming-languages.md":Ko,"../content/pl/source-control/python-foundations/basics-and-modules.md":Vo,"../content/pl/source-control/python-foundations/control-flow-and-loops.md":Zo,"../content/pl/source-control/sql-fundamentals/foundations-and-queries.md":$o,"../content/pl/source-control/web-mobile.md":Xo,"../content/pt-BR/about/links.md":Yo,"../content/pt-BR/about/profile.md":es,"../content/pt-BR/education/academic-training.md":ns,"../content/pt-BR/education/projects-links.md":is,"../content/pt-BR/experience/highlights.md":ts,"../content/pt-BR/experience/roles.md":as,"../content/pt-BR/source-control/advanced-sql/joins-and-analytics.md":os,"../content/pt-BR/source-control/advanced-sql/t-sql-and-triggers.md":ss,"../content/pt-BR/source-control/applied-statistics/sampling-and-pandas.md":rs,"../content/pt-BR/source-control/artificial-intelligence/search-and-optimization.md":cs,"../content/pt-BR/source-control/c-plus-plus/cpp-exercises.md":us,"../content/pt-BR/source-control/cloud-computing.md":ls,"../content/pt-BR/source-control/cloud-computing/cloud-foundations.md":ds,"../content/pt-BR/source-control/computer-science-fundamentals.md":hs,"../content/pt-BR/source-control/control-systems/control-analysis.md":ms,"../content/pt-BR/source-control/cybersecurity/security-principles.md":ps,"../content/pt-BR/source-control/data-science-ai.md":bs,"../content/pt-BR/source-control/data-science/data-science-notebooks.md":gs,"../content/pt-BR/source-control/data-structures/lists-and-stacks.md":fs,"../content/pt-BR/source-control/data-structures/trees-and-search.md":ys,"../content/pt-BR/source-control/databases.md":As,"../content/pt-BR/source-control/delphi-7/classic-projects.md":qs,"../content/pt-BR/source-control/embedded-operating-systems/esp32-coursework.md":_s,"../content/pt-BR/source-control/embedded-operating-systems/pic-projects.md":vs,"../content/pt-BR/source-control/embedded-systems.md":Cs,"../content/pt-BR/source-control/front-end/web-fundamentals.md":xs,"../content/pt-BR/source-control/internet-of-things/iot-labs.md":ks,"../content/pt-BR/source-control/java-backend/spring-backend.md":Es,"../content/pt-BR/source-control/machine-learning/ml-pipeline.md":Ss,"../content/pt-BR/source-control/mobile-development/android-kotlin.md":zs,"../content/pt-BR/source-control/mobile-development/react-native-apps.md":Ls,"../content/pt-BR/source-control/network-security/network-defense.md":Ds,"../content/pt-BR/source-control/networks-security.md":ws,"../content/pt-BR/source-control/programming-languages.md":Ps,"../content/pt-BR/source-control/python-foundations/basics-and-modules.md":Ts,"../content/pt-BR/source-control/python-foundations/control-flow-and-loops.md":Fs,"../content/pt-BR/source-control/sql-fundamentals/foundations-and-queries.md":Rs,"../content/pt-BR/source-control/web-mobile.md":Ms,"../content/source-control/advanced-sql/joins-and-analytics.md":Is,"../content/source-control/advanced-sql/t-sql-and-triggers.md":js,"../content/source-control/applied-statistics/sampling-and-pandas.md":Bs,"../content/source-control/artificial-intelligence/search-and-optimization.md":Qs,"../content/source-control/c-plus-plus/cpp-exercises.md":Ns,"../content/source-control/cloud-computing.md":Os,"../content/source-control/cloud-computing/cloud-foundations.md":Gs,"../content/source-control/computer-science-fundamentals.md":Ws,"../content/source-control/control-systems/control-analysis.md":Js,"../content/source-control/cybersecurity/security-principles.md":Us,"../content/source-control/data-science-ai.md":Hs,"../content/source-control/data-science/data-science-notebooks.md":Ks,"../content/source-control/data-structures/lists-and-stacks.md":Vs,"../content/source-control/data-structures/trees-and-search.md":Zs,"../content/source-control/databases.md":$s,"../content/source-control/delphi-7/classic-projects.md":Xs,"../content/source-control/embedded-operating-systems/esp32-coursework.md":Ys,"../content/source-control/embedded-operating-systems/pic-projects.md":er,"../content/source-control/embedded-systems.md":nr,"../content/source-control/front-end/web-fundamentals.md":ir,"../content/source-control/internet-of-things/iot-labs.md":tr,"../content/source-control/java-backend/spring-backend.md":ar,"../content/source-control/machine-learning/ml-pipeline.md":or,"../content/source-control/mobile-development/android-kotlin.md":sr,"../content/source-control/mobile-development/react-native-apps.md":rr,"../content/source-control/network-security/network-defense.md":cr,"../content/source-control/networks-security.md":ur,"../content/source-control/programming-languages.md":lr,"../content/source-control/python-foundations/basics-and-modules.md":dr,"../content/source-control/python-foundations/control-flow-and-loops.md":hr,"../content/source-control/sql-fundamentals/foundations-and-queries.md":mr,"../content/source-control/web-mobile.md":pr,"../content/zh/about/links.md":br,"../content/zh/about/profile.md":gr,"../content/zh/education/academic-training.md":fr,"../content/zh/education/projects-links.md":yr,"../content/zh/experience/highlights.md":Ar,"../content/zh/experience/roles.md":qr,"../content/zh/source-control/advanced-sql/joins-and-analytics.md":_r,"../content/zh/source-control/advanced-sql/t-sql-and-triggers.md":vr,"../content/zh/source-control/applied-statistics/sampling-and-pandas.md":Cr,"../content/zh/source-control/artificial-intelligence/search-and-optimization.md":xr,"../content/zh/source-control/c-plus-plus/cpp-exercises.md":kr,"../content/zh/source-control/cloud-computing.md":Er,"../content/zh/source-control/cloud-computing/cloud-foundations.md":Sr,"../content/zh/source-control/computer-science-fundamentals.md":zr,"../content/zh/source-control/control-systems/control-analysis.md":Lr,"../content/zh/source-control/cybersecurity/security-principles.md":Dr,"../content/zh/source-control/data-science-ai.md":wr,"../content/zh/source-control/data-science/data-science-notebooks.md":Pr,"../content/zh/source-control/data-structures/lists-and-stacks.md":Tr,"../content/zh/source-control/data-structures/trees-and-search.md":Fr,"../content/zh/source-control/databases.md":Rr,"../content/zh/source-control/delphi-7/classic-projects.md":Mr,"../content/zh/source-control/embedded-operating-systems/esp32-coursework.md":Ir,"../content/zh/source-control/embedded-operating-systems/pic-projects.md":jr,"../content/zh/source-control/embedded-systems.md":Br,"../content/zh/source-control/front-end/web-fundamentals.md":Qr,"../content/zh/source-control/internet-of-things/iot-labs.md":Nr,"../content/zh/source-control/java-backend/spring-backend.md":Or,"../content/zh/source-control/machine-learning/ml-pipeline.md":Gr,"../content/zh/source-control/mobile-development/android-kotlin.md":Wr,"../content/zh/source-control/mobile-development/react-native-apps.md":Jr,"../content/zh/source-control/network-security/network-defense.md":Ur,"../content/zh/source-control/networks-security.md":Hr,"../content/zh/source-control/programming-languages.md":Kr,"../content/zh/source-control/python-foundations/basics-and-modules.md":Vr,"../content/zh/source-control/python-foundations/control-flow-and-loops.md":Zr,"../content/zh/source-control/sql-fundamentals/foundations-and-queries.md":$r,"../content/zh/source-control/web-mobile.md":Xr}),Re=new D({html:!1,linkify:!0,typographer:!0}),Bl=Re.renderer.rules.link_open??((e,n,i,t,a)=>a.renderToken(e,n,i));Re.renderer.rules.link_open=(e,n,i,t,a)=>{const o=e[n].attrIndex("target"),r=e[n].attrIndex("rel");return o<0?e[n].attrPush(["target","_blank"]):e[n].attrs[o][1]="_blank",r<0?e[n].attrPush(["rel","noreferrer noopener"]):e[n].attrs[r][1]="noreferrer noopener",Bl(e,n,i,t,a)};function Ql(e){return e.replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;").replaceAll("'","&#39;")}function Nl(e){return['<pre class="shiki github-dark" tabindex="0">',"<code>",e.split(`
+`).map(t=>`<span class="line">${Ql(t)||" "}</span>`).join(`
+`),"</code>","</pre>"].join("")}function Ol(e,n=ce){const i=Ee[O(e)];if(!i)return null;const t=an(i,n);return{path:e,title:t.title,kind:t.kind,language:t.language,description:t.description}}function Gl(e,n=ce){const i=O(e);return[`../content/${Wn(n)}${i}.md`,`../content${i}.md`]}function Wl(e,n=ce){const i=O(e);return i in Ee?Gl(i,n).map(t=>jl[t]).find(t=>t!==void 0)??null:null}function Jl(e,n,i){return n==="code"?Nl(e):Re.render(e)}function $l(e,n=ce){const i=O(e),t=Ol(i,n),a=Wl(i,n);return!t||a===null?null:{...t,raw:a,html:Jl(a,t.kind,t.language)}}export{mi as S,Kl as X,Vl as _,Wl as a,$l as g,Zl as u};
