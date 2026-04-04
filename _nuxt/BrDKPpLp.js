@@ -1,0 +1,1 @@
+import{c as o}from"./CvEOxtaO.js";const h=o("chevron-down",[["path",{d:"m6 9 6 6 6-6",key:"qrunsl"}]]);const n=o("chevron-right",[["path",{d:"m9 18 6-6-6-6",key:"mthhwq"}]]),t=[{label:"GitHub",href:"https://github.com/hqnicolas/"},{label:"LinkedIn",href:"https://www.linkedin.com/in/hqnicolas/"},{label:"Acoder",href:"https://www.acoder.com.br/"}];export{h as C,n as a,t as s};
